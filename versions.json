@@ -1,0 +1,65 @@
+{
+	"Original":{
+		"Abbreviation": "Original",
+		"Title": "Original Version",
+		"Description": "This is a default placeholder for origional versions of texts and resources",
+		"Language": "",
+		"Date": ""
+	},
+	"GRAIL":{
+		"Abbreviation": "GRAIL",
+		"Title": "Grail Psalms",
+		"Description": "",
+		"Language": "eng",
+		"Date": "2020"
+	},
+	"VUL" :{
+		"Abbreviation": "VUL",
+		"Title": "Vulgata",
+		"Description": "The Latin Vulgate is an early 5th century version of the Bible in Latin.",
+		"Language": "lat-lte",
+		"Date": "405"
+	},
+	"NVUL" :{
+		"Abbreviation": "NVUL",
+		"Title": "Nova Vulgata",
+		"Description": "",
+		"Language": "lat-con",
+		"Date": "1979"
+	},
+	"NIV-2011" : {
+		"Abbreviation": "NIV-2011",
+		"Title": "New International Version (2011)",
+		"Description": "The New International Version (NIV) is a completely original translation of the Bible developed by more than one hundred scholars working from the best available Hebrew, Aramaic, and Greek texts.",
+		"Language": "eng",
+		"Date": "2011"
+	},
+	"PMU-FR":{
+		"Abbreviation": "PMU-FR",
+		"Title": "Psautier Monastique Urbain Français",
+		"Description": "La traduction française du psautier utilisée par Urban Monasticism.",
+		"Language": "fra-sta",
+		"Date": "2020"
+	},
+	"TMU-FR":{
+		"Abbreviation": "TMU-FR",
+		"Title": "Traduction Monastique Urbain Français",
+		"Description": "La traduction française utilisée par Urban Monasticism.",
+		"Language": "fra-sta",
+		"Date": "2020"
+	},
+	"UMP-EN":{
+		"Abbreviation": "UMP-EN",
+		"Title": "Urban Monastic Psalter",
+		"Description": "The english translation of the Psalter used by Urban Monasticism",
+		"Language": "eng",
+		"Date": "2020"
+	},
+	"UMT-EN":{
+		"Abbreviation": "UMT-EN",
+		"Title": "Urban Monastic Translation",
+		"Description": "The english translation used by Urban Monasticism",
+		"Language": "eng",
+		"Date": "2020"
+	}
+}
