@@ -1,0 +1,64 @@
+{
+	"english": {
+		"eng": [
+			"English American",
+			[1980]
+		]
+	},
+	"français":{
+		"fra-sta": [
+			"Standard French",
+			[1900]
+		],
+		"frm": [
+			"Middle French",
+			[1300, 1650]
+		]
+	},
+	"greek": {
+		"grc-koi": [
+			"Koine Greek",
+			[-300, 300]
+		]
+	},
+	"hebrew": {
+		"heb": [
+			"Hebrew",
+			[-1000]
+		],
+		"hbo": [
+			"Ancient Hebrew",
+			[-1000, 70]
+		],
+		"heb-sta": [
+			"Standard Hebrew",
+			[1922]
+		]
+	},
+	"latin": {
+		"lat": [
+			"Latin",
+			[-75]
+		],
+		"lat-cla": [
+			"Classical Latin",
+			[-75, 200]
+		],
+		"lat-lte": [
+			"Late Latin",
+			[200, 500]
+		],
+		"lat-med": [
+			"Medieval Latin",
+			[300, 1400]
+		],
+		"lat-neo": [
+			"Neo-Latin",
+			[1500, 1900]
+		],
+		"lat-con": [
+			"Contemporary Latin",
+			[1900]
+		]
+	}
+}
