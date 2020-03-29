@@ -4,5 +4,9 @@
 	"Description": "From 1 Peter 2:21-24",
 	"FormatAs": "poetry",
 	"Version": "UMP-EN",
-	"Text": ""
+	"Text": "",
+	"Extra": {
+		"LiturgiaeHorarum-Index": 18,
+		"LiturgiaeHorarum-Cantica": "NT"
+	}
 }
