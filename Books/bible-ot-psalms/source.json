@@ -1,0 +1,11 @@
+{
+	"Abbreviation": "bible-ot-psalms",
+	"Title": "the Book of Psalms",
+	"Description": "",
+	"Type": "Book",
+	"Language": "hbo",
+	"Version": "Original",
+	"Chapters": true,
+	"Verses": true,
+	"Notes": "We are using the Hebrew/modern numbering and that latin sources have been adjusted to match."
+}
