@@ -1,0 +1,20 @@
+{
+	"Abbreviation": "mounce-koine-dictionary",
+	"Title": "Mounce's Concise Greek-English Dictionary of Biblical Greek",
+	"Description": "",
+	"Type": "Dictionary",
+	"Language": "grc-koi",
+	"SecondaryLanguage": "eng",
+	"Version": "Original",
+	"Date": "1993",
+	"Collection": "",
+	"Verses": false,
+	"Source": {
+		"DateAccessed": "2019-12-25",
+		"License": "Attribution-NonCommercial",
+		"Attribution": "Mounce Concise Greek-English Dictionary
+Copyright 1993 All Rights Reserved
+www.teknia.com/greek-dictionary",
+		"Link": "https://github.com/billmounce/dictionary"
+	}
+}
