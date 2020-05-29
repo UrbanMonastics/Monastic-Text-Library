@@ -34,6 +34,13 @@
 		"Language": "eng",
 		"Date": "2011"
 	},
+	"OEB":{
+		"Abbreviation": "OEB",
+		"Title": "Open English Bible",
+		"Description": "Committed to creating a completely free modern English translation of the Bible",
+		"Language": "eng",
+		"Date": "2020"
+	},
 	"PMU-FR":{
 		"Abbreviation": "PMU-FR",
 		"Title": "Psautier Monastique Urbain Français",
