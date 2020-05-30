@@ -9,7 +9,7 @@
 	"GRAIL":{
 		"Abbreviation": "GRAIL",
 		"Title": "Grail Psalms",
-		"Description": "",
+		"Description": "Under Copyright and we do not have permission.",
 		"Language": "eng",
 		"Date": "2020"
 	},
@@ -23,14 +23,21 @@
 	"NVUL" :{
 		"Abbreviation": "NVUL",
 		"Title": "Nova Vulgata",
-		"Description": "",
+		"Description": "Under Copyright and we do not have permission.",
 		"Language": "lat-con",
 		"Date": "1979"
+	},
+	"LH" :{
+		"Abbreviation": "LH",
+		"Title": "Liturgia Horarum",
+		"Description": "Liturgia Horarum from Libreria Editrice Vaticana. ",
+		"Language": "lat-con",
+		"Date": "2000"
 	},
 	"NIV-2011" : {
 		"Abbreviation": "NIV-2011",
 		"Title": "New International Version (2011)",
-		"Description": "The New International Version (NIV) is a completely original translation of the Bible developed by more than one hundred scholars working from the best available Hebrew, Aramaic, and Greek texts.",
+		"Description": "The New International Version (NIV) is a completely original translation of the Bible developed by more than one hundred scholars working from the best available Hebrew, Aramaic, and Greek texts.  Under Copyright and we do not have permission.",
 		"Language": "eng",
 		"Date": "2011"
 	},
@@ -40,6 +47,13 @@
 		"Description": "Committed to creating a completely free modern English translation of the Bible",
 		"Language": "eng",
 		"Date": "2020"
+	},
+	"AELF": {
+		"Abbreviation": "AELF",
+		"Title": "Association Épiscopale Liturgique Francophones",
+		"Description": "Association Épiscopale Liturgique pour les pays Francophones. Under Copyright and we do not have permission.",
+		"Language": "fra-sta",
+		"Date": "1980"
 	},
 	"BMU-FR":{
 		"Abbreviation": "BMU-FR",
