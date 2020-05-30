@@ -41,9 +41,9 @@
 		"Language": "eng",
 		"Date": "2020"
 	},
-	"PMU-FR":{
-		"Abbreviation": "PMU-FR",
-		"Title": "Psautier Monastique Urbain Français",
+	"BMU-FR":{
+		"Abbreviation": "BMU-FR",
+		"Title": "Bréviaire Monastique Urbain Français",
 		"Description": "La traduction française du psautier utilisée par Urban Monasticism.",
 		"Language": "fra-sta",
 		"Date": "2020"
@@ -55,9 +55,9 @@
 		"Language": "fra-sta",
 		"Date": "2020"
 	},
-	"UMP-EN":{
-		"Abbreviation": "UMP-EN",
-		"Title": "Urban Monastic Psalter",
+	"UMB-EN":{
+		"Abbreviation": "UMB-EN",
+		"Title": "Urban Monastic Breviary",
 		"Description": "The english translation of the Psalter used by Urban Monasticism",
 		"Language": "eng",
 		"Date": "2020"
