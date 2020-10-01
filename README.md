@@ -121,7 +121,7 @@ Each file should follow the following strucutre.
 		"SourceAbbreviation": "bible-ot-psalms",
 		"Title": "",
 		"FormatAs": "poetry",
-		"Version": "GRAIL"
+		"Version": "UMB-EN"
 	}
 
 
