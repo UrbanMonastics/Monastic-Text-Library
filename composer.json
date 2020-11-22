@@ -1,0 +1,7 @@
+{
+    "name": "urbanmonastics/source-texts",
+    "description": "The Source Texts for the Monastic Platform",
+    "type": "library",
+    "license": "proprietary",
+    "require": {}
+}
