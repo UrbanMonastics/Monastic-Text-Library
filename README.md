@@ -102,6 +102,7 @@ The source file shoud include the following fields:
 
 *	**SourceAbbreviation**: [String|Required] The title or descriptive title in the orgional language. Used to reference the text it is a part of.
 *	**Title**: [String|Optional] If there is a title for this given segment of the text. This can be helpful for chapters or segments of a larger text.
+*	**Chapter**: [String|Optional] If this source is broken into chapters you should include the chapter number here.
 *	**Description**: [String|Optional] Describe this portion of the text, or provide an introduction to the text.
 *	**Source**: [String|Optional] Certian documents may benifit from having the ability to indicate the source of a given portion of text (ex: Antiphons, Canticales, etc).
 *	**FormatAs**: [Set|Required] What type of text is it? This tells us what primary file to look for, and how that file will be formated.  
@@ -120,8 +121,9 @@ Each file should follow the following strucutre.
 	{
 		"SourceAbbreviation": "bible-ot-psalms",
 		"Title": "",
+		"Chapter": "119",
 		"FormatAs": "poetry",
-		"Version": "UMB-EN"
+		"Version": "UMT-EN"
 	}
 
 
@@ -146,14 +148,14 @@ The collections file should include the following fields for each word:
 
 	{
 		"λόγος": {
-		"Simplified":"logos",
-		"PartOfSpeech":"noun",
-		"Definition":"a word, a thing uttered, Mt. 12:32, 37; 1 Cor. 14:19; speech, language, talk, Mt. 22:15; Lk. 20:20; 2 Cor. 10:10; Jas. 3:2; converse, Lk. 24:17; mere talk, wordy show, 1 Cor. 4:19, 20; Col. 2:23; 1 Jn. 3:18; language, mode of discourse, style of speaking, Mt. 5:37; 1 Cor. 1:17; 1 Thess. 2:5; a saying, a speech, Mk. 7:29; Eph. 4:29; an expression, form of words, formula, Mt. 26:44; Rom. 13:9; Gal. 5:14; a saying, a thing propounded in discourse, Mt. 7:24; 19:11; Jn. 4:37; 6:60; 1 Tim. 1:15; a message, announcement, 2 Cor. 5:19; a prophetic announcement, Jn. 12:38; an account, statement, 1 Pet. 3:15; a story, report, Mt. 28:15; Jn. 4:39; 21:23; 2 Thess. 2:2; a written narrative, a treatise, Acts 1:1; a set discourse, Acts 20:7; doctrine, Jn. 8:31, 37; 2 Tim. 2:17; subject-matter, Acts 15:6; reckoning, account, Mt. 12:36; 18:23; 25:19; Lk. 16:2; Acts 19:40; 20:24; Rom. 9:28; Phil. 4:15, 17; Heb. 4:13; a plea, Mt. 5:32; Acts 19:38; a motive, Acts 10:29; reason, Acts 18:14; ὁ λόγος, the word of God, especially in the Gospel, Mt. 13:21, 22; Mk. 16:20; Lk. 1:2; Acts 6:4; ὁ λόγος, the divine WORD, or Logos, Jn. 1:1 </def>→ message; report; word.",
-		"Meta":{
-			"Strongs": 3056,
-			"GK": 3364,
-			"Instances": 330
-			}
+			"Simplified":"logos",
+			"PartOfSpeech":"noun",
+			"Definition":"a word, a thing uttered, Mt. 12:32, 37; 1 Cor. 14:19; speech, language, talk, Mt. 22:15; Lk. 20:20; 2 Cor. 10:10; Jas. 3:2; converse, Lk. 24:17; mere talk, wordy show, 1 Cor. 4:19, 20; Col. 2:23; 1 Jn. 3:18; language, mode of discourse, style of speaking, Mt. 5:37; 1 Cor. 1:17; 1 Thess. 2:5; a saying, a speech, Mk. 7:29; Eph. 4:29; an expression, form of words, formula, Mt. 26:44; Rom. 13:9; Gal. 5:14; a saying, a thing propounded in discourse, Mt. 7:24; 19:11; Jn. 4:37; 6:60; 1 Tim. 1:15; a message, announcement, 2 Cor. 5:19; a prophetic announcement, Jn. 12:38; an account, statement, 1 Pet. 3:15; a story, report, Mt. 28:15; Jn. 4:39; 21:23; 2 Thess. 2:2; a written narrative, a treatise, Acts 1:1; a set discourse, Acts 20:7; doctrine, Jn. 8:31, 37; 2 Tim. 2:17; subject-matter, Acts 15:6; reckoning, account, Mt. 12:36; 18:23; 25:19; Lk. 16:2; Acts 19:40; 20:24; Rom. 9:28; Phil. 4:15, 17; Heb. 4:13; a plea, Mt. 5:32; Acts 19:38; a motive, Acts 10:29; reason, Acts 18:14; ὁ λόγος, the word of God, especially in the Gospel, Mt. 13:21, 22; Mk. 16:20; Lk. 1:2; Acts 6:4; ὁ λόγος, the divine WORD, or Logos, Jn. 1:1 </def>→ message; report; word.",
+			"Meta":{
+				"Strongs": 3056,
+				"GK": 3364,
+				"Instances": 330
+				}
 		},
 		"NextWord"...
 	}
@@ -167,6 +169,7 @@ The versions file should include the following fields for each entry. The entry 
 *	**Abbreviation**: [String|Required] The title or descriptive title in the orgional language. Used to reference and group the version together. If this is a follow on version you should include the year of this current version.
 *	**Title**: [String|Required] The name of the text. 
 *	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
+*	**License**: [HTML|Optional] The License or Copyright that should accompany the display of this text.
 *	**Language**: [String|Required] The language being used. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined.
 *	**Date**: [Date|Optional] Date for this verion of the text
 

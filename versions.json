@@ -3,6 +3,7 @@
 		"Abbreviation": "Original",
 		"Title": "Original Version",
 		"Description": "This is a default placeholder for origional versions of texts and resources",
+		"License": "",
 		"Language": "",
 		"Date": ""
 	},
@@ -10,6 +11,7 @@
 		"Abbreviation": "GRAIL",
 		"Title": "Grail Psalms",
 		"Description": "Under Copyright and we do not have permission.",
+		"License": "",
 		"Language": "eng",
 		"Date": "2020"
 	},
@@ -17,6 +19,7 @@
 		"Abbreviation": "VUL",
 		"Title": "Vulgata",
 		"Description": "The Latin Vulgate is an early 5th century version of the Bible in Latin.",
+		"License": "",
 		"Language": "lat-lte",
 		"Date": "405"
 	},
@@ -24,6 +27,7 @@
 		"Abbreviation": "NVUL",
 		"Title": "Nova Vulgata",
 		"Description": "Under Copyright and we do not have permission.",
+		"License": "",
 		"Language": "lat-con",
 		"Date": "1979"
 	},
@@ -31,6 +35,7 @@
 		"Abbreviation": "LH",
 		"Title": "Liturgia Horarum",
 		"Description": "Liturgia Horarum from Libreria Editrice Vaticana. ",
+		"License": "",
 		"Language": "lat-con",
 		"Date": "2000"
 	},
@@ -38,6 +43,7 @@
 		"Abbreviation": "NIV-2011",
 		"Title": "New International Version (2011)",
 		"Description": "The New International Version (NIV) is a completely original translation of the Bible developed by more than one hundred scholars working from the best available Hebrew, Aramaic, and Greek texts.  Under Copyright and we do not have permission.",
+		"License": "",
 		"Language": "eng",
 		"Date": "2011"
 	},
@@ -45,6 +51,7 @@
 		"Abbreviation": "OEB",
 		"Title": "Open English Bible",
 		"Description": "Committed to creating a completely free modern English translation of the Bible",
+		"License": "",
 		"Language": "eng",
 		"Date": "2020"
 	},
@@ -52,6 +59,7 @@
 		"Abbreviation": "AELF",
 		"Title": "Association Épiscopale Liturgique Francophones",
 		"Description": "Association Épiscopale Liturgique pour les pays Francophones. Under Copyright and we do not have permission.",
+		"License": "",
 		"Language": "fra-sta",
 		"Date": "1980"
 	},
@@ -59,6 +67,7 @@
 		"Abbreviation": "BMU-FR",
 		"Title": "Bréviaire Monastique Urbain Français",
 		"Description": "La traduction française du psautier utilisée par Urban Monasticism.",
+		"License": "",
 		"Language": "fra-sta",
 		"Date": "2020"
 	},
@@ -66,6 +75,7 @@
 		"Abbreviation": "TMU-FR",
 		"Title": "Traduction Monastique Urbain Français",
 		"Description": "La traduction française utilisée par Urban Monasticism.",
+		"License": "",
 		"Language": "fra-sta",
 		"Date": "2020"
 	},
@@ -73,6 +83,7 @@
 		"Abbreviation": "UMB-EN",
 		"Title": "Urban Monastic Breviary",
 		"Description": "The english translation of the Psalter used by Urban Monasticism",
+		"License": "",
 		"Language": "eng",
 		"Date": "2020"
 	},
@@ -80,7 +91,16 @@
 		"Abbreviation": "UMT-EN",
 		"Title": "Urban Monastic Translation",
 		"Description": "The english translation used by Urban Monasticism",
+		"License": "",
 		"Language": "eng",
 		"Date": "2020"
+	},
+	"SBLGNT":{
+		"Abbreviation": "SBLGNT",
+		"Title": "Society of Biblical Literature Greek New Testament",
+		"Description": "The english translation used by Urban Monasticism",
+		"License": "Copyright 2010 by the <a href=\"http://sbl-site.org/\">Society of Biblical Literature</a> and <a href=\"http://www.logos.com/\">Logos Bible Software</a>.",
+		"Language": "grc-koi",
+		"Date": "2010"
 	}
 }
