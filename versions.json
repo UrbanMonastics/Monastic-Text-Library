@@ -7,14 +7,6 @@
 		"Language": "",
 		"Date": ""
 	},
-	"GRAIL":{
-		"Abbreviation": "GRAIL",
-		"Title": "Grail Psalms",
-		"Description": "Under Copyright and we do not have permission.",
-		"License": "",
-		"Language": "eng",
-		"Date": "2020"
-	},
 	"VUL" :{
 		"Abbreviation": "VUL",
 		"Title": "Vulgata",
@@ -38,14 +30,6 @@
 		"License": "",
 		"Language": "lat-con",
 		"Date": "2000"
-	},
-	"NIV-2011" : {
-		"Abbreviation": "NIV-2011",
-		"Title": "New International Version (2011)",
-		"Description": "The New International Version (NIV) is a completely original translation of the Bible developed by more than one hundred scholars working from the best available Hebrew, Aramaic, and Greek texts.  Under Copyright and we do not have permission.",
-		"License": "",
-		"Language": "eng",
-		"Date": "2011"
 	},
 	"OEB":{
 		"Abbreviation": "OEB",
