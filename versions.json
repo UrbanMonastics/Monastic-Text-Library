@@ -91,8 +91,7 @@
 		"Abbreviation": "LXX-Sinaiticus",
 		"Title": "Codex Sinaiticus (Septuigent and New Testament)",
 		"Description": "A transcribed copy of the the Coex Sinaiticus which is one of the oldest and most intact versions of the greek bible.",
-		"License": "Codex Sinaiticus by <a href=\"http://www.codexsinaiticus.org/\">The Codex Sinaiticus Project</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
-Based on a work at.",
+		"License": "Codex Sinaiticus by <a href=\"http://www.codexsinaiticus.org/\">The Codex Sinaiticus Project</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.",
 		"Language": "grc-koi",
 		"Date": "~450",
 		"Notes": "The current texts were imported the version 1.04 (25.3.2014) in March 2021."
