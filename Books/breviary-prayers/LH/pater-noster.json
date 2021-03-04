@@ -1,7 +1,7 @@
 {
 	"SourceAbbreviation": "pater-noster",
-	"FormatAs": "book",
+	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Pater noster, qui es in c\u00E6lis:\r\nsanctific\u00E9tur nomen tuum;\r\nadv\u00E9niat regnum tuum;\r\nfiat vol\u00FAntas tua, sicut in c\u00E6lo et in terra.\r\nPanem nostrum cotidi\u00E1num da nobis h\u00F3die;\r\net dim\u00EDtte nobis d\u00E9bita nostra,\r\nsicut et nos dim\u00EDttimus debit\u00F3ribus nostris;\r\net ne nos ind\u00FAcas in tentati\u00F3nem;\r\nsed l\u00EDbera nos a malo.\r\nAmen.",
+	"Text": "Pater noster, qui es in cælis:\r\n\tsanctificétur nomen tuum;\r\nadvéniat regnum tuum;\r\n\tfiat volúntas tua,\r\n\tsicut in cælo et in terra.\r\n\r\nPanem nostrum cotidiánum da nobis hódie;\r\net dimítte nobis débita nostra,\r\n\tsicut et nos dimíttimus debitóribus nostris;\r\net ne nos indúcas in tentatiónem;\r\n\tsed líbera nos a malo.\r\nAmen.",
 	"Description": "The Lords Prayer."
 }
