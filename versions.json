@@ -82,9 +82,19 @@
 	"SBLGNT":{
 		"Abbreviation": "SBLGNT",
 		"Title": "Society of Biblical Literature Greek New Testament",
-		"Description": "The english translation used by Urban Monasticism",
+		"Description": "This is a greek new testament which is made available to us to use by the Society of Biblical Literature.",
 		"License": "Copyright 2010 by the <a href=\"http://sbl-site.org/\">Society of Biblical Literature</a> and <a href=\"http://www.logos.com/\">Logos Bible Software</a>.",
 		"Language": "grc-koi",
 		"Date": "2010"
+	},
+	"CODEX-SINAITICUS":{
+		"Abbreviation": "LXX-Sinaiticus",
+		"Title": "Codex Sinaiticus (Septuigent and New Testament)",
+		"Description": "A transcribed copy of the the Coex Sinaiticus which is one of the oldest and most intact versions of the greek bible.",
+		"License": "Codex Sinaiticus by <a href=\"http://www.codexsinaiticus.org/\">The Codex Sinaiticus Project</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+Based on a work at.",
+		"Language": "grc-koi",
+		"Date": "~450",
+		"Notes": "The current texts were imported the version 1.04 (25.3.2014) in March 2021."
 	}
 }
