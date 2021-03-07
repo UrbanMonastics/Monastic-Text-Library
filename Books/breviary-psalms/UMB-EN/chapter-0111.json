@@ -1,0 +1,13 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "",
+	"Chapter": "111",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"verses": {
+		"1": "Another place holder for Psalm 111"
+	},
+	"Changes": [
+		"2021-03-07 - Paul Prins: First translation of psalm 111 based on Greek, Latin, and some Hebrew"
+	],
+}

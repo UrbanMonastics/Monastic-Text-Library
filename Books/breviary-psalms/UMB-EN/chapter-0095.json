@@ -1,0 +1,13 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "",
+	"Chapter": "95",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"verses": {
+		"1": "This is to hold the place for psalm 95"
+	},
+	"Changes": [
+		"2021-03-07 - Paul Prins: First translation of psalm 111 based on Greek, Latin, and some Hebrew"
+	],
+}
