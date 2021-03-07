@@ -4,9 +4,7 @@
 	"Chapter": "110",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
-	"verses": {
-		"1": "Psalm 110 Placeholder"
-	},
+	"Text": "The Lord has said to my lord:[*]\r\n\t\"Sit at my right hand while I make your enemies your footstool.\"\r\nFrom Zion the Lord will give you a sceptre,[*]\r\n\tand you will rule in the midst of your foes.\r\n\r\nRoyal power is yours in the day of your strength,[*]\r\n\tamong the sacred splendours. Before the dawn, I begot you from the womb.\r\nThe Lord has sworn, and he will not repent:[*]\r\n\t\"You are a priest for ever,  a priest of the priesthood of Melchisedech.\"\r\n\r\nThe Lord is at your right hand,[*]\r\n\tand on the day of his anger he will shatter kings.\r\nHe will drink from the stream as he goes [*]\r\n\the will hold his head high.",
 	"Changes": [
 		"2021-03-07 - Paul Prins: First translation of psalm 111 based on Greek, Latin, and some Hebrew"
 	]
