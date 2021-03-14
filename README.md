@@ -270,8 +270,8 @@ There are different styling needs of the text which we need to support. The base
 *	[+]		This will insert the symbol to prompt the reader to cross themselves (Used in Breviary and Liturgy)
 *	[*]		This is the (Used in Breviary and Liturgy)
 *	[p]		Pause symbol (Used in Breviary and Liturgy)
-*	[L]		Denotes the leader speaking. (Used in Breviary and Liturgy)
 *	[R]		Denotes the Responsory text. (Used in Breviary and Liturgy)
+*	[V]		Denotes the Versicle and the leader speaking. Rendered as ℣ in non HTML [U+2123 or `&#8483;`]. (Used in Breviary and Liturgy)
 *	[red]red text[/red]		Make the encased text red.
 *	Lists
 	*	1.		Ordered lists should list every item with `1.` to ensure that the numbering is always correct. It will be transformed into an ordered lists and displayed correctly to users counting from 1.
