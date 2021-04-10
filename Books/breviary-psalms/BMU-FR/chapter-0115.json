@@ -1,0 +1,31 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Louange au vrai Dieu",
+	"Description": "",
+	"Chapter": "115",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Verses": {
+		"1": "Non pas à nous, Seigneur, non pas à nous, [t]\r\n\tmais à ton nom, donne la gloire, [*]\r\n\tà cause de ta miséricorde et de ta vérité.\r\n\r\n",
+		"2": "Pourquoi les nations diraient-elles: [*]\r\n\t«Où est leur Dieu?»\r\n\r\n",
+		"3": "Mais notre Dieu est au ciel, [*]\r\n\tet il fait tout ce qu'il veut.\r\n",
+		"4": "Leur idoles: argent et or, [*]\r\n\tle travail de mains humaines.\r\n\r\n",
+		"5": "Elles ont des bouche mais ne parlent pas, [*]\r\n\tdes yeux mais ne voient pas,\r\n",
+		"6": "des oreilles mais n'entendent pas, [*]\r\n\tdes nez mais ne sentent pas.\r\n\r\n",
+		"7": "Elles ont des main mais ne peuvent toucher, [t]\r\n\tdes pieds mais ne peuvent marcher, [*]\r\n\tet seul le silence vient à leurs gorges.\r\n",
+		"8": "Les artisans qui créent leurs idoles deviendront comme eux, [*]\r\n\tavec tous ceux dont la foi est en eux.\r\n\r\n",
+		"9": "Peuple d'Israël, mets ta foi dans le Seigneur, [*]\r\n\tle secours et le bouclier est lui.\r\n",
+		"10": "Famille d'Aaron, mets ta foi dans le Seigneur, [*]\r\n\tle secours et le bouclier est lui.\r\n",
+		"11": "Tous qui craignez lui, mets ta foi dans le Seigneur, [*]\r\n\tle secours et le bouclier est lui.\r\n\r\n",
+		"12": "Le Seigneur souvient nous [*]\r\n\test il bénira nous;\r\nil bénira le Peuple d'Israël, [*]\r\n\til bénira la famille d'Aaron.\r\n",
+		"13": "Il bénira leurs qui craignez le Seigneur, [*]\r\n\tdu petites au grands.\r\n\r\n",
+		"14": "Que le Seigneur multiplie tes bénédictions, [*]\r\n\tpour vous et tous vos enfants.\r\n",
+		"15": "Puissiez-vous être béni par le Seigneur, [*]\r\n\tqui a fait le ciel et la terre.\r\n",
+		"16": "Les cieux sont les cieux du Seigneur, [*]\r\n\tmais il a donné la terre à tous les enfants.\r\n\r\n",
+		"17": "Les morts ne louent pas les Seigneur, [*]\r\n\tni aucun de ceux qui descendent dans le silence.\r\n",
+		"18": "Mais nous, nous bénirons le Seigneur, [*]\r\n\tdans ce moment et pour toujours."
+	},
+	"Changes": [
+		"2021-03-07 - Paul Prins: First translation of psalm 115 based on Greek, Latin, and some Hebrew"
+	]
+}

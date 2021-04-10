@@ -1,0 +1,30 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Laus Veri Dei",
+	"Chapter": "115",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Non nobis, Dómine, non nobis, [t]\r\n\tsed nómini tou da glóriam [*]\r\n\tsuper misericórdia tua et veritáte tua.\r\n\r\n",
+		"2": "Quare dicent gentes: [*]\r\n\t\"Uni est Deus eórum?\"\r\n\r\n",
+		"3": "Deus autem noster in cælo, [*]\r\n\tómnia quæcúmque vóluit, fecit.\r\n\r\n",
+		"4": "Simulácra géntium argéntum et aurum, [*]\r\n\tópera mánuum hóminum.\r\n",
+		"5": "Os habent et non loquéentur, [*]\r\n\tóculos habent et non vidébunt.\r\n",
+		"6": "Aures habent et non áudient, [*]\r\n\tnares habent et non odorábunt.\r\n",
+		"7": "Manus habent et non palpábunt, [t]\r\n\tpedes habent et non ambulábunt; [*]\r\n\tnon clamábunt in gútture suo.\r\n",
+		"8": "Símiles illis erunt, qui fáciunt ea, [*]\r\n\tet omnes qui confidunt in eis.\r\n\r\n",
+		"9": "Domus Israel sperávit in Dómino: [*]\r\n\tadiutórium eórium et scutum eórum est.\r\n",
+		"10": "Domus Aaron sperávit in Dómino: [*]\r\n\tadiutórium eórium et scutum eórum est.\r\n",
+		"11": "Qui timent Dóminum, speravérunt in Dómino: [*]\r\n\tadiutórium eórium et scutum eórum est.\r\n\r\n",
+		"12": "Dóminus memor fuit nostri [*]\r\n\tet benedícet nobis:\r\nbenedícet dómui Israel, [*]\r\n\tbenedícet dómui Aaron,\r\n",
+		"13": "benedícet ómnibus, qui timent Dóminum, [*]\r\n\tpusíllis cum maióribus.\r\n\r\n",
+		"14": "Adíciat Dóminus super vos, [*]\r\n\tsuper vos et super fílios vestros.\r\n",
+		"15": "Benedícti vos a Dómino, [*]\r\n\tqui fecit cælum et terram.\r\n\r\n",
+		"16": "Cæli, cæli, sunt Dómino, [*]\r\n\tterram autem dedit fíliis hóminum.\r\n",
+		"17": "Non mórtui laudábunt te, Dómine, [*]\r\n\tneque omnes qui descéndunt in siléntium,\r\n",
+		"18": "sed nos qui vívimus, benedícimuns Dómino [*]\r\n\tex hoc nunc et usque in sæculum."
+	},
+	"Changes": [
+		"2021-04-09 - Paul Prins: Added this Text"
+	]
+}
