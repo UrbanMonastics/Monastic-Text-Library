@@ -9,12 +9,13 @@
 		"1": "Dixit Dóminus Dómino meo: [*]\r\n\t\"Sede a dextris meis,\r\ndonec ponam inimícos tuos [*]\r\n\tscabéllum pedum tuórum.\"\r\n\r\n",
 		"2": "Virgam poténtiæ tuæ emíttet Dóminus ex Sion: [*]\r\n\tdomináre in médio inimicórum tuórum.\r\n\r\n",
 		"3": "Tecum principátus in die virtútis tuæ,[t]\r\n\tin splendóribus sanctis,[*]\r\n\tex útero ante lucíferum génui te.\r\n\r\n",
-		"4": "Iurávit Dóminus et non pænitébit eum: [*]\r\n\t\"Ty es sacérdos in ætérnum secúndum órdinem Melchísedech\".",
+		"4": "Iurávit Dóminus et non pænitébit eum: [*]\r\n\t\"Tu es sacérdos in ætérnum secúndum órdinem Melchísedech\".\r\n\r\n",
 		"5": "Dóminus a dextris tuis, [*]\r\n\tconquassábit in die iræ suæ reges.\r\n\r\n",
-		"6": "[red][[/red]Iudicábit in natónibus: cumulántur cadávera, [*]\r\n\tconquassábit cápita in terra spatiósa.[red]][/red]",
+		"6": "[red][[/red]Iudicábit in natiónibus: cumulántur cadávera, [*]\r\n\tconquassábit cápita in terra spatiósa.[red]][/red]\r\n\r\n",
 		"7": "De torrénte in via bibet, [*]\r\n\tproptérea exaltábit caput."
 	},
 	"Changes": [
+		"2021-04-10 - Paul Prins: Fix some typos in the text.",
 		"2021-04-07 - Paul Prins: Added this text"
 	]
 }
