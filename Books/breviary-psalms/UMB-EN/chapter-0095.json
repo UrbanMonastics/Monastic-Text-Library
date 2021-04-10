@@ -4,7 +4,9 @@
 	"Chapter": "95",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
-	"Text": "This is to hold the place for psalm 95",
+	"Verses": {
+		"1": ""
+	},
 	"Changes": [
 		"2021-03-07 - Paul Prins: First translation of psalm 95 based on Greek, Latin, and some Hebrew"
 	]
