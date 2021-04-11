@@ -1,0 +1,20 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Israel ex Ægypto liberatur",
+	"Chapter": "114",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "In exitu Israel de Ægypto, [*]\r\n\tdomus Iacobe pópulo bárbaro,\r\n",
+		"2": "factus est Iuda sanctuárium eius, [*]\r\n\tIsrael potéstas eius.\r\n\r\n",
+		"3": "Mare vidit et fugit, [*]\r\n\tIordánis convérsus est retrórsum ;\r\n",
+		"4": "montes saltavérunt ut aríetes, [*]\r\n\tet colles sicut agni óvium.\r\n\r\n",
+		"5": "Quid est tibi, mare, quod fugísti? [*]\r\n\tEt tu, Iordánis, quia convérsus es retrórsum?\r\n",
+		"6": "Montes, quod saltástis sicut aríetes, [*]\r\n\tet colles, sicut agni óvium.\r\n\r\n",
+		"7": "A fácie Dómini contremísce, terra, [*]\r\n\ta fácie Dei Iacob,\r\n",
+		"8": "qui convértit petram in stagna aquárum [*]\r\n\tet sílicem in fontes aquárum."
+	},
+	"Changes": [
+		"2021-04-10 - Paul Prins: Added this Text"
+	]
+}

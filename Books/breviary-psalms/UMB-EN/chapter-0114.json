@@ -1,0 +1,21 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Israel is Freed from Egypt",
+	"Description": "",
+	"Chapter": "114",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Verses": {
+		"1": "When Israel came out of Egypt, [*]\r\n\tJacobs children from a foreign people,\r\n",
+		"2": "Judah became Gods sanctuary, [*]\r\n\tand Israel became his dominion.\r\n\r\n",
+		"3": "The sea flees at their sight, [*]\r\n\tthe Jordan turns back to its source.\r\n",
+		"4": "The mountains leap like rams, [*]\r\n\tand the hills like lambs.\r\n\r\n",
+		"5": "Why was it, sea, that you fled, [*]\r\n\tJordan, that you returned to your source,\r\n",
+		"6": "the mountains, that you leaped like rams, [*]\r\n\tand the hills like lambs?\r\n\r\n",
+		"7": "Tremble, earth, before the Lord, [*]\r\n\tbefore the God of Jacob.\r\n",
+		"8": "He who turned rock into pools of water, [*]\r\n\tand flint into a springs of water."
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: First translation of psalm 114 based on Greek, Latin, and some Hebrew."
+	]
+}

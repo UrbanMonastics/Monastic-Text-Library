@@ -1,0 +1,21 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Israël est Libéré de l'Egypte",
+	"Description": "",
+	"Chapter": "114",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Verses": {
+		"1": "Quand Israël est sorti d'Egypte, [*]\r\n\tles enfants de Jacob d'un peuple étranger,\r\n",
+		"2": "Juda devint le sanctuaire de Dieu, [*]\r\n\tIsraël devint son domaine.\r\n\r\n",
+		"3": "La mer s'enfuit à leur vue, [*]\r\n\tle Jourdain revient sur lui-même,\r\n",
+		"4": "les montagnes bondissaient, comme des béliers, [*]\r\n\tet les collines, comme des agneaux.\r\n\r\n",
+		"5": "Pourquoi as-tu, mer, êtes enfui, [*]\r\n\tJourdain, as-tu êtes retourné sur lui-même,\r\n",
+		"6": "les montagnes aient bondi comme des béliers, [*]\r\n\tet les collines comme des agneaux?\r\n\r\n",
+		"7": "Tremble, terre, devant le Seigneur, [*]\r\n\tdevant le Dieu de Jacob.\r\n",
+		"8": "Lui qui a changé le rocher en bassin d'eau, [*]\r\n\tet silex dans une source d'eau."
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: First translation of psalm 114 based on Greek, Latin, and some Hebrew."
+	]
+}
