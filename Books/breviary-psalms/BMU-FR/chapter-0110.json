@@ -5,6 +5,10 @@
 	"Chapter": "110",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Le Seigneur dit à mon maître: [*]\r\n\t«Assieds-toi à ma droite,\r\net je ferai de tes ennemis [*]\r\n\tdans un marchepied pour tes pieds.»\r\n\r\n",
 		"2": "De Sion, le Seigneur étendra la portée de ton sceptre avec sa force et en disant: [*]\r\n\t«Règne au milieu de tes ennemis.»\r\n\r\n",

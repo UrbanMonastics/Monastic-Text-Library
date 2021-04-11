@@ -5,6 +5,10 @@
 	"Chapter": "115",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Non pas à nous, Seigneur, non pas à nous, [t]\r\n\tmais à ton nom, donne la gloire, [*]\r\n\tà cause de ta miséricorde et de ta vérité.\r\n\r\n",
 		"2": "Pourquoi les nations diraient-elles: [*]\r\n\t«Où est leur Dieu?»\r\n\r\n",

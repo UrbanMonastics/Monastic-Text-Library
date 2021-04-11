@@ -5,6 +5,10 @@
 	"Chapter": "114",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Quand Israël est sorti d'Egypte, [*]\r\n\tles enfants de Jacob d'un peuple étranger,\r\n",
 		"2": "Juda devint le sanctuaire de Dieu, [*]\r\n\tIsraël devint son domaine.\r\n\r\n",

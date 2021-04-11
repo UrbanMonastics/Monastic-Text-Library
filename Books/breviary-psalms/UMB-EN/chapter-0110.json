@@ -5,6 +5,10 @@
 	"Chapter": "110",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "The Lord says to my master: [*]\r\n\t\"Sit at my right hand,\r\nand I will make your enemies [*]\r\n\tinto a footstool for your feet.\"\r\n\r\n",
 		"2": "From Zion, the Lord will extend your mighty scepters reach, saying, [*]\r\n\t\"Rule in the midst of your enemies.\"\r\n\r\n",

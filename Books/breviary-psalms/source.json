@@ -7,6 +7,7 @@
 	"Version": "Original",
 	"Date": "",
 	"Chapters": true,
+	"ChapterTitles": true,
 	"Verses": true,
 	"Notes": "This is a collection of all the psalms used during the divine office."
 }

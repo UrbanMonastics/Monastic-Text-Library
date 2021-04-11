@@ -5,6 +5,10 @@
 	"Chapter": "114",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "When Israel came out of Egypt, [*]\r\n\tJacobs children from a foreign people,\r\n",
 		"2": "Judah became Gods sanctuary, [*]\r\n\tand Israel became his dominion.\r\n\r\n",

@@ -5,6 +5,10 @@
 	"Chapter": "115",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Not to us, Lord, not to us, [t]\r\n\tbut to your name, give the glory, [*]\r\n\tbecause of your mercy, and your truth.\r\n\r\n",
 		"2": "Why do the nations say, [*]\r\n\t\"Where is their God?\"\r\n\r\n",
