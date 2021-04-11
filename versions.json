@@ -88,12 +88,21 @@
 		"Date": "2010"
 	},
 	"CODEX-SINAITICUS":{
-		"Abbreviation": "LXX-Sinaiticus",
+		"Abbreviation": "CODEX-SINAITICUS",
 		"Title": "Codex Sinaiticus (Septuigent and New Testament)",
 		"Description": "A transcribed copy of the the Coex Sinaiticus which is one of the oldest and most intact versions of the greek bible.",
 		"License": "Codex Sinaiticus by <a href=\"http://www.codexsinaiticus.org/\">The Codex Sinaiticus Project</a> is licensed under a <a href=\"http://creativecommons.org/licenses/by-nc-sa/3.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.",
 		"Language": "grc-koi",
 		"Date": "~450",
-		"Notes": "The current texts were imported the version 1.04 (25.3.2014) in March 2021."
+		"Notes": "The current texts were imported version 1.04 (25.3.2014) in March 2021."
+	},
+	"WLC": {
+		"Abbreviation": "WLC",
+		"Title": "Westminster Leningrad Codex",
+		"Description": "A digitised version of the Leningrad Codex (1008 CE).",
+		"License": "All biblical Hebrew text, in any format, may be viewed or copied without restriction. <a href=\"https://tanach.us/\">Citation of this site as the source</a> of the text is appreciated. Please include the version number, 26.2, as a reference.",
+		"Language": "hbo",
+		"Date": "1008",
+		"Notes": "The current texts were imported version 26.2 (18 Dec 2020) in March 2021."
 	}
 }
