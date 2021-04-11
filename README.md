@@ -24,8 +24,9 @@ The source file should include the following fields:
 *	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original
 	*	Original, or Unique Abbreviation from the Versions file
 *	**Date**: [Date|Optional] Date for this version of the text
-*	**Collection**: [String|Optional] Use the Abbreviation from the related Collections file.
+*	**Collection**: [Set|Optional] Use the Abbreviation from the related Collections file.
 *	**Chapters**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into chapters the sentence breaks. Defaults to false.
+*	**ChapterTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
 *	**Segments**: [Boolean|Optional] Books and Letters Only. If there are not chapters, you can instead use titled segments to break down a book. One example of this would be the lists of Antiphons and Canticles in the psalter. Defaults to false.
 *	**Verses**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into verses above the sentence breaks. Defaults to false.
 *	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. One example could be that the book of psalms uses the Hebrew/modern numbering and that latin sources have been adjusted to match.
@@ -50,9 +51,10 @@ The source file should include the following fields:
 		"Language": "",
 		"SecondaryLanguage": "",
 		"Version": "",
-		"Collection": "",
-		"Chapters": false
-		"Segments": false
+		"Collection": [""],
+		"Chapters": false,
+		"ChapterTitles": false,
+		"Segments": false,
 		"Verses": false,
 		"Notes": "",
 		"Extra": {}
@@ -91,16 +93,16 @@ The collections file should include the following fields:
 ### Books & Letters
 These can have multiple sources. This could be because of various languages. When an original version is available it should be next to the `source.json` in the folder for the book. Additional versions of the book should be included in a folder named with the version abbreviation. For the rare instances when more than one version of a text is provided (like with First Chronicles in the Codex Sinaiticus) in the same version you should suffix the abbreviation with `-v#.json`.
 
-When there are chapters or sections you need to separate out these into their own files. Filenames should follow:
-
-*	Default: `text.json`
-*	Chapters Enabled: `chapter-####.json`	ex: `chapter-0001.json`
-*	Segments Enabled: `SEGEMENT-ABREVIATION.json` ex: `gloria.json`
-*	Multiple versions: `chapter-0001.json` and `chapter-0001-v2.json`
-
-
-The source file should include the following fields: 
-
+When there are chapters or sections you need to separate out these into their own files. Filenames should follow:  
+  
+*	Default: `text.json`  
+*	Chapters Enabled: `chapter-####.json`	ex: `chapter-0001.json`  
+	*	Multiple versions: `chapter-0001.json` and `chapter-0001-v2.json`  
+*	Segments Enabled: `SEGEMENT-ABREVIATION.json` ex: `gloria.json`  
+  
+  
+The source file should include the following fields:  
+  
 *	**SourceAbbreviation**: [String|Required] The title or descriptive title in the original language. Used to reference the text it is a part of.
 *	**Title**: [String|Optional] If there is a title for this given segment of the text. This can be helpful for chapters or segments of a larger text.
 *	**Chapter**: [String|Optional] If this source is broken into chapters you should include the chapter number here.
@@ -108,20 +110,23 @@ The source file should include the following fields:
 *	**Source**: [String|Optional] Certain documents may benefit from having the ability to indicate the source of a given portion of text (ex: Antiphons, Canticles, etc).
 *	**FormatAs**: [Set|Required] What type of text is it? This tells us what primary file to look for, and how that file will be formatted.  
 	*	Book, Letter, Poetry  
-*	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original
+*	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original  
 	*	Original, or Unique Abbreviation from the Versions file
-*	**Text**: [String|Optional] If there are not verses for this text, then the text itself should go here. Verses are defined in the source document.
-*	**Verses**: [Array|Optional] If this text is broken down into verses those verses should be individual lines inside of this key.
-*	**Extras**:	[Array|Optional] This is a Key-Pair list of additional related content.
-*	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. This could be a simple as the date a text was imported.
-
-*	**Changes**: [Array|Optional] A list of what changes were made, when, and by whom. Each line should be formatted as `YYYY-DD-MM - NAME OF PERSON: Note about what changed`.
-*	**Footnotes**: [Array|Optional] This allows us to place notes inline if we choose to render them. They should be keyed in a way that allows us to position them correctly. This should be by the position word position in the `Text` or within a specific `Verse`. These may be displayed as footnotes or - when digitally allowed - with visual indicators to hover over the word/s to reveal the note/s.
-
-
-Each file should follow the following structure.
-
-`chapter-0001.json` with verses
+*	**Translation**: [Array|Optional] Include this element when the text/verses are a translation. This should allow us to identify what the source version is, and who was involved in the translation process.
+	*	**Versions**: [Set|Required] The list of the versions which are being use to generate the translation. 
+	*	**People**: [Set|Required] The list of individuals involved in the translation. Ideally ordered by scope of their contribution to the work included in this file.  
+*	**Text**: [String|Optional] If there are not verses for this text, then the text itself should go here. Verses are defined in the source document.  
+*	**Verses**: [Array|Optional] If this text is broken down into verses those verses should be individual lines inside of this key. When using verses you must include all formating (line breaks, indentations, etc). Indentations should lead verses, and line breaks end verses.
+*	**Extras**:	[Array|Optional] This is a Key-Pair list of additional related content.  
+*	**InlineTitles**:	[Array|Optional] A list of inline titles to include in the text. The array key should be the location of the title. For Text files it should be the word position as a number For verses it can be either a whole or decimal number with whole numbers representing the verses, and the number after the decimal representing the word in that verse. The Title would be placed immediatly before the referenced word. For this case counting starts at 1.
+*	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. This could be a simple as the date a text was imported.  
+*	**Changes**: [Array|Optional] A list of what changes were made, when, and by whom. Each line should be formatted as `YYYY-DD-MM - NAME OF PERSON: Note about what changed`.  
+*	**Footnotes**: [Array|Optional] This allows us to place notes inline if we choose to render them. They should be keyed in a way that allows us to position them correctly. This should be by the word position in the `Text` or within a specific `Verse`. These may be displayed as footnotes or - when digitally allowed - with visual indicators to hover over the word/s to reveal the note/s. Footnotes are placed *after* the positioned word.  
+  
+  
+Each file should follow the following structure.  
+  
+`chapter-0119.json` with verses
 
 	{
 		"SourceAbbreviation": "bible-ot-psalms",
@@ -129,18 +134,26 @@ Each file should follow the following structure.
 		"Chapter": "119",
 		"FormatAs": "poetry",
 		"Version": "UMT-EN",
+		"Translation":{
+			"Versions": ["CODEX-SINAITICUS", "LH"],
+			"People": ["Paul Prins"]
+		},
 		"Verses": {
-			"1": "Blessed are they whose ways are blameless, who walk according to the law of the LORD.",
-			"2": "Blessed are they who keep his statutes and seek him with all their heart.",
-			"3": "They do nothing wrong; they walk in his ways.",
-			"4": "You have laid down precepts that are to be fully obeyed."
+			"1": "Blessed are they whose ways are blameless,\r\n\twho walk according to the law of the LORD.\r\n",
+			"2": "Blessed are they who keep his statutes\r\n\tand seek him with all their heart.\r\n",
+			"3": "They do nothing wrong;\r\n\tthey walk in his ways.\r\n",
+			"4": "You have laid down precepts that are to be fully obeyed.\r\n"
+		},
+		"InlineTitles": {
+			"3": "Nothing Done Wrong"
 		},
 		"Changes": [
 			"2021-03-04 - Paul Prins: Added support in the documentation for changes.",
 			"2021-02-25 - Paul Prins: Thought about adding changes, but decided future Paul gets to do that."
 		],
 		"FootNotes": {
-			"1": ["This is a note which would appear at the end of the verse"],
+			"1": ["This is a note which would appear at the end of the verse."],
+			"1.1": ["This will appear after the first word of the first verse."]
 			"1.6": [
 				"This is a note which appears with the word Blameless",
 				"Along with a second note when it makes sense to do so"
@@ -244,39 +257,52 @@ The array has 2 values and ***no keys***:
 
 
 ## Formatting Notes:
+This section should be kept up to date with changes made in the TextFormating libraries.
 
 We use Markdown formatting for text, and all line breaks and tabs should be correctly encoded. Ideally these will be managed for you by the eventual editor put in place.
 
-*	**Newline** is replaced with \n
 *	**Carriage Return** is replaced with \r
+*	**Newline** is replaced with \n
 *	**Tab** is replaced with \t
 *	**Double Quote** is replaced with \"
 *	**Backslash** is replaced with \\
-*	**Backspace** is replaced with \b 
-*	**Form Reed** is replaced with \f
+*	**Backspace** is not supported
+*	**Form Reed** is not supported
 
+
+As a best practice we use `\r\n` to indicate a single new line return. For multiple lines you simply add another set as needed (example: `\r\n\r\n`).
+
+When using verses you should - as possible - place line breaks at the end of a verse, and tabs at the begining of a verse.
 
 ### Styling the Text
 
 There are different styling needs of the text which we need to support. The base of it is markdown with some specialized support added. Below are the supported formatting syntaxes with examples. For encased text which spans between different text enclosures you need to close and then re-open the tag with the new text enclosure.
 
-*	\*\*bold text\*\*	Make the encased text **Bold**
-*	\*italic text\*		Make the encased text *Italic*
-*	\*\*\*bold and italic\*\*\*		Make the encased text ***bold and italic***
-*	\~strike through\~		Make the encased text ~struck through~
-*	\_underline\_		Make the encased text underlined (not supported by Github).
-*	‾overline‾		Make the encased text over-lined (not supported by Github).
-*	\_‾under and over line‾\_		Make the encased text both underlined and over-lined (not supported by Github).
-*	[+]		This will insert the symbol to prompt the reader to cross themselves (Used in Breviary and Liturgy)
-*	[*]		This is the (Used in Breviary and Liturgy)
-*	[p]		Pause symbol (Used in Breviary and Liturgy)
-*	[R]		Denotes the Responsory text. (Used in Breviary and Liturgy)
-*	[V]		Denotes the Versicle and the leader speaking. Rendered as ℣ in non HTML [U+2123 or `&#8483;`]. (Used in Breviary and Liturgy)
-*	[red]red text[/red]		Make the encased text red.
-*	Lists
-	*	1.		Ordered lists should list every item with `1.` to ensure that the numbering is always correct. It will be transformed into an ordered lists and displayed correctly to users counting from 1.
-	*	*		Unordered lists should list every item with a `*`.
+*	\*\*bold text\*\*	Make the encased text **Bold**  
+*	\*italic text\*		Make the encased text *Italic*  
+*	\*\*\*bold and italic\*\*\*		Make the encased text ***bold and italic***  
+*	\~strike through\~		Make the encased text ~struck through~  
+*	\_underline\_		Make the encased text underlined (not supported by Github).  
+*	‾over line‾		Make the encased text over-lined. Only supported in HTML formatting. (not supported by Github).  
+*	\_‾under and over line‾\_		Make the encased text both underlined and over-lined. Only supported in HTML formatting, in other outputs will show as underlined. (not supported by Github).  
+*	[red]red text[/red]		Make the encased text red.  
+*	\1.		Ordered lists should list every item with `1.` to ensure that the numbering is always correct. It will be transformed into an ordered lists and displayed correctly to users counting from 1.  
+*	\*		Unordered lists should list every item with a `*`.  
 
+#### Styling for Breviary and Liturgies
+There are some unique markings to facilitate liturgical texts. These will allow us to parse and style these portions of the 
+
+*	[+]		This will insert the symbol to prompt the reader to cross themselves. Rendered as ✛ in non HTML [U+271B or `&#10011;`].
+*	[*]		This is the for denoting a mid-point in chanted texts.  
+*	[t]		This is the dagger/obelisk that indicates the current line continues below. Helpful with chanted texts with more than two lines. Rendered as † in non HTML [U+2020 or `&#8224;` or `&dagger;`].  
+*	[V]		During the *Responsory* it denotes a **Versicle** line with the leader speaking. Rendered as ℣ in non HTML [U+2123 or `&#8483;`].  
+*	[R]		During the *Responsory* it denotes **Response** line with all speaking. Rendered as ℟ in non HTML [U+211F or `&#8479;`].  
+*	[II]	During the *Intercessions* this indicates the **Introduction** to the intentions. When prayed in a group it should be read only by the leader.  
+*	[IR]	During the *Intercessions* this indicated the **Response**. It should only be placed in the source text on the line after the introduction. It will be placed in other locations when formatted. When prayed in a group it should be read only by the leader.  
+*	[I1]	During the *Intercessions* this indicates the **first** part of an **intention**. 
+*	[I2]	During the *Intercessions* this indicates the **second** part of an **intention**. 
+
+[V], [R], [II], [IR], [I1], and [I2] must appear at the beginning of a line without any other styling, dashes, or indentations. Those styling elements will be processed when the text is formatted for it's desired output.
 
 ### No Support For
 
