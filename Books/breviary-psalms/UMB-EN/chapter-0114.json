@@ -17,9 +17,10 @@
 		"5": "Why was it, sea, that you fled, [*]\r\n\tJordan, that you returned to your source,\r\n",
 		"6": "the mountains, that you leaped like rams, [*]\r\n\tand the hills like lambs?\r\n\r\n",
 		"7": "Tremble, earth, before the Lord, [*]\r\n\tbefore the God of Jacob.\r\n",
-		"8": "He who turned rock into pools of water, [*]\r\n\tand flint into a springs of water."
+		"8": "Who turned the rock into pools of water, [*]\r\n\tand made waters spring forth from flint."
 	},
 	"Changes": [
+		"2021-04-19 - Paul Prins: Cleaned up verse 8. It was feeling very stiff and mechanical. Couldn't stop thinking about it.",
 		"2021-04-11 - Paul Prins: First translation of psalm 114 based on Greek, Latin, and some Hebrew."
 	]
 }

@@ -17,9 +17,10 @@
 		"5": "Pourquoi as-tu, mer, êtes enfui, [*]\r\n\tJourdain, as-tu êtes retourné sur lui-même,\r\n",
 		"6": "les montagnes aient bondi comme des béliers, [*]\r\n\tet les collines comme des agneaux?\r\n\r\n",
 		"7": "Tremble, terre, devant le Seigneur, [*]\r\n\tdevant le Dieu de Jacob.\r\n",
-		"8": "Lui qui a changé le rocher en bassin d'eau, [*]\r\n\tet silex dans une source d'eau."
+		"8": "Qui a transformé le rocher en bassins d'eau, [*]\r\n\tet fait les eaux coule du silex."
 	},
 	"Changes": [
+		"2021-04-19 - Paul Prins: J'ai réparé verse 8. Pour the meme reason du les traduction anglais - c'est plus lisse maintenant.",
 		"2021-04-11 - Paul Prins: First translation of psalm 114 based on Greek, Latin, and some Hebrew."
 	]
 }
