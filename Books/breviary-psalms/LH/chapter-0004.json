@@ -1,0 +1,22 @@
+{
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Gratiarum Actio",
+	"Description": "David. PSALMUS.",
+	"Chapter": "4",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Magistro chori. Fidibus. PSALMUS. David.\r\n\r\n",
+		"2": "Cum invocárem, exaudívit e, Deus iustítiæ meæ. [*]\r\n\tIn tribulatióne dilatásti mihi;\r\nmiserére mei [*]\r\n\tet exáudi oratiónem meam.\r\n\r\n",
+		"3": "Fílii hóminum, úsquequo gravi corde? [*]\r\n\tUt quid dilígitis vanitátem et quæritis mendácium?\r\n",
+		"4": "Et scitóte quóniam mirificávit Dóminus sanctum suum; [*]\r\n\tDóminus exáudiet, cum clamávero ad eum.\r\n\r\n",
+		"5": "Irascímini et nolíte peccáre; [t]\r\n\tloquímini in córdibus vestris, [*]\r\n\tin cubílibus vestris et conquiéscite.\r\n",
+		"6": "Sacrificáte sacrifícium iustítiæ [*]\r\n\tet speráte in Dómino.\r\n\r\n",
+		"7": "Multi dicunt: \"Quis osténdit nobis bona?\" [*]\r\n\tLeva in signum super nos lumen vultus tui, Dómine!\r\n",
+		"8": "Maiórem dedísti lætítiam in corde meo, [*]\r\n\tquam cum multiplicántur fruméntum et vinum eórum.\r\n",
+		"9": "In pace in idípsum dórmiam et requiéscam, [*]\r\n\tquóniam tu, Dómine, singuláriter in spe constituísti me."
+	},
+	"Changes": [
+		"2021-04-19 - Paul Prins: Added this text"
+	]
+}
