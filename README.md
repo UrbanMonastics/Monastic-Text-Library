@@ -209,6 +209,9 @@ The versions file should include the following fields for each entry. The entry 
 *	**License**: [HTML|Optional] The License or Copyright that should accompany the display of this text.
 *	**Language**: [String|Required] The language being used. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined.
 *	**Date**: [Date|Optional] Date for this version of the text
+*	**Options**: [Object|Optional] This allows us to store if certain rendering should be preformed on the text of this version  
+	*	**Selah**: [Bool|Optional] Does this text include the term Selah, and should it be formated in a specific way.  
+	*	**SmallCaps**: [Bool|Optional] Does the text have words included in all caps which should be transformed into small caps. 
 *	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. One example could be that the book of psalms uses the Hebrew/modern numbering and that latin sources have been adjusted to match.
 
 
@@ -288,6 +291,7 @@ There are different styling needs of the text which we need to support. The base
 *	[red]red text[/red]		Make the encased text red.  
 *	\1.		Ordered lists should list every item with `1.` to ensure that the numbering is always correct. It will be transformed into an ordered lists and displayed correctly to users counting from 1.  
 *	\*		Unordered lists should list every item with a `*`.  
+*	SMALLCAPS	When enabled by the version file, this text will be rendered in with small caps, or will be transformed into a simple capitalized string otherwise. Used for rendering of Lord in reference to YHWH, but it may have wider application.
 
 #### Styling for Breviary and Liturgies
 There are some unique markings to facilitate liturgical texts. These will allow us to parse and style these portions of the 
@@ -301,6 +305,7 @@ There are some unique markings to facilitate liturgical texts. These will allow 
 *	[IR]	During the *Intercessions* this indicated the **Response**. It should only be placed in the source text on the line after the introduction. It will be placed in other locations when formatted. When prayed in a group it should be read only by the leader.  
 *	[I1]	During the *Intercessions* this indicates the **first** part of an **intention**. 
 *	[I2]	During the *Intercessions* this indicates the **second** part of an **intention**. 
+*	`selah`	This term appears in the book of psalms and it is unclear what it means. It is often just placed directly into the text while right aligned. 
 
 [V], [R], [II], [IR], [I1], and [I2] must appear at the beginning of a line without any other styling, dashes, or indentations. Those styling elements will be processed when the text is formatted for it's desired output.
 

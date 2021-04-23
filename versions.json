@@ -53,7 +53,11 @@
 		"Description": "La traduction française du psautier utilisée par Urban Monasticism.",
 		"License": "",
 		"Language": "fra-sta",
-		"Date": "2020"
+		"Date": "2020",
+		"Options": {
+			"SmallCaps": true,
+			"Selah": true
+		}
 	},
 	"TMU-FR":{
 		"Abbreviation": "TMU-FR",
@@ -61,7 +65,11 @@
 		"Description": "La traduction française utilisée par Urban Monasticism.",
 		"License": "",
 		"Language": "fra-sta",
-		"Date": "2020"
+		"Date": "2020",
+		"Options": {
+			"SmallCaps": true,
+			"Selah": true
+		}
 	},
 	"UMB-EN":{
 		"Abbreviation": "UMB-EN",
@@ -69,7 +77,11 @@
 		"Description": "The english translation of the Psalter used by Urban Monasticism",
 		"License": "",
 		"Language": "eng",
-		"Date": "2020"
+		"Date": "2020",
+		"Options": {
+			"SmallCaps": true,
+			"Selah": true
+		}
 	},
 	"UMT-EN":{
 		"Abbreviation": "UMT-EN",
@@ -77,7 +89,11 @@
 		"Description": "The english translation used by Urban Monasticism",
 		"License": "",
 		"Language": "eng",
-		"Date": "2020"
+		"Date": "2020",
+		"Options": {
+			"SmallCaps": true,
+			"Selah": true
+		}
 	},
 	"SBLGNT":{
 		"Abbreviation": "SBLGNT",
