@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-easter-week-1-gospel-cant",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "C'était le soir du premier jour de la semaine. Les disciples s'étaient enfermés dans la pièce où ils se trouvaient. Jésus se tenait au milieu d’eux. Il leur dit: « La paix soit avec vous »! Alléluia",
 	"Description": ""
 }

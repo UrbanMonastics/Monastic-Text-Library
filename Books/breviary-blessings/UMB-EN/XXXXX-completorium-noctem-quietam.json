@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "XXXXX-completorium-noctem-quietam",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "May the Lord Almighty [+] grant us a peaceful night and a perfect end. Amen."
 }

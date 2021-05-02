@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-sunday-vespers-2-week-3-anti-1",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "LORD’s revelation to my lord: \"Sit at my right\"",
 	"Description": "Basd on the opening version of Psalm 110"
 }

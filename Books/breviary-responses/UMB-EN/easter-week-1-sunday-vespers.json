@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "easter-week-1-sunday-vespers",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "[R]This is the day, [*] the Lord has made : let us rejoice and be glad in it."
 }

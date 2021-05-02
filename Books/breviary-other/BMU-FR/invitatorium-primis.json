@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "invitatorium-primis",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Seigneur [+], ouvrirez mes lèvres.[*]\r\nEt ma bouche annoncera Votre louange."
 }

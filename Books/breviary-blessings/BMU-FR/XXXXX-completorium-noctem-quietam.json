@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "XXXXX-completorium-noctem-quietam",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Que le Seigneur tout-puissant [+] nous accorde une nuit paisible et une fin parfaite. amen"
 }

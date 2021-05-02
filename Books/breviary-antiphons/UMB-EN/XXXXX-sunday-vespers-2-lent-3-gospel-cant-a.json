@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-sunday-vespers-2-lent-3-gospel-cant-a",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Whoever drinks the water I give them will never be thirsty again.",
 	"Description": ""
 }

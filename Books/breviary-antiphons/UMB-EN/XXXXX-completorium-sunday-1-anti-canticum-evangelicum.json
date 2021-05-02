@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-completorium-sunday-1-anti-canticum-evangelicum",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Protect us, Lord, when we take watch.\r\n\tLook after us when we sleep.\r\nThat awake we watch with Christ,\r\n\tand asleep we will find peace.",
 	"Description": ""
 }

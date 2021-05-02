@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "XXXXX-canticum-sunday-03",
 	"FormatAs": "poetry",
 	"Version": "UMT-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Alleluia, Alleluia, Alleluia."
 }

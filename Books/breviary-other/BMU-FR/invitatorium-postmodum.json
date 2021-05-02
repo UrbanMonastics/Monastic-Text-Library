@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "invitatorium-postmodum",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Dieu, [+] viens à mon aide.[*]\r\nSeigneur, hâtez-vous de me secourir."
 }

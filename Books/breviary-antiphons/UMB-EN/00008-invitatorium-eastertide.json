@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00008-invitatorium-eastertide",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Christ the Lord, promised us the Holy Spirit. Come, let us worship Him. Alleluia",
 	"Description": "Invitatory antiphon for Resurrection Sunday and Pentecost."
 }

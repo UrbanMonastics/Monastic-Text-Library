@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "lent-week-3-sunday-vespers-2",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "[V]Listen, Lord, and have mercy, for we have sinned against you.\r\n[R]Hear us, Christ, have mercy, and answer our prayers.\r\n[V]Listen, Lord, to the prayers crying out to you.\r\n[R]Hear us, Christ, have mercy, and answer our prayers.\r\n[V]Glory to the Father, to the Son, and to the Holy Spirit.\r\n[R]Hear us, Christ, have mercy, and answer our prayers."
 }

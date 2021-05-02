@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-easter-week-1-anti-2",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Come, [*] and see the place we laid our Lord, allelúlia allelúlia.",
 	"Description": ""
 }

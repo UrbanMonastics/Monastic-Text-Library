@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "XXXXX-completorium-noctem-quietam",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Bless the Lord, Alléluia, Alléluia.\r\n[R]We gave thanks to God, Alléluia, Alléluia."
 }

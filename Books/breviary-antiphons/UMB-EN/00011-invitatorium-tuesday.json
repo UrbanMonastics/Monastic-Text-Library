@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00011-invitatorium-tuesday",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "The great King, our Lord. Come, let us worship him.",
 	"Description": "Invitatory antiphon for Tuesday in ordinary time."
 }

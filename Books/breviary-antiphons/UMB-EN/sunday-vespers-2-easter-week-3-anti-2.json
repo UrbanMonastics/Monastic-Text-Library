@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-2-easter-week-3-anti-2",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "I will offer you the sacrifice of thanksgiving; I will call on the name of the Lord.",
 	"Description": ""
 }

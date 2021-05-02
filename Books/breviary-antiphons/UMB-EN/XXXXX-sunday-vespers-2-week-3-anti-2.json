@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-sunday-vespers-2-week-3-anti-2",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "All his comandments are faithful, established for ever and ever!",
 	"Description": "Based on Psalm 119:86"
 }

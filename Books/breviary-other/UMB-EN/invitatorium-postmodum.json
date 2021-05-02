@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "invitatorium-postmodum",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "God, [+] come to my assistance,[*]\r\nLord, make haste to help me."
 }

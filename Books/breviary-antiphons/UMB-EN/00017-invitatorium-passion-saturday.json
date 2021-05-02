@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00017-invitatorium-passion-saturday",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Christ the Lord suffered for us and was laid in a tomb. Come, let us worship him.",
 	"Description": "Invitatory antiphon from Holy Saturday"
 }

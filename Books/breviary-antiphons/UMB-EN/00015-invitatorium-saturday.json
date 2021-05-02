@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00015-invitatorium-saturday",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "We celebrate the Virgin Mary, and worship the Christ, her son, our Lord.",
 	"Description": "Invitatory antiphon for Saturday in ordinary time."
 }

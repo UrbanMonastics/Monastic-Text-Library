@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00010-invitatorium-monday",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Cry with joy to God our Savior",
 	"Description": "Innovatory antiphon for Monday in ordinary time."
 }

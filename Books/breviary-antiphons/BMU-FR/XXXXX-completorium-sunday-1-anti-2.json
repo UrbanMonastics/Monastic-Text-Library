@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-completorium-sunday-1-anti-2",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Toute la nuit [*] bénissez le Seigneur.",
 	"Description": ""
 }

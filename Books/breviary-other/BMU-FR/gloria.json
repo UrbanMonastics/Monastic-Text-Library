@@ -2,4 +2,8 @@
 	"SourceAbbreviation": "gloria",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Gloire au Père,\r\n\tau Fils,\r\n\tet au Saint-Esprit.\r\nComme il était au commencement,\r\n\tmaintenant et sera toujours.\r\nAlléluia\r\n*Amen*"}

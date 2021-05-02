@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-sunday-vespers-2-easter-3-gospel-cant-a",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Stay with us, [*] for evening comes, and the day fades, Alleluia Alleluia.",
 	"Description": ""
 }

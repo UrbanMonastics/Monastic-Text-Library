@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-easter-week-1-anti-2",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Venez, [*] et voir l’endroit où nous avons posé notre Seigneur, allelúlia allelúlia.",
 	"Description": ""
 }

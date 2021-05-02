@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-sunday-vespers-2-easter-3-gospel-cant-c",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Jesus told [*] his disciples: \"Bring some of the fish you just caught.\" Simon-Peter went onto the boat and returned to land with a net full of large fish, allelúia.",
 	"Description": ""
 }

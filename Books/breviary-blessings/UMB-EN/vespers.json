@@ -2,4 +2,8 @@
 	"SourceAbbreviation": "vespers",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "May the Lord bless us,\r\n\tkeep us from all evil,\r\n\tand bring us to everlasting life.\r\n*Amen*"}

@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "invitatorium-primis",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Lord, [+] open my lips.[*]\r\nAnd my mouth will declair your praise."
 }

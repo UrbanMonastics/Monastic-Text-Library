@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-completorium-sunday-1-anti-1",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Aie pitié de moi Seigneur [*], et écoute ma prière.",
 	"Description": ""
 }

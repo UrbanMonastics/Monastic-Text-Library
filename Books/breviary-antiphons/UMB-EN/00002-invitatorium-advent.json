@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00002-invitatorium-advent",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "The Lord is close. Come, let us adore him.",
 	"Description": "Invitatory antiphon for Advent between the 16th of December and the end of Advent."
 }

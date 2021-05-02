@@ -2,5 +2,9 @@
 	"SourceAbbreviation": "easter-week-1-sunday-vespers",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "[R]C'est le jour, [*] que le Seigneur a fait :  passon-le réjouissons et soyons heureux."
 }

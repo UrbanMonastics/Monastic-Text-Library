@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00016-invitatorium-passion-friday",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Christ, son of God, has redeemed us by his blood. Come, let us worship Him.",
 	"Description": "Invitatory antiphon from Good Friday."
 }

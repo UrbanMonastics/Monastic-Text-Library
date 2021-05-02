@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "XXXXX-completorium-sunday-1-anti-2",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Throughout the night [*] bless the Lord.",
 	"Description": ""
 }

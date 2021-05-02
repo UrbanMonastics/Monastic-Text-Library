@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-2-easter-week-3-anti-1",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Seigneur, Roi tout-puissant, délivre-nous pour la gloire de ton nom, et donne-nous la repentance.",
 	"Description": ""
 }

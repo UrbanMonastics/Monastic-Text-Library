@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-easter-week-1-anti-3",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Vite, [*] allez dites à les autres, alléluia, ils doivent aller en Galilée; ils me verront là, alléluia alléluia alléluia.",
 	"Description": ""
 }

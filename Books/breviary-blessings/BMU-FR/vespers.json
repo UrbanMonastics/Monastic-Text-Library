@@ -2,4 +2,8 @@
 	"SourceAbbreviation": "vespers",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Que le Seigneur nous bénisse,\r\n\tgarde-nous de tout mal,\r\n\tet amène-nous à la vie éternelle.\r\n*Amen*"}

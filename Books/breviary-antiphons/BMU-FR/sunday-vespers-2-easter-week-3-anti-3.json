@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "sunday-vespers-2-easter-week-3-anti-3",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "En vérité, il prend sur lui nos souffrances, et il porte nos peines.",
 	"Description": ""
 }

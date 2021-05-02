@@ -2,6 +2,10 @@
 	"SourceAbbreviation": "00014-invitatorium-friday",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Come and worship the Lord. For  He is our God.",
 	"Description": "Invitatory antiphon for Friday in ordinary time."
 }
