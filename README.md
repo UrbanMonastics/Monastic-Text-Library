@@ -19,7 +19,7 @@ The source file should include the following fields:
 *	**Type**: [Set|Required] What type of text is it? This tells us what primary file to look for, and how that file will be formatted.  
 	*	Book, Letter, Dictionary  
 *	**SecondaryType**: [String|Optional] A freeform field to allow you to indicate a secondary text type.
-*	**Language**: [String|Required] The language being used. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined.
+*	**Language**: [String|Required] The language being used in a texts most origional form. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined. *Note:* One should expect versions of this text to be written in different languages as indicated by their version.  
 *	**SecondaryLanguage**: [String|Optional] This is the language of the definitions for dictionaries.
 *	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original
 	*	Original, or Unique Abbreviation from the Versions file
@@ -246,9 +246,9 @@ When possible we should be using the abbreviations/codes from the Linguists List
 The array has 2 values and ***no keys***: 
 
 *	*title*: This is the name of the language in english
-*	*Date Range*: As a second array with 2 objects the start and end dates. If the second date is excluded the language is in modern usage. (like 1900-present)
+*	*Date Range*: As a second array with 2 objects the start and end dates. A null value should be supplied to indicate an open ended nature of a date set [null, 200] for leading up to the year 200, or [1900, null] for since 1900.
 
-	"Greek": {
+	"greek": {
 		"grc-koi": [
 			"Koine Greek",
 			[-300, 300]
