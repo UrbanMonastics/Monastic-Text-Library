@@ -2,13 +2,13 @@
 	"english": {
 		"eng": [
 			"English American",
-			[1980]
+			[1980, null]
 		]
 	},
 	"français":{
 		"fra-sta": [
 			"Standard French",
-			[1900]
+			[1900, null]
 		],
 		"frm": [
 			"Middle French",
@@ -24,7 +24,7 @@
 	"hebrew": {
 		"heb": [
 			"Hebrew",
-			[-1000]
+			[-1000, null]
 		],
 		"hbo": [
 			"Ancient Hebrew",
@@ -32,13 +32,13 @@
 		],
 		"heb-sta": [
 			"Standard Hebrew",
-			[1922]
+			[1922, null]
 		]
 	},
 	"latin": {
 		"lat": [
 			"Latin",
-			[-75]
+			[-75, null]
 		],
 		"lat-cla": [
 			"Classical Latin",
@@ -58,7 +58,7 @@
 		],
 		"lat-con": [
 			"Contemporary Latin",
-			[1900]
+			[1900, null]
 		]
 	}
 }
