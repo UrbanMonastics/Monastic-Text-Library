@@ -1,0 +1,19 @@
+{
+	"SourceAbbreviation": "bible-nt-hebrews",
+	"Title": "Hebrews",
+	"Chapter": "10",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"12": "⸀But He, having offered one sacrifice for all sins forever, sat down at the right hand of God. ",
+		"13": "Since that time, he has been waiting until his enemies are made a footstool for his feet. ",
+		"14": "For by his one offering, He has perfected forever all who are being made holy. ",
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: First translation of verses 12-14 based on Greek."
+	]
+}
