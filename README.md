@@ -25,13 +25,13 @@ The source file should include the following fields:
 	*	Original, or Unique Abbreviation from the Versions file
 *	**Date**: [Date|Optional] Date for this version of the text
 *	**Collection**: [Set|Optional] Use the Abbreviation from the related Collections file.
-*	**Chapters**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into chapters the sentence breaks. Defaults to false.
+*	**Segments**: [Set|Required] In what way, if any, is this source broken down into smaller pieces. Most longer works will be broken into *Chapters* of some type. Yet we have some sources which are referenced by their abbreviation (like Antiphons, Canticles, Responses, Prayers, BLessings, and others).
+	*	Chapters, Abbreviations, None
 *	**ChapterTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
-*	**Segments**: [Boolean|Optional] Books and Letters Only. If there are not chapters, you can instead use titled segments to break down a book. One example of this would be the lists of Antiphons and Canticles in the psalter. Defaults to false.
 *	**Verses**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into verses above the sentence breaks. Defaults to false.
 *	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. One example could be that the book of psalms uses the Hebrew/modern numbering and that latin sources have been adjusted to match.
 *	**Extra**: [Array|Optional] If you need to add metadata to an item you can place it into this object. You should use a consistant key across the related items.
-*	**Source**:
+*	**Source**:	[Array|Optional] This is required if the text is not one of our creation. This ensures that we keep important license and access data with the texts itself (in addition to the version file). 
 	*	**DateAccessed**: [Date|Required] When was the source first accessed
 	*	**License**: [String|Optional] What type of license is on this content
 	*	**Attribution**: [HTML|Optional] Any requested attribution to include with the source.
@@ -93,12 +93,12 @@ The collections file should include the following fields:
 ### Books & Letters
 These can have multiple sources. This could be because of various languages. When an original version is available it should be next to the `source.json` in the folder for the book. Additional versions of the book should be included in a folder named with the version abbreviation. For the rare instances when more than one version of a text is provided (like with First Chronicles in the Codex Sinaiticus) in the same version you should suffix the abbreviation with `-v#.json`.
 
-When there are chapters or sections you need to separate out these into their own files. Filenames should follow:  
+The type of segments a source is broken into determines its filename. When there are chapters or sections you need to separate out these into their own files. Filenames should follow:  
   
-*	Default: `text.json`  
-*	Chapters Enabled: `chapter-####.json`	ex: `chapter-0001.json`  
+*	**None**: `text.json`  
+*	**Chapters**: `chapter-####.json`	ex: `chapter-0001.json`  
 	*	Multiple versions: `chapter-0001.json` and `chapter-0001-v2.json`  
-*	Segments Enabled: `SEGEMENT-ABREVIATION.json` ex: `gloria.json`  
+*	**Abbreviations**: `SEGEMENT-ABREVIATION.json` ex: `gloria.json`  
   
   
 The source file should include the following fields:  

@@ -5,7 +5,8 @@
 	"Type": "Book",
 	"Language": "hbo",
 	"Version": "Original",
-	"Chapters": true,
+	"Segments": "Chapters",
+	"ChapterTitles": true,
 	"Verses": true,
 	"Notes": "We are using the Hebrew/modern numbering and that latin sources have been adjusted to match."
 }

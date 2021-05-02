@@ -5,7 +5,7 @@
 	"Type": "Book",
 	"Language": "grc-koi",
 	"Version": "Original",
-	"Chapters": true,
+	"Segments": "Chapters",
 	"Verses": true,
 	"Notes": ""
 }
