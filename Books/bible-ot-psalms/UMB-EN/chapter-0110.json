@@ -1,0 +1,24 @@
+{
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Le Messie, Roi, &amp; Prêtre",
+	"Description": "Psaume de David",
+	"Chapter": "110",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Le Seigneur dit à mon maître:\r\n\t«Assieds-toi à ma droite,\r\net je ferai de tes ennemis\r\n\tdans un marchepied pour tes pieds.»\r\n\r\n",
+		"2": "De Sion, le Seigneur étendra la portée de ton sceptre avec sa force et en disant:\r\n\t«Règne au milieu de tes ennemis.»\r\n\r\n",
+		"3": "Le jour de ta force, ton peuple te suivra,\r\n\tavec ta sainte splendeur,\r\n\t«Avec le rupture d'aube, ta jeunesse te vient comme la rosée.»\r\n\r\n",
+		"4": "Le Seigneur a juré un serment irrévocable,\r\n\t«Tu es un prêtre toujours, dans l'ordre du roi Melkisédek»\r\n\r\n",
+		"5": "À ta droite est mon maître,\r\n\tqui écrasera les rois le jour de sa colère.\r\n\r\n",
+		"6": "Il jugera les nations, les remplir de cadavres,\r\n\tet briser de nombreuses chefs loin sur la terre.\r\n\r\n",
+		"7": "Il boira au torrent en chemin;\r\n\tc'est pourquoi il relèvera sa tête."
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: Removed Liturgical Formating from the version in the breviary, also including verse 6 which is excluded from the breviary."
+	]
+}
