@@ -1,14 +1,52 @@
 # Urban Monastic Source Texts
 A Public Repository of all the source texts used in the Monastic Platform.
 
-This library is intended to be an ingestible source of texts for use in digital platforms and projects.
+This library is intended to be an ingestible source of texts for use in digital platforms and projects. The main goals of the Source Texts are:
+
+## Project Goals
+
+*	Provide a common format for large libraries of texts.
+*	Use JSON instead of XML for easier parsing and structuring.
+*	Easily support multiple versions of the same text.
+*	Include helpful metadata alongside texts.
+*	Allow for easy use of multiple libraries in projects to encourage collaboration
 
 
+
+
+## Building a Library
+
+The point of this approach is to allow many different individuals and organizations to build libraries which can be ingested to work side by side in a project. There is a project called the [SourceParser](https://github.com/UrbanMonastics/SourceParser) that does much of the heavy lifting of adding, and styling the texts for you (if your project is using PHP).  
+  
+The file structure of a library is pretty straight forward. You have your library directory (for this project it is called **Library**) which is filled with folders using their source abbreviation as their name. Within each of these source folders is that texts `source.json` that explains what that text is, and how we should understand it. Next to the `source.json` are a set of folders named after a version's abbreviation (listed in the `versions.json`). This approach allows a library to include multiple versions of a given text. Inside each of these version directories are the source texts themselves (which might be listed one of three ways.)
+
+	Library/
+		- SOURCE-ABBREVIATION/
+			- source.json
+			- VERSION-1/
+				- text.json
+			- VERSION-B/
+				- text.json
+			- VERSION-3/
+				- text.json
+		- ANOTHER-BOOK/
+			- source.json
+			- ORIGINAL/
+				- chapter-0001.json
+				- chapter-0002.json
+			- MY-VERSION/
+				- chapter-0001.json
+				- chapter-0002.json
+			- YOUR-VERSION/
+				- chapter-0001.json
+				- chapter-0002.json
+
+The `source.json` files give us an understanding of the text in its original form (language, title, date, etc). Each version then has it's own language, date, license, and description.
 
 
 ## Formatting of Sources
 
-### General Source Information
+###  Source Information - `source.json`
 Every text should have an information file separate from the text itself. This is a separate file to reduce loading times when simply desiring to skim through available sources.
 
 The source file should include the following fields: 
@@ -19,13 +57,13 @@ The source file should include the following fields:
 *	**Type**: [Set|Required] What type of text is it? This tells us what primary file to look for, and how that file will be formatted.  
 	*	Book, Letter, Dictionary  
 *	**SecondaryType**: [String|Optional] A freeform field to allow you to indicate a secondary text type.
-*	**Language**: [String|Required] The language being used in a texts most origional form. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined. *Note:* One should expect versions of this text to be written in different languages as indicated by their version.  
+*	**Language**: [String|Required] The language being used in a texts most original form. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined. *Note:* One should expect versions of this text to be written in different languages as indicated by their version.  
 *	**SecondaryLanguage**: [String|Optional] This is the language of the definitions for dictionaries.
 *	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original
 	*	Original, or Unique Abbreviation from the Versions file
 *	**Date**: [Date|Optional] Date for this version of the text
 *	**Collection**: [Set|Optional] Use the Abbreviation from the related Collections file.
-*	**Segments**: [Set|Required] In what way, if any, is this source broken down into smaller pieces. Most longer works will be broken into *Chapters* of some type. Yet we have some sources which are referenced by their abbreviation (like Antiphons, Canticles, Responses, Prayers, BLessings, and others).
+*	**Segments**: [Set|Required] In what way, if any, is this source broken down into smaller pieces. Most longer works will be broken into *Chapters* of some type. Yet we have some sources which are referenced by their abbreviation (like Antiphons, Canticles, Responses, Prayers, Blessings, and others).
 	*	Chapters, Abbreviations, None
 *	**ChapterTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
 *	**Verses**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into verses above the sentence breaks. Defaults to false.
@@ -61,36 +99,8 @@ The source file should include the following fields:
 	}
 
 
-### Collections
 
-Collections are important as they allow us to group together similar content in a desired order. The bible is an example of two collections of texts. These collections simply layout the order of books to make them easier to navigate.
-
-The collections file should include the following fields:  
-
-
-*	**Abbreviation**: [String|Required] A descriptive short hand for this particular collection
-*	**Title**: [String|Required] The name of the text. 
-*	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
-*	**Collection**: [String|Optional] Use the Abbreviation from the related Collections file. Only define if this collection is a part of another collection
-*	**Order**: [Array|Required] List the texts included in the collection by their abbreviations in the order that they should appear.
-
-
-`Collection.json`
-
-	{
-		"Abbreviation": "",
-		"Title": "",
-		"Description": "",
-		"Collection": "",
-		"Order": [
-			"BOOK-1",
-			"BOOK-B",
-			"BOOK-the-THIRD"...
-		]
-	}
-
-
-### Books & Letters
+### The Texts Themselves
 These can have multiple sources. This could be because of various languages. When an original version is available it should be next to the `source.json` in the folder for the book. Additional versions of the book should be included in a folder named with the version abbreviation. For the rare instances when more than one version of a text is provided (like with First Chronicles in the Codex Sinaiticus) in the same version you should suffix the abbreviation with `-v#.json`.
 
 The type of segments a source is broken into determines its filename. When there are chapters or sections you need to separate out these into their own files. Filenames should follow:  
@@ -112,13 +122,14 @@ The source file should include the following fields:
 	*	Book, Letter, Poetry  
 *	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original  
 	*	Original, or Unique Abbreviation from the Versions file
+*	**License**: [String MD|Optional] The License or Copyright that should accompany the display of this text. This ensures we keep the license with the texts, but we should use the license from the version to display.
 *	**Translation**: [Array|Optional] Include this element when the text/verses are a translation. This should allow us to identify what the source version is, and who was involved in the translation process.
 	*	**Versions**: [Set|Required] The list of the versions which are being use to generate the translation. 
 	*	**People**: [Set|Required] The list of individuals involved in the translation. Ideally ordered by scope of their contribution to the work included in this file.  
 *	**Text**: [String|Optional] If there are not verses for this text, then the text itself should go here. Verses are defined in the source document.  
-*	**Verses**: [Array|Optional] If this text is broken down into verses those verses should be individual lines inside of this key. When using verses you must include all formating (line breaks, indentations, etc). Indentations should lead verses, and line breaks end verses.
+*	**Verses**: [Array|Optional] If this text is broken down into verses those verses should be individual lines inside of this key. When using verses you must include all formatting (line breaks, indentations, etc). Indentations should lead verses, and line breaks end verses.
 *	**Extras**:	[Array|Optional] This is a Key-Pair list of additional related content.  
-*	**InlineTitles**:	[Array|Optional] A list of inline titles to include in the text. The array key should be the location of the title. For Text files it should be the word position as a number For verses it can be either a whole or decimal number with whole numbers representing the verses, and the number after the decimal representing the word in that verse. The Title would be placed immediatly before the referenced word. For this case counting starts at 1.
+*	**InlineTitles**:	[Array|Optional] A list of inline titles to include in the text. The array key should be the location of the title. For Text files it should be the word position as a number For verses it can be either a whole or decimal number with whole numbers representing the verses, and the number after the decimal representing the word in that verse. The Title would be placed immediately before the referenced word. For this case counting starts at 1.
 *	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. This could be a simple as the date a text was imported.  
 *	**Changes**: [Array|Optional] A list of what changes were made, when, and by whom. Each line should be formatted as `YYYY-DD-MM - NAME OF PERSON: Note about what changed`.  
 *	**Footnotes**: [Array|Optional] This allows us to place notes inline if we choose to render them. They should be keyed in a way that allows us to position them correctly. This should be by the word position in the `Text` or within a specific `Verse`. These may be displayed as footnotes or - when digitally allowed - with visual indicators to hover over the word/s to reveal the note/s. Footnotes are placed *after* the positioned word.  
@@ -163,6 +174,35 @@ Each file should follow the following structure.
 		}
 	}
 
+
+
+### Collections
+
+Collections are important as they allow us to group together similar content in a desired order. The bible is an example of two collections of texts. These collections simply layout the order of books to make them easier to navigate.
+
+The collections file should include the following fields:  
+
+
+*	**Abbreviation**: [String|Required] A descriptive short hand for this particular collection
+*	**Title**: [String|Required] The name of the text. 
+*	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
+*	**Collection**: [String|Optional] Use the Abbreviation from the related Collections file. Only define if this collection is a part of another collection
+*	**Order**: [Array|Required] List the texts included in the collection by their abbreviations in the order that they should appear.
+
+
+`Collection.json`
+
+	{
+		"Abbreviation": "",
+		"Title": "",
+		"Description": "",
+		"Collection": "",
+		"Order": [
+			"BOOK-1",
+			"BOOK-B",
+			"BOOK-the-THIRD"...
+		]
+	}
 
 
 
@@ -210,7 +250,7 @@ The versions file should include the following fields for each entry. The entry 
 *	**Language**: [String|Required] The language being used. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined.
 *	**Date**: [Date|Optional] Date for this version of the text
 *	**Options**: [Object|Optional] This allows us to store if certain rendering should be preformed on the text of this version  
-	*	**Selah**: [Bool|Optional] Does this text include the term Selah, and should it be formated in a specific way.  
+	*	**Selah**: [Bool|Optional] Does this text include the term Selah, and should it be formatted in a specific way.  
 	*	**SmallCaps**: [Bool|Optional] Does the text have words included in all caps which should be transformed into small caps. 
 *	**Notes**: [String MD|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. One example could be that the book of psalms uses the Hebrew/modern numbering and that latin sources have been adjusted to match.
 
@@ -260,7 +300,7 @@ The array has 2 values and ***no keys***:
 
 
 ## Formatting Notes:
-This section should be kept up to date with changes made in the TextFormating libraries.
+This section should be kept up to date with changes made in the Text Formatting libraries.
 
 We use Markdown formatting for text, and all line breaks and tabs should be correctly encoded. Ideally these will be managed for you by the eventual editor put in place.
 
@@ -275,7 +315,7 @@ We use Markdown formatting for text, and all line breaks and tabs should be corr
 
 As a best practice we use `\r\n` to indicate a single new line return. For multiple lines you simply add another set as needed (example: `\r\n\r\n`).
 
-When using verses you should - as possible - place line breaks at the end of a verse, and tabs at the begining of a verse.
+When using verses you should - as possible - place line breaks at the end of a verse, and tabs at the beginning of a verse.
 
 ### Styling the Text
 
