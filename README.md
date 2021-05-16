@@ -65,7 +65,7 @@ The source file should include the following fields:
 *	**Collection**: [Set|Optional] Use the Abbreviation from the related Collections file.
 *	**Segments**: [Set|Required] In what way, if any, is this source broken down into smaller pieces. Most longer works will be broken into *Chapters* of some type. Yet we have some sources which are referenced by their abbreviation (like Antiphons, Canticles, Responses, Prayers, Blessings, and others).
 	*	Chapters, Abbreviations, None
-*	**ChapterTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
+*	**SegmentTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
 *	**Verses**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into verses above the sentence breaks. Defaults to false.
 *	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. One example could be that the book of psalms uses the Hebrew/modern numbering and that latin sources have been adjusted to match.
 *	**Extra**: [Array|Optional] If you need to add metadata to an item you can place it into this object. You should use a consistant key across the related items.
@@ -91,7 +91,7 @@ The source file should include the following fields:
 		"Version": "",
 		"Collection": [""],
 		"Chapters": false,
-		"ChapterTitles": false,
+		"SegmentTitles": false,
 		"Segments": false,
 		"Verses": false,
 		"Notes": "",

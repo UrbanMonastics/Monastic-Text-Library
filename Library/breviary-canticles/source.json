@@ -7,6 +7,7 @@
 	"Version": "Original",
 	"Date": "",
 	"Segments": "Abbreviations",
+	"SegmentTitles": true,
 	"Verses": false,
 	"Notes": "This is a collection of all the canticles used during the divine office."
 }

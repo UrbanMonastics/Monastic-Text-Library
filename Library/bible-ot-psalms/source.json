@@ -6,7 +6,7 @@
 	"Language": "hbo",
 	"Version": "Original",
 	"Segments": "Chapters",
-	"ChapterTitles": true,
+	"SegmentTitles": true,
 	"Verses": true,
 	"Notes": "We are using the Hebrew/modern numbering and that latin sources have been adjusted to match."
 }
