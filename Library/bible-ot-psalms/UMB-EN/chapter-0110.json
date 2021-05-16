@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0110",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Messiah, King, & Priest",
+	"Description": "A Psalm of David",
+	"Chapter": "110",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "The Lord says to my master:\r\n\t\"Sit at my right hand,\r\nand I will make your enemies\r\n\tinto a footstool for your feet.\"\r\n\r\n",
+		"2": "From Zion, the Lord will extend your mighty scepters reach, saying,\r\n\t\"Rule in the midst of your enemies.\"\r\n\r\n",
+		"3": "On the day of your power, your people will follow you,\r\n\tin your holy splendor,\r\n\t\"With the breaking of dawn, your youth comes to you like the dew.\"\r\n\r\n",
+		"4": "The Lord swore an irrevocable oath,\r\n\t\"You are a priest always, in the order of King Melchizedek.\"\r\n\r\n",
+		"5": "On your right is my master,\r\n\twho will crush rulers on the day of his wrath.\r\n\r\n",
+		"6": "He will judge the nations, filling them with corpses,\r\n\tand crushing many rulers across the earth.\r\n\r\n",
+		"7": "He will drink from the brook along his way;\r\n\ttherefore he will lift up his head."
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: Removed Liturgical Formating from the version in the breviary, also including verse 6 which is excluded from the breviary."
+	]
+}
