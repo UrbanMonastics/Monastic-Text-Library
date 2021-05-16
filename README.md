@@ -249,6 +249,8 @@ The versions file should include the following fields for each entry. The entry 
 *	**Title**: [String|Required] The name of the text. 
 *	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
 *	**License**: [String MD|Optional] The License or Copyright that should accompany the display of this text.
+*	**PublicDomain**: [Bool|Optional] If the version in question is known to be in the public domain you can indicate that here.
+*	**Permission**: [String|Optional] Explain the current state of permission for this version in this library.
 *	**Language**: [String|Required] The language being used. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined.
 *	**Date**: [Date|Optional] Date for this version of the text
 *	**Options**: [Object|Optional] This allows us to store if certain rendering should be preformed on the text of this version  
