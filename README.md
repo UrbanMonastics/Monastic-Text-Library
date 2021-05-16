@@ -172,7 +172,8 @@ Each file should follow the following structure.
 			],
 			"3.5-9": ["This would be a note for the last 5 words of verse three"],
 			"3-4": ["They can also span multiple verses within the scope of the same file. So not across chapters where it would need to be added to both files."]
-		}
+		},
+		"License": "Copyright YYYY by [Organization](http://website.org/)."
 	}
 
 
