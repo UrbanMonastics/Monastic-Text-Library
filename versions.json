@@ -3,7 +3,6 @@
 		"Abbreviation": "Original",
 		"Title": "Original Version",
 		"Description": "This is a default placeholder for origional versions of texts and resources",
-		"License": "",
 		"Language": "",
 		"Date": ""
 	},
@@ -11,15 +10,15 @@
 		"Abbreviation": "VUL",
 		"Title": "Vulgata",
 		"Description": "The Latin Vulgate is an early 5th century version of the Bible in Latin.",
-		"License": "",
+		"PublicDomain": true,
 		"Language": "lat-lte",
 		"Date": "405"
 	},
 	"NVUL" :{
 		"Abbreviation": "NVUL",
 		"Title": "Nova Vulgata",
-		"Description": "Under Copyright and we do not have permission.",
-		"License": "",
+		"Description": "First published in 1979, with a second edition in 1986.",
+		"License": "© 1986 Libreria Editrice Vaticana, Città del Vaticano",
 		"Language": "lat-con",
 		"Date": "1979"
 	},
@@ -36,17 +35,18 @@
 		"Abbreviation": "OEB",
 		"Title": "Open English Bible",
 		"Description": "Committed to creating a completely free modern English translation of the Bible",
-		"License": "",
+		"PublicDomain": true,
 		"Language": "eng",
 		"Date": "2020"
 	},
 	"AELF": {
 		"Abbreviation": "AELF",
 		"Title": "Association Épiscopale Liturgique Francophones",
-		"Description": "Association Épiscopale Liturgique pour les pays Francophones. Under Copyright and we do not have permission.",
-		"License": "",
+		"Description": "Association Épiscopale Liturgique pour les pays Francophones. ",
+		"License": "© 1980-1988, A.E.L.F., Paris",
+		"Permission": "We do not have permission",
 		"Language": "fra-sta",
-		"Date": "1980"
+		"Date": "1988"
 	},
 	"BMU-FR":{
 		"Abbreviation": "BMU-FR",
@@ -100,7 +100,7 @@
 		"Abbreviation": "SBLGNT",
 		"Title": "Society of Biblical Literature Greek New Testament",
 		"Description": "This is a greek new testament which is made available to us to use by the Society of Biblical Literature.",
-		"License": "Copyright 2010 by the [Society of Biblical Literature](http://sbl-site.org/) and [Logos Bible Software](http://www.logos.com/).",
+		"License": "© 2010 by the [Society of Biblical Literature](http://sbl-site.org/) and [Logos Bible Software](http://www.logos.com/).",
 		"Language": "grc-koi",
 		"Date": "2010"
 	},
@@ -116,8 +116,9 @@
 	"WLC": {
 		"Abbreviation": "WLC",
 		"Title": "Westminster Leningrad Codex",
-		"Description": "A digitised version of the Leningrad Codex (1008 CE).",
-		"License": "All biblical Hebrew text, in any format, may be viewed or copied without restriction. [Citation of this site as the source](https://tanach.us/)of the text is appreciated. Please include the version number, 26.2, as a reference.",
+		"Description": "A digitized version of the Leningrad Codex (1008 CE).",
+		"PublicDomain": true,
+		"License": "All biblical Hebrew text, in any format, may be viewed or copied without restriction. [Citation of this site as the source](https://tanach.us/) of the text is appreciated. Please include the version number, 26.2, as a reference.",
 		"Language": "hbo",
 		"Date": "1008",
 		"Notes": "The current texts were imported version 26.2 (18 Dec 2020) in March 2021."
