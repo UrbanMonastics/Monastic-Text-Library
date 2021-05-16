@@ -1,10 +1,8 @@
 {
-	"SourceAbbreviation": "XXXXX-completorium-sunday-1-anti-marian-until-ash-wednesday",
+	"TextAbbreviation": "XXXXX-completorium-sunday-1-anti-marian-until-ash-wednesday",
+	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Ave, [*] Regina cælórum, ave, Dómina Angelórum, 
-	salve, radix, salve, porta, ex qua mundo lux est orta.
-	Guade, Virgo gloriósa, super omnes speciósa ;
-	vale, o valde decóra, et pro nobis Christum [*] exóra. ",
+	"Text": "Ave, [*] Regina cælórum, ave, Dómina Angelórum,\r\nsalve, radix, salve, porta, ex qua mundo lux est orta.\r\nGuade, Virgo gloriósa, super omnes speciósa ;\r\nvale, o valde decóra, et pro nobis Christum [*] exóra. ",
 	"Description": ""
 }

@@ -1,5 +1,6 @@
 {
-	"SourceAbbreviation": "benedictus",
+	"TextAbbreviation": "benedictus",
+	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Benedictus",
 	"Description": "From Luke 1:68-79",
 	"FormatAs": "poetry",

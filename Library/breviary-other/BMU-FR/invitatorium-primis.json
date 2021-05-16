@@ -1,5 +1,6 @@
 {
-	"SourceAbbreviation": "invitatorium-primis",
+	"TextAbbreviation": "invitatorium-primis",
+	"SourceAbbreviation": "breviary-other",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
 	"Translation":{

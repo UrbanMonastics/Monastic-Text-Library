@@ -1,5 +1,6 @@
 {
-	"SourceAbbreviation": "vespers",
+	"TextAbbreviation": "vespers",
+	"SourceAbbreviation": "breviary-blessings",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{

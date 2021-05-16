@@ -1,6 +1,7 @@
 {
-	"SourceAbbreviation": "nunc-dimittis",
-	"Title": "Christus Lumen Gentium &amp; Gloria Israel",
+	"TextAbbreviation": "nunc-dimittis",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Christus Lumen Gentium & Gloria Israel",
 	"Description": "From Lucam 2:29-33",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",

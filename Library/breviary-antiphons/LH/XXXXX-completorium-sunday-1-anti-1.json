@@ -1,7 +1,8 @@
 {
-	"SourceAbbreviation": "XXXXX-completorium-sunday-1-anti-1",
+	"TextAbbreviation": "XXXXX-completorium-sunday-1-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Miserére mihi, Dómine, * et exáudi oratiónem meam.",
+	"Text": "Miserére mihi, Dómine, [*] et exáudi oratiónem meam.",
 	"Description": ""
 }

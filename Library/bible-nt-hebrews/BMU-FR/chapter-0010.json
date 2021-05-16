@@ -1,4 +1,5 @@
 {
+	"TextAbbreviation": "chapter-0010",
 	"SourceAbbreviation": "bible-nt-hebrews",
 	"Title": "Hebrews",
 	"Chapter": "10",
@@ -11,7 +12,7 @@
 	"Verses": {
 		"12": "⸀Mais Lui, ayant offert un sacrifice pour tous les péchés pour toujours, s'est assis à la droite de Dieu. ",
 		"13": "Depuis ce temps, il a attendu jusqu'à ce que ses ennemis soient devenus un tabouret pour ses pieds. ",
-		"14": "Car par son unique offrande, Il a perfectionné à jamais tous ceux qui sont rendus sainteté. ",
+		"14": "Car par son unique offrande, Il a perfectionné à jamais tous ceux qui sont rendus sainteté. "
 	},
 	"Changes": [
 		"2021-05-02 - Paul Prins: Première traduction des versets 12-14 basée sur le grec."

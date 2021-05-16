@@ -1,5 +1,6 @@
 {
-	"SourceAbbreviation": "00010-invitatorium-monday",
+	"TextAbbreviation": "00010-invitatorium-monday",
+	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Iubilémus Deo salutári nostro.",

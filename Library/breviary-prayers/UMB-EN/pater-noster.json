@@ -1,5 +1,6 @@
 {
-	"SourceAbbreviation": "pater-noster",
+	"TextAbbreviation": "pater-noster",
+	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Text": "Our Father, who is in heaven,\r\n\thallowed is your Name.\r\nYour kingdom come,\r\n\tyour will be done,\r\n\ton earth as it is in heaven.\r\nGive us today our daily bread.\r\nForgive us our sins,\r\n\tas we forgive those who sin against us.\r\nLead us not into temptation,\r\n\tbut deliver us from evil;\r\nfor the kingdom, the power,\r\n\tand the glory are yours without end.\r\nAmen",

@@ -113,7 +113,8 @@ The type of segments a source is broken into determines its filename. When there
   
 The source file should include the following fields:  
   
-*	**SourceAbbreviation**: [String|Required] The title or descriptive title in the original language. Used to reference the text it is a part of.
+*	**TextAbbreviation**: [String|Required] This should match the filename without the file extension.
+*	**SourceAbbreviation**: [String|Required] The Source for which this file belongs.
 *	**Title**: [String|Optional] If there is a title for this given segment of the text. This can be helpful for chapters or segments of a larger text.
 *	**Chapter**: [String|Optional] If this source is broken into chapters you should include the chapter number here.
 *	**Description**: [String|Optional] Describe this portion of the text, or provide an introduction to the text.
