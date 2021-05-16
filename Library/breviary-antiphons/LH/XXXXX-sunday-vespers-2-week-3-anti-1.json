@@ -4,5 +4,6 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Dixit Dóminus [*] Dómino meo: dede a dextris meis",
-	"Description": "Basd on the opening version of Psalm 110"
+	"Description": "Based on the opening version of Psalm 110",
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

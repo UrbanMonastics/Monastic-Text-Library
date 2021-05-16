@@ -27,7 +27,8 @@
 		"Abbreviation": "LH",
 		"Title": "Thesaurus Liturgiae Horarum Monasticae",
 		"Description": "Liturgia Horarum from Libreria Editrice Vaticana.",
-		"License": "",
+		"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano",
+		"Permission": "Published, in part, to support the creation of vernacular texts to use in the life of the church. This is the reason this is included.",
 		"Language": "lat-con",
 		"Date": "2000"
 	},
