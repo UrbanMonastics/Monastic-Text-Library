@@ -3,5 +3,10 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
-	"Text": ""
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "",
+	"License": "© 2021 Monastiques Urbain, Paris"
 }

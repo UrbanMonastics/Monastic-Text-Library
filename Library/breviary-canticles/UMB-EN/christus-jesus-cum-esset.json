@@ -5,10 +5,15 @@
 	"Notes": "From Philippians 2:6-11",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "",
 	"Extra": {
 		"Passage" : "",
 		"LiturgiaeHorarum-Index": 11,
 		"LiturgiaeHorarum-Cantica": "NT"
-	}
+	},
+	"License": "© 2021 Urban Monastics, Paris"
 }

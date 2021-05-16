@@ -6,6 +6,10 @@
 	"Chapter": "4",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"2": "Quand je crie vers toi, réponds-moi, Dieu de ma justice, [*]\r\n\ttoi me sauvé quand j'étais opprimé,\r\naie pitié de moi maintenant, [*]\r\n\tet écoute ma prière.\r\n\r\n",
 		"3": "Combien de temps allez-vous les gens transformer ma gloire en honte, [*]\r\n\tl'amour ce qui ne vaut rien, et aspire aux mensonges?\r\nselah\r\n",
@@ -18,5 +22,6 @@
 	},
 	"Changes": [
 		"2021-04-22 - Paul Prins: First translation of Psalm 4 based on Greek, Latin, and some Hebrew"
-	]
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
 }

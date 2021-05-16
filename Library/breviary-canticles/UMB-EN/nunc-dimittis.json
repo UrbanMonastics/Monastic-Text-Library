@@ -5,10 +5,15 @@
 	"Description": "From Luke 2:29-33",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "Lord [+], now let your servant go in peace. [*]\r\n\tYou have kept your promise.\r\nFor my eyes have seen your salvation, [*]\r\n\twhich you prepared in the sight of all people.\r\nA light of revelation for the nations, [*]\r\n\tand the glory of your people Israel.",
 	"Extra": {
 		"Passage": "Luke 2:29-33",
 		"LiturgiaeHorarum-Index": 3,
 		"LiturgiaeHorarum-Cantica": "NT"
-	}
+	},
+	"License": "© 2021 Urban Monastics, Paris"
 }

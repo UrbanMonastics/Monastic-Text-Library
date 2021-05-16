@@ -52,9 +52,9 @@
 		"Abbreviation": "BMU-FR",
 		"Title": "Bréviaire Monastique Urbain Français",
 		"Description": "La traduction française du psautier utilisée par Urban Monasticism.",
-		"License": "MIT",
+		"License": "© 2021 Monastiques Urbain, Paris",
 		"Language": "fra-sta",
-		"Date": "2020",
+		"Date": "2021",
 		"Options": {
 			"SmallCaps": true,
 			"Selah": true
@@ -64,9 +64,9 @@
 		"Abbreviation": "TMU-FR",
 		"Title": "Traduction Monastique Urbain Français",
 		"Description": "La traduction française utilisée par Urban Monasticism.",
-		"License": "",
+		"License": "© 2021 Monastiques Urbain, Paris",
 		"Language": "fra-sta",
-		"Date": "2020",
+		"Date": "2021",
 		"Options": {
 			"SmallCaps": true,
 			"Selah": true
@@ -76,9 +76,9 @@
 		"Abbreviation": "UMB-EN",
 		"Title": "Urban Monastic Breviary",
 		"Description": "The english translation of the Psalter used by Urban Monasticism",
-		"License": "",
+		"License": "© 2021 Urban Monastics, Paris",
 		"Language": "eng",
-		"Date": "2020",
+		"Date": "2021",
 		"Options": {
 			"SmallCaps": true,
 			"Selah": true
@@ -88,9 +88,9 @@
 		"Abbreviation": "UMT-EN",
 		"Title": "Urban Monastic Translation",
 		"Description": "The english translation used by Urban Monasticism",
-		"License": "",
+		"License": "© 2021 Urban Monastics, Paris",
 		"Language": "eng",
-		"Date": "2020",
+		"Date": "2021",
 		"Options": {
 			"SmallCaps": true,
 			"Selah": true

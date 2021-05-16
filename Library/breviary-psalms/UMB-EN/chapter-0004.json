@@ -6,6 +6,10 @@
 	"Chapter": "4",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "When I cry to you, answer me, God of my justice, [*]\r\n\tyou rescued me when I was oppressed,\r\nbe gracious with me now, [*]\r\n\tand hear my prayer.\r\n\r\n",
 		"2": "How long will you people turn my glory into shame, [*]\r\n\tlove what is worthless, and pursue lies?\r\nselah\r\n",
@@ -18,5 +22,6 @@
 	},
 	"Changes": [
 		"2021-04-22 - Paul Prins: First translation of Psalm 4 based on Greek, Latin, and some Hebrew"
-	]
+	],
+	"License": "© 2021 Urban Monastics, Paris"
 }

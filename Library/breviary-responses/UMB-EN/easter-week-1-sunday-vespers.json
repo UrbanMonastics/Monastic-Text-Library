@@ -7,5 +7,6 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[R]This is the day, [*] the Lord has made : let us rejoice and be glad in it."
+	"Text": "[R]This is the day, [*] the Lord has made : let us rejoice and be glad in it.",
+	"License": "© 2021 Urban Monastics, Paris"
 }

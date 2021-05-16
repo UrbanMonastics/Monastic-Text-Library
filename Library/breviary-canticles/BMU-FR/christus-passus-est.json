@@ -5,10 +5,15 @@
 	"Description": "De 1 Pierre 2:21-24",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
 	"Text": "À cela tu as été appelé,[*]\r\n\tparce que Christ a souffert pour vous,\r\nnous laissant un exemple à suivre,[*]\r\n\tque nous devrions marcher dans ses pas.\r\n\r\nCelui qui n'a jamais péché,[*]\r\n\tni goûté la tromperie dans sa bouche.\r\nQuand ils l'ont calomnié,[*]\r\n\til n'a pas prononcé un mot vil.\r\nQuand il a souffert,[*]\r\n\til n'a fait aucune menace.\r\n\r\nIl s'est livré entre les mains[*]\r\n\tde celui qui juge.\r\nIl a pris nos péchés sur lui,[*]\r\n\tdans son corps sur la croix.\r\n\r\nAfin que nous puissions mourir au péché,[*]\r\n\tet vivez dans la droiture.\r\nC'est par ses blessures,[*]\r\n\tque nous avons été guéris.",
 	"Extra": {
 		"Passage" : "1 Pierre 2:21-24",
 		"LiturgiaeHorarum-Index": 18,
 		"LiturgiaeHorarum-Cantica": "NT"
-	}
+	},
+	"License": "© 2021 Monastiques Urbain, Paris"
 }
