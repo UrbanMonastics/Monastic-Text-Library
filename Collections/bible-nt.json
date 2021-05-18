@@ -5,7 +5,7 @@
 		"fra-sta": "Le Nouveau Testament"
 	},
 	"Description": "The New Testament of the Bible",
-	"Collection": "bible",
+	"Collection": ["bible"],
 	"Order": [
 		"bible-nt-matthew",
 		"bible-nt-mark",

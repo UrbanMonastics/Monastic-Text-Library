@@ -7,7 +7,7 @@
 		"fra-sta": "L'Ancien Testament"
 	},
 	"Description": "The Old Testament of the Bible",
-	"Collection": "bible",
+	"Collection": ["bible"],
 	"Order": [
 		"bible-ot-genesis",
 		"bible-ot-exodus",

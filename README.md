@@ -197,7 +197,7 @@ The collections file should include the following fields:
 *	**Abbreviation**: [String|Required] A descriptive short hand for this particular collection
 *	**Title**: [Array|Required] The name of the text. This should follow the same pattern as the title on the Sources supporting: default, version abbreviations, and languages. 
 *	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
-*	**Collection**: [String|Optional] Use the Abbreviation from the related Collections file. Only define if this collection is a part of another collection
+*	**Collection**: [Array|Optional] Use the Abbreviation from the related Collections file. Only define if this collection is a smaller part of another collection
 *	**Order**: [Array|Required] List the texts included in the collection by their abbreviations in the order that they should appear.
 
 
@@ -211,7 +211,7 @@ The collections file should include the following fields:
 			"fra-sta": ""
 		},
 		"Description": "",
-		"Collection": "",
+		"Collection": [""],
 		"Order": [
 			"BOOK-1",
 			"BOOK-B",

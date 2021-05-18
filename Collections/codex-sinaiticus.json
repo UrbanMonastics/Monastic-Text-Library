@@ -7,7 +7,6 @@
 		"fra-sta": "Codex Sinaiticus"
 	},
 	"Description": "The greek of the Codex Sinaiticus which includes much of the old and new testament from the mid 5th century.",
-	"Collection": "",
 	"Order": [
 		"bible-ot-genesis",
 		"bible-ot-leviticus",
