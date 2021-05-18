@@ -52,7 +52,8 @@ Every text should have an information file separate from the text itself. This i
 The source file should include the following fields: 
 
 *	**Abbreviation**: [String|Required] The title or descriptive title in the original language. Used to reference the text
-*	**Title**: [String|Required] The name of the text. 
+*	**Title**: [Array|Required] The name of the text. You should always provide a 'default' title for the text which would be in either English, or the original source language of the text. Additional primary titles can be supplied with a language (from `languages.json`) or version abbreviation (from `versions.json`).
+*	**AlternativeTitles**: [Array|Optional] A list of alternative tiles organized by language (from `languages.json`).
 *	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
 *	**Type**: [Set|Required] What type of text is it? This tells us what primary file to look for, and how that file will be formatted.  
 	*	Book, Letter, Dictionary  
@@ -82,7 +83,15 @@ The source file should include the following fields:
 
 	{
 		"Abbreviation": "",
-		"Title": "",
+		"Title": {
+			"default": "",
+			"UMB-EN": "",
+			"fra-sta": ""
+		},
+		"AlternativeTitles":{
+			"eng": ["", "", ""],
+			"fra-sta": ["", "", ""]
+		},
 		"Description": "",
 		"Type": "",
 		"Date": "",
@@ -186,7 +195,7 @@ The collections file should include the following fields:
 
 
 *	**Abbreviation**: [String|Required] A descriptive short hand for this particular collection
-*	**Title**: [String|Required] The name of the text. 
+*	**Title**: [Array|Required] The name of the text. This should follow the same pattern as the title on the Sources supporting: default, version abbreviations, and languages. 
 *	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
 *	**Collection**: [String|Optional] Use the Abbreviation from the related Collections file. Only define if this collection is a part of another collection
 *	**Order**: [Array|Required] List the texts included in the collection by their abbreviations in the order that they should appear.
@@ -196,7 +205,11 @@ The collections file should include the following fields:
 
 	{
 		"Abbreviation": "",
-		"Title": "",
+		"Title": {
+			"default": "",
+			"UMB-EN": "",
+			"fra-sta": ""
+		},
 		"Description": "",
 		"Collection": "",
 		"Order": [
