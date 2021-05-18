@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-john-2",
-	"Title": "the Second Book of John in the New Testament",
+	"Title": {
+		"default": "2 John",
+		"SBLGNT": "ΙΩΑΝΝΟΥ Β",
+		"UMB-EN": "The Second Letter of the Apostle John"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "None",

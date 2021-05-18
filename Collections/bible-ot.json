@@ -1,5 +1,11 @@
-{	"Abbreviation": "bible-ot",
+{
+	"Abbreviation": "bible-ot",
 	"Title": "Old Testament",
+	"Title": {
+		"default": "Old Testament",
+		"eng": "The Old Testament",
+		"fra-sta": "L'Ancien Testament"
+	},
 	"Description": "The Old Testament of the Bible",
 	"Collection": "bible",
 	"Order": [

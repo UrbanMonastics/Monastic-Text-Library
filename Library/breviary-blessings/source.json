@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "breviary-blessings",
-	"Title": "Blessings",
+	"Title": {
+		"default": "Breviary Blessings",
+		"UMB-EN": "Blessings from the Breviary",
+		"BMU-FR": "Bénédictions du Bréviaire"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "lat",

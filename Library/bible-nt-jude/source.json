@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-jude",
-	"Title": "the Book of jude in the New Testament",
+	"Title": {
+		"default": "Jude",
+		"SBLGNT": "ΙΟΥΔΑ",
+		"UMB-EN": "The Letter of the Apostle Jude to those Loved by God"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "None",

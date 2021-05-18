@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-timothy-2",
-	"Title": "the Second Book of Timothy in the New Testament",
+	"Title": {
+		"default": "2 Timothy",
+		"SBLGNT": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β", 
+		"UMB-EN": "The Apostle Paul's Second Letter to Timothy"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

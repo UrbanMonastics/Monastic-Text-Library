@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-galatians",
-	"Title": "the Book of Galatians in the New Testament",
+	"Title": {
+		"default": "Galatians",
+		"SBLGNT": "ΠΡΟΣ ΓΑΛΑΤΑΣ",
+		"UMB-EN": "The Apostle Paul's Letter to the Churches in Galatia"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

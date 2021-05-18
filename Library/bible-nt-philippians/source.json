@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-philippians",
-	"Title": "the Book of Philippians in the New Testament",
+	"Title": {
+		"default": "Philippians",
+		"SBLGNT": "ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ",
+		"UMB-EN": "The Letter to the Church in Philippi"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

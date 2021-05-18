@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "breviary-other",
-	"Title": "Breviary Additional Texts",
+	"Title": {
+		"default": "Breviary Additional Texts",
+		"UMB-EN": "Additional Texts for the Breviary",
+		"BMU-FR": "Texts Supplémentaires du Bréviaire"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "",

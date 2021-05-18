@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-peter-2",
-	"Title": "the Second Book of Peter in the New Testament",
+	"Title": {
+		"default": "2 Peter",
+		"SBLGNT": "ΠΕΤΡΟΥ Β",
+		"UMB-EN": "The Second Letter of the Apostle Peter to the Faithful"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

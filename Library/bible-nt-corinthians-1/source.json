@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-corinthians-1",
-	"Title": "the First Book of Corinthians in the New Testament",
+	"Title": {
+		"default": "1 Corinthians",
+		"SBLGNT": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α",
+		"UMB-EN": "The Apostle Paul's First Letter to the Church in Corinth"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

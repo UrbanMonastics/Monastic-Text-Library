@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-titus",
-	"Title": "the Book of Titus in the New Testament",
+	"Title": {
+		"default": "Titus",
+		"SBLGNT": "ΠΡΟΣ ΤΙΤΟΝ",
+		"UMB-EN": "The Apostle Paul's Letter to Titus"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

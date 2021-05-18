@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-ot-psalms",
-	"Title": "the Book of Psalms",
+	"Title": {
+		"default": "Psalms",
+		"UMB-EN": "The Book of Psalms",
+		"BMU-FR": "Le livre des Psaumes"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "hbo",
 	"Version": "Original",
 	"Segments": "Chapters",

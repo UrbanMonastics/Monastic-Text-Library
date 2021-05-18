@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "bible-nt-luke",
-	"Title": "the Book of Luke in the New Testament",
+	"Title": {
+		"default": "Luke",
+		"SBLGNT": "ΚΑΤΑ ΛΟΥΚΑΝ",
+		"UMB-EN": "The Gospel of Luke the Evangelist"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "grc-koi",

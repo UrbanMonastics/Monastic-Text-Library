@@ -1,7 +1,11 @@
-{	"Abbreviation": "bible",
-	"Title": "Holy Bible",
-	"Description": "The New Testament of the Bible",
-	"Collection": "",
+{
+	"Abbreviation": "bible",
+	"Title": {
+		"default": "Holy Bible",
+		"eng": "Holy Bible",
+		"fra-sta": "Sainte Bible"
+	},
+	"Description": "The Bible",
 	"Order": [
 		"bible-ot",
 		"bible-nt"

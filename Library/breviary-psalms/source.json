@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "breviary-psalms",
-	"Title": "Breviary Psalms Texts",
+	"Title": {
+		"default": "Breviary Psalms",
+		"UMB-EN": "Psalms from the Breviary",
+		"BMU-FR": "Psaumes du Bréviaire"
+	},
 	"Description": "",
 	"Type": "Book",
 	"SecondaryType": "Poetry",

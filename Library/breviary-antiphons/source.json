@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "breviary-antiphons",
-	"Title": "Antiphons",
+	"Title": {
+		"default": "Breviary Antiphons",
+		"UMB-EN": "Antiphons from the Breviary",
+		"BMU-FR": "Antiphons du Bréviaire"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "lat",

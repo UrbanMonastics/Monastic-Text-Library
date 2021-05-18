@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "breviary-prayers",
-	"Title": "Breviary Prayer Texts",
+	"Title": {
+		"default": "Breviary Prayer Texts",
+		"UMB-EN": "Prayers from the Breviary",
+		"BMU-FR": "Prières du Bréviaire"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "",

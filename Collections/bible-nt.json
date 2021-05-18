@@ -1,5 +1,9 @@
 {	"Abbreviation": "bible-nt",
-	"Title": "New Testament",
+	"Title": {
+		"default": "New Testament",
+		"eng": "The New Testament",
+		"fra-sta": "Le Nouveau Testament"
+	},
 	"Description": "The New Testament of the Bible",
 	"Collection": "bible",
 	"Order": [

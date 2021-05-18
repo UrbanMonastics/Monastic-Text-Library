@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-timothy-1",
-	"Title": "the First Book of Timothy in the New Testament",
+	"Title": {
+		"default": "1 Timothy",
+		"SBLGNT": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α", 
+		"UMB-EN": "The Apostle Paul's First Letter to Timothy"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-ephesians",
-	"Title": "the Book of Ephesians in the New Testament",
+	"Title": {
+		"default": "Ephesians",
+		"SBLGNT": "ΠΡΟΣ ΕΦΕΣΙΟΥΣ",
+		"UMB-EN": "The Apostle Paul's Letter to the Saints in Ephesus"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

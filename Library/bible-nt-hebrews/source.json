@@ -1,8 +1,13 @@
 {
 	"Abbreviation": "bible-nt-hebrews",
-	"Title": "the Book of Hebrews in the New Testament",
+	"Title": {
+		"default": "Hebrews",
+		"SBLGNT": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ",
+		"UMB-EN": "The Letter to the Hebrews",
+		"BMU-FR": "La Lettre aux Hébreux"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

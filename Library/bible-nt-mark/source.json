@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "bible-nt-mark",
-	"Title": "the Book of Mark in the New Testament",
+	"Title": {
+		"default": "Mark",
+		"SBLGNT": "ΚΑΤΑ ΜΑΡΚΟΝ",
+		"UMB-EN": "The Gospel of the Apostle Mark"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "grc-koi",

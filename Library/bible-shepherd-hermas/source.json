@@ -1,6 +1,9 @@
 {
 	"Abbreviation": "bible-shepherd-hermas",
-	"Title": "Shepherd of Hermas",
+	"Title": {
+		"default": "Shepherd of Hermas",
+		"CODEX-SINAITICUS": "Ὁ Ποιμήν του Ἑρμά"
+	},
 	"Description": "This is a non-conanaical text.",
 	"Type": "Book",
 	"Language": "",

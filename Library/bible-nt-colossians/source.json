@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-colossians",
-	"Title": "the Book of Colossians in the New Testament",
+	"Title": {
+		"default": "Colossians",
+		"SBLGNT": "ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ",
+		"UMB-EN": "The Apostle Paul's Letter to his Siblings in Colosse"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

@@ -1,6 +1,10 @@
 {
 	"Abbreviation": "bible-nt-matthew",
-	"Title": "the Book of Matthew in the New Testament",
+	"Title": {
+		"default": "Matthew",
+		"SBLGNT": "ΚΑΤΑ ΜΑΘΘΑΙΟΝ",
+		"UMB-EN": "The Gospel of the Apostle Matthew"
+	},
 	"Description": "",
 	"Type": "Book",
 	"Language": "grc-koi",

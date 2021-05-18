@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-thessalonians-1",
-	"Title": "the First Book of Thessalonians in the New Testament",
+	"Title": {
+		"default": "1 Thessalonians",
+		"SBLGNT": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ A",
+		"UMB-EN": "The First Letter to the Church in Thessaloniki"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",

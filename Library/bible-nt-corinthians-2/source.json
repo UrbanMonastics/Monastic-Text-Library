@@ -1,8 +1,12 @@
 {
 	"Abbreviation": "bible-nt-corinthians-2",
-	"Title": "the Second Book of Corinthians in the New Testament",
+	"Title": {
+		"default": "2 Corinthians",
+		"SBLGNT": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β",
+		"UMB-EN": "The Apostle Paul's Second Letter to the Church in Corinth"
+	},
 	"Description": "",
-	"Type": "Book",
+	"Type": "Letter",
 	"Language": "grc-koi",
 	"Version": "Original",
 	"Segments": "Chapters",
