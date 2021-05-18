@@ -21,6 +21,8 @@ The point of this approach is to allow many different individuals and organizati
 The file structure of a library is pretty straight forward. You have your library directory (for this project it is called **Library**) which is filled with folders using their source abbreviation as their name. Within each of these source folders is that texts `source.json` that explains what that text is, and how we should understand it. Next to the `source.json` are a set of folders named after a version's abbreviation (listed in the `versions.json`). This approach allows a library to include multiple versions of a given text. Inside each of these version directories are the source texts themselves (which might be listed one of three ways.)
 
 	Library/
+		- languages.json
+		- versions.json
 		- SOURCE-ABBREVIATION/
 			- source.json
 			- VERSION-1/
@@ -63,7 +65,7 @@ The source file should include the following fields:
 *	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original
 	*	Original, or Unique Abbreviation from the Versions file
 *	**Date**: [Date|Optional] Date for this version of the text
-*	**Collection**: [Set|Optional] Use the Abbreviation from the related Collections file.
+*	**Collection**: [Array|Optional] Use the Abbreviation from the related Collections file.
 *	**Segments**: [Set|Required] In what way, if any, is this source broken down into smaller pieces. Most longer works will be broken into *Chapters* of some type. Yet we have some sources which are referenced by their abbreviation (like Antiphons, Canticles, Responses, Prayers, Blessings, and others).
 	*	Chapters, Abbreviations, None
 *	**SegmentTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
@@ -109,7 +111,7 @@ The source file should include the following fields:
 
 
 
-### The Texts Themselves
+### Text Files - `text.json`
 These can have multiple sources. This could be because of various languages. When an original version is available it should be next to the `source.json` in the folder for the book. Additional versions of the book should be included in a folder named with the version abbreviation. For the rare instances when more than one version of a text is provided (like with First Chronicles in the Codex Sinaiticus) in the same version you should suffix the abbreviation with `-v#.json`.
 
 The type of segments a source is broken into determines its filename. When there are chapters or sections you need to separate out these into their own files. Filenames should follow:  
@@ -182,7 +184,7 @@ Each file should follow the following structure.
 			"3.5-9": ["This would be a note for the last 5 words of verse three"],
 			"3-4": ["They can also span multiple verses within the scope of the same file. So not across chapters where it would need to be added to both files."]
 		},
-		"License": "Copyright YYYY by [Organization](http://website.org/)."
+		"License": "© YYYY by [Organization](http://website.org/)."
 	}
 
 
@@ -363,12 +365,6 @@ There are some unique markings to facilitate liturgical texts. These will allow 
 *	[I1]	During the *Intercessions* this indicates the **first** part of an **intention**. 
 *	[I2]	During the *Intercessions* this indicates the **second** part of an **intention**. 
 *	`selah`	This term appears in the book of psalms and it is unclear what it means. It is often just placed directly into the text while right aligned. 
+*	[VERSE #]	This will insert the verse numbering if/when it is enabled.
 
 [V], [R], [II], [IR], [I1], and [I2] must appear at the beginning of a line without any other styling, dashes, or indentations. Those styling elements will be processed when the text is formatted for it's desired output.
-
-### No Support For
-
-*	Links
-*	Horizontal Lines
-*	Tables
-*	Images
