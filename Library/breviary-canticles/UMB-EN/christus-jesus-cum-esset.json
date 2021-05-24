@@ -9,9 +9,16 @@
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "",
+	"Verses": {
+		"6": "",
+		"7": "",
+		"8": "",
+		"9": "",
+		"10": "",
+		"11": ""
+	},
 	"Extra": {
-		"Passage" : "",
+		"Passage" : "Philippians 2:6-11",
 		"LiturgiaeHorarum-Index": 11,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

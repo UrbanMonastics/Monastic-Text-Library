@@ -5,7 +5,9 @@
 	"Notes": "From Daniel 3:57-88, 56",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "",
+	"Verses": {
+		"57": ""
+	},
 	"Extra": {
 		"Passage" : "",
 		"LiturgiaeHorarum-Index": 48,

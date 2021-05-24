@@ -9,7 +9,9 @@
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "",
+	"Verses": {
+		"57": ""
+	},
 	"Extra": {
 		"Passage" : "",
 		"LiturgiaeHorarum-Index": 48,
