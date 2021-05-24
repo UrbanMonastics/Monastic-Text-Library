@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-thessalonians-1",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"12": "Que le Seigneur vous fasse grandir et déborder d'amour les uns pour les autres et pour tous. Juste comme notre amour le fait pour vous. ",
+		"13": "Afin qu'il puisse fortifier vos cœurs, les rendant irréprochables et saints en présence de notre Dieu et Père lorsque notre Seigneur Jésus viendra avec tout son peuple de Dieu. "
+	},
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

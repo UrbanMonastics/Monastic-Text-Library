@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-thessalonians-1",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"12": "May the Lord cause you to increase and overflow with love for each other and for everyone. Just as our love does for you. ",
+		"13": "So that He may strengthen your hearts, making them blameless and holy in the presence of our God and Father when our Lord Jesus comes with all His Gods people. "
+	},
+	"License": "© 2021 Urban Monastics, Paris"
+}
