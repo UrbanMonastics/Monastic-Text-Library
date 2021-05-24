@@ -1,0 +1,27 @@
+{
+	"SourceAbbreviation": "benedictus-deus-et-pater",
+	"Title": "God the Savior",
+	"Description": "De  Ephésiens 1:3-10",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"3": "Béni soit le Dieu et Père de notre Seigneur, Jésus-Christ, [*]\r\n\tqui nous a bénis de toute bénédiction spirituelle, dans les lieux célestes, en Christ.\r\n",
+		"4": "Car il nous a choisi, dans Lui, avant le commencement du monde, [t]\r\n\tafin que nous soyons saints et irréprochables, [*]\r\n\tprésents devant Lui dans son amour.\r\n",
+		"5": "Il a toujours su que nous serions ses enfants adoptifs, [t]\r\n\tpar Jésus-Christ, [*]\r\n\tparce que c'est son bon plaisir et son désir.\r\n",
+		"6": "A la louange de sa glorieuse grâce, [*]\r\n\tqu'il nous a faite gratuitement dans la Fils bien-aimé.\r\n",
+		"7": "En Lui nous avons la rachat, par son sang, [*]\r\n\tle pardon des péchés.\r\nSelon la richesse de sa grâce, [t]\r\n",
+		"8": "\tqu'il a accordée sur nous, [*]\r\n\ten toute sagesse et intelligence.\r\n",
+		"9": "Il nous a fait connaître le mystère de sa volonté, [*]\r\n\tselon son bon plaisir, qu'il a voulu en Christ.\r\n",
+		"10": "Son plan pour la plénitude des temps [*]\r\n\test d'unir toutes choses ensemble en Christ,\r\ntoutes les choses dans les cieux, [*]\r\n\tet les choses de la terre."
+	},
+	"Extra": {
+		"Passage" : "Ephésiens 1:3-10",
+		"LiturgiaeHorarum-Index": 10,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

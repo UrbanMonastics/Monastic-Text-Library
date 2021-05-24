@@ -1,0 +1,23 @@
+{
+	"SourceAbbreviation": "benedictus-deus-et-pater",
+	"Title": "De Deo Salvatore",
+	"Description": "From Ephesians 1:3-10",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"3": "Benedíctus Deus et Pater Dómnini nostri Iesu Christi, [*]\r\n\tqui benedíxit nos in omni benedictióne spiritáli in cæléstibus in Christo,\r\n",
+		"4": "sicut elégit nos in ipso ante mundi constitutiónem, [t]\r\n\tut essémus sancti et immaculáti [*]\r\n\tin conspéctu eius in cariáte,\r\n",
+		"5": "qui prædestinávit nos in adoptiónem filiórum [t]\r\n\tper Iesum Christum in ipsum, [*]\r\n\tsecúndum beneplácitum voluntátis suæ,\r\n",
+		"6": "in laudem glóriæ grátiæ suæ, [*]\r\n\tin qua gratificávit nos in Dilécto,\r\n",
+		"7": "in quo habémus redemptiónem per sánguinem eius, [*]\r\n\tremissiónem peccatórum,\r\nsecúndum divítias grátiæ eius, [t]\r\n",
+		"8": "\tqua superabundávit in nobis, [*]\r\n\tin omni sapiéntia et prudéntia,\r\n",
+		"9": "notum fáciens nobis mystérium voluntátis suæ, [*]\r\n\tsecúndum beneplácitum eius,",
+		"10": "quod propósuit in eo, [*]\r\n\tin dispensatiónem plenitúdinis témporum:\r\nrecapituláre ómnia in Christo, [*]\r\n\tquæ in cælis et quæ in terra."
+	},
+	"Extra": {
+		"Passage" : "Ephesians 1:3-10",
+		"LiturgiaeHorarum-Index": 10,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

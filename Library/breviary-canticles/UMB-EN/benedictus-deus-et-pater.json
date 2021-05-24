@@ -1,0 +1,27 @@
+{
+	"SourceAbbreviation": "benedictus-deus-et-pater",
+	"Title": "God the Savior",
+	"Description": "From Ephesians 1:3-10",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"3": "Blessed be the God and Father of our Lord, Jesus Christ, [*]\r\n\twho has blessed us with every spiritual blessing, in the heavenly places, in Christ.\r\n",
+		"4": "For He chose us, in Him, before the world began, [t]\r\n\tthat we would be holy and blameless, [*]\r\n\tpresent before Him in his love.\r\n",
+		"5": "He always knew we would be his adopted children [t]\r\n\tthrough Jesus Christ, [*]\r\n\tbecause it is His good pleasure and desire.\r\n",
+		"6": "To the praise of his glorious grace, [*]\r\n\tthat he freely gave to us in the Beloved Son.\r\n",
+		"7": "In Him we have redemption, by His blood, [*]\r\n\tthe forgiveness of sins.\r\nAccording to the riches of His grace, [t]\r\n",
+		"8": "\twhich He lavished upon us, [*]\r\n\twith all wisdom and understanding.\r\n",
+		"9": "He made known to us the mystery of his will, [*]\r\n\taccording to his good pleasure, that he set forth in Christ.\r\n",
+		"10": "His plan for the fullness of times [*]\r\n\tis to unite all things together in Christ,\r\nall things in the heavens, [*]\r\n\tand the things of the earth."
+	},
+	"Extra": {
+		"Passage" : "Ephesians 1:3-10",
+		"LiturgiaeHorarum-Index": 10,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"License": "© 2021 Urban Monastics, Paris"
+}
