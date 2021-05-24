@@ -2,16 +2,22 @@
 	"TextAbbreviation": "salus-et-gloria",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Le Salut, la Gloire et la Puissance",
-	"Notes": "De Apocalypse 19:1-7",
+	"Notes": "De Apocalypse 19:1-2, 5-7",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Alléluia\r\nLe salut, la gloire et la puissance à notre Dieu,[*]\r\n\tdont les jugements sont vrais et justes.\r\nAlléluia\r\n\r\nAlléluia\r\nLouez notre Dieu, tous serviteurs du Seigneur, [*]\r\n\tvous tous qui le craignez, les petit et les grand.\r\nAlléluia\r\n\r\nAlléluia\r\nLe Seigneur notre Dieu, le Tout-Puissant, règne: [*]\r\n\tréjouissons-nous et exultons et rendons gloire et hommage.\r\nAlléluia\r\n\r\nAlléluia\r\nLe mariage de l'Agneau est venu [*]\r\n\tet son épouse s'est préparée.\r\nAlléluia\r\n\r\nAlléluia\r\nHeureux ceux qui sont invités [*]\r\n\tau banquet de noces de l'Agneau.\r\nAlléluia.",
+	"Verses": {
+		"1": "Alléluia\r\nLe salut, la gloire et la puissance à notre Dieu,[*]\r\n\tdont les jugements sont vrais et justes.\r\nAlléluia\r\n\r\n",
+		"2": "Alléluia\r\nLouez notre Dieu, tous serviteurs du Seigneur, [*]\r\n\tvous tous qui le craignez, les petit et les grand.\r\nAlléluia\r\n\r\n",
+		"5": "Alléluia\r\nLe Seigneur notre Dieu, le Tout-Puissant, règne: [*]\r\n\tréjouissons-nous et exultons et rendons gloire et hommage.\r\nAlléluia\r\n\r\n",
+		"6": "Alléluia\r\nLe mariage de l'Agneau est venu [*]\r\n\tet son épouse s'est préparée.\r\nAlléluia\r\n\r\n",
+		"7": "Alléluia\r\nHeureux ceux qui sont invités [*]\r\n\tau banquet de noces de l'Agneau.\r\nAlléluia.",
+	},
 	"Extra": {
-		"Passage": "Apocalypse 19:1-7",
+		"Passage": "Apocalypse 19:1-2, 5-7",
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

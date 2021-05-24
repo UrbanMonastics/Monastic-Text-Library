@@ -1,11 +1,18 @@
 {
 	"TextAbbreviation": "salus-et-gloria",
 	"SourceAbbreviation": "breviary-canticles",
-	"Title": "Alleluia. Salus et gloria",
+	"Title": "Alleluia. Salus et Gloria",
 	"Notes": "From Revelation 19:1-2, 5-7",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Salus et glória et virtue Deus nostro,[*]\r\nAllelúia.\r\n\tQuia vera et oust iudícia emus,\r\nAllelúia, Allelúia.\r\n\r\nLaudem dícite Deus nostro,omnes servieius,[*]\r\nAllelúia.\r\n\tEt qui timétis eum, pusílli et magna,\r\nAllelúia, allelúia.\r\n\r\nQuóniam regnávit Dóminus, Deus roster omnípotens,[*]\r\nAllelúia.\r\n\tGaudeámus et exsultémus et demis glóriam ei,\r\nAllelúia, allelúia.\r\n\r\nQuia venérunt núptiæ Agni,[*]\r\nAllelúia.\r\n\tEt uxor emus præparávit se,\r\nAllelúia, allelúia.",
+	"Verses":{
+		"1": "Allelúia.\r\nSalus et glória et virtue Deus nostro, [*]\r\n\tQuia vera et iust iudícia eius,\r\nAllelúia,\r\n\r\n",
+		"2": "Allelúia.\r\nLaudem dícite Deus nostro, omnes servieius, [*]\r\n\tEt qui timétis eum, pusílli et magna,\r\nAllelúia.\r\n\r\n",
+		"5": "Allelúia.\r\nQuóniam regnávit Dóminus, Deus roster omnípotens, [*]\r\n\tGaudeámus et exsultémus et demis glóriam ei,\r\nAllelúia.\r\n\r\n",
+		"6": "Allelúia.\r\nQuia venérunt núptiæ Agni, [*]\r\n\tEt uxor emus præparávit se,\r\nAllelúia.\r\n\r\n",
+		"7": ""
+	},
+	"Text": "",
 	"Extra": {
 		"Passage": "Apocalypsis 19:1-7",
 		"LiturgiaeHorarum-Index": 22,

@@ -2,16 +2,22 @@
 	"TextAbbreviation": "salus-et-gloria",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Salvation, Glory, and Power",
-	"Notes": "From Revelation 19:1-7",
+	"Notes": "From Revelation 19:1-2, 5-7",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Alleluia\r\nSalvation and glory and power belong to our God,[*]\r\n\twhose judgements are true and just.\r\nAlleluia\r\n\r\nAlleluia\r\nPraise our God, all servants of the Lord,[*]\r\n\tyou who fear him, both small and great.\r\nAlleluia\r\n\r\nAlleluia\r\nThe Lord our God, the Almighty, reigns:[*]\r\n\tlet us rejoice and exult and give glory and homage.\r\nAlleluia\r\n\r\nAlleluia\r\nThe marriage of the Lamb has come[*]\r\n\tand his bride has made herself ready.\r\nAlleluia\r\n\r\nAlleluia\r\nHappy are those who are invited[*]\r\n\tto the wedding banquet of the Lamb.\r\nAlleluia",
+	"Verses": {
+		"1": "Alleluia\r\nSalvation and glory and power belong to our God,[*]\r\n\twhose judgements are true and just.\r\nAlleluia\r\n\r\n",
+		"2": "Alleluia\r\nPraise our God, all servants of the Lord,[*]\r\n\tyou who fear him, both small and great.\r\nAlleluia\r\n\r\n",
+		"5": "Alleluia\r\nThe Lord our God, the Almighty, reigns:[*]\r\n\tlet us rejoice and exult and give glory and homage.\r\nAlleluia\r\n\r\n",
+		"6": "Alleluia\r\nThe marriage of the Lamb has come[*]\r\n\tand his bride has made herself ready.\r\nAlleluia\r\n\r\n",
+		"7": "Alleluia\r\nHappy are those who are invited[*]\r\n\tto the wedding banquet of the Lamb.\r\nAlleluia",
+	},
 	"Extra": {
-		"Passage": "Revelation 19:1-7",
+		"Passage": "Revelation 19:1-2, 5-7",
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
