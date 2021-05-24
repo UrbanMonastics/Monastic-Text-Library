@@ -2,16 +2,21 @@
 	"TextAbbreviation": "nunc-dimittis",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Maintenant, Partez en Paix",
-	"Description": "De Luc 2:29-33",
+	"Description": "De Luc 2:29-32",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Seigneur [+], maintenant laisse partir ton serviteur en paix.[*]\r\n\tTu as tenu ta promesse.\r\nCar mes yeux ont vu ton salut,[*]\r\n\tque tu as préparé à la vue de tous les personnes.\r\nUne lumière de révélation pour les nations,[*]\r\n\tet la gloire de ton peuple d'Israël.",
+	"Verses": {
+		"29": "Seigneur [+], maintenant laisse partir ton serviteur en paix.[*]\r\n\tTu as tenu ta promesse.\r\n",
+		"30": "Car mes yeux ont vu ton salut,[*]\r\n\t",
+		"31": "que tu as préparé à la vue de tous les personnes.\r\n",
+		"32": "Une lumière de révélation pour les nations,[*]\r\n\tet la gloire de ton peuple d'Israël."
+	},
 	"Extra": {
-		"Passage": "Luc 2:29-33",
+		"Passage": "Luc 2:29-32",
 		"LiturgiaeHorarum-Index": 3,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

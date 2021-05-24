@@ -2,16 +2,21 @@
 	"TextAbbreviation": "nunc-dimittis",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Now, Go in Peace",
-	"Description": "From Luke 2:29-33",
+	"Description": "From Luke 2:29-32",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Lord [+], now let your servant go in peace. [*]\r\n\tYou have kept your promise.\r\nFor my eyes have seen your salvation, [*]\r\n\twhich you prepared in the sight of all people.\r\nA light of revelation for the nations, [*]\r\n\tand the glory of your people Israel.",
+	"Verses":{
+		"29": "Lord [+], now let your servant go in peace. [*]\r\n\tYou have kept your promise.\r\n",
+		"30": "For my eyes have seen your salvation, [*]\r\n\t",
+		"31": "which you prepared in the sight of all people.\r\n",
+		"32": "A light of revelation for the nations, [*]\r\n\tand the glory of your people Israel."
+	},
 	"Extra": {
-		"Passage": "Luke 2:29-33",
+		"Passage": "Luke 2:29-32",
 		"LiturgiaeHorarum-Index": 3,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

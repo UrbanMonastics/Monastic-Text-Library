@@ -2,12 +2,17 @@
 	"TextAbbreviation": "nunc-dimittis",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Christus Lumen Gentium & Gloria Israel",
-	"Description": "From Lucam 2:29-33",
+	"Description": "From Lucam 2:29-32",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
-	"Text": "Nunc dimíttis [+] servum tuum, Dómine, [*]\r\n\tsecúndum verbum tuum in pace,\r\nquia vidérunt óculi mei,[*]\r\n\tsalutáre tuum,\r\nquod parásti [*]\r\n\tante fáciem ómnium populórum,\r\nlumen ad revelatiónem géntium[*]\r\n\tet glóriam plebis tuæ Israel.",
+	"Verses":{
+		"29": "Nunc dimíttis [+] servum tuum, Dómine, [*]\r\n\tsecúndum verbum tuum in pace,\r\n",
+		"30": "quia vidérunt óculi mei,[*]\r\n\tsalutáre tuum,\r\n",
+		"31": "quod parásti [*]\r\n\tante fáciem ómnium populórum,\r\n",
+		"32": "lumen ad revelatiónem géntium[*]\r\n\tet glóriam plebis tuæ Israel."
+	},
 	"Extra": {
-		"Passage": "Lucam 2:29-33",
+		"Passage": "Lucam 2:29-32",
 		"LiturgiaeHorarum-Index": 3,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
