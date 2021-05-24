@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "magna-et-mirabilia",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Magna et Mirabilia",
+	"Description": "From Revelations 15:3-4",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"3": "",
+		"4": ""
+	},
+	"Text": "",
+	"Extra": {
+		"Passage": "Revelations 15:3-4",
+		"LiturgiaeHorarum-Index": 21,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

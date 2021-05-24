@@ -9,7 +9,12 @@
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "To this you were called,[*]\r\n\tbecause Christ suffered for you,\r\nleaving us an example to follow,[*]\r\n\tthat we should walk in his steps.\r\n\r\nHe who never sinned,[*]\r\n\tnor tasted deceit in his mouth.\r\nWhen they slandered him,[*]\r\n\the spoke not a vile word.\r\nWhen he suffered,[*]\r\n\the made no threats.\r\n\r\nHe gave himself into the hands[*]\r\n\tof the one who judges.\r\nHe took our sins upon himself,[*]\r\n\tin his body upon the cross.\r\n\r\nSo that we might die to sin,[*]\r\n\tand live in righteousness.\r\nIt is by his wounds,[*]\r\n\tthat we have been healed.",
+	"Verses": {
+		"21": "To this you were called,[*]\r\n\tbecause Christ suffered for you,\r\nleaving us an example to follow,[*]\r\n\tthat we should walk in his steps.\r\n\r\n",
+		"22": "He who never sinned,[*]\r\n\tnor tasted deceit in his mouth.\r\n",
+		"23": "When they slandered him,[*]\r\n\the spoke not a vile word.\r\nWhen he suffered,[*]\r\n\the made no threats.\r\n\r\nHe gave himself into the hands[*]\r\n\tof the one who judges.\r\n",
+		"24": "He took our sins upon himself,[*]\r\n\tin his body upon the cross.\r\n\r\nSo that we might die to sin,[*]\r\n\tand live in righteousness.\r\nIt is by his wounds,[*]\r\n\tthat we have been healed."
+	},
 	"Extra": {
 		"Passage" : "1 Peter 2:21-24",
 		"LiturgiaeHorarum-Index": 18,
