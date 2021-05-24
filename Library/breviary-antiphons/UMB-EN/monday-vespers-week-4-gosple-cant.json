@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "monday-vespers-week-4-gosple-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "My soul will forever [*] exalt you, my God.",
+	"License": "© 2021 Urban Monastics, Paris"
+}
