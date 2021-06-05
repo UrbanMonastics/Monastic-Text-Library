@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-2-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Notre Seigneur est grand; et grande est sa puissance.\r\n[R] Notre Seigneur est grand; [*] et grande est sa puissance.\r\n[V] Et sa sagesse est infini.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

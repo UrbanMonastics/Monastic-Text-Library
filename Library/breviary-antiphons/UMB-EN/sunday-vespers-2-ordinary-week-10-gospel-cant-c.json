@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "sunday-vespers-2-ordinary-week-10-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Fear gripped them all, and they gave glory to God: \"A great prophet has arisen among us, and God has visited his people.\"",
+	"License": "© 2021 Urban Monastics, Paris"
+}

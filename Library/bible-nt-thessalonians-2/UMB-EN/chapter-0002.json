@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-thessalonians-2",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"13": "But always we give thanks to God for you, our siblings, who are deeply beloved by the Lord. That God chose you to be among the first to be saved through the sanctifying work of the Spirit, and your belief in the truth. ",
+		"14": "He called you to this through our gospel, so that you might share in the glory of our Lord Jesus Christ. "
+	},
+	"Changes": [
+		"2021-06-05 - Paul Prins: Added verses 13 and 14 from the Greek."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

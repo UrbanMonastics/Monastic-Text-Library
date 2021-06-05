@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "sunday-vespers-2-week-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous, qui sommes vivants, [*] bénissons le Seigneur.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

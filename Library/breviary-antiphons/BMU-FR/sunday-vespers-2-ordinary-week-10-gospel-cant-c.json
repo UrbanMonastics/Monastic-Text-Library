@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "sunday-vespers-2-ordinary-week-10-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "La peur les a saisis, et ils ont rendu gloire à Dieu : « Un grand prophète s'est levé parmi nous, et Dieu a visité son peuple. »",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
