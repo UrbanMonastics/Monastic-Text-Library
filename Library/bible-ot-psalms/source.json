@@ -3,7 +3,8 @@
 	"Title": {
 		"default": "Psalms",
 		"UMB-EN": "The Book of Psalms",
-		"BMU-FR": "Le livre des Psaumes"
+		"BMU-FR": "Le livre des Psaumes",
+		"fra": "Psaumes"
 	},
 	"Description": "",
 	"Type": "Letter",
