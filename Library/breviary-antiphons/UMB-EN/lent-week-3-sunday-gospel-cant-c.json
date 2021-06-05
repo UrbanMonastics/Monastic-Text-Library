@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-3-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "My sins, [*] Lord, pierce me like arrows. Save me Lord before these wounds worsen within me. O my God, apply your medicine of repentance.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

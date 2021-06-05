@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "concluding-sunday-compline-1-solemnity",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous laisse prier.\r\nSeigneur, nous prions pour que vous visitiez cette maison et éloigniez tous les embûches de l'ennemi. [t] Accueillez vos saints angles pour vivre ici et soutenir notre paix. [*] Que ta bénédiction restent avec nous pour toujours. Par Jésus-Christ notre Seigneur.\r\nAmen.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

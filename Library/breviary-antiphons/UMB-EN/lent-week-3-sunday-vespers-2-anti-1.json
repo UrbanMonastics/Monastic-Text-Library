@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-3-sunday-vespers-2-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord, almighty King, deliver us for the glory of your name, and give us repentance.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

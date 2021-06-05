@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "sunday-compline-1-anti-marian-until-ash-wednesday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Hail, [*] Queen of Heaven!\r\nHail, Queen of Angels!\r\nHail, Fruitful Flower!\r\nThrough you light rose over creation.\r\n\r\nRejoice, glorious Mother,\r\nBeautiful among all women!\r\nHail, Splendid Radiance.\r\nCall out to Christ [*] for us.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "concluding-sunday-compline-1-solemnity",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Let us Pray.\r\nLord, we pray that you will visit this house and drive far away every snare of the enemy. [t] Make welcome your holy angles to live here and to sustain our peace. [*] May your blessings remain with us forever. Through Jesus Christ our Lord.\r\nAmen.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

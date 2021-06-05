@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-10-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "C'est la miséricorde que je veux, et non le sacrifice. Je ne suis pas venu appeler les justes, mais les pécheurs.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

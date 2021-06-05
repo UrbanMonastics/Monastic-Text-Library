@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "compline-sunday-1-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Toute la nuit [*] bénissez le Seigneur.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

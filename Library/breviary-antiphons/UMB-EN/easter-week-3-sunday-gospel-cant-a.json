@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "easter-week-3-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Stay with us, [*] for evening comes, and the day fades, Alleluia Alleluia.",
+	"Description": "",
+	"License": "© 2021 Urban Monastics, Paris"
+}

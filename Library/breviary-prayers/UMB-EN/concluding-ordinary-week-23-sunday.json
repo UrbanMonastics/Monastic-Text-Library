@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-23-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, who sent your Son to save us and adopted us as your children, look with kindness upon those you see with your fatherly; since we believe in Christ, grant us true freedom and eternal life. Through Jesus Christ.",
+	"Description": "Based on Matthew 18. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle A.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

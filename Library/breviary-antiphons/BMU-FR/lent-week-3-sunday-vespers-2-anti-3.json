@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-3-sunday-vespers-2-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "En vérité, il prend sur lui nos souffrances, et il porte nos peines.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

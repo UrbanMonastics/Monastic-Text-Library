@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-3-sunday-vespers-2-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Seigneur, Roi tout-puissant, délivre-nous pour la gloire de ton nom, et donne-nous la repentance.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

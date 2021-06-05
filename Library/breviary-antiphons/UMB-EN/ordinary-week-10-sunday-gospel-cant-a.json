@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-10-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "It is mercy that I want, [*] and not sacrifice. I have not come to call the righteous, but sinners.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

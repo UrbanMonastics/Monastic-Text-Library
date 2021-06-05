@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-3-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Je t'offrirai le sacrifice d'action de grace; j'invoquerai le nom du seigneur.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

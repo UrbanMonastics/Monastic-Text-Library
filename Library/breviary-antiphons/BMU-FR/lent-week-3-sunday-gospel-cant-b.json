@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-3-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus est entré dans le Temple de Dieu, et il a chassé tous ceux qui vendaient et achetaient. Il retourna les tables des changeurs de monnaie et des vendeurs de colombes.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
