@@ -32,5 +32,6 @@
 	},
 	"Changes": [
 		"2021-04-10 - Paul Prins: Removed Liturgical Formating from the version in the breviary, and added the 'Praise the Lord' back to the end."
-	]
+	],
+	"License": "© 2021 Urban Monastics, Paris"
 }
