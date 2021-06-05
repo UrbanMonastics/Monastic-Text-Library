@@ -3,7 +3,9 @@
 	"Title": {
 		"default": "1 Thessalonians",
 		"SBLGNT": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ A",
-		"UMB-EN": "The First Letter to the Church in Thessaloniki"
+		"UMB-EN": "The First Letter to the Church in Thessaloniki",
+		"BMU-FR": "La Première Lettre à l'Église de Thessalonique",
+		"fra": "1 Thessaloniciens"
 	},
 	"Description": "",
 	"Type": "Letter",
