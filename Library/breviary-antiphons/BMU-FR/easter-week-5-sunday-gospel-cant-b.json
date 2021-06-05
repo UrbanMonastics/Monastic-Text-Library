@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Demeurez dans [*] mon amour ; celui qui demeure en moi, je demeure moi aussi en lui. Alléluia.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

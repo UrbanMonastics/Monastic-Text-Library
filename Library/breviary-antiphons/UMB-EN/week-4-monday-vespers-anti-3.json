@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-4-monday-vespers-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "He chose us in Christ [*] before the world began, that we would be holy and without blame before God, in love.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-4-monday-vespers-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Grandes sont les œuvres du Seigneur.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

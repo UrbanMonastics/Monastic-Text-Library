@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Je suis le chemin, [*] la vérité et la vie; personne ne vient au Père que par moi, alléluia.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

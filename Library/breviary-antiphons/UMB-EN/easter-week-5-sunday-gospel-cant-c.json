@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "I give you a new commandment: [*] love one another as I have loved you. Alleluia.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "week-3-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "All his comandments are faithful, established for ever and ever!",
+	"Description": "Based on Psalm 119:86",
+	"License": "© 2021 Urban Monastics, Paris"
+}

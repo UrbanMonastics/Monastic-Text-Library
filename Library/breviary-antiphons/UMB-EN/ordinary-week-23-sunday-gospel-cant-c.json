@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "ordinary-week-23-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Christ tells us in the Gospel, \"Anyone who doesn't give up all their possessions, cannot be my disciple.\"",
+	"Description": "Based on Luke 14:33. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle C.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-4-monday-vespers-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Because His mercy endures forever.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

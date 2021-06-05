@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Fais-moi sortir [*] de la prison qui me garde, Seigneur, et je louerai ton Nom. Alléluia.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

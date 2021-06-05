@@ -316,6 +316,10 @@ The array has 2 values and ***no keys***:
 	}
 
 
+### Picking an Abbreviation for the Breviary
+Many of the texts for our Breviary are filtered by abbreviations. To make this easier during the development phase we should give them abbreviations that follow this pattern: _season_-_week_-_day of week_-_office_-_part of office_  
+
+When there are texts which are used in multiple offices, or in different parts of an office you should exclude that section from the abbreviation. For abreviations which come out of the 4 week schedule simply exclude the 'season' so that it starts with the week instead (or in the case of compline you would also exclude the week since there is only one week). For the Breviary prayers you should preface the abbreviation with either 'intercessions' or 'concluding' so that they are more easily grouped in the list of files.
 
 
 ## Formatting Notes:
