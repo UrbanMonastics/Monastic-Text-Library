@@ -3,6 +3,6 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V]Atténde, Dómine, et miserére, [*] Quia peccávimus tibi.\r\n[R]Exáudi, Christe, supplicántum presces.\r\n[R]Glória Patri, et Fílio, et Spirítui Sancto.",
+	"Text": "[V]Atténde, Dómine, et miserére, Quia peccávimus tibi.\r\n[R]Atténde, Dómine, et miserére, [*] Quia peccávimus tibi.\r\n[V]Exáudi, Christe, supplicántum presces.\r\n[V]Glória Patri, et Fílio, et Spirítui Sancto.",
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

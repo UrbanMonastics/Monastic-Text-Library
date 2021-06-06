@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-3-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Béni sois-tu Seigneur, au royaume du cieux.\r\n[R] Béni sois-tu Seigneur, [*] au royaume du cieux.\r\n[V] Toute la création donne toi gloire et louange pour toujours.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
