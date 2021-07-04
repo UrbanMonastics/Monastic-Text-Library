@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-14-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous soyons ravis, [*] réjouissons-nous, car le Seigneur dit que nos noms sont inscrits dans le ciel.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

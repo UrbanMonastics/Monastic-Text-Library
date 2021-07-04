@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-14-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "We praise [*] you, Father, Lord of heaven and earth. What you hid from the wise and prudent, you revealed to the little ones.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

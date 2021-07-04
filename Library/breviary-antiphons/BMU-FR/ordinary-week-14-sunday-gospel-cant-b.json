@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-14-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "En vérité, je vous le dis, [*] aucun prophète n'est accepté dans sa patrie.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

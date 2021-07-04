@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-14-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Truly I tell you, [*] no prophet is accepted in his own country.",
+	"License": "© 2021 Urban Monastics, Paris"
+}
