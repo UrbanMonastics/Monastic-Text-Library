@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-14-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Seigneur Jesus a dit: « Je suis le pain de la vie. Celui qui vient à moi n'aura plus jamais faim, et celui qui croit en moi n'aura plus jamais soif. »",
+	"Changes": [
+		"2021-08-01 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

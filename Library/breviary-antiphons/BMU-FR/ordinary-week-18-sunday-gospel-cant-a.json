@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-14-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Avec cinq pains [*] et deux poissons, le Seigneur rassasai cinq mille personnes.",
+	"Changes": [
+		"2021-08-01 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

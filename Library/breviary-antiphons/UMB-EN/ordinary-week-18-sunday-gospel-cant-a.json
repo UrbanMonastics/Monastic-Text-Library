@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-18-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "With five bread [*] and two fish, the Lord satisfied five thousand people.",
+	"Changes": [
+		"2021-08-01 - Paul Prins: Translated this Antiphone."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-18-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Lord Jesus said, \"I'm the bread of life. The person who comes to me will never be hungry again, and whoever believes in me will never be thirsty.\"",
+	"Changes": [
+		"2021-08-01 - Paul Prins: Translated this Antiphone."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
