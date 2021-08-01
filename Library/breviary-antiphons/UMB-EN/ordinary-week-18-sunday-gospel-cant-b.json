@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "The Lord Jesus said, \"I'm the bread of life. Anyone who comes to me will never be hungry again, and whoever believes in me will never be thirsty.\"",
+	"Text": "The Lord Jesus said, [*] \"I'm the bread of life. Anyone who comes to me will never be hungry again, and whoever believes in me will never be thirsty.\"",
 	"Changes": [
 		"2021-08-01 - Paul Prins: Fix weird wording at the start of the second sentence.",
 		"2021-08-01 - Paul Prins: Translated this Antiphon."
