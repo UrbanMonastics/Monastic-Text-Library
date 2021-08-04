@@ -1,8 +1,12 @@
 {
-	"TextAbbreviation": "intercessions-week-2-sunday-vespers-2",
+	"TextAbbreviation": "petitions-week-2-sunday-vespers-2",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II] Laus et honor Christo, qui salváre in perpétuum potest accedéntes per semetípsum ad Deum, semper viven ad interpellándum pro nobis. Qua fide suffúlti eum implorémus:\r\n[IR] Meménto pópuli tui, Dómnine.\r\n[I1] Iam declinánte die, Sol iustítiæ, te super cunctum genus humánum invocámus,\r\n[I2] ut luce tua, numquam decidénte, omnes sine fine fruántur.\r\n[I1] Custódi testaméntum, quod sánguine divíno sanxísti,\r\n[I2] et sanctífica Ecclésiam tuam, ut sit immaculáta.\r\n[I1] Meménto, Dómine, congregatiónis tuæ,\r\n[I2] loci habitatiónis tuæ.\r\n[I1] In viam pacis et\r\nprosperitátis dírige iter faciéntes,\r\n[I2] ut cum salúte et gáudio ad optáta loca pervéniant.\r\n[I1] Animas, Dómine, súscipe defunctórum,\r\n[I2] véniam tuam eis concéde et glóriam sempitérnam.",
+	"Changes": [
+		"2021-08-04 - Paul Prins: Change abbreviation to use petitions.",
+		"2021-06-05 - Paul Prins: Added these intentions."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

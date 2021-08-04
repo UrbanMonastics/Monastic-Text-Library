@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "intercessions-week-2-sunday-vespers-2",
+	"TextAbbreviation": "petitions-week-2-sunday-vespers-2",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -8,5 +8,9 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Louange et gloire au Christ. Par lui, tous peuvent entrer dans la présence de Dieu, qui vit pour toujours et intercède pour nous. Confiants en cela par la foi, nous demandons :\r\n[IR] Souviens-toi de ton peuple, Seigneur.\r\n[I1] Alors que notre journée touche à sa fin, nous t'appelons, Soleil de justice, pour tous les peuples,\r\n[I2] que tous puissent jouir de ta lumière éternelle sans fin.\r\n[I1] Garde l'alliance que tu as consacrée par ton sang divin,\r\n[I2] et sanctifie ton Église, afin qu'elle existe sans tache.\r\n[I1] Souviens-toi, Seigneur, de tes congrégations,\r\n[I2] comme un lieu où tu demeure.\r\n[I1] Guidez-nous sur le chemin étroit. Le chemin du bonheur et de la paix, \r\n[I2] qui nous conduit au but recherché, la joie et le salut.\r\n[I1] Accueille, Seigneur, les âmes des défunts,\r\n[I2] accorde-leur ton pardon et ta gloire éternelle.",
+	"Changes": [
+		"2021-08-04 - Paul Prins: Changez l'abréviation pour utiliser les pétitions.",
+		"2021-06-05 - Paul Prins: Première traduction de ces intentions."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

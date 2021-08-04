@@ -1,8 +1,12 @@
 {
-	"TextAbbreviation": "intercessions-week-4-monday-vespers",
+	"TextAbbreviation": "petitions-week-4-monday-vespers",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II] Iesum, qui speràntes in se non derelíquit, húmili deprecatióne rogémus:\r\n[IR] Deus nostre, exáudi nos.\r\n[I1] Illuminátor noster, Christe Dómine, Ecclésiam tuam illústra lúmine tuo,\r\n[I2] ut géntibus prædicet te, magnum pietátis sacraméntum, manifestátum in carne.\r\n[I1] Sacerdótes et minístros Ecclésiæ tuæ serva,\r\n[I2] ut, cum áliis prædicáverint, ipsi fidéles in tuo servíto inveniántur.\r\n[I1] Qui pacem mundo præstitísti per sánguinem tuum,\r\n[I2] discórdiæ peccátum et belli flagéllum avérte.\r\n[I1] Grátiæ tuæ cópia coniugátis auxiliáre,\r\n[I2] quo perféctius signíficent Ecclésiæ tuæ mystérium.\r\n[I1] Omnibus concéde defúnctis véniam peccatórum,\r\n[I2] ut per misericórdiam tuam inter sanctos respírent.",
+	"Changes": [
+		"2021-08-04 - Paul Prins: Change abbreviation to use petitions.",
+		"2021-06-05 - Paul Prins: Added these intentions."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

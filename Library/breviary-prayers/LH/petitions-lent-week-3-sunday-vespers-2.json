@@ -1,8 +1,12 @@
 {
-	"TextAbbreviation": "intercessions-lent-week-3-sunday-vespers-2",
+	"TextAbbreviation": "petitions-lent-week-3-sunday-vespers-2",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II]Laus Deo Patri, qui pópulum electiónis e sémine incorruptíbili renásci vóluit per Verbum suum, quod manet in ætérnum. Ei pie supplicémus:[IR]Propítius esto, Dómine, pópulo tuo.\r\n[I1]Audi, miséricors Deus, supplicatiónes, quas pro cuncto pópulo tuo deférimus,\r\n[I2]ut desíderet se tuo pótius verbo quam cibo satiáre corpóreo.\r\n[I1]Doce nos gentem nostram et cunctos hómines sine discrímine vere et efficáciter amáre,\r\n[I2]eósque in pace et bono semper ædificáre.\r\n[I1]Réspice omnes per baptísmum regenerándos,\r\n[I2]ut domum spiritálem, tamquam lápides vivi, tibi constítuant.\r\n[I1]Qui, per Ionam prædicántem, Ninivítas ad pæniténtiam excitásti,\r\n[I2]verbo tuo peccatórum corda convérte propítius.\r\n[I1]Tríbue moriéntibus in spe Christo iúdici occúrrere,\r\n[I2]tuíque aspéctu in ætérnum gaudére",
+	"Changes": [
+		"2021-08-04 - Paul Prins: Change abbreviation to use petitions.",
+		"2021-03-07 - Paul Prins: Added these intentions."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

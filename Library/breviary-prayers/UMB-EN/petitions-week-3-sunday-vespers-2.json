@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "intercessions-week-3-sunday-vespers-2",
+	"TextAbbreviation": "petitions-week-3-sunday-vespers-2",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -8,5 +8,9 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "",
+	"Changes": [
+		"2021-08-04 - Paul Prins: Change abbreviation to use petitions.",
+		"2021-06-05 - Paul Prins: Added placeholder for these intentions."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }
