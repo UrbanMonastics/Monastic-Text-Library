@@ -1,0 +1,17 @@
+{
+	"TextAbbreviation": "chapter-0134",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Vespertina Oratio in Templo",
+	"Chapter": "134",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Ecce benedícite Dóminum, omnes servi Dómnini, [*]\r\n\tqui statis in domo Dómini per noctes.\r\n",
+		"2": "Extóllite manus vestras ad sanctuárium [*]\r\n\tet benedícite Dóminum.\r\n",
+		"3": "Benedícat te Dóminus ex Sion, [*]\r\n\tqui fecit cælum et terram."
+	},
+	"Changes": [
+		"2021-08-05 - Paul Prins: Added this Text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

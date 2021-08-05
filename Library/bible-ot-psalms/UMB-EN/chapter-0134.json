@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0134",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "A Night Prayer in the Sanctuary",
+	"Description": "",
+	"Chapter": "134",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "*A Song of Ascents*\r\nOh, bless the Lord, all you servants of the Lord,\r\n\tyou who serve throughout the nights in the house of the Lord!\r\n",
+		"2": "Lift your hands in that sanctuary,\r\n\tand bless the Lord.\r\n",
+		"3": "May the Lord bless you from Zion,\r\n\tHe who made heaven and earth."
+	},
+	"Changes": [
+		"2021-08-05 - Paul Prins: First translation of psalm 134 based on Greek, Latin, and some Hebrew - without liturgical formating, and including the preface."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
