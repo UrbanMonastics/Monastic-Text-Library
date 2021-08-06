@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0022",
+	"SourceAbbreviation": "bible-nt-revelation",
+	"Chapter": "22",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tPuis l'ange m'a montré le fleuve de l'eau de la vie. Elle est limpide comme du cristal et coule du trône de Dieu et de l'Agneau. ",
+		"2": "Elle coule au milieu de la rue et nourrit l'arbre de vie. L'arbre produit douze sortes de fruits, chaque mois pour la récolte, et ses feuilles servaient à la guérison des nations. ",
+		"3": "Il n'y aura plus de malédiction. Le trône de Dieu et de l'Agneau sera dans la ville, et ses serviteurs le serviront. ",
+		"4": "Ils verront son visage, et son nom sera sur leurs fronts. ",
+		"5": "Il n'y aura plus de nuit. Ils n'auront plus besoin ni de la lumière d'une lampe, ni de la lumière du soleil. Car le Seigneur Dieu sera leur lumière. Et ils régneront aux siècles des siècles.\r\n"
+	},
+	"InlineTitles": {
+		"1": "Fleuve et Arbre de Vie",
+		"6": ""
+	},
+	"Changes": [
+		"2021-08-06 - Paul Prins: Premier traduction du chapitre 22:1-5."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
