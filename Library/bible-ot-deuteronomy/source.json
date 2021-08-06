@@ -1,0 +1,17 @@
+{
+	"Abbreviation": "bible-ot-deuteronomy",
+	"Title": {
+		"default": "Deuteronomy",
+		"UMB-EN": "The Book of Deuteronomy",
+		"BMU-FR": "Le livre du Deutéronome",
+		"fra": "Deutéronome"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "hbo",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"SegmentTitles": true,
+	"Verses": true,
+	"Notes": ""
+}
