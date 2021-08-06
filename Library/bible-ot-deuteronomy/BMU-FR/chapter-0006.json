@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-ot-deuteronomy",
+	"Description": "",
+	"Chapter": "6",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["WLC", "CODEX-SINAITICUS"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tVoici les commandements, les prescriptions et les règles que le Seigneur votre Dieu m'a ordonné de vous enseigner. Afin que vous les suiviez dans le pays dont vous allez prendre possession. ",
+		"2": "Afin que vos enfants et leurs descendants craignent le Seigneur votre Dieu. Pour garder tous ses prescriptions et tous ses commandements que je te donne, tous les jours de ta vie. Afin que tu jouissais d'une longue vie. ",
+		"3": "Maintenant, écoute Israël, tu écouteras et tu auras soin de les suivre. Afin que tout aille bien pour toi et que tu aies un grand accroissement, comme le Seigneur, le Dieu de tes ancêtres, te l'a promis, dans un pays où coulent le lait et le miel.\r\n",
+		"4": "\tÉcoute, Israël ! Le Seigneur notre Dieu, est seul le Seigneur! ",
+		"5": "Tu aimeras le Seigneur, ton Dieu, de tout ton coeur, de toute ton âme et de toute ta force. ",
+		"6": "Ces paroles, que je te commande aujourd'hui, seront dans ton coeur. ",
+		"7": "Tu les répéteras régulièrement à tes enfants. Tu en parleras quand tu seras reposas dans ta maison, quand tu marcheras sur la route, quand tu te coucheras et quand tu te lèveras."
+	},
+	"Changes": [
+		"2021-08-05 - Paul Prins: Première traduction du chapitre 6:1-7"
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
