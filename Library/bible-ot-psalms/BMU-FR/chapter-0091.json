@@ -1,0 +1,35 @@
+{
+	"TextAbbreviation": "chapter-0091",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Protégé par l'abri du Très-Haut",
+	"Description": "",
+	"Chapter": "91",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Celui qui vit sous l'abri du Très-Haut\r\n\ttrouvera le repos à l'ombre du Tout-Puissant.\r\n",
+		"2": "Je dirai du Seigneur : « Mon refuge et ma forteresse,\r\n\tmon Dieu, je me confie en lui. »\r\n\r\n",
+		"3": "Car c'est lui qui te sauve du piège de l'oiseleur,\r\n\tet de la peste mortelle.\r\n",
+		"4": "Il te couvrira de ses plumes,\r\n\tet tu trouveras sous ses ailes un refuge,\r\n\tSa fidélité est un bouclier et une muraille.\r\n",
+		"5": "Tu ne redouteras ni la terreur de la nuit, ni la flèche qui vole de jour,\r\n",
+		"6": "\tni le peste qui traque dans les ténèbres,\r\n\tni la destruction qui frappe à midi.\r\n\r\n",
+		"7": "Un mille personnes tomberont à tes côtés,\r\n\tet dix mille personnes à ta droite,\r\n\tmais tu resteras hors d'atteinte.\r\n",
+		"8": "Tu regarderas seulement avec tes yeux,\r\n\tet verras comment les méchants sont punis.\r\n",
+		"9": "Car tu as fait du Seigneur, mon refuge,\r\n\tle Très-Haut, ta forteresse.\r\n",
+		"10": "Le malheur ne te touchera pas.\r\n\tni la peste ne s'approchera de ta tente.\r\n\r\n",
+		"11": "Car il donnera à ses anges une mission,\r\n\tpour te protéger dans toutes tes voies.\r\n",
+		"12": "Sur leurs mains ils te porteront,\r\n\tafin que tu ne heurtes jamais ton pied contre une pierre.\r\n",
+		"13": "Sur le lion et le cobra tu marcheras,\r\n\tet tu piétineras le lionceau et le dragon.\r\n\r\n",
+		"14": "« Puisqu'ils m'ont aimé, je les sauverai.\r\n\tJe les protégerai, car ils ont connu mon nom.\r\n",
+		"15": "Ils m'appelleront, et je leur répondrai,\r\n\tJe serai avec eux dans la détresse,\r\n\tJe les sauverai et les honorerai.\r\n",
+		"16": "Avec une longue vie, je les rassasierai,\r\n\tet je leur montrerai mon salut. »"
+	},
+	"Changes": [
+		"2021-09-02 - Paul Prins: Removed Liturgical Formating from the version in the breviary."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

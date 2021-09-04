@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "chapter-0091",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "In Protectione Altissimio",
+	"Description": "",
+	"Chapter": "91",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Qui hábitat in protectióne Altíssimi, [*]\r\n\tsub umbra Omnipoténtis commorábitur.\r\n",
+		"2": "\"Refúgium meum et fortitúdo mea, [*]\r\n\tDeus meus, sperábo in eum\".\r\n\r\n",
+		"3": "Quóniam ipse liberábit te de láqueo venántium [*]\r\n\tet a verbo malígno.\r\n",
+		"4": "Alis suis obumbrábit tibi, [t]\r\n\tet sub pennas eius confúgies; [*]\r\n\tscutum et loríca véritas eius.\r\n",
+		"5": "Non timbéis a timóre noctúrno, a sagítta volánte in die, [t]\r\n",
+		"6": "\ta peste perambulánte in ténebris, [*]\r\n\tab extermínio vastánte in merídie.\r\n\r\n",
+		"7": "Cadent a látere tuo mille [t]\r\n\tet decem mília a dextris tuis; [*]\r\n\tad te autem non appropinquábit.\r\n",
+		"8": "Verúmtamen óculis tuis considerábis, [*]\r\n\tet retributiónem peccatórum vidébis.\r\n",
+		"9": "Quóniam tu es, Dómine, refúgiyum meum. [*]\r\n\tAltíssimum posuísti habitáculum tuum.\r\n",
+		"10": "Non accédet ad te malum, [*]\r\n\tet flagéllum non appropinquábit tabernáculo tuo,\r\n\r\n",
+		"11": "quóniam ángelis suis mandábit de te, [*]\r\n\tut custódiant te in ómnibus viis tuis.\r\n",
+		"12": "In mánibus portábunt te, [*]\r\n\tne forte offéndas ad lápidem pedem tuum.\r\n",
+		"13": "Super áspidem et basilíscum ambulábis [*]\r\n\tet conculcábis leónem et dracónem.\r\n\r\n",
+		"14": "Quóniam mihi adhæsit, liberádo eum; [*]\r\n\tsuscípiam eum, quóniam cognóvit nomen meum.\r\n",
+		"15": "Clamábit ad me, et ego exáudiam eum; [t]\r\n\tcum ipso sum in tribulatióne, [*]\r\n\terípiam eum et glorificábo eum.\r\n",
+		"16": "Longitúdine diérum replébo eum [*]\r\n\tet osténdam illi salutáre meum."
+	},
+	"Changes": [
+		"2021-09-02 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
