@@ -24,5 +24,8 @@
 		"LiturgiaeHorarum-Index": 10,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: First translation of Ephesians 1 based on Greek, and Latin"
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

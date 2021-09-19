@@ -20,5 +20,8 @@
 		"LiturgiaeHorarum-Index": 10,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Added this text"
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }
