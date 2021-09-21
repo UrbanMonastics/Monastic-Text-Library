@@ -1,7 +1,8 @@
 {
 	"TextAbbreviation": "chapter-0111",
 	"SourceAbbreviation": "breviary-psalms",
-	"Title": "",
+	"Title": "Great Works of the Lord",
+	"Description": "",
 	"Chapter": "111",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -10,10 +11,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": ""
+		"1": "I will praise the LORD with my whole heart, [*]\r\n\tin the council of the upright and the assembly.\r\n",
+		"2": "Great are the works of the Lord, [*]\r\n\tsought out by all who delight in them.\r\n",
+		"3": "Glorious and majestic is His work, [*]\r\n\tand His justice endures forever.\r\n\r\n",
+		"4": "He has caused His wonders to be remembered, [*]\r\n\tthe LORD is gracious and compassionate.\r\n",
+		"5": "He gives food to those who fear Him; [*]\r\n\tHe remembers his covenant forever.\r\n\r\n",
+		"6": "He has shown His people the power of His works [t]\r\n\tby giving them the inheritance of nations. [*]\r\n",
+		"7": "\tThe works of His hands are truth and justice.\r\nAll His precepts are trustworthy, [t]\r\n",
+		"8": "\tstanding firm forever and ever, [*]\r\n\tmade with uprightness and truth.\r\n",
+		"9": "He has sent redemption to His people, [*]\r\n\testablishing His covenant forever.\r\n\r\nHoly and awe-inspiring is His name. [*]\r\n",
+		"10": "\tThe fear of the LORD is the beginning of wisdom.\r\n\tAll those who embody this have good understanding, [*]\r\n\ttheir praise endures forever."
 	},
 	"Changes": [
-		"2021-03-07 - Paul Prins: First translation of psalm 111 based on Greek, Latin, and some Hebrew"
+		"2021-09-21 - Paul Prins: First translation of psalm 111 based on Greek, Latin, and Hebrew"
 	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0111",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Magna Opera Domnini",
+	"Description": "",
+	"Chapter": "111",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Confitébor Dóminio in toto corde meo, [*]\r\n\tin consílio iustórum et congregatióne.\r\n",
+		"2": "Magna ópera Dómnini, [*]\r\n\texquirénda ómnibus qui cúpiunt ea.\r\n",
+		"3": "Decor et magnificéntia opus eius, [*]\r\n\tet iustítia eius manet in sæculum sæculi.\r\n\r\n",
+		"4": "Memóriam fecit mirabílium suórum, [*]\r\n\tmiséricors et miserátor Dóminus.\r\n",
+		"5": "Escam dedit timéntibus se ; [*]\r\n\tmemor erit in sæculum testaménti sui.\r\n\r\n",
+		"6": "Virtútem óperum suórum annuntiávit pópulo suo, [t]\r\n\tut det illis hereditátem géntim ; [*]\r\n",
+		"7": "\tópera mánuum eius véritas et iudícium.\r\nFidélia ómnia mandáta eius, [t]\r\n",
+		"8": "\tconfirmáta in sæculum sæculi, [*]\r\n\tfacta in veritáte et æquitáte.\r\n",
+		"9": "Redemptiónem misit pópulo sui, [*]\r\n\tmandávit in ætérnum testaméntum suum.\r\n\r\nSanctum et terríbile nomen eius. [*]\r\n",
+		"10": "\tInítium sapiéntiæ timor Dómini,\r\nintelléctus bonus ómnibus faciéntibus ea; [*]\r\n\tlaudátio eius manet in sæculum sæculi."
+	},
+	"Changes": [
+		"2021-09-04 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
