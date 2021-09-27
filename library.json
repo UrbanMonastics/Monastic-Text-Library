@@ -1,0 +1,13 @@
+{
+	"Title": {
+		"default": "Urban Monastic Texts",
+		"EN": "Urban Monastic Texts",
+		"FR": "Textes Monastique Urbain"
+	},
+    "description": {
+		"default": "This library holds all the various texts that are a part of the various monastic practices and rhythms of Urban Monasticism.",
+		"EN": "This library holds all the various texts that are a part of the various monastic practices and rhythms of Urban Monasticism.",
+		"FR": "Cette bibliothèque contient tous les différents textes qui font partie des diverses pratiques et rythmes monastiques du monachisme urbain."
+	},
+    "Notes": "The focus of this library is to include the various texts in there various languages/versions to make up our liturgies and practice guidance."
+}
