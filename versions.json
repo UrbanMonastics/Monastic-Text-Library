@@ -31,14 +31,6 @@
 		"Language": "lat-con",
 		"Date": "2000"
 	},
-	"OEB":{
-		"Abbreviation": "OEB",
-		"Title": "Open English Bible",
-		"Description": "Committed to creating a completely free modern English translation of the Bible",
-		"PublicDomain": true,
-		"Language": "eng",
-		"Date": "2020"
-	},
 	"AELF": {
 		"Abbreviation": "AELF",
 		"Title": "Association Épiscopale Liturgique Francophones",
@@ -95,32 +87,5 @@
 			"SmallCaps": true,
 			"Selah": true
 		}
-	},
-	"SBLGNT":{
-		"Abbreviation": "SBLGNT",
-		"Title": "Society of Biblical Literature Greek New Testament",
-		"Description": "This is a greek new testament which is made available to us to use by the Society of Biblical Literature.",
-		"License": "© 2010 by the [Society of Biblical Literature](http://sbl-site.org/) and [Logos Bible Software](http://www.logos.com/).",
-		"Language": "grc-koi",
-		"Date": "2010"
-	},
-	"CODEX-SINAITICUS":{
-		"Abbreviation": "CODEX-SINAITICUS",
-		"Title": "Codex Sinaiticus (Septuigent and New Testament)",
-		"Description": "A transcribed copy of the the Coex Sinaiticus which is one of the oldest and most intact versions of the greek bible.",
-		"License": "Codex Sinaiticus by [The Codex Sinaiticus Project](http://www.codexsinaiticus.org/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).",
-		"Language": "grc-koi",
-		"Date": "325-360",
-		"Notes": "The current texts were imported version 1.04 (25.3.2014) in March 2021."
-	},
-	"WLC": {
-		"Abbreviation": "WLC",
-		"Title": "Westminster Leningrad Codex",
-		"Description": "A digitized version of the Leningrad Codex (1008 CE).",
-		"PublicDomain": true,
-		"License": "All biblical Hebrew text, in any format, may be viewed or copied without restriction. [Citation of this site as the source](https://tanach.us/) of the text is appreciated. Please include the version number, 26.2, as a reference.",
-		"Language": "hbo",
-		"Date": "1008",
-		"Notes": "The current texts were imported version 26.2 (18 Dec 2020) in March 2021."
 	}
 }
