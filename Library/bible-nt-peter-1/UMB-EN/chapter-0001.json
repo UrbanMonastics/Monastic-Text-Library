@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0001",
+	"SourceAbbreviation": "bible-nt-peter-1",
+	"Chapter": "1",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Peter, an apostle of Jesus Christ.\r\n\tTo those who find themselves in strange lands, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia. You who are chosen ",
+		"2": "according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient to Jesus Christ, and be sprinkled with Christs blood. May the fullness of grace and peace be yours.\r\n\r\n",
+		"3": "\tBlessed be God, the Father of our Lord Jesus Christ. In His great mercy, he has given us a new birth into a living hope through the resurrection of Jesus Christ from the dead. ",
+		"4": "So we will inherit what never perishes, spoils, or fades away. An inheritance that is being kept safe for you in heaven. ",
+		"5": "You who are protected by the power of God, through faith, for a salvation ready to be revealed at the end of time. ",
+		"6": "In this you greatly rejoice even if, for a little while now, you have been grieved by various trials. ",
+		"7": "These trials have come so the proof of your faith - being more precious than gold, which perishes, even though it is refined by fire - may reveal its praise, glory, and honor at the revelation of Jesus Christ. ",
+		"8": "Though you haven't seen him, you love him; and even though you do not see him now, you believe in him, and you rejoice with an inexpressible glorious joy. ",
+		"9": "For you are receiving the result of your faith - the salvation of souls.\r\n"
+	},
+	"Changes": [
+		"2021-09-29 - Paul Prins: First translation of verses 1-9 based on Greek."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
