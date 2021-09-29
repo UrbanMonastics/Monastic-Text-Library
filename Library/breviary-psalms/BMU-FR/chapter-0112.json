@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "chapter-0112",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Bénis sont les Justes",
+	"Description": "",
+	"Chapter": "112",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Heureux qui craint le SEIGNEUR, [*]\r\n\tqui prend grand plaisir à ses commandements.\r\n",
+		"2": "Sa descendance sera puissante sur la terre, [*]\r\n\tla génération des justes sera bénie.\r\n",
+		"3": "Dans leurs maisons se trouvent d'abondantes richesses, [*]\r\n\tet sa justice subsiste à jamais.\r\n\r\n",
+		"4": "Dans les ténèbres, une lumière lève pour les droits, [*]\r\n\tIl est gracieux, de compatissant, et de juste.\r\n",
+		"5": "Une personne de bien est gracieuse et prête, [t]\r\n\tils mènent leurs affaires avec justesse, [*]\r\n",
+		"6": "\tet ils ne seront jamais ébranlés.\r\n\r\nOn se souviendra toujours des justes, [*]\r\n",
+		"7": "\tils ne craignent pas les mauvaises nouvelles.\r\nLeurs cœurs sont constants, ils se confient en le SEIGNEUR, [t]\r\n",
+		"8": "\tleurs cœurs sont puissants, ils n'auront pas peur, [*]\r\n\tils regarderont avec triomphe sur leurs rivaux.\r\n\r\n",
+		"9": "Il a distribué librement, Il a donné aux pauvres ; [t]\r\n\tSa justice est éternelle, [*]\r\n\tSa corne sera exaltée avec honneur.\r\n\r\n",
+		"10": "Les méchants le verront et seront furieux, [t]\r\n\tils grinceront des dents et se fondront. [*]\r\n\tLe désir des méchants mène à la destruction."
+	},
+	"Changes": [
+		"2021-09-29 - Paul Prins: Première traduction du psaume 112 basée sur le grec, le latin et l'hébreu."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

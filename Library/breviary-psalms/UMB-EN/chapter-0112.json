@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "chapter-0112",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Blessed are the Righteous",
+	"Description": "",
+	"Chapter": "112",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Blessed is the one who fears the LORD, [*]\r\n\twho greatly delights in His commandments.\r\n",
+		"2": "Their descendants will be mighty on the earth, [*]\r\n\tthe generation of the upright will be blessed.\r\n",
+		"3": "In their houses are abundant riches, [*]\r\n\tand their righteousness endures forever.\r\n\r\n",
+		"4": "In the darkness a light shines for the upright, [*]\r\n\tHe is gracious, compassionate, and righteous.\r\n",
+		"5": "A good person is gracious and lends, [t]\r\n\tthey conduct their affairs justly, [*]\r\n",
+		"6": "\tand they will never be shaken.\r\n\r\nThe righteous will be remembered forever, [*]\r\n",
+		"7": "\tthey will not fear evil news.\r\nTheir hearts are steadfast, trusting in the LORD, [t]",
+		"8": "\ttheir hearts are strong, they won't be afraid, [*]\r\n\tthey will look with triumph over their foes.\r\n\r\n",
+		"9": "He has distributed freely, and given to the poor; [t]\r\n\tHis justice endures forever, [*]\r\n\tHis horn will be exalted with honor.\r\n\r\n",
+		"10": "The wicked will see and be furious, [t]\r\n\tthey will gnash their teeth and melt away. [*]\r\n\tThe desire of the wicked leads to destruction."
+		},
+	"Changes": [
+		"2021-09-29 - Paul Prins: First translation of psalm 112 based on Greek, Latin, and Hebrew"
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

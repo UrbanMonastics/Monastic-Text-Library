@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0112",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Viri Iusti Beatitudo",
+	"Description": "",
+	"Chapter": "112",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Beátus vir qui timet Dóminum, [*]\r\n\tin mandátis eius cupit nimis.\r\n",
+		"2": "Potens in terra erit semen eius, [*]\r\n\tgenerátio rectórum benedicétur.\r\n",
+		"3": "Glória et divítiæ in domo eius, [*]\r\n\tet iustítia eius manet in sæculum sæculi.\r\n\r\n",
+		"4": "Exórtum est in ténebris lumen rectis, [*]\r\n\tmiséricors et miserátor et iustus.\r\n",
+		"5": "Iucúndus homo qui miserétur et cómmodat, [t]\r\n\tdispónet res suas in iudício, [*]\r\n",
+		"6": "\tquia in ætérnum non commovébitur.\r\n\r\nIn memória ætérna erit iustus, [*]\r\n",
+		"7": "\tad auditióne mala non timébit.\r\n\tParátum cor eius, sperans in Dómino, [t]\r\n",
+		"8": "\tconfirmátum est cor eius, non timébit, [*]\r\n\tdonec despíciat inimícos suos.\r\n\r\n",
+		"9": "Distríbuit, dedit paupéribus; [t]\r\n\tiustítia eius manet in sæculum sæculi, [*]\r\n\tcornu eius exaltábitur in glória.\r\n\r\n",
+		"10": "Peccátor vidébit et irascétur, [t]\r\n\tdénitbus suis fremet et tabéscet. [*]\r\n\tDesidérium peccatórum períbit."
+	},
+	"Changes": [
+		"2021-09-28 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
