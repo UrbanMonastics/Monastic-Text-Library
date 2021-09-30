@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-27-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, out of your inexhaustible love you fulfill those who seek you in prayer. [t] You give to them beyond their merits and desires. Pour out your mercy on us [*] by freeing our minds from what worries them, and by giving more than we dare ask. Through Jesus Christ.",
+	"Changes": [
+		"2021-09-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

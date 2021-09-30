@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Vous aussi, [*] quand vous aurez fait tout ce que Dieu vous a commandé, vous vous direz : « Nous sommes des serviteurs inutiles : nous n'avons fait que ce que nous devions faire. »",
+	"Changes": [
+		"2021-09-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

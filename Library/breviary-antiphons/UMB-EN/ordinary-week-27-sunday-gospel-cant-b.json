@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Allow the little ones [*] to come to me; for the Kingdom of Heaven belongs to those like them.",
+	"Description": "",
+	"Changes": [
+		"2021-09-30 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

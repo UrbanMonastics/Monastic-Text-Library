@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Laissez venir [*] à moi les petits, car le Royaume des Cieux est à ceux qui leur ressemblent.",
+	"Changes": [
+		"2021-09-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "You too, [*] when you have done all God has commanded you, you tell yourselves, \"We are useless servants: we have only done what we had to.\"",
+	"Description": "",
+	"Changes": [
+		"2021-09-30 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Those evil people [*] will be expelled, and he will bring in other famers to his vineyard who will deliver fruit to him in the coming season.",
+	"Description": "",
+	"Changes": [
+		"2021-09-30 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

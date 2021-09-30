@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-27-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu éternel et tout-puissant, par ton amour inépuisable tu exauces ceux qui t'implorent dans la prière. [t] Tu leur donnes au-delà de leurs mérites et de leurs désirs. Répands ta miséricorde [*] sur nous en libérant nos esprits de ce qui les préoccupe, et en donnant plus que ce que nous osons demander. Par Jésus-Christ.",
+	"Changes": [
+		"2021-09-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
