@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-2-sunday-vespers-2-anti-1",
+	"TextAbbreviation": "week-1-sunday-vespers-2-anti-1",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,6 +7,6 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Le Seigneur dit [*] à mon maître: « Assieds-toi à ma droite »",
+	"Text": "Le SEIGNEUR dit [*] à mon maître: « Assieds-toi à ma droite »",
 	"License": "© 2021 Monastiques Urbain, Paris"
 }
