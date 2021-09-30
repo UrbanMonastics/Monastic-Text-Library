@@ -3,8 +3,9 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Deum, qui mundum, olim creåtum, redemptióne recreávit et semper rénovat amóre, laetántibus ánimis invocémus:\r\nRénova mirabília amóris tui, Dómine.\r\nGrátis tibi, Dues, qui poténtiam tuam in univérsa creatióne revélas,\r\n\t- et in mundi cursu providéntiam maniféstas.\r\nPer Fílium tuum, pacis praecónem et in cruce victórem,\r\n\t- ab ináni timóre ac desperatióne nos líbera.\r\nOmnibus, qui iustítiam díligunt atque colunt,\r\n\t- concéde, ut sine dolo ad aedificándum mundum in vera pace cooperéntur.\r\nAdésto oppréssis captívos líbera, míseros consoláre, panem tríbue esuriéntibus, firmitátem concéde debílibus,\r\n\t- Victóriam crucis in ómnibus osténde.\r\nQui Fîlium tuum post mortem et sepultúram ad glóriam mirabíliter suscitásti,\r\n\t- defúnctos ad vitam cum eo perveníre concéde.",
+	"Text": "[II] Deum, qui mundum, olim creåtum, redemptióne recreávit et semper rénovat amóre, laetántibus ánimis invocémus:\r\n[IR] Rénova mirabília amóris tui, Dómine.\r\n[I1] Grátis tibi, Dues, qui poténtiam tuam in univérsa creatióne revélas,\r\n[I2] et in mundi cursu providéntiam maniféstas.\r\n[I1] Per Fílium tuum, pacis praecónem et in cruce victórem,\r\n[I2] ab ináni timóre ac desperatióne nos líbera.\r\n[I1] Omnibus, qui iustítiam díligunt atque colunt,\r\n[I2] concéde, ut sine dolo ad aedificándum mundum in vera pace cooperéntur.\r\n[I1] Adésto oppréssis captívos líbera, míseros consoláre, panem tríbue esuriéntibus, firmitátem concéde debílibus,\r\n[I2] victóriam crucis in ómnibus osténde.\r\n[I1] Qui Fîlium tuum post mortem et sepultúram ad glóriam mirabíliter suscitásti,\r\n[I2] defúnctos ad vitam cum eo perveníre concéde.",
 	"Changes": [
+		"2021-09-30 - Paul Prins: Added our extended markdown for interessorary prayers.",
 		"2021-08-04 - Paul Prins: Change abbreviation to use petitions.",
 		"2021-06-05 - Paul Prins: Added these intentions."
 	],
