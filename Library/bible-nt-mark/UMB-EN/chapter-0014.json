@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0014",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "14",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"22": "While they were eating, Jesus took some bread. After blessing it, He broke it, and gave it to them, saying,\r\n\t\"Take it; this is My Body.\"\r\n ",
+		"23": "\tThen He took a cup, and after giving thanks for it, He gave it to them, and they all drank from it.\r\n",
+		"24": "\t\"This is My blood of the covenant, which is being poured out for many,\" He said to them. ",
+		"25": "\"Truly, I tell you, I will not drink again the fruit of the vine until that day when I drink it afresh in the Kingdom of God.\"",
+		"26": "\tAfter singing a hymn, they left to go to the Mount of Olives."	
+	},
+	"InlineTitles": {
+		"22": "Jesus Establishes the Eucharist"
+	},
+	"Changes": [
+		"2021-10-02 - Paul Prins: First translation of chapter 12:22-26."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0014",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "14",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"22": "Pendant qu'ils mangeaient, Jésus prit du pain. Après l'avoir béni, Il le rompit et le leur donna, en disant,\r\n\t« Prenez-le, ceci est Mon corps. »\r\n",
+		"23": "\tIl prit ensuite une coupe ; après en avoir rendu grâces, Il la leur donna, et ils en burent tous.\r\n",
+		"24": "\tIl leur dit : « Ceci est Mon sang, le sang de l'alliance, qui est versé pour beaucoup. ",
+		"25": "En vérité, Je vous le dis, Je ne boirai plus le fruit de la vigne, jusqu'au jour où Je le boirai nouveau dans le Royaume de Dieu. »\r\n",
+		"26": "\tAprès avoir chanté un hymne, ils partirent pour se rendre sur le mont des Oliviers."	
+	},
+	"InlineTitles": {
+		"22": "Jésus établit l'Eucharistie"
+	},
+	"Changes": [
+		"2021-10-02 - Paul Prins: Première traduction du chapitre 12:22-26."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
