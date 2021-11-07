@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0012",
+	"SourceAbbreviation": "bible-nt-hebrews",
+	"Chapter": "12",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"22": "\t⸀Mais vous, vous être venus vers la montagne de Sion, et vers la cité du Dieu vivant, la Jérusalem céleste, et vers les anges innombrables. ",
+		"23": "Vers l'église assemblée des premiers-nés, dont les noms sont écrits et attendus dan les cieux. Vous être venus vers Dieu, le juge de tous, et vers les esprits des justes devenus parfaits. ",
+		"24": "Vous être venus vers Jésus, le médiateur d'une Alliance nouvelle. Aussi vers son sang répandu don't l'appel surpasses celui d'Abel. "
+	},
+	"Changes": [
+		"2021-11-07 - Paul Prins: Première traduction des versets 22-24 basée sur le grec."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

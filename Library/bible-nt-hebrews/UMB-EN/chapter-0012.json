@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0012",
+	"SourceAbbreviation": "bible-nt-hebrews",
+	"Chapter": "12",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"22": "\tBut you have come to Mount Zion, and to the city of the living God, the heavenly Jerusalem, and to the innumerable angels. ",
+		"23": "To the gathered church of the firstborn whose names are written and awaited in the heavens. You have come to God, the Judge of all, and to the spirits of the righteous having become perfect. ",
+		"24": "You have come to Jesus the mediator of a new covenant. Also to his shed blood whose call surpasses that of Abel. "
+	},
+	"Changes": [
+		"2021-11-07 - Paul Prins: First translation of verses 22-24 based on Greek."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
