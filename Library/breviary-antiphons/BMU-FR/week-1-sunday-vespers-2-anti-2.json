@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-1-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Tu nous as fait [*] sortir d'Égypte, Seigneur.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

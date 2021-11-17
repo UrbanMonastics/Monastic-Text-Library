@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-week-1-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Adorons le Seigneur Jésus-Christ. Qui est la tête de notre seul corps. Que nous rejoignons chacun en tant que membre,  quand nous crions avec exultation :\r\n[IR] Seigneur, que ton règne vienne.\r\n[I1] Notre sauveur, continue à faire de ton Église le sacrement vivant de l'unité des peuples,\r\n[I2] et le mystère du salut pour toutes les nations et tous les temps.\r\n[I1] Comme notre Grand Prêtre, aide toujours ceux qui dirigent ton Église universelle,\r\n[I2] en leur donnant les dons de l'unité, de la charité et de la paix.\r\n[I1] Aide tous les chrétiens à rester étroitement unis à toi, notre divin Chef,\r\n[I2] que nous puissions proclamer ton Royaume par le témoignage de nos vies.\r\n[I1] Accorde la paix au monde,\r\n[I2] afin que le calme et la sécurité fleurissent en tous lieux.\r\n[IXtra]\r\n[I1] Donne aux défunts la gloire de la résurrection finale,\r\n[I2] et partage avec nous le trop-plein de leurs bénédictions.",
+	"Changes": [
+		"2021-11-16 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

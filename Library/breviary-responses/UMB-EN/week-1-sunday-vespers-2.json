@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-1-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Blessed are you, Lord, in expanse of Heaven.\r\n[R] Blessed are you, Lord, [*] in expanse of Heaven.\r\n[V] You are majestic and glorious forever.\r\n[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

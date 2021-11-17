@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-1-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "You brought us [*] out of Egypt, Lord.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

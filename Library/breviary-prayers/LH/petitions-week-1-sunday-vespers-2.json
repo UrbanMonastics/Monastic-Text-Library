@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "petitions-week-1-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Christum Dóminum adorántes, qui est caput nostrum et cuius nos membra sumus, cum exsulatióne clamémus:\r\n[IR] Advéniat regnum tuum, Dómine.\r\n[I1] Ecclésiam tuam, Salvátor noster, unitátis géneris humáni vivídius constíue sacraméntum,\r\n[I2] et efficácius cunctis géntibus salútis mystérium.\r\n[I1] Episcopórum collégio cum Papa nostro semper adésto,\r\n[I2] iísque unitátis, caritátis pac´ísque dona largíre.\r\n[I1] Fac ut árctius uniántur tibi divíno cápiti christiáni,\r\n[I2] et regnum tuum testimónio vitæ procaláment.\r\n[I1] Pacem mundo præstáre dignéris,\r\n[I2] ut secúritas et tranquíllitas ubíque floréscant.\r\n[IXtra]\r\n[I1] Novíssimæ resurrectiónis glóriam concéde defúnctis,\r\n[I2] et illórum nos beatitúdinis fac esse consórtes.",
+	"Changes": [
+		"2021-11-16 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

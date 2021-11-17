@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-1-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Béni sois-tu, Seigneur, dans l'étendue du Ciel.\r\n[R] Béni sois-tu, Seigneur, [*] dans l'étendue du Ciel.\r\n[V] Tu es majestueux et glorieux pour toujours.\r\n[V] Gloire au Père, au Fils et au Saint-Esprit.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
