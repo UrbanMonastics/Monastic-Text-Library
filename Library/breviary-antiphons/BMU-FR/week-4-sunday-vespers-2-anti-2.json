@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Heureux celui qui prend grand plaisir [*] à Ses commandements.",
+	"Description": "From the second line of Psalm 112:1",
+	"Changes": [
+		"2021-11-20 - Paul Prins: Première traduction de cette Antienne."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

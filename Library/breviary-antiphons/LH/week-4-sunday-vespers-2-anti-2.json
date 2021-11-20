@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-2-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "In mandátis eius [*] cupit nimis.",
+	"Description": "From the second line of Psalm 112:1",
+	"Changes": [
+		"2021-11-20 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

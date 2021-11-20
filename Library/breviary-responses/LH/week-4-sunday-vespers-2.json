@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[R] Magnus Dóminus noster, et magna virtuis eius.\r\n[V] Magnus Dóminus noster, [*] et magna virtuis eius.\r\n[V] Et sapiémntiæ eius non est númerus.\r\n[V] Gloria Patir, et Fílio, et Spirítui Sancto.",
+	"Changes": [
+		"2021-11-20 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
