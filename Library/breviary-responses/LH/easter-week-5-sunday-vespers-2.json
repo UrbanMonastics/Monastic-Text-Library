@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[V]Surréxit Dóminus vere\r\n[R]Allelúia, allelúia.\r\n[V]Et appáruit Simóni.\r\n[V]Glória Patri, et Fílio, et Spirítui Sancto.",
+	"Changes": [
+		"2021-05-01 - Paul Prins: Added this Response."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

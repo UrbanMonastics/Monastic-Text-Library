@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[R]Hæc dies, [*] quam fecit Dóminus : exsultémus, et lætémur in ea.",
+	"Changes": [
+		"2021-04-10 - Paul Prins: Added this Response."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }
