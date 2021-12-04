@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-2-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and merciful God, [t] do not let our preoccupation with earthly tasks delay our journey to meet your Son; [*] rather let your grace lead us to your divine wisdom from beyond ourselves, that prepares our hearts to see Jesus, to welcome Him, and allow us to accept His invitation to share in His life. To Him who reigns.",
+	"Changes": [
+		"2021-12-04 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

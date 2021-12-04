@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-2-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et miséricordieux, [t] ne laisse pas notre préoccupation pour tâches présentes entraver notre marche à la rencontre de ton Fils ; [*] laisse plutôt ta grâce nous conduire à ta sagesse divine, au-delà de nous-mêmes, qui prépare nos cœurs à voir Jésus, à l'accueillir, et nous permet d'accepter Son invitation à partager Sa vie. Celui qui règne.",
+	"Changes": [
+		"2021-12-04 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
