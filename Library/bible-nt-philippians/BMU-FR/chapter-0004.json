@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-philippians",
+	"Chapter": "4",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"4": "",
+		"5": ""
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2021-12-05 - Paul Prins: Première traduction du chapitre 4:4-5."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

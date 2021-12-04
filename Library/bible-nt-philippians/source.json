@@ -2,7 +2,10 @@
 	"Abbreviation": "bible-nt-philippians",
 	"Title": {
 		"default": "Philippians",
-		"UMB-EN": "The Letter to the Church in Philippi"
+		"UMB-EN": "The Letter to the Church in Philippi",
+		"BMU-FR": "La lettre à l'Église de Philippes",
+		"EN": "Philippians",
+		"FR": "Philippiens"
 	},
 	"Description": "",
 	"Type": "Letter",
