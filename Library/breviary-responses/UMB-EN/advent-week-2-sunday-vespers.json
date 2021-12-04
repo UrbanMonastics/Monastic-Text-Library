@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[R] Show us, Lord, your love.\r\n[V] Show us, Lord, [*] your love.\r\n[V] And give us your salvation.\r\n[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"Text": "[V] Show us, Lord, your love.\r\n[R] Show us, Lord, [*] your love.\r\n[V] And give us your salvation.\r\n[V] Glory to the Father, to the Son, and to the Holy Spirit.",
 	"Changes": [
 		"2021-12-04 - Paul Prins: Initial translation from Latin"
 	],

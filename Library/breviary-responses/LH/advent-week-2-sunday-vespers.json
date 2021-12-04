@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[R] Osténde nobis Dómine Misericórdiam tuam.\r\n[V] Osténde nobis Dómine [*] Misericórdiam tuam.\r\n[V] Et salutáre tuum da nobis.\r\n[V] Gloria Patir, et Fílio, et Spirítui Sancto.",
+	"Text": "[V] Osténde nobis Dómine Misericórdiam tuam.\r\n[R] Osténde nobis Dómine [*] Misericórdiam tuam.\r\n[V] Et salutáre tuum da nobis.\r\n[V] Gloria Patir, et Fílio, et Spirítui Sancto.",
 	"Changes": [
 		"2021-12-04 - Paul Prins: Added this Response."
 	],

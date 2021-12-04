@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[R] Christ, Fils du Dieu vivant, prends pitié de nous.\r\n[V] Christ, Fils du Dieu vivant, [*] prends pitié de nous.\r\n[V] Toi qui es venu dans la création.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"Text": "[V] Christ, Fils du Dieu vivant, prends pitié de nous.\r\n[R] Christ, Fils du Dieu vivant, [*] prends pitié de nous.\r\n[V] Toi qui es venu dans la création.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
 	"Changes": [
 		"2021-12-04 - Paul Prins: Première traduction du latin."
 	],
