@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "00013-invitatorium-thursday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Adorons le Seigneur, car c'est lui qui nous a faits.",
+	"Description": "Invitatory antiphon for Thursday in ordinary time.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

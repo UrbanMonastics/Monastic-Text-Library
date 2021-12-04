@@ -2,12 +2,12 @@
 	"TextAbbreviation": "00002-invitatorium-advent",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "UMB-EN",
+	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Now, the Lord is close. Come, let us adore him.",
+	"Text": "Désormais, le Seigneur est proche : venez, adorons-le.",
 	"Description": "Invitatory antiphon for Advent between the 16th of December and the end of Advent.",
 	"License": "© 2021 Urban Monastics, Paris"
 }

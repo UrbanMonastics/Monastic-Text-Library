@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "00009-invitatorium-sunday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Venez, ensemble nous exulterons le Seigneur.",
+	"Description": "Invitatory antiphon for Sundays in ordinary time. [Not Repeated inside the Psalm]",
+	"License": "© 2021 Urban Monastics, Paris"
+}

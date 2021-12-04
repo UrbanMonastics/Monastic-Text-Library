@@ -2,12 +2,12 @@
 	"TextAbbreviation": "00014-invitatorium-friday",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "UMB-EN",
+	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Come and worship the Lord, for He is our God.",
+	"Text": "Venez et adorez le Seigneur, car il est notre Dieu.",
 	"Description": "Invitatory antiphon for Friday in ordinary time.",
 	"License": "© 2021 Urban Monastics, Paris"
 }

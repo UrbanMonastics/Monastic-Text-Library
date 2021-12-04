@@ -2,12 +2,12 @@
 	"TextAbbreviation": "00012-invitatorium-wednesday",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "UMB-EN",
+	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "The Lord has made us. Come, let us worship him.",
+	"Text": "Le Seigneur nous a faits : venez, adorons-le.",
 	"Description": "Invitatory antiphon for Wednesday in ordinary time.",
 	"License": "© 2021 Urban Monastics, Paris"
 }

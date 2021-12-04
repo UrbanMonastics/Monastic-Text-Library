@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "00003-invitatorium-christmastide",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Christ est né pour nous : venez, adorons-le.",
+	"Description": "Invitatory antiphon for Christmastide until and including Epiphany",
+	"License": "© 2021 Urban Monastics, Paris"
+}

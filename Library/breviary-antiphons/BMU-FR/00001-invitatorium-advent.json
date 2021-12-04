@@ -2,12 +2,12 @@
 	"TextAbbreviation": "00001-invitatorium-advent",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "UMB-EN",
+	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "The King who is to come, it's the Lord. Come, let us adore him.",
+	"Text": "Le Roi qui doit venir, c'est le Seigneur : venez, adorons-le.",
 	"Description": "Invitatory antiphon for the begining of advent up to and including 16th of december.",
 	"License": "© 2021 Urban Monastics, Paris"
 }
