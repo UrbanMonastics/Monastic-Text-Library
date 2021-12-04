@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Sion [*] est notre ville forte. Le Seigneur y a construit un mur et une fortification. Ouvrez les portes ! Dieu est avec nous, alléluia !",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

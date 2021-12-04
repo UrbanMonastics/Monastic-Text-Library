@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-gospel-cant-ab",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "One is coming [*] who is mightier than me. I am not worthy to until the the strap of his sandals.",
+	"Description": "Comes from Luke 3:16",
+	"License": "© 2021 Urban Monastics, Paris"
+}

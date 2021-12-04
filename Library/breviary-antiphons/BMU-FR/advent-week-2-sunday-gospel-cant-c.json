@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Toute vallée [*] sera comblée, toute montagne et toute colline seront abaissées, et toute la création verra le salut de Dieu.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

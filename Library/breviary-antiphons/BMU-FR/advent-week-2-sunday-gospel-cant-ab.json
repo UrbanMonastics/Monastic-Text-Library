@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-gospel-cant-ab",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Il en vient [*] un qui est plus puissant que moi. Je ne suis pas digne de délier la courroie de ses sandales.",
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

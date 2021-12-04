@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-gospel-cant-ab",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Veniet [*] fórtior me post me, cuius non sum dignus sólvere corrígiam calceamentórum eius.",
+	"Description": "",
+	"Extra": {
+		"Reference": ["Luke 3:16"]
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

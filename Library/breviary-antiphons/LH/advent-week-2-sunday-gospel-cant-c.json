@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Omnis vallis [*] implébitur et omnis mons et collis humiliábitur, et vidébit omnis caro salutáre Dei.",
+	"Description": "",
+	"Extra": {
+		"Reference": ["Luke 3:5-6", "Isaiah 40:4"]
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
