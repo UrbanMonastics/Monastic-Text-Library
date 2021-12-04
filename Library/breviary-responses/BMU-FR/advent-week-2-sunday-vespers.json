@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-vespers",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[R] Fais-nous voir, Seigneur, ton amour.\r\n[V] Fais-nous voir, Seigneur, [*] ton amour.\r\n[V] Et donne-nous ton salut.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"Changes": [
+		"2021-12-04 - Paul Prins: Première traduction du latin."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

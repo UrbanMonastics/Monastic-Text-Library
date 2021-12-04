@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday-laudss",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[R] Christ, Son of the living God, have mercy on us.\r\n[V] Christ, Son of the living God, [*] have mercy on us.\r\n[V] You who came into creation.\r\n[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"Changes": [
+		"2021-12-04 - Paul Prins: Initial translation from Latin"
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
