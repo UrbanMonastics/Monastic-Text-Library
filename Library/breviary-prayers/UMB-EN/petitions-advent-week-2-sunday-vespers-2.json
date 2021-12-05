@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-advent-week-2-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Dearest siblings, let us pray to Christ the Redeemer. Who came to save all people. Let us say with confidence:\r\n[IR] Come, Lord Jesus!\r\n[I1] Lord Christ, you who took on our own flesh and, through some mystery, you made known to the world the glory of your divinity,\r\n[I2] by your advent, give us life.\r\n[I1] You who took upon yourself our weaknesses,\r\n[I2] grant us your mercy.\r\n[I1] You who came in humility being born a child in a manger, and redeemed the world from sin,\r\n[I2] when you come again redeem us of our faults, and restore all that is broken.\r\n[I1] You who live and Reign over all creation,\r\n[I2] out of your goodness bring us to our eternal home.\r\n[I1] You who is seated at the right hand of the Father,\r\n[I2] with the light of your face, give joy to the souls of the deceased.",
+	"Changes": [
+		"2021-12-05 - Paul Prins: Initial translation of these intentions."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-advent-week-2-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Chers Fratries, prions le Christ Rédempteur. qui est venu pour sauver tous les personnes. Disons avec confiance :\r\n[IR] Viens, Seigneur Jésus !\r\n[I1] Seigneur Jésus-Christ, Toi qui as pris notre propre chair et qui, par un mystère, as fait connaître au monde la gloire de Ta divinité,\r\n[I2] par ton avènement, donne-nous la vie.\r\n[I1] Toi qui as pris sur Toi nos faiblesses,\r\n[I2] accorde-nous Ta miséricorde.\r\n[I1] Toi qui es venu dans l'humilité en naissant enfant dans une crèche, et qui as racheté le monde du péché,\r\n[I2] quand Tu reviendras, rachète-nous de nos fautes, et restaure tout ce qui est brisé.\r\n[I1] Toi qui vis et règnes sur toute la création,\r\n[I2] par Ta bonté, ramène-nous à notre maison éternelle.\r\n[I1] Toi qui es assis à la droite du Père,\r\n[I2] par la lumière de Ton visage, donne la joie aux âmes des défunts.",
+	"Changes": [
+		"2021-12-05 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
