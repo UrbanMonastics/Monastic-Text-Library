@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "invitatorium-baptism-of-the-lord",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Venons, adorons le Christ, le Fils bien-aimé, en qui le Père est satisfait.",
+	"Description": "Invitatory antiphon from Holy Saturday",
+	"Changes": [
+		"2022-01-08 - Paul Prins: Premier traduction du cette antiphone."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

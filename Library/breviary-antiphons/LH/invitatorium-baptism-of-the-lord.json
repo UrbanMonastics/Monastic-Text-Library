@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "invitatorium-baptism-of-the-lord",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Christum, Fílium diléctum, in quo Pater sibi complácuit, veníte, adorémus.",
+	"Description": "Invitatory antiphon for the Feast of the Baptism of the Lord.",
+	"Changes": [
+		"2022-01-08 - Paul Prins: Added this text."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
