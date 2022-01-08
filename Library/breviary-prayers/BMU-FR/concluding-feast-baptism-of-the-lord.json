@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-feast-baptism-of-the-lord",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et éternel, quand le Christ a été baptisé dans le Jourdain et que l'Esprit Saint est reposa sur lui, tu l'as solennellement proclamé ton Fils bien-aimé. [t] Accorde à tous tes enfants adoptifs, qui sont aussi nés de l'eau et de l'Esprit, que tu nous aides toujours à nous maintenir dans ta sainte volonté. Par Jésus-Christ.",
+	"Changes": [
+		"2022-01-08 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-feast-baptism-of-the-lord",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, when Christ was baptized in the Jordan river, the Holy Spirit rested upon him, you solemnly proclaimed Him as your beloved Son. [t] Grant to all your adopted children, who are likewise born of both the water and Spirit, [*] that you may always help keep us in your Holy will. Through Jesus Christ.",
+	"Changes": [
+		"2022-01-08 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
