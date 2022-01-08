@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-day-monday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Crions de joie pour Dieu notre Sauveur.",
+	"Description": "Innovatory antiphon for Monday in ordinary time.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-day-thursday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "We wosrhip the Lord. For He has made us.",
+	"Description": "Invitatory antiphon for Thursday in ordinary time.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

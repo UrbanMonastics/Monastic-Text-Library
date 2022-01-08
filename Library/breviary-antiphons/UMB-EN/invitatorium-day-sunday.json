@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-day-sunday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Come, together we'll exault the Lord.",
+	"Description": "Invitatory antiphon for Sundays in ordinary time. [Not Repeated inside the Psalm]",
+	"License": "© 2021 Urban Monastics, Paris"
+}

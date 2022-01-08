@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-passion-saturday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Christ the Lord suffered for us and lies in a tomb. Come, let us worship him.",
+	"Description": "Invitatory antiphon from Holy Saturday",
+	"License": "© 2021 Urban Monastics, Paris"
+}

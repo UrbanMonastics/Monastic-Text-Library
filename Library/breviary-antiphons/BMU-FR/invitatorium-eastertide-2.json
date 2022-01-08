@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-eastertide-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Christ Seigneur, nous a promis le Saint-Esprit : venez, adorons-le, alléluia.",
+	"Description": "Invitatory antiphon for Resurrection Sunday and Pentecost.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

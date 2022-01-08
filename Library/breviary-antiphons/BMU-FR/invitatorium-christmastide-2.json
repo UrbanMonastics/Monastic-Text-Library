@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-christmastide-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Christ s'est révélé à nous : venez, adorons-le.",
+	"Description": "Invitatory antiphon for Christmastide after Epiphany.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

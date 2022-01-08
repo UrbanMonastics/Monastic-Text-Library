@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-lent-passion",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Christ the Lord was tempted and suffered for us. Come, let us worship Him.",
+	"Description": "Invitatory antiphon from ash wednesday until saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-day-friday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Venez et adorez le Seigneur, car il est notre Dieu.",
+	"Description": "Invitatory antiphon for Friday in ordinary time.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

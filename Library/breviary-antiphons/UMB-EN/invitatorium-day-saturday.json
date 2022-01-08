@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-day-saturday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "We celebrate Mary Mother of Jesus, and worship the Christ, her son, our Lord.",
+	"Description": "Invitatory antiphon for Saturday in ordinary time.",
+	"License": "© 2021 Urban Monastics, Paris"
+}

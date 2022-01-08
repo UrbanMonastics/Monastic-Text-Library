@@ -1,0 +1,13 @@
+{
+	"TextAbbreviation": "invitatorium-passion-friday",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Christ, fils de Dieu, nous a rachetés par son sang : venez, adorons-le.",
+	"Description": "Invitatory antiphon from Good Friday.",
+	"License": "© 2021 Urban Monastics, Paris"
+}
