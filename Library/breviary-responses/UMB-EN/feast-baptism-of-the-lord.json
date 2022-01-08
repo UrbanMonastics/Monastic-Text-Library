@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] It is he who came by water and blood.\r\n[R] It is he who came [*] by water and blood.\r\n[V] Jesus Christ, our Lord.\r\n[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"Changes": [
+		"2022-01-08 - Paul Prins: Initial translation from Latin"
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
