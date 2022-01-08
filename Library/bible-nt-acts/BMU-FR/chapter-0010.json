@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0010",
+	"SourceAbbreviation": "bible-nt-actss",
+	"Chapter": "10",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"37": "Vous savez vous-mêmes ce qui est arrivé dans toute la Judée, à commencer par la Galilée, après le baptême proclamé par Jean. ",
+		"38": "Vous savez que Jésus de Nazareth a été oint par Dieu de l'Esprit Saint et de puissance. Il allait de lieu en lieu faisant du bien, et guérissant tous ceux qui étaient opprimés par le diable. Car Dieu était avec lui. "
+	},
+	"Changes": [
+		"2022-01-08 - Paul Prins: Première traduction des versets 37-38 basée sur le grec."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

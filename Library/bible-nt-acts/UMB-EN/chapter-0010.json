@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0010",
+	"SourceAbbreviation": "bible-nt-acts",
+	"Chapter": "10",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"37": "You yourselves know that which happened throughout Judea, starting in Galilee, after the baptism that John proclaimed. ",
+		"38": "You know of Jesus of Nazareth, how God anointed Him with the Holy Spirit, and with power. That he went about doing good, and healing all who were oppressed by the devil. For God was with Him. "
+	},
+	"Changes": [
+		"2022-01-08 - Paul Prins: First translation of verses 37-38 based on Greek."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
