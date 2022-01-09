@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord-vespers-2-ant-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Une voix vint [*] du ciel et c'était la voix du Père. On il entendit dire : « Celui-ci est mon Fils, en qui j'ai mis toute mon affection. Écoutez-le. »",
+	"Description": "",
+	"Changes": [
+		"2022-01-09 - Paul Prins: Premier traduction du cette antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

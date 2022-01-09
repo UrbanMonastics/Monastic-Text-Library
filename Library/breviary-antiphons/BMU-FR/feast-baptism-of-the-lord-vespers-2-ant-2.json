@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord-vespers-2-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Sauveur a écrasé [*] la tête du serpent au bord du Jourdain. Pour que tous puissent être libérés de son pouvoir.",
+	"Description": "",
+	"Changes": [
+		"2022-01-09 - Paul Prins: Premier traduction du cette antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

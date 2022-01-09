@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord-vespers-2-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jesus Christ [*] loved us, by his blood he washed us of our sins. He made us a kingdom and priesthood for God our Father. To him be glory and power forever!",
+	"Description": "",
+	"Changes": [
+		"2022-01-09 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

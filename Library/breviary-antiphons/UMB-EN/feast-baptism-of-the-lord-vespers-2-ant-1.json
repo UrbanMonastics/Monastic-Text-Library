@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord-vespers-2-ant-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "There came a voice [*] from heaven, and it was the Fathers voice. He was heard saying, \"This is my Son, in whom I am well pleased. Listen to Him.\"",
+	"Description": "",
+	"Changes": [
+		"2022-01-09 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

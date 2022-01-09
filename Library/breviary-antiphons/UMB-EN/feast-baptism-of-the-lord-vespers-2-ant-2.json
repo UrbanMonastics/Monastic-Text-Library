@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord-vespers-2-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Savior crushed [*] the head of the serpent at the river Jordan. So that all could be free from its power.",
+	"Description": "",
+	"Changes": [
+		"2022-01-09 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

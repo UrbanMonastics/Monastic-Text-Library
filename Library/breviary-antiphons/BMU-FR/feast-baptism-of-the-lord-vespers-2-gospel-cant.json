@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "feast-baptism-of-the-lord-vespers-2-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus-Christ [*] nous a aimés, par son sang il nous a lavés de nos péchés.  Il a fait de nous un royaume et un prêtrise pour Dieu notre Père.  A lui gloire et puissance pour toujours !",
+	"Description": "",
+	"Changes": [
+		"2022-01-09 - Paul Prins: Premier traduction du cette antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
