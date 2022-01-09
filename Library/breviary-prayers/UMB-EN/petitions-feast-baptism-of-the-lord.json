@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-feast-baptism-of-the-lord",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] To our Redeemer, who desired to be baptized by John in the Jordan river, let us pray:\r\n[IR] Lord, send your Spirit upon us.\r\n[I1] Christ, servant of God, in whom the Father rejoices,\r\n[I2] send your Spirit upon us.\r\n[I1] Christ, chosen of God, you did not break the crushed reed, nor extinguish the flickering flame,\r\n[I2] have mercy on all who seek you in truth.\r\n[I1] Christ, Son of God, the light to the nations and chosen by the Father to establish the new covenant,\r\n[I2] open the eyes of the blind in the waters of baptism.\r\n[I1] Christ, Savior of all, the Father consecrated you by the Holy Spirit to be our Savior,\r\n[I2] lead all to you, to see and believe, that all may have eternal life.\r\n[I1] Christ, our hope, who guides us from darkness into the light of salvation,\r\n[I2] receive our siblings who have died into your kingdom.",
+	"Changes": [
+		"2022-01-09 - Paul Prins: Initial translation of these intentions."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
