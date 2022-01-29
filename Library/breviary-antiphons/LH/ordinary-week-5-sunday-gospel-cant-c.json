@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-5-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Præcéptor, [*] per totam noctem laborántes nihil cépimus; in verbo autem tuo laxábo retia.",
+	"Description": "From Luke 5:5",
+	"Changes": [
+		"2022-01-29 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

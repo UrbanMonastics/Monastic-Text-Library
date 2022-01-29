@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "5",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"5": "\tSimon répondit et dit, « Maître, [*] nous avons travaillé dur toute la nuit et nous n'avons rien attrapé ; mais je ferai ce que tu dis et je laisserai tomber les filets. » "
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-01-29 - Paul Prins: Premier traduction du chapitre 5:13."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-5-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dans ton amour infaillible, Seigneur, veille sur ta famille. [t] Puisque ta grâce divine est notre seule source d'espoir [*] garde-nous pour toujours sous ta protection. Par Jésus-Christ.",
+	"Changes": [
+		"2022-01-29 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

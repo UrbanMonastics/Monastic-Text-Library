@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "5",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"13": "\tVous être le sel de la terre ; mais si le sel est devenu insipide, comment le rendre salé à nouveau ? Il n'est plus bon à rien, sinon à être jeté et foulé aux pieds."
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-01-29 - Paul Prins: Premier traduction du chapitre 5:13."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

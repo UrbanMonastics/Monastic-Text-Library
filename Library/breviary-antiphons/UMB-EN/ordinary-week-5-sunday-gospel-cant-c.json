@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-5-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Master, [*] we worked hard all night and caught nothing; but I will do as You say and let down the nets.",
+	"Description": "From Luke 5:5",
+	"Changes": [
+		"2022-01-29 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

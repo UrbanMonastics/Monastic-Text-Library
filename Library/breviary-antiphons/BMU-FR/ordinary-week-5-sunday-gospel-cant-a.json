@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-5-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Vous être le sel de la terre ; [*] mais si le sel est devenu insipide, comment le rendre salé à nouveau ?",
+	"Description": "Matthew 5:13",
+	"Changes": [
+		"2022-01-29 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

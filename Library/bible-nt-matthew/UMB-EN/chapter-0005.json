@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "5",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"13": "\tYou are the salt of the earth; but if the salt has become tasteless, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot. "	
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-01-29 - Paul Prins: First translation of chapter 5:13."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

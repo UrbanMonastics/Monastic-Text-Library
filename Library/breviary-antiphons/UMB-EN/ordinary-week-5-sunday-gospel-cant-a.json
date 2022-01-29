@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-5-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "You are the salt of the earth; [*] but if the salt has become tasteless, how can it be made salty again?",
+	"Description": "Matthew 5:13",
+	"Changes": [
+		"2022-01-29 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

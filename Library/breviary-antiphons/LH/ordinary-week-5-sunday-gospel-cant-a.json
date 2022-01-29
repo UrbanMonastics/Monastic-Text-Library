@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "ordinary-week-5-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Vos estis sal terræ; [*] quod si sal evanúerit, in qou saliétur?",
+	"Description": "Matthew 5:13",
+	"Changes": [
+		"2022-01-29 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

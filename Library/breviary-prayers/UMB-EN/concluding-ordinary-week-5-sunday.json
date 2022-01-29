@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-5-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "In your unfailing love, Lord, watch over your family. [t] Since your heavenly grace is our only source of hope [*] keep us forever under your protection. Through Jesus Christ.",
+	"Changes": [
+		"2022-01-29 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
