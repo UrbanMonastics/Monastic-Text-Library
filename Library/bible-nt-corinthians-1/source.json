@@ -2,7 +2,8 @@
 	"Abbreviation": "bible-nt-corinthians-1",
 	"Title": {
 		"default": "1 Corinthians",
-		"UMB-EN": "The Apostle Paul's First Letter to the Church in Corinth"
+		"UMB-EN": "The Apostle Paul's First Letter to the Church in Corinth",
+		"BMU-FR": "La Première Lettre de l'Apôtre Paul à l'Église de Corinthe"
 	},
 	"Description": "",
 	"Type": "Letter",
