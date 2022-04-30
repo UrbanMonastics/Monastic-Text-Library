@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "last-line",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"Changes": [
+		"2022-04-30 - Paul Prins: Initial translation from Latin"
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

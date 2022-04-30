@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "easter-surrexit-dominus-vere",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Surréxit Dóminus vere, Allelúia, allelúia.\r\n[R] Surréxit Dóminus vere, [*] Allelúia, allelúia. \r\n[V] Et appáruit Simóni.",
+	"Changes": [
+		"2021-05-01 - Paul Prins: Added this Response.",
+		"2022-04-30 - Paul Prins: Reformated this response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

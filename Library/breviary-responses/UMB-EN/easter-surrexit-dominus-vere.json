@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "easter-surrexit-dominus-vere",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] The Lord has truly risen, alleluia, alleluia.\r\n[R] The Lord has truly risen, [*] alleluia, alleluia.\r\n[V] He has appeared to Simon.",
+	"Changes": [
+		"2021-05-01 - Paul Prins: Translated this Response.",
+		"2022-04-30 - Paul Prins: Reformated this response."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

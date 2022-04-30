@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "last-line",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"Changes": [
+		"2022-04-30 - Paul Prins: Première traduction du latin."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

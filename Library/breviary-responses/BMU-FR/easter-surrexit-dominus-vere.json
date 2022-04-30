@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "easter-surrexit-dominus-vere",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Le Seigneur est vraiment ressuscité, Alléluia, alléluia.\r\n[R] Le Seigneur est vraiment ressuscité, [*] Alléluia, alléluia.\r\n[V] Il est apparu à Simon.",
+	"Changes": [
+		"2021-04-10 - Paul Prins: Première traduction du latin.",
+		"2022-04-30 - Paul Prins: Mettre à jour la structure pour correspondre aux réponses"
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
