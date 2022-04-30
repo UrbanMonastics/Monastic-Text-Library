@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-easter-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Protect your peoples happiness, Lord, you who restore our strength and youthfulness; [t] you have given us back our dignity as children of God, [*] strengthen in us the hope of the resurrection. Through Jesus Christ.",
+	"Changes": [
+		"2022-04-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

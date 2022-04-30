@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-easter-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Protège le bonheur de tes peuples, Seigneur, toi qui nous redonnes force et jeunesse ; [t] tu nous as rendu notre dignité d'enfants de Dieu, [*] affermis en nous l'espérance de la résurrection. Par Jésus-Christ.",
+	"Changes": [
+		"2022-04-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
