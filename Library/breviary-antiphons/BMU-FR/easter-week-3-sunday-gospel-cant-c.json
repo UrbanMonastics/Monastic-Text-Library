@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "easter-week-3-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jesus dit [*] à ses disciples : « Apportez quelques-uns des poissons que vous venez de pêcher. » Simon-Pierre monta donc dans la barque et tira un filet rempli de gros poissons jusqu'à terre, alléluia.",
+	"Changes": [
+		"2022-04-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

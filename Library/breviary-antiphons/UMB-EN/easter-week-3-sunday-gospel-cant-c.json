@@ -7,6 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Jesus told [*] his disciples: \"Bring some of the fish you just caught.\" Simon-Peter went onto the boat and returned to land with a net full of large fish, allelúia.",
+	"Text": "Jesus told [*] his disciples: \"Bring some of the fish that you have just caught.\" So Simon Peter went onto the boat and hauled net full of large fish to land, alleluia.",
+	"Description": "Based on John 21:10-11",
 	"License": "© 2021 Urban Monastics, Paris"
 }

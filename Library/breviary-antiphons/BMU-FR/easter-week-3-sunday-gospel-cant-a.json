@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "easter-week-3-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Restez avec nous, [*] car le soir vient, et le jour passe, Alléluia alléluia.",
+	"Changes": [
+		"2022-04-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
