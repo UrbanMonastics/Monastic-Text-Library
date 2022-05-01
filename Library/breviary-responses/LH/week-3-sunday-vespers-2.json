@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Benedíctus es, Dómine, In firmaménto caeli.\r\n[R] Benedíctus es, Dómine, [*] In firmaménto caeli.\r\n[V] Et laudábilis et gloriósus in sáecula.\r\n[V] Glória Patri, et Fílio et Spirítui Sancto.",
+	"Text": "[V] Benedíctus es, Dómine, In firmaménto caeli.\r\n[R] Benedíctus es, Dómine, [*] In firmaménto caeli.\r\n[V] Et laudábilis et gloriósus in sáecula.",
 	"Changes": [
 		"2020-10-04 - Paul Prins: Added this Response."
 	],

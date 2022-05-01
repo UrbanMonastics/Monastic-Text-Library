@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V]In manus tuas, Dómine, Comméndo spíritum meum.\r\n[R]In manus tuas, Dómine, [*] Comméndo spíritum meum.\r\n[V]Redemisti nos, Dómine, Deus vertitátis.\r\n[V]Glória Patri, et Fílio, et Spirítui Sancto.",
+	"Text": "[V]In manus tuas, Dómine, Comméndo spíritum meum.\r\n[R]In manus tuas, Dómine, [*] Comméndo spíritum meum.\r\n[V]Redemisti nos, Dómine, Deus vertitátis.",
 	"Changes": [
 		"2020-10-27 - Paul Prins: Added this Response."
 	],

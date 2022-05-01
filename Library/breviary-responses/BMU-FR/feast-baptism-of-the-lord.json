@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] C'est lui qui est venu par l'eau et par le sang.\r\n[R] C'est lui qui est venu [*] par l'eau et par le sang.\r\n[V] Jésus-Christ, notre Seigneur.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"Text": "[V] C'est lui qui est venu par l'eau et par le sang.\r\n[R] C'est lui qui est venu [*] par l'eau et par le sang.\r\n[V] Jésus-Christ, notre Seigneur.",
 	"Changes": [
 		"2022-01-08 - Paul Prins: Première traduction du latin."
 	],

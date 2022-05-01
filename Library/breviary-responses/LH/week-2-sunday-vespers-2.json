@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Magnus Dóminus noster, et magna virtus eius.\r\n[R] Magnus Dóminus noster, [*] et magna virtus eius.\r\n[V] Et sapiéntiæ eius non est númerus.\r\n[V] Glória Patri, et Fílio, et Spirítui Sancto.",
+	"Text": "[V] Magnus Dóminus noster, et magna virtus eius.\r\n[R] Magnus Dóminus noster, [*] et magna virtus eius.\r\n[V] Et sapiéntiæ eius non est númerus.",
 	"Changes": [
 		"2020-10-27 - Paul Prins: Added this Response."
 	],

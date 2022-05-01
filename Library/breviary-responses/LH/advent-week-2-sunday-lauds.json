@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Christe, Fili Dei vivi, miserére nobis.\r\n[R] Christe, Fili Dei vivi, [*] miserére nobis.\r\n[V] Qui ventúrus es in mundum.\r\n[V] Gloria Patir, et Fílio, et Spirítui Sancto.",
+	"Text": "[V] Christe, Fili Dei vivi, miserére nobis.\r\n[R] Christe, Fili Dei vivi, [*] miserére nobis.\r\n[V] Qui ventúrus es in mundum.",
 	"Changes": [
 		"2021-12-04 - Paul Prins: Added this Response."
 	],

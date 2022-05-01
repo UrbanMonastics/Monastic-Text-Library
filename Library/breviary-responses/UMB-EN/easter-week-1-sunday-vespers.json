@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V]This is the day, the Lord has made\r\n[R]This is the day, [*] the Lord has made\r\n[V]Let us rejoice and be glad in it.\r\n[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"Text": "[V]This is the day, the Lord has made.\r\n[R]This is the day, [*] the Lord has made.\r\n[V]Let us rejoice and be glad in it.",
 	"Changes": [
 		"2021-04-10 - Paul Prins: Initial translation from Latin",
 		"2022-04-15 - Paul Prins: Update structure to match responses"

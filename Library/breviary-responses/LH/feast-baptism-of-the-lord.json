@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Hic est qui venit Per aquam et sánguinem.\r\n[R] Hic est qui venit [*] Per aquam et sánguinem\r\n[V] Iesus Christus, Dóminus nostrer.\r\n[V] Gloria Patir, et Fílio, et Spirítui Sancto.",
+	"Text": "[V] Hic est qui venit Per aquam et sánguinem.\r\n[R] Hic est qui venit [*] Per aquam et sánguinem\r\n[V] Iesus Christus, Dóminus nostrer.",
 	"Changes": [
 		"2022-01-08 - Paul Prins: Added this Response."
 	],

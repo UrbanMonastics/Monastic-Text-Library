@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V]C'est le jour, que le Seigneur a fait\r\n[R]C'est le jour, [*] que le Seigneur a fait.\r\n[V]Passon-le réjouissons et soyons heureux.\r\n[V] Gloire au Père, au Fils, et au Saint-Esprit.",
+	"Text": "[V] C'est le jour, que le Seigneur a fait\r\n[R] C'est le jour, [*] que le Seigneur a fait.\r\n[V] Passon-le réjouissons et soyons heureux.",
 	"Changes": [
 		"2021-04-10 - Paul Prins: Première traduction du latin.",
 		"2022-04-15 - Paul Prins: Mettre à jour la structure pour correspondre aux réponses"

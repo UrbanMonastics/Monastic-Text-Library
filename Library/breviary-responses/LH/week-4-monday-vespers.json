@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Dirigátur, Dómine, Ad te orátio mea.\r\n[R] Dirigátur, Dómine, [*] Ad te orátio mea.\r\n[V] Sicut incénsum in conspéctu tuo.\r\n[V] Glória Patri, et Filio, et Spirítui Sancto.",
+	"Text": "[V] Dirigátur, Dómine, Ad te orátio mea.\r\n[R] Dirigátur, Dómine, [*] Ad te orátio mea.\r\n[V] Sicut incénsum in conspéctu tuo.",
 	"Changes": [
 		"2021-06-06 - Paul Prins: Added this Response."
 	],
