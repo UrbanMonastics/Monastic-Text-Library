@@ -13,8 +13,8 @@
 		"46": "Mon âme [+] magnifie le Seigneur,[*]\r\n\t",
 		"47": "mon esprit éclate en exultant en Dieu mon sauveur.\r\n",
 		"48": "Car il connaissait l'humilité de son serviteur.[*]\r\n\tDésormais, tous les âges me diront bienheureuse.\r\n\r\n",
-		"49": "Le Puissant fit pour moi des merveilles choses,[*]\r\n\tet Saint est son nom.\r\n\r\n",
-		"50": "Il a miséricorde s'étend d'âge en âge,[*]\r\n\tsur ceux qui le craignent.\r\n",
+		"49": "Le Puissant fit pour moi des choses merveilleuses,[*]\r\n\tet Saint est son nom.\r\n\r\n",
+		"50": "Sa miséricorde s'étend d'âge en âge,[*]\r\n\tpour ceux qui le craignent.\r\n",
 		"51": "Il déployant la force de son bras,[*]\r\n\tet dispersé les orgueilleux à cause des pensées de leur cœur.\r\n\r\n",
 		"52": "Il expulsé les puissants de leurs trônes,[*]\r\n\tet a élevé les humbles.\r\n",
 		"53": "Il comble de bonnes choses les affamés,[*]\r\n\tet renvoie les riches vides.\r\n\r\n",
@@ -26,5 +26,8 @@
 		"LiturgiaeHorarum-Index": 1,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
+	"Changes": [
+		"2022-05-02 - Paul Prins: Corrections à partir des commentaires."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

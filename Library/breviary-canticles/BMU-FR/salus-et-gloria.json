@@ -11,7 +11,7 @@
 	},
 	"Verses": {
 		"1": "Alléluia\r\nLe salut, la gloire et la puissance à notre Dieu,[*]\r\n\tdont les jugements sont vrais et justes.\r\nAlléluia\r\n\r\n",
-		"2": "Alléluia\r\nLouez notre Dieu, tous serviteurs du Seigneur, [*]\r\n\tvous tous qui le craignez, les petit et les grand.\r\nAlléluia\r\n\r\n",
+		"2": "Alléluia\r\nLouez notre Dieu, tous serviteurs du Seigneur, [*]\r\n\tvous tous qui le craignez, les petits et les grands.\r\nAlléluia\r\n\r\n",
 		"5": "Alléluia\r\nLe Seigneur notre Dieu, le Tout-Puissant, règne: [*]\r\n\tréjouissons-nous et exultons et rendons gloire et hommage.\r\nAlléluia\r\n\r\n",
 		"6": "Alléluia\r\nLe mariage de l'Agneau est venu [*]\r\n\tet son épouse s'est préparée.\r\nAlléluia\r\n\r\n",
 		"7": "Alléluia\r\nHeureux ceux qui sont invités [*]\r\n\tau banquet de noces de l'Agneau.\r\nAlléluia."
@@ -21,5 +21,8 @@
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
+	"Changes": [
+		"2022-05-02 - Paul Prins: Corrections à partir des commentaires."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }
