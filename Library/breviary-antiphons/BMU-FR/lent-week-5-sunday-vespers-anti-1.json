@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "lent-week-5-sunday-vespers-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "",
+	"Changes": [
+		"2022-01-29 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

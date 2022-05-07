@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "lent-week-5-sunday-vespers-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Custódime me [*] a láqueo quem statueérunt mihi, et a scándalis operántium iniquitátem.",
+	"Description": "From Psalm 141:9",
+	"Changes": [
+		"2022-03-26 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
