@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "pentecost-lauds-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Loquebántur [*] váriis linguis apóstoli magnália Dei, allelúia allelúia allelúia.",
+	"Description": "",
+	"Changes": [
+		"2022-05-07 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

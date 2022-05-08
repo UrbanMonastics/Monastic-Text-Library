@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "pentecost-vespers-2-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Today [*] is the day of Pentecost, alleluia. Today the Holy Spirit appeared to the disciples like fire, and poured out upon them gifts from his grace. He sent them throughout creation to proclaim this testimony: All who believe and are baptized will be saved, alleluia!",
+	"Description": "",
+	"Changes": [
+		"2022-05-08 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "pentecost-lauds-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Accípite [*] Spíritum Sanctum : quorum remiséritis peccáta, remittúntur eis, allelúia.",
+	"Description": "",
+	"Changes": [
+		"2022-05-08 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

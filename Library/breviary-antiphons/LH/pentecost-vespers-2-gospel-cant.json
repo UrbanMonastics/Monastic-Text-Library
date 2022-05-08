@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "pentecost-vespers-2-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Hodie [*] compléti sunt dies Pntecóstes, allelúia ; hódie Spíritus Sanctus in igne discípulis appáruit et tríbuiteis charísmatum dona ; misit eos in univérsum mundum parædicáre et testificári : Qui credíderit et baptizátus fúerit, salvus erit, allelúia.",
+	"Description": "",
+	"Changes": [
+		"2022-05-08 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

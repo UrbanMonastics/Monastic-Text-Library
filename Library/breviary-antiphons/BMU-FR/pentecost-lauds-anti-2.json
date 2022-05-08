@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "pentecost-lauds-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Les sources, [*] et tout ce qui vit dans les eaux, chantez louanges à Dieu, alléluia.",
+	"Changes": [
+		"2022-05-07 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

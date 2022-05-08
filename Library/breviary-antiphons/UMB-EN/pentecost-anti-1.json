@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "pentecost-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "When the day [*] of Pentecost arrived, they were all together, singing: Alleluia.",
+	"Description": "",
+	"Changes": [
+		"2022-05-07 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

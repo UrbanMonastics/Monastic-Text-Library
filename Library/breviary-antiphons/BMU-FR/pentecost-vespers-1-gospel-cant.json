@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "pentecost-vespers-1-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Viens, Esprit Saint, [*] remplis le cœur de tes fidèles, et allume en eux le feu de ton amour. Toi qui, à travers toutes les langues, de la Pentecôte à l'éternité, nous as unis dans la même foi, alléluia, alléluia.",
+	"Changes": [
+		"2022-05-08 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

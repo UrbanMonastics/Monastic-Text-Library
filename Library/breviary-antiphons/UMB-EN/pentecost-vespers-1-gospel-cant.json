@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "pentecost-vespers-1-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Come, Holy Spirit, [*] fill the hearts of your faithful, and kindle the fire of your love in them. You have, across all languages, from pentecost to eternity, united us in the same faith, alleluia, alleluia.",
+	"Description": "",
+	"Changes": [
+		"2022-05-08 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

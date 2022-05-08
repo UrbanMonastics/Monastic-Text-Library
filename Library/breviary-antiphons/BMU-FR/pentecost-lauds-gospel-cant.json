@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "pentecost-lauds-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Recevez [*] l'Esprit Saint : tous ceux à qui vous pardonnerez ses péchés, ils lui seront pardonnés, alléluia.",
+	"Changes": [
+		"2022-05-08 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

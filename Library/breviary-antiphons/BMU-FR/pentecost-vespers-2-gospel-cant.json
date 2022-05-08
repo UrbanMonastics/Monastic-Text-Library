@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "pentecost-vespers-2-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Aujourd'hui [*] est le jour de la Pentecôte, alléluia. Aujourd'hui, l'Esprit Saint est apparu aux disciples comme un feu, et il a répandu sur eux les dons de sa grâce. Il les a envoyés dans toute la création pour proclamer ce témoignage : Celui qui croira et sera baptisé sera sauvé, alléluia!",
+	"Changes": [
+		"2022-05-08 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

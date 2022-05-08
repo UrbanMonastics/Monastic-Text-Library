@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "pentecost-lauds-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Receive [*] the Holy Spirit: everyone whose sins you forgive, they will be forgiven, alleluia. ",
+	"Description": "",
+	"Changes": [
+		"2022-05-08 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "pentecost-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Quand arriva [*] le jour de la Pentecôte, tous étaient ensemble et chantaient : Alléluia.",
+	"Changes": [
+		"2022-05-07 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "pentecost-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dum compleréntur [*] dies Pentecóstes, erant omnes páriter dicéntes : Allelúia.",
+	"Description": "",
+	"Changes": [
+		"2022-05-07 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
