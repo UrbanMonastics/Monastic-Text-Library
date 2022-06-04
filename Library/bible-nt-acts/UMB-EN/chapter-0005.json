@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-acts",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"30": "\"The God of our ancestors raised up Jesus, whom you killed by hanging Him on a Cross. ",
+		"31": "He is the one exalted to the right hand of God as a Prince and Savior. To deliver repentance to Israel and the forgiveness of sins. ",
+		"32": "And we are witnesses to all of this, along with the Holy Spirit, whom God has given to those who obey Him.\" "
+	},
+	"Changes": [
+		"2022-06-04 - Paul Prins: First translation of verses 30-32 based on Greek."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

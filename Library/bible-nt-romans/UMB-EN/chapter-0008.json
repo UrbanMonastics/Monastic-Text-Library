@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "chapter-0008",
+	"SourceAbbreviation": "bible-nt-romans",
+	"Chapter": "8",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you. "
+	},
+	"Changes": [
+		"2022-06-04 Paul Prins: First translation of verse 11 based on Greek."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

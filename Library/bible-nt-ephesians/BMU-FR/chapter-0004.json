@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-ephesians",
+	"Chapter": "4",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"3": "Efforcez-vous de garder l'unité de l'Esprit par le lien de la paix. ",
+		"4": "Il y a un seul corps et un seul Esprit. De même que vous avez été appelés dans une seule espérance par votre vocation spirituelle ; ",
+		"5": "un seul Seigneur, une seule foi, un seul baptême, ",
+		"6": "un seul Dieu, et Père de tous. Qui est au-dessus de tous, à travers tous et en tous. "
+	},
+	"Changes": [
+		"2022-06-04 Paul Prins: Première traduction des versets 3-6 basée sur le grec."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

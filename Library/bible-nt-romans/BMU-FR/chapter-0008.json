@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "chapter-0008",
+	"SourceAbbreviation": "bible-nt-romans",
+	"Chapter": "8",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "Mais si l'Esprit de Celui qui a ressuscité Jésus d'entre les morts habite en vous, celui qui a ressuscité le Christ d'entre les morts donnera aussi la vie à vos corps mortels par Son Esprit qui habite en vous. "
+	},
+	"Changes": [
+		"2022-06-04 Paul Prins: Première traduction de verset 11 basée sur le grec."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
