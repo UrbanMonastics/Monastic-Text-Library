@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Spiritus Dómini replévit orbem terrárum, Allelúia, allelúia.\r\n[R] Spiritus Dómini replévit orbem terrárum, [*] Allelúia, allelúia.\r\n[V] Et hoc quod cóntinet ómnia, sciéntiam habet vocis.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

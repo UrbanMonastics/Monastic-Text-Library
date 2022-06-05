@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] The Spirit of the Lord fills the universe, alleluia, alleluia.\r\n[R] The Spirit of the Lord fills the universe, [*] alleluia, alleluia.\r\n[V] He sustains all things, and knows every word spoken.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

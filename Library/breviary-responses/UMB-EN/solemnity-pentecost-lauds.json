@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-lauds",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] All were filled with the Holy Spirit, alleluia, alleluia.\r\n[R] All were filled with the Holy Spirit, [*] alleluia, alleluia.\r\n[V] And they began to speak.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

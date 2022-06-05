@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-vespers-1",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Holy Spirit, our Helper, alleluia, alleluia.\r\n[R] Holy Spirit, our Helper, [*] alleluia, alleluia.\r\n[V] He will teach you everything.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

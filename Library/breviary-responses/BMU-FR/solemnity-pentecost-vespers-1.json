@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-vespers-1",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Esprit Saint, notre aide, alléluia, alléluia. \r\n[R] Esprit Saint, notre aide, [*] alléluia, alléluia.\r\n[V] Il vous enseignera tout.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

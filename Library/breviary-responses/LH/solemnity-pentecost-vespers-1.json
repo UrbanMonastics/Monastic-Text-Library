@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-vespers-1",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Spíritus Paráclitus, Allelúia, allelúia.\r\n[R] Spíritus Paráclitus, [*] Allelúia, allelúia.\r\n[V] Docébit vos ómnia.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

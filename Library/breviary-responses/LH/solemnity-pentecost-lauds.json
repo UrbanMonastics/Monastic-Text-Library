@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-lauds",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Repléti sunt omnes Spíritu Sancto, Allelúia, allelúia.\r\n[R] Repléti sunt omnes Spíritu Sancto, [*] Allelúia, allelúia.\r\n[V] Et cœpérunt loqui.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

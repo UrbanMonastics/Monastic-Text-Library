@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-lauds",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Tous furent remplis de l'Esprit Saint, alléluia, alléluia.\r\n[R] Tous furent remplis de l'Esprit Saint, [*] alléluia, alléluia.\r\n[V] Et ils se mirent à parler.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

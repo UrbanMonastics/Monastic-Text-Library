@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] L'Esprit du Seigneur remplit l'univers, alléluia, alléluia.\r\n[R] L'Esprit du Seigneur remplit l'univers, [*] alléluia, alléluia.\r\n[V] Il soutient tout, et connaît chaque mot prononcé.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
