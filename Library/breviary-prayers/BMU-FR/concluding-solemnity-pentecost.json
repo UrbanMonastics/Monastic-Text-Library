@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-solemnity-pentecost",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Seigneur, aujourd'hui nous célébrons le mystère de la Pentecôte. Par l'Esprit, tu sanctifies ton Église parmi tous les peuples de toutes les nations. Esprit Saint, verse généreusement dans toute la création tes dons et ta présence. [t] Continue les proclamations glorieuses parlées en plusieurs langues lors du premier versement de l'Esprit. [*] Maintiens le toucher tendre des cœurs de tous les croyants. Invite-les à travailler aux côtés de l'Esprit pour ton Royaume éternel d'amour. Par Jésus-Christ.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

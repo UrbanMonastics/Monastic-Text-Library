@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-solemnity-pentecost-vespers-1",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, who desired the Easter mystery be completed fifty days later with another celebrated mystery, Pentecost. [t] By your Holy Spirit, bring together your people, who are prone to division and hate. [*] That everyone in their language will give you praise and glory. Through Jesus Christ.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

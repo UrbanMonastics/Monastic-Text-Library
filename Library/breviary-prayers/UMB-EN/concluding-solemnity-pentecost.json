@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-solemnity-pentecost",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord, today we celebrate the mystery of Pentecost. Through the Spirit, you sanctify your Church amongst all peoples from all nations. Holy Spirit generously pour your gifts and presence into all of creation. [t] Continue the glorious proclamations spoken in many tongues when the Spirit was first poured out. [*] Keep tenderly touching the hearts of all believers. Inviting them to work alongside the Spirit for your eternal Kingdom of love. Through Jesus Christ.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
