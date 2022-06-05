@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-solemnity-pentecost-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Par le Christ, Dieu notre Père a rassemblé l'Église. Avec joie, nous prions en disant :\r\n[IR] Envoie ton Esprit Saint sur l'Église !\r\n[I1] Tu veux rassembler, par un seul baptême dans l'Esprit, tous ceux qui exultent le nom du Christ,\r\n[I2] accorde aux croyants d'être un seul cœur et une seule âme.\r\n[I1] Tu as le désir que l'Esprit remplisse le monde,\r\n[I2] aide tous les peuples à construire la justice et la paix dans la création.\r\n[I1] Seigneur Dieu, Père de tous, tu veux rassembler tous tes enfants dispersés, dans l'unité de la foi,\r\n[I2] en illuminant l'univers par la grâce de l'Esprit Saint.\r\n[I1] Par ton Esprit, tu renouvelles toutes choses,\r\n[I2] guérir les malades, réconforter les affligés, et à tous, donner le salut.\r\n[I1] Par l'Esprit, tu as ressuscité ton Fils d'entre les morts,\r\n[I2] de même, relève nos corps de la poussière à la vie éternelle.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-solemnity-pentecost-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Through Christ, God our Father has gathered together the Church. With joy let us pray, saying:\r\n[IR] Send your Holy Spirit onto the Church!\r\n[I1] You want to gather, through one baptism in the Spirit, all those who exhault the name of Christ,\r\n[I2] grant believers to be of one heart and one soul.\r\n[I1] You who desire the Spirit to fill the world,\r\n[I2] help all people build justice and peace within creation.\r\n[I1] Lord God, Father of all, you want to gather together all your scattered children, in unity of faith,\r\n[I2] illuminating the universe by the grace of the Holy Spirit.\r\n[I1] By your Spirit, you renew all things,\r\n[I2] heal the sick, comfort the afflicted, and to all, give salvation.\r\n[I1] By the Spirit, you raised your Son from the dead,\r\n[I2] likewise, raise our bodies from dust to eternal life.",
+	"Changes": [
+		"2022-06-05 - Paul Prins: Initial translation of these intentions"
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
