@@ -7,7 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God, who sent your Son to save us and adopted us as your children, look with kindness upon those you see with your fatherly; since we believe in Christ, grant us true freedom and eternal life. Through Jesus Christ.",
-	"Description": "Based on Matthew 18. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle A.",
+	"Text": "God, through you redemption comes to us, and your adoption [t] of us is guaranteed. Look with tender kindness upon the children of your love. [*] Since we believe in Christ, grant us true freedom and eternal life. Through Jesus Christ.",
+	"Changes": [
+		"2022-06-16 - Paul Prins: Updated translation of this prayer."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

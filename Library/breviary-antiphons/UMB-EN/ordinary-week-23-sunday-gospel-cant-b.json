@@ -7,7 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "When the Lord left the region of Tyre, He made the deaf hear and the mute speak.",
+	"Text": "While the Lord passing [*] through the region of Tyre, He made the deaf hear and the mute speak.",
 	"Description": "Based on Mark 7:31-37. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle B.",
+	"Changes": [
+		"2022-06-16 - Paul Prins: Updated the tense of the text, and formating."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

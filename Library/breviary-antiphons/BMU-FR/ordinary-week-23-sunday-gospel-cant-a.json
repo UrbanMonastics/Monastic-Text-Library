@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-23-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "« Si deux [*] d'entre vous s'accordent sur une chose sur la terre, cela leur sera fait par mon Père qui est dans les cieux », dit le Seigneur.",
+	"Changes": [
+		"2022-06-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

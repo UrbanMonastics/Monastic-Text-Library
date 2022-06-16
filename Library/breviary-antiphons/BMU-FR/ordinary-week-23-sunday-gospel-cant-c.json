@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-23-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Christ nous dit [*] dans l'Évangile : « Celui qui ne renonce pas à tout ce qu'il possède, ne peut pas être mon disciple ».",
+	"Changes": [
+		"2022-06-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

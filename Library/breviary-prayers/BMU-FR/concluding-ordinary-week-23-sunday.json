@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-23-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, c'est par toi que la rédemption nous arrive, et ton adoption [t] de nous est garantie. Regarde avec une tendre bonté les enfants de ton amour. [*] Puisque nous croyons au Christ, accorde-nous la vraie liberté et la vie éternelle. Par Jésus-Christ.",
+	"Changes": [
+		"2022-06-16 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
