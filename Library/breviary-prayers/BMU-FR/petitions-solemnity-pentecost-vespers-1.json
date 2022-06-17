@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-solemnity-pentecost-vespers-1",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Exaltons et louons notre Dieu. Le jour de la Pentecôte, Il a rempli les Apôtres de l'Esprit Saint envoyé du ciel. Nous t'implorons avec joie, et de tous nos cœurs :\r\n[IR] Envoie ton Esprit et renouvelle la création.\r\n[I1] Au commencement, Tu as créé les cieux et la terre. Dans la plénitude des temps, tu rétabliras toutes choses par le Christ,\r\n[I2] par ton Esprit qui sauve, rafraîchis la face de la création.\r\n[I1] Tu as insufflé à Adam et Eve le souffle de vie, \r\n[I2] envoie ton Esprit dans l'Eglise, afin que, vivant par l'Esprit, elle soit constamment rajeunie et donne la vie au monde.\r\n[I1] Éclaire tous par la lumière de ton Esprit, et chasse les ténèbres de notre temps,\r\n[I2] afin que la haine se transforme en amour, nos douleurs en joies, et les guerres en paix durable.\r\n[I1] Désaltère toute personne avec l'eau de ton Esprit, qui coule du côté du Christ,\r\n[I2] qu'Il libère la création de tous les maux qui nuisent\r\n[I1] Par ton Esprit Saint, Tu nous fais entrer dans la vie et la gloire,\r\n[I2] par Lui, donne goûter aux défunts les joies de ton amour dans la Patrie.",
+	"Changes": [
+		"2022-06-17 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
