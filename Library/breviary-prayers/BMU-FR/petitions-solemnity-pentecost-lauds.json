@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-solemnity-pentecost-lauds",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Le Seigneur a rassemblé son Église par l'Esprit. Nous l'implorons avec une ferme espérance :\r\n[IR] Renouvelle, Seigneur, la face de la création.\r\n[I1] Seigneur Jésus, qui, exalté sur la croix, a versé de ton côté des fleuves d'eau vive,\r\n[I2] envoie ton Esprit qui nous donne la vie.\r\n[I1] Tu, qui, es glorifié à la droite de Dieu, as donné aux disciples le Don du Père,\r\n[I2] envoie ton Esprit pour renouveler le monde.\r\n[I1] Tu, qui, as donné aux Apôtres la force de ton Esprit pour vaincre le péché,\r\n[I2] envoie ton Esprit pour détruire le péché à travers la création.\r\n[I1] Tu, qui, as promis que l'Esprit Saint nous enseignerait toutes choses et nous rappellerait tout ce que tu as dit :\r\n[I2] envoie ton Esprit pour illuminer notre foi.\r\n[I1] Tu, qui, as promis d'envoyer l'Esprit de vérité pour témoigner de toi,\r\n[I2] envoie ton Esprit pour faire de nous des témoins fidèles.",
+	"Changes": [
+		"2022-06-18 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

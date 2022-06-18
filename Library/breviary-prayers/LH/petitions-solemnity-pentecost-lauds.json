@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "petitions-solemnity-pentecost-lauds",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Christum Dóminum, qui Ecclésiam suam per Spíritum congregávit, spe firma implorémus:\r\n[IR] Rénova, Dómine, fáciem terræ.\r\n[I1] Dómine Iesu, qui, in cruce exaltátus, de látere tuo flúmina aquæ vivæ fudísti,\r\n[I2] Spíritum emítte nobis vivificántem.\r\n[I1] Tu, qui, déxtrea Dei glorificátus, Donum Patris discípulis es largítus,\r\n[I2] Spíritum emítte, ut ipse mundum efficiat novum.\r\n[I1] Tu, qui Apóstolix, in Spíritu tuo potestátem contulísti peccáta remitténdi,\r\n[I2] déstrue peccátum in mundo.\r\n[I1] Tu, qui promisísti Spíritum Sanctum, ut nos docéret ómnia, et quæcúmque dixísti, suggéreret nobis,\r\n[I2] Spíritum emítte fídei nostræ illustratórem.\r\n[I1] Qui promisísti te missúrrum Spíritum veritátis, ut testimónium de te perhibéret,\r\n[I2] Spíritum emítte, ut nos testes fidéles efficiat.",
+	"Changes": [
+		"2022-06-17 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

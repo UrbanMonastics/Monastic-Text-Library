@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-solemnity-pentecost-lauds",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] The Lord has gathered together His Church through the Spirit. We implore Him with firm hope:\r\n[IR] Renew, Lord, the face of creation.\r\n[I1] Lord Jesus, who, being exalted on the cross, poured from your side rivers of living water,\r\n[I2] send your Spirit who gives us life.\r\n[I1] You, who, are glorified at the right hand of God, have given to the disciples the gift of the Father,\r\n[I2] send your Spirit to renew the world.\r\n[I1] You, who, gave the Apostles power from your Spirit to overcome sin,\r\n[I2] send your Spirit to destroy sin throughout creation.\r\n[I1] You, who, promised the Holy Spirit would teach us all things and remind us of all that you have said:\r\n[I2] send your Spirit to illuminate our faith.\r\n[I1] You, Who, promised to send the Spirit of truth to witness about you,\r\n[I2] send your Spirit to make us faithful witnesses.",
+	"Changes": [
+		"2022-06-18 - Paul Prins: Initial translation of these intentions"
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
