@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "pentecost-mediam-anti",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Holy Spirit, [*] came from the throne of God and mysteriously penetrated the hearts of the Apostles, alleluia.",
+	"Description": "",
+	"Changes": [
+		"2022-06-18 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-solemnity-pentecost-mediam",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "We pray to you, Almighty God: that the splendor of your glory may shine upon us, [t] may the light of your light strengthen the hearts of all who have been reborn by your grace, [*] and may the Holy Spirit give assurance to our hearts. Though Christ our Lord.",
+	"Changes": [
+		"2022-06-18 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

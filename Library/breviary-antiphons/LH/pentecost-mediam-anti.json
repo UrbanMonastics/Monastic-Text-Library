@@ -1,0 +1,12 @@
+{
+	"TextAbbreviation": "pentecost-mediam-anti",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Spíritus Sanctus, [*] procédens a throno, apostolórum péctoraa invisibíliter penetrávit, allelúia.",
+	"Description": "",
+	"Changes": [
+		"2022-06-18 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
