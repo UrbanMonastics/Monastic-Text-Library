@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Seigneur, [*] sauve-nous, nous périssons ; Donne l'ordre, Dieu, et rétablis le grand calme.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

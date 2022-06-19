@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "They who acknowledges me [*] before others, I will also acknowledge them before my Father.",
+	"Description": "",
+	"Changes": [
+		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

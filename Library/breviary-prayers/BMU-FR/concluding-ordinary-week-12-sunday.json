@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-12-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Fais-nous vivre, Seigneur, pour toujours dans l'affection et la révérence de ton saint nom, [t] car tu n'égares jamais [*] ceux que tu as fermement établis dans ton amour. Par Jésus-Christ.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Qui vult veníre post me, [*] ábneget semetípsum et tollat crucem suam et sequátur me, dicit Dóminus.",
+	"Description": "Based on Matthew 16:24",
+	"Extra": {
+		"Reference": ["Matthew 16:24"]
+	},
+	"Changes": [
+		"2022-06-19 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-12-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Make us live, Lord, forever with both affection and reverence of your holy name, [t] because you never lead astray [*] those you firmly establish in your love. Through Jesus Christ.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

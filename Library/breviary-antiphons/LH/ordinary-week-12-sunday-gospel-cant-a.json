@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Qui me conféssus fúerit [*] coram homínibus, confitébor et ego eum coram Patre meo.",
+	"Description": "From Matthew 10:32",
+	"Extra": {
+		"Reference": ["Matthew 10:32"]
+	},
+	"Changes": [
+		"2022-06-19 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

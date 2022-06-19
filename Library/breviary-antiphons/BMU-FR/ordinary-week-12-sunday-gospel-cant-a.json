@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Celui qui me reconnaît [*] devant les autres, je le reconnaîtrai aussi devant mon Père.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

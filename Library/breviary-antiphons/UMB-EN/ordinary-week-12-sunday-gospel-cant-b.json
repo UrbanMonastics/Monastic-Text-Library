@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord, [*] save us, we are perishing; Give the command, God, and restore the great stillness.",
+	"Description": "",
+	"Changes": [
+		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
