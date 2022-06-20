@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Elle se dit en elle-même : [*] « Si je touche seulement le bord de Son vêtement, je serai sauvée. »",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

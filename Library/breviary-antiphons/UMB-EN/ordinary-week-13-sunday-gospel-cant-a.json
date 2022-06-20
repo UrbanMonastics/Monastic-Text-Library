@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Whoever shall lose [*] their life for my sake, will find eternal life.",
+	"Description": "",
+	"Changes": [
+		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

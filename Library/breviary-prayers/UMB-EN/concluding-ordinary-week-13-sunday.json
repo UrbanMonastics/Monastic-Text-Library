@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-13-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, who, through your gracious adoption, invited us to be children of light, [t] we cry out to you that we not be trapped in the darkness of our ways, [*] but let us always see the brightness of truth. Through Jesus Christ.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

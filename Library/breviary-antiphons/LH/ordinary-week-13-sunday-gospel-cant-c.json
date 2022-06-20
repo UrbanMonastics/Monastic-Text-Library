@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Vulpes fóveas habent [*] et vólucres cæli nidos, Fílius autem hóminis non habet ubi caput suum reclínet.",
+	"Description": "Based on Matthew 8:20",
+	"Extra": {
+		"Reference": ["Matthew 8:20"]
+	},
+	"Changes": [
+		"2022-06-19 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

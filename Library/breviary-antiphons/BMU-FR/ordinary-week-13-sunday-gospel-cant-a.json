@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Celui qui perdra [*] sa vie à cause de moi, trouvera la vie éternelle.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

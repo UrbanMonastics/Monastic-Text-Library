@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Foxes have holes, [*] and birds of the air have nests, but the Son of Man has no place to lay his head.",
+	"Description": "",
+	"Changes": [
+		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

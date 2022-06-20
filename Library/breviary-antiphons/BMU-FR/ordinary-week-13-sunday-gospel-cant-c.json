@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Les renards ont des terriers, [*] et les oiseaux du ciel ont des nids, mais le Fils de l'homme n'a pas d'endroit où poser sa tête.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

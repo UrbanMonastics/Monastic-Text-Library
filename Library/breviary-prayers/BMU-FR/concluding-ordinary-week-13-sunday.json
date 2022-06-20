@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-13-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, qui, par ta gracieuse adoption, nous a invités à être des enfants de lumière, [t] nous t'implorons de ne pas nous laisser enfermer dans les ténèbres de nos voies, [*] mais de nous permettre de toujours voir la luminosité de la vérité. Par Jésus-Christ.",
+	"Changes": [
+		"2022-06-19 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-13-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dicébat enim intra se: [*] Si tetígero fímbriam vestiménti eius tantum, slava ero.",
+	"Description": "Based on Matthew 9:21",
+	"Extra": {
+		"Reference": ["Matthew 9:21"]
+	},
+	"Changes": [
+		"2022-06-19 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
