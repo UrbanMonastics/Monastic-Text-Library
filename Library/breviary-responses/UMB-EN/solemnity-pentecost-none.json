@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] The Apostles proclaimed in various languages, alleluia.\r\n[R] The wonderful works of God, alleluia.",
+	"Changes": [
+		"2022-06-20 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

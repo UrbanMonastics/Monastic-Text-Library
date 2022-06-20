@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-sext",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Spíritus Sanctus docébit vos, allelúia.\r\n[R] Quæcúmque díxero vobis, allelúia.",
+	"Changes": [
+		"2022-06-20 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

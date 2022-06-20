@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-terce",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] The Holy Spirit, the Defender, alleluia.\r\n[R] He will teach you all things, alleluia.",
+	"Changes": [
+		"2022-06-20 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

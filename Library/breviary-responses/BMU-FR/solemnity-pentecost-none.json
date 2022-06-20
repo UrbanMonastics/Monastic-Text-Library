@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Les Apôtres ont proclamé en diverses langues, alléluia.\r\n[R] Les œuvres merveilleuses de Dieu, alléluia.",
+	"Changes": [
+		"2022-06-20 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

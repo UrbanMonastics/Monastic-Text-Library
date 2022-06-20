@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "solemnity-pentecost-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Loquebántur váriis linguis Apóstoli, allelúia.\r\n[R] Magnália Dei, allelúia.",
+	"Changes": [
+		"2022-06-20 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
