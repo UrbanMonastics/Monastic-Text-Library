@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Deus, qui in Fílii tui humilitáte iacéntem mundum erexísti, [t] fidélibus tuis sanctam concéde lætítiam, [*] ut, quos eripuísti a servitúte peccáti, gáudiis fácias pérfrui sempitérnis. Per Dóminum.",
+	"Changes": [
+		"2021-07-04 - Paul Prins: Added this prayer."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

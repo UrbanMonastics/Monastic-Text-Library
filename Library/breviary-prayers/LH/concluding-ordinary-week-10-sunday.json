@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Deus, a quo dona cuncta procédunt, tuis largíre supplícibus, [t] ut cogitémus, te inspiránte, quæ recta sunt, [*] et, te gubernánte, éadem faciámus. Per Dóminum.",
+	"Changes": [
+		"2021-06-05 - Paul Prins: Added this prayer."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

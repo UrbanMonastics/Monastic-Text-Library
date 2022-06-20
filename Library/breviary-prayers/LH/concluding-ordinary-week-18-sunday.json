@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Adésto, Dómine, fámulis tuis, et perpétuam benignitátem largíre poscéntibus, [t] ut his, qui te auctórem et gubernatórem gloriántur habére, [*] et creáta restáures, et restauráta consérves. Per Dóminum.",
+	"Changes": [
+		"2021-08-01 - Paul Prins: Added this prayer."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }
