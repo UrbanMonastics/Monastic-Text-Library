@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Noctem quiétam [+] et finem perféctum concédat nobis Dóminus omnípotens. Amen.",
+	"Changes": [
+		"2020-10-27 - Paul Prins: Added this blessing."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

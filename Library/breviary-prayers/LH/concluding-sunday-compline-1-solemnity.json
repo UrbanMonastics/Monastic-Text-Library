@@ -4,5 +4,8 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Orémus.\r\nVísita, quǽsumus, Dómine, habitatiónem istam, et omnes  insídias inimíci ab ea longe repélle ; [t] ángeli tui ancti hábitent in ea, qui nos in pace custódiant ; [*] et benedíctio tua sit super nos semper. Per Christum Dóminum nostrum.\r\nAmen.",
+	"Changes": [
+		"2020-10-27 - Paul Prins: Added this prayer."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

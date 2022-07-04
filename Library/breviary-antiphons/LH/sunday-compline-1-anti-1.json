@@ -4,5 +4,8 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Miserére mihi, Dómine, [*] et exáudi oratiónem meam.",
+	"Changes": [
+		"2020-10-27 - Paul Prins: Added this Antiphone."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }
