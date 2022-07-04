@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "instructions-after-breif-examen",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Postea laudabiliter fit conscientiæ discussio.",
+	"Changes": [
+		"2022-07-04 - Paul Prins: Added these instructions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

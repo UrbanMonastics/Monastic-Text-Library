@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "instructions-after-breif-examen",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["UMB-EN", "LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Après un court moment d'examen de votre âme, esprit et conscience - prier le Seigneur.",
+	"Changes": [
+		"2022-07-04 - Paul Prins: Traduit et adapté ces instructions."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "instructions-after-breif-examen",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "After a short time examining your soul, spirit, and consciousness - pray to the Lord.",
+	"Changes": [
+		"2022-07-04 - Paul Prins: Translated and adapted these instructions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
