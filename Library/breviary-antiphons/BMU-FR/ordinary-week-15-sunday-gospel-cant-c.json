@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-15-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Un homme [*] descendait de Jérusalem à Jéricho lorsqu'il rencontra des bandits qui le dépouillèrent et le battirent. Ils ont poursuivi leur chemin et l'ont laissé à moitié mort.",
+	"Extra": {
+		"Reference": ["Luc 10:30"]
+	},
+	"Changes": [
+		"2022-07-14 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

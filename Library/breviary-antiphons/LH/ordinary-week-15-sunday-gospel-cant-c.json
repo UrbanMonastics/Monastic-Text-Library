@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-15-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Homo quidam [*] descendébat ab Ierúsalem in Iéricho et íncidit in latrónes, qui étiam despoliavérunt eum et plagis impósitis abiérunt semivívo relícto.",
+	"Description": "From Luke 10:30",
+	"Extra": {
+		"Reference": ["Luke 10:30"]
+	},
+	"Changes": [
+		"2022-06-20 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

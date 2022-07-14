@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "ordinary-week-15-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Les douze Apôtres [*] partirent donc, marchant de village en village, proclamant la Bonne Nouvelle et guérissant les gens partout.",
+	"Extra": {
+		"Reference": [
+			"Marc 6:7-13",
+			"Matthieu 10"
+		]
+	},
+	"Changes": [
+		"2022-07-14 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

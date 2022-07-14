@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-15-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Egréssi [*] duódecim apóstoli circuíbant per castélla, evangelizántes et curántes ubíque.",
+	"Description": "Paraphrase from Mark 6:7-13 & Matthew 10",
+	"Extra": {
+		"Reference": [
+			"Mark 6:7-13",
+			"Matthew 10"
+		]
+	},
+	"Changes": [
+		"2022-06-20 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

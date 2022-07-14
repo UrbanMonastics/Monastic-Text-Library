@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-15-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, invite ceux qui errent à revenir à toi en faisant briller ta lumière de vérité. [t] A tous ceux qui se déclarent chrétiens, donne la sagesse de rejeter ce qui est indigne de ton nom, [*] et le courage de suivre ce qui t'honore. Par Jésus-Christ.",
+	"Changes": [
+		"2022-07-14- Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

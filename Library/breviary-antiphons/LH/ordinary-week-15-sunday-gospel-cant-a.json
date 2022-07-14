@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-15-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Vobis datum est [*] nosse mystérium regni Dei, céteris autem in parábolis, dixit Iesus discípulis suis.",
+	"Description": "From Luke 8:10a",
+	"Extra": {
+		"Reference": ["Luke 8:10"]
+	},
+	"Changes": [
+		"2022-06-20 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
