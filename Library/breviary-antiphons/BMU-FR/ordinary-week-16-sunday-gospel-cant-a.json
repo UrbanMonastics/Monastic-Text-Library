@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-16-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "« Ramassez [*] d'abord les mauvaises herbes et liez-les en bottes pour les brûler. Puis recueillerez le blé dans ma grange, » dit le Seigneur.",
+	"Extra": {
+		"Reference": ["Matthieu 13:30"]
+	},
+	"Changes": [
+		"2022-07-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

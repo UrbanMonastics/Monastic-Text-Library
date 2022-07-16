@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-16-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Optimam partem [*] elégit sibi María, quæ non auferétur ab ea in ætérnum.",
+	"Description": "From Luke 10:42",
+	"Extra": {
+		"Reference": ["Luke 10:42"]
+	},
+	"Changes": [
+		"2022-07-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

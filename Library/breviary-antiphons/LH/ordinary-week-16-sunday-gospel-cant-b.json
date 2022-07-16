@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-16-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Videns Iesus multam turbam, [*] sértus est super eos, quia erant sicut oves non habéntes pastórem.",
+	"Description": "From Matthew 9:36",
+	"Extra": {
+		"Reference": ["Matthew 9:36"]
+	},
+	"Changes": [
+		"2022-07-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

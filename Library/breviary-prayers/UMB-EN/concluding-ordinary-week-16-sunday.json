@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-16-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Be gracious, Lord, with those who serve you. Mercifully continue to multiply your gifts of grace within us. [t] That, fervent in faith, hope and love, [*] may we always watch for your gentle call and follow after your leading. Through Jesus Christ.",
+	"Changes": [
+		"2022-07-16 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

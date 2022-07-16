@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-16-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "For Mary has [*] chosen the good part, which will not be taken away from her.",
+	"Extra": {
+		"Reference": ["Luke 10:42"]
+	},
+	"Changes": [
+		"2022-07-16 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

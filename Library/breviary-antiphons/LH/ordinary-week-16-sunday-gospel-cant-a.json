@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-16-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Collígite [*] primum zizánia et alligáte ea in fascículos ad comburéndum; tríticum autem congregáte in hórreum meum, dicit Dóminus.",
+	"Description": "From Matthew 13:30b",
+	"Extra": {
+		"Reference": ["Matthew 13:30"]
+	},
+	"Changes": [
+		"2022-07-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

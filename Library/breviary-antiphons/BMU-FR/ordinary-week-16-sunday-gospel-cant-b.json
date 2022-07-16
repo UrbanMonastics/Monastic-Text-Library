@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-16-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus vit la foule vaste. [*] Il a eu pitié envers eux, parce qu'ils étaient comme des brebis sans berger.",
+	"Extra": {
+		"Reference": ["Matthieu 9:36"]
+	},
+	"Changes": [
+		"2022-07-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
