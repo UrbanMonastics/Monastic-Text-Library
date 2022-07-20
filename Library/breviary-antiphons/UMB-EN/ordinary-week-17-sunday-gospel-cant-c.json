@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Ask, [*] and you will receive. Seek, and you will find. Knock, and it shall be opened to you. Alleluia.",
+	"Extra": {
+		"Reference": ["Matthew 7:7"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

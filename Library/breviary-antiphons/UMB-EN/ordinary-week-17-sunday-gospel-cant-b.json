@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "When Jesus lifted [*] up his eyes, He saw a large crowd coming to him. He said to Philip, \"Where are we to buy bread, so they may eat?\" For He himself knew what He would to do.",
+	"Extra": {
+		"Reference": ["John 6:5-6"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

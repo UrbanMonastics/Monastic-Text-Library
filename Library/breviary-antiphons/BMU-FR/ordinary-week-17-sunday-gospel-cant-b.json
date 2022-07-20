@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lorsque Jésus leva [*] les yeux, Il vit une foule nombreuse qui venait à lui. Il dit à Philippe : « Où achèterons-nous du pain, pour qu'ils mangent ? »  Car il savait lui-même ce qu'il voulait faire.",
+	"Extra": {
+		"Reference": ["Jean 6:5-6"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

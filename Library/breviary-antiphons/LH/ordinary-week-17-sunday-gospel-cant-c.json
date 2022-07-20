@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Petite, [*] et accipiétis; quærite, et inveniétis; pulsáte, et aperiétur vobis, allelúia.",
+	"Extra": {
+		"Reference": ["Matthew 7:7"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

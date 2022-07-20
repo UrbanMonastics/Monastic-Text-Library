@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Demandez, [*] et vous recevrez. Cherchez, et vous trouverez. Frappez, et l'on vous ouvrira. Alléluia.",
+	"Extra": {
+		"Reference": ["Matthieu 7:7"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

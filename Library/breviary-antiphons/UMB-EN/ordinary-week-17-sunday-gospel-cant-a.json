@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "For the Kingdom of Heaven [*] is like a merchant seeking fine pearls. Upon finding a pearl of great value, they went and sold everything they had and bought it.",
+	"Extra": {
+		"Reference": ["Matthew 13:45-46"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

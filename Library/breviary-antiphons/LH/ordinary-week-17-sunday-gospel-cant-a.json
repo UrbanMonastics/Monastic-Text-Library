@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Simile est enim [*] regnum cælórum hómini negotiatóri quærénti bonas margarítas; invénta una pretiósa margaríta, dedit ómnia sua et comparávit eam.",
+	"Extra": {
+		"Reference": ["Matthew 13:45-46"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

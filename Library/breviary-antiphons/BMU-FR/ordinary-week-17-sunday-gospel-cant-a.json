@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-17-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Car le Royaume des Cieux [*] est semblable à un marchand qui cherche de belles perles. Ayant trouvé une perle de grande valeur, ils sont allés vendre tout ce qu'ils avaient et l'ont achetée.",
+	"Extra": {
+		"Reference": ["Matthieu 13:45-46"]
+	},
+	"Changes": [
+		"2022-07-20 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

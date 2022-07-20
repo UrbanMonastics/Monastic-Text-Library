@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-17-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Protecteur de tous ceux dont la confiance est en toi, Dieu, sans qui rien n'est fort, et rien n'est saint. Multiplie la miséricorde que tu as pour nous. [t] Tu es le souverain et notre guide. Aide-nous à reconnaître et à apprécier le bien qui passe, [*] afin que nous puissions nous attacher sans cesse à tout ce qui reste. Par Jésus-Christ.",
+	"Changes": [
+		"2022-07-20 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
