@@ -1,85 +1,23 @@
 # Urban Monastic Source Texts
-A Public Repository of all the source texts used in the Monastic Platform.
-
-This library is intended to be an ingestible source of texts for use in digital platforms and projects. The main goals of the Source Texts are:
-
-## Project Goals
-
-*	Provide a common format for large libraries of texts.
-*	Use JSON instead of XML for easier parsing and structuring.
-*	Easily support multiple versions of the same text.
-*	Include helpful metadata alongside texts.
-*	Allow for easy use of multiple libraries in projects to encourage collaboration
+A Public Repository of all the source texts used by [Urban Monasticism](https://urbanmonastic.org) in their Monastic Platform, and other resources.
 
 
+## How Source Text Libraries work
+
+This is a [Source Text library](https://github.com/UrbanMonastics/Source-Text-Library). You can learn how they work by looking at that documentation. In essence a library allows one to store complex related files without the need for databases in a format that is easily portable.
 
 
-## Building a Library
+## Annotating the Texts
 
-The point of this approach is to allow many different individuals and organizations to build libraries which can be ingested to work side by side in a project. There is a project called the [SourceParser](https://github.com/UrbanMonastics/SourceParser) that does much of the heavy lifting of adding, and styling the texts for you (if your project is using PHP).  
-  
-The file structure of a library is pretty straight forward. You have your library directory (for this project it is called **Library**) which is filled with folders using their source abbreviation as their name. Within each of these source folders is that texts `source.json` that explains what that text is, and how we should understand it. Next to the `source.json` are a set of folders named after a version's abbreviation (listed in the `versions.json`). This approach allows a library to include multiple versions of a given text. Inside each of these version directories are the source texts themselves (which might be listed one of three ways.)
+### Extra keys sometimes employed 
 
-	Library/
-		- languages.json
-		- versions.json
-		- SOURCE-ABBREVIATION/
-			- source.json
-			- VERSION-1/
-				- text.json
-			- VERSION-B/
-				- text.json
-			- VERSION-3/
-				- text.json
-		- ANOTHER-BOOK/
-			- source.json
-			- ORIGINAL/
-				- chapter-0001.json
-				- chapter-0002.json
-			- MY-VERSION/
-				- chapter-0001.json
-				- chapter-0002.json
-			- YOUR-VERSION/
-				- chapter-0001.json
-				- chapter-0002.json
-
-The `source.json` files give us an understanding of the text in its original form (language, title, date, etc). Each version then has it's own language, date, license, and description.
+-  **Reference**: This is an array of scripture passages referenced by the text. This is most often used with antiphons, and prayers.
+-  **BreviaryInstructions**: When specific instructions are associated with a given text that would need to be displayed in a proper, or printed version of the breviary they should go here. This needs to be in the language of the text.
+-  **LiturgiaeHorarum-Index**: The _Thesaurus Liturgiae Horarum Monasticae_ references canticles by an index by out of either the old or new testament. This is that index value. (Numeric)
+-  **LiturgiaeHorarum-Cantica**: The _Thesaurus Liturgiae Horarum Monasticae_ references canticles by an index by out of either the old or new testament. This is either **VT** (Old Testament) or **NT** (New Testament).
 
 
-## Formatting of Sources
-
-###  Source Information - `source.json`
-Every text should have an information file separate from the text itself. This is a separate file to reduce loading times when simply desiring to skim through available sources.
-
-The source file should include the following fields: 
-
-*	**Abbreviation**: [String|Required] The title or descriptive title in the original language. Used to reference the text
-*	**Title**: [Array|Required] The name of the text. You should always provide a 'default' title for the text which would be in either English, or the original source language of the text. Additional primary titles can be supplied with a language (from `languages.json`) or version abbreviation (from `versions.json`).
-*	**AlternativeTitles**: [Array|Optional] A list of alternative tiles organized by language (from `languages.json`).
-*	**Description**: [String|Optional] Describe the text, or provide an introduction to the text.
-*	**Type**: [Set|Required] What type of text is it? This tells us what primary file to look for, and how that file will be formatted.  
-	*	Book, Letter, Dictionary  
-*	**SecondaryType**: [String|Optional] A freeform field to allow you to indicate a secondary text type.
-*	**Language**: [String|Required] The language being used in a texts most original form. Reference the keys in the languages.json file. These are often broken down by region and period of time. For Dictionaries this is the language of the words being defined. *Note:* One should expect versions of this text to be written in different languages as indicated by their version.  
-*	**SecondaryLanguage**: [String|Optional] This is the language of the definitions for dictionaries.
-*	**Version**: [Set|Required] Indicate what type of a version of the text we have. Many older texts will have original, translations. Defaults to Original
-	*	Original, or Unique Abbreviation from the Versions file
-*	**Date**: [Date|Optional] Date for this version of the text
-*	**Collection**: [Array|Optional] Use the Abbreviation from the related Collections file.
-*	**Segments**: [Set|Required] In what way, if any, is this source broken down into smaller pieces. Most longer works will be broken into *Chapters* of some type. Yet we have some sources which are referenced by their abbreviation (like Antiphons, Canticles, Responses, Prayers, Blessings, and others).
-	*	Chapters, Abbreviations, None
-*	**SegmentTitles**: [Boolean|Optional] When chapters are involved, do we have unique titles for each chapter that we may should include in the display of the texts.
-*	**Verses**: [Boolean|Optional] Books and Letters Only. Allows you to indicate if this source text is broken into verses above the sentence breaks. Defaults to false.
-*	**Notes**: [String|Optional] This section is optional, but it allows you to leave any notes or comments about the source that someone looking at it might find useful. One example could be that the book of psalms uses the Hebrew/modern numbering and that latin sources have been adjusted to match.
-*	**Extra**: [Array|Optional] If you need to add metadata to an item you can place it into this object. You should use a consistant key across the related items.
-*	**Source**:	[Array|Optional] This is required if the text is not one of our creation. This ensures that we keep important license and access data with the texts itself (in addition to the version file). 
-	*	**DateAccessed**: [Date|Required] When was the source first accessed
-	*	**License**: [String|Optional] What type of license is on this content
-	*	**Attribution**: [HTML|Optional] Any requested attribution to include with the source.
-	*	**Link**: [URL|Optional] Where did you access the source
-	*	**LastUpdated**: [Date|Optional] When was the source most recently updated
-
-
+## Formatting of the Texts
 
 `source.json`
 
