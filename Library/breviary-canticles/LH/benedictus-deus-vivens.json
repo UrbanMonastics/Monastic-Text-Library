@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "benedictus-deus-vivens",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Deus Castigans & Salvans",
+	"Description": "From Tobit 13:2-8",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": "",
+		"6": "",
+		"7": "",
+		"8": ""
+	},
+	"Extra": {
+		"Reference" : ["Tobit 13:2-8"],
+		"LiturgiaeHorarum-Index": 5,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

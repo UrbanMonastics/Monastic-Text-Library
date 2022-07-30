@@ -1,21 +1,19 @@
 {
-	"TextAbbreviation": "christus-jesus",
+	"TextAbbreviation": "dignus-es",
 	"SourceAbbreviation": "breviary-canticles",
-	"Title": "Christus Jesus",
-	"Description": "From Philippians 2:6-11",
+	"Title": "Benediçite, omnia opera",
+	"Notes": "From Revelations 4:11, 5:9-10,12",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses": {
-		"6": "",
-		"7": "",
-		"8": "",
+		"11": "",
 		"9": "",
 		"10": "",
-		"11": ""
+		"12": ""
 	},
 	"Extra": {
-		"Reference" : ["Philippians 2:6-11"],
-		"LiturgiaeHorarum-Index": 11,
+		"Reference" : ["Revelations 4:11, 5:9-10,12"],
+		"LiturgiaeHorarum-Index": 19,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"

@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "cantemus-domino",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Hymnus Victoriæ Post Transitum Maris Rubri",
+	"Description": "From Exodus 15:1-4b, 8-13, 17-18",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"8": "",
+		"9": "",
+		"10": "",
+		"11": "",
+		"12": "",
+		"13": "",
+		"17": "",
+		"18": ""
+	},
+	"Extra": {
+		"Reference" : ["Exodus 15:1-4b, 8-13, 17-18"],
+		"LiturgiaeHorarum-Index": 1,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

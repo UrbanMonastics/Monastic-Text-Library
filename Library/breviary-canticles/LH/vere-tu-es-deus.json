@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "vere-tu-es-deus",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Omnes Gentes Convertantur ad Dominum",
+	"Description": "From Isaiah 45:15-25",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"15": "",
+		"16": "",
+		"17": "",
+		"18": "",
+		"19": "",
+		"20": "",
+		"21": "",
+		"22": "",
+		"23": "",
+		"24": "",
+		"25": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 45:15-25"],
+		"LiturgiaeHorarum-Index": 31,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

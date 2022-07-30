@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "gratias-agimus-tibi",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "De Iudicio Dei",
+	"Description": "From Revelations 11:17-18, 12:10-12",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"17": "",
+		"18": "",
+		"10": "",
+		"11": "",
+		"12": ""
+	},
+	"Extra": {
+		"Reference" : ["Revelations 11:17-18, 12:10-12"],
+		"LiturgiaeHorarum-Index": 20,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

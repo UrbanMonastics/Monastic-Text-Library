@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "gratias-adamus-deo",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Christus Primogenitus Omnis Creaturæ & Primogenitus ex Mortuis",
+	"Description": "From Colossians 1:12-20",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"12": "",
+		"13": "",
+		"14": "",
+		"15": "",
+		"16": "",
+		"17": "",
+		"18": "",
+		"19": "",
+		"20": ""
+	},
+	"Extra": {
+		"Reference" : ["Colossians 1:12-20"],
+		"LiturgiaeHorarum-Index": 12,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

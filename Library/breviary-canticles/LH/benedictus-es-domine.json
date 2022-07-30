@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "benedictus-es-domine",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Soli Deo Honor et Gloria",
+	"Notes": "From 1 Chronicles 29:10-13",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"10": "",
+		"11": "",
+		"12": "",
+		"13": ""
+	},
+	"Extra": {
+		"Reference": ["1 Chronicles 29:10-13"],
+		"LiturgiaeHorarum-Index": 4,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
