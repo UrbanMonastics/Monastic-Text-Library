@@ -17,7 +17,7 @@
 		"7": "Alleluia\r\nHappy are those who are invited[*]\r\n\tto the wedding banquet of the Lamb.\r\nAlleluia"
 	},
 	"Extra": {
-		"Passage": "Revelation 19:1-2, 5-7",
+		"Reference": ["Revelation 19:1-2, 5-7"],
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

@@ -20,7 +20,7 @@
 		"10": "Son plan pour la plénitude des temps [*]\r\n\test d'unir toutes choses ensemble en Christ,\r\ntoutes les choses dans les cieux, [*]\r\n\tet les choses de la terre."
 	},
 	"Extra": {
-		"Passage" : "Ephésiens 1:3-10",
+		"Reference": ["Ephésiens 1:3-10"],
 		"LiturgiaeHorarum-Index": 10,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

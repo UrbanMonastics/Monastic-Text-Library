@@ -2,16 +2,18 @@
 	"TextAbbreviation": "christus-jesus",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Song of Christ's Glory",
-	"Description": "From Philipians 2:6-11",
+	"Description": "From Philippians 2:6-11",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{
 		"Versions": ["LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "",
+	"Verses": {
+		"6": ""
+	},
 	"Extra": {
-		"Passage" : "",
+		"Reference" : ["Philippians 2:6-11"],
 		"LiturgiaeHorarum-Index": 11,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

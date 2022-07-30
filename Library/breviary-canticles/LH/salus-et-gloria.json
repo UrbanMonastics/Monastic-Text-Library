@@ -12,9 +12,8 @@
 		"6": "Allelúia.\r\nQuia venérunt núptiæ Agni, [*]\r\n\tEt uxor emus præparávit se,\r\nAllelúia.\r\n\r\n",
 		"7": ""
 	},
-	"Text": "",
 	"Extra": {
-		"Passage": "Apocalypsis 19:1-7",
+		"Reference": ["Apocalypsis 19:1-7"],
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

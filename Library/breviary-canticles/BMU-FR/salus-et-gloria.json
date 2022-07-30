@@ -17,7 +17,7 @@
 		"7": "Alléluia\r\nHeureux ceux qui sont invités [*]\r\n\tau banquet de noces de l'Agneau.\r\nAlléluia."
 	},
 	"Extra": {
-		"Passage": "Apocalypse 19:1-2, 5-7",
+		"Reference": ["Apocalypse 19:1-2, 5-7"],
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

@@ -2,12 +2,14 @@
 	"TextAbbreviation": "christus-jesus",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Christus Jesus",
-	"Description": "From Philipians 2:6-11",
+	"Description": "From Philippians 2:6-11",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "",
+	"Verses": {
+		"6": ""
+	},
 	"Extra": {
-		"Passage" : "",
+		"Reference" : ["Philippians 2:6-11"],
 		"LiturgiaeHorarum-Index": 11,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

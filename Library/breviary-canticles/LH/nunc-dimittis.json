@@ -2,7 +2,7 @@
 	"TextAbbreviation": "nunc-dimittis",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Christus Lumen Gentium & Gloria Israel",
-	"Description": "From Lucam 2:29-32",
+	"Description": "From Luke 2:29-32",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Verses":{
@@ -12,7 +12,7 @@
 		"32": "lumen ad revelatiónem géntium[*]\r\n\tet glóriam plebis tuæ Israel."
 	},
 	"Extra": {
-		"Passage": "Lucam 2:29-32",
+		"Reference": ["Luke 2:29-32"],
 		"LiturgiaeHorarum-Index": 3,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

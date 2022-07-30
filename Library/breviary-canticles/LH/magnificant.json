@@ -2,7 +2,7 @@
 	"TextAbbreviation": "magnificant",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Magnificat",
-	"Notes": "From Lucam 1:46-55",
+	"Notes": "From Luke 1:46-55",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses": {
@@ -18,7 +18,7 @@
 		"55": "sicut locútus est ad patres nostros,[*]\r\n\tAbraham et sémini eius in sǽcula."
 	},
 	"Extra": {
-		"Passage": "Lucam 1:46-55",
+		"Reference": ["Luke 1:46-55"],
 		"LiturgiaeHorarum-Index": 1,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},

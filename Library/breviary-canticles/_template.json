@@ -5,9 +5,11 @@
 	"Description": "From ",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
-	"Text": "",
+	"Verses": {
+		"": ""
+	},
 	"Extra": {
-		"Passage" : "",
+		"Reference" : [""],
 		"LiturgiaeHorarum-Index": 0,
 		"LiturgiaeHorarum-Cantica": "VT/NT"
 	}
