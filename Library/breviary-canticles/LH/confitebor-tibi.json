@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "confitebor-tibi",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Populi Redempti Exsultatio",
+	"Description": "From Isaiah 12:1-6",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": "",
+		"6": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 12:1-6"],
+		"LiturgiaeHorarum-Index": 22,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "exsultavit",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Humilium Exsulatatio in Deo",
+	"Description": "From 1 Samuel 2:1-10",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": "",
+		"6": "",
+		"7": "",
+		"8": "",
+		"9": "",
+		"10": ""
+	},
+	"Extra": {
+		"Reference" : ["1 Samuel 2:1-10"],
+		"LiturgiaeHorarum-Index": 3,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

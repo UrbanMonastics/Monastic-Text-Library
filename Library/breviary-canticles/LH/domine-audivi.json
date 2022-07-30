@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "domine-audivi",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Deux Apparet ad Iudicandum",
+	"Description": "From Habakkuk 3:2-4, 13a, 15-19",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"2": "",
+		"3": "",
+		"4": "",
+		"13": "",
+		"15": "",
+		"16": "",
+		"17": "",
+		"18": "",
+		"19": ""
+	},
+	"Extra": {
+		"Reference" : ["Habakkuk 3:2-4, 13a, 15-19"],
+		"LiturgiaeHorarum-Index": 52,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

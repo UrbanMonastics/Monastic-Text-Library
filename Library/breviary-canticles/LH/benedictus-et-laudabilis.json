@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "benedictus-et-laudabilis",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Omnis Creatura Laudet Dominum",
+	"Description": "From Daniel 3:52-57",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"52": "",
+		"53": "",
+		"54": "",
+		"55": "",
+		"56": "",
+		"57": ""
+	},
+	"Extra": {
+		"Reference" : ["Daniel 3:52-57"],
+		"LiturgiaeHorarum-Index": 0,
+		"LiturgiaeHorarum-Cantica": "VT/NT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

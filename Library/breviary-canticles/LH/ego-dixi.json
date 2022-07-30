@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "ego-dixi",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Moribundi Angores, Santati Lætitia",
+	"Description": "From Isaiah 38:10-14,17-20",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"10": "",
+		"11": "",
+		"12": "",
+		"13": "",
+		"14": "",
+		"17": "",
+		"18": "",
+		"19": "",
+		"20": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 38:10-14,17-20"],
+		"LiturgiaeHorarum-Index": 26,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

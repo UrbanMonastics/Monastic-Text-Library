@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "audite-caeli",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Dei Beneficia in Populum",
+	"Description": "From Deuteronomy 32:1-12",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": "",
+		"6": "",
+		"7": "",
+		"8": "",
+		"9": "",
+		"10": "",
+		"11": "",
+		"12": ""
+	},
+	"Extra": {
+		"Reference" : ["Deuteronomy 32:1-12"],
+		"LiturgiaeHorarum-Index": 2,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "miserere-nostri",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Supplicatio pro Sancta Civitate Ierusalem",
+	"Description": "From Sirach 36:1-7, 13-16 ",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": "",
+		"6": "",
+		"7": "",
+		"13": "",
+		"14": "",
+		"15": "",
+		"16": ""
+	},
+	"Extra": {
+		"Reference" : ["Sirach 36:1-7, 13-16"],
+		"LiturgiaeHorarum-Index": 16,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
