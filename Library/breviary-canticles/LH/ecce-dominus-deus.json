@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "ecce-dominus-deus",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Pastor Bonus: Deus Altissimus & Sapientissimus",
+	"Description": "From Isaiah 40:10-17",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"10": "",
+		"11": "",
+		"12": "",
+		"13": "",
+		"14": "",
+		"15": "",
+		"16": "",
+		"17": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 40:10-17"],
+		"LiturgiaeHorarum-Index": 29,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

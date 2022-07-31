@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "deducant-oculi-mei",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Lamentatio Populi Tempore Famis & Belli",
+	"Description": "From Jeremiah 14:17-21",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"17": "",
+		"18": "",
+		"19": "",
+		"20": "",
+		"21": ""
+	},
+	"Extra": {
+		"Reference" : ["Jeremiah 14:17-21"],
+		"LiturgiaeHorarum-Index": 41,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

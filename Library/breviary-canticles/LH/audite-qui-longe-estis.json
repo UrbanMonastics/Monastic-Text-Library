@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "audite-qui-longe-estis",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Deus Iudicabit in Iustitia",
+	"Description": "From Isaiah 33:13-16",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"13": "",
+		"14": "",
+		"15": "",
+		"16": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 33:13-16"],
+		"LiturgiaeHorarum-Index": 25,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

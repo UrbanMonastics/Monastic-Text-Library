@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "deus-patrum-meorum",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Domine, de mihi Sapientiam",
+	"Description": "From Wisdom 9:1-6,9-11",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": "",
+		"6": "",
+		"9": "",
+		"10": "",
+		"11": ""
+	},
+	"Extra": {
+		"Reference" : ["Wisdom 9:1-6,9-11"],
+		"LiturgiaeHorarum-Index": 11,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

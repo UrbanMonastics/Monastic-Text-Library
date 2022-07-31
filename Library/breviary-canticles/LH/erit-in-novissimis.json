@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "erit-in-novissimis",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Omnes Gentes Venient ad Domum Domini",
+	"Description": "From Isaiah 2:2-5",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 2:2-5"],
+		"LiturgiaeHorarum-Index": 19,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

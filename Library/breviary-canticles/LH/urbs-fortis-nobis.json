@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "urbs-fortis-nobis",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Hymus Post Victoriam de Hostibus",
+	"Description": "From Isaiah 26:1-4, 7-9, 12",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"7": "",
+		"8": "",
+		"9": "",
+		"12": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 26:1-4, 7-9, 12"],
+		"LiturgiaeHorarum-Index": 23,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
