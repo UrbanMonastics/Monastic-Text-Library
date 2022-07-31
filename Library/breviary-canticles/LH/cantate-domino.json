@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "cantate-domino",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Hymnus de Deo Victore & Salvatore",
+	"Description": "From Isaiah 42:10-16",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"10": "",
+		"11": "",
+		"12": "",
+		"13": "",
+		"14": "",
+		"15": "",
+		"16": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 42:10-16"],
+		"LiturgiaeHorarum-Index": 30,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

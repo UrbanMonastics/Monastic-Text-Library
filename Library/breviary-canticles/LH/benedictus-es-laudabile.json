@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "benedictus-es-laudabile",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Oratio Azaræ in Fornace",
+	"Description": "From Daniel 3:26-27,29,34-41",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"26": "",
+		"27": "",
+		"29": "",
+		"34": "",
+		"35": "",
+		"36": "",
+		"37": "",
+		"38": "",
+		"39": "",
+		"40": "",
+		"41": ""
+	},
+	"Extra": {
+		"Reference" : ["Daniel 3:26-27,29,34-41"],
+		"LiturgiaeHorarum-Index": 46,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

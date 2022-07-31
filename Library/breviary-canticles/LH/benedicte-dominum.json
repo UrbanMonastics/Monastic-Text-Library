@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "benedicte-dominum",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Gratiarum Actio Pro Liberatione Populi",
+	"Description": "From Tobit 13:8-11, 13-16",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"8": "",
+		"9": "",
+		"10": "",
+		"11": "",
+		"13": "",
+		"14": "",
+		"15": "",
+		"16": ""
+	},
+	"Extra": {
+		"Reference" : ["Tobit 13:8-11, 13-16"],
+		"LiturgiaeHorarum-Index": 6,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "laetamini-cum-ierusalem",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Consolatio & Gaudium in Civitate Sancta",
+	"Description": "From Isaiah 66:10-14a",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"10": "",
+		"11": "",
+		"12": "",
+		"13": "",
+		"14": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 66:10-14a"],
+		"LiturgiaeHorarum-Index": 39,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

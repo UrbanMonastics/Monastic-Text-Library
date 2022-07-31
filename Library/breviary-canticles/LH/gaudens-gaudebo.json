@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "gaudens-gaudebo",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Daudens Gaudebo",
+	"Description": "From Isaiah 61:10-11, 62:1-5",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"10": "",
+		"11": "",
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": ""
+	},
+	"Extra": {
+		"Reference" : ["Isaiah 61:10-11, 62:1-5"],
+		"LiturgiaeHorarum-Index": 35,
+		"LiturgiaeHorarum-Cantica": "VT"
+	},
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
