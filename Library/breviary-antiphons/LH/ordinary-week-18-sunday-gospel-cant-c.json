@@ -5,5 +5,12 @@
 	"Version": "LH",
 	"Text": "Si vere, fratres, [*] dívites esse cúpitis, veras divítias amáte.",
 	"Notes": "Might be in reference to 1 Timothy 6:9",
+	"Extra": {
+		"Reference": ["1 Timothy 6:9"]
+	},
+	"Changes": [
+		"2022-08-05 Paul Prins: Added Reference.",
+		"2021-08-01 Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

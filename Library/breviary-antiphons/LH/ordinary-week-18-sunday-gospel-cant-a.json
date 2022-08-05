@@ -5,5 +5,12 @@
 	"Version": "LH",
 	"Text": "De quinque pánibus [*] et duóbus píscibus satiávit Dóminus quinque mília hóminum.",
 	"Notes": "Likely sourced from Matthew 14:1-20",
+	"Extra": {
+		"Reference": ["Matthew 14:1-20"]
+	},
+	"Changes": [
+		"2022-08-05 Paul Prins: Added Reference.",
+		"2021-08-01 Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }
