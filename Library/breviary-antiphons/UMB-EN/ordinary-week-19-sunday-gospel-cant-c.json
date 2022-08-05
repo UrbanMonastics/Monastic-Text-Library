@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "ordinary-week-19-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Where your [*] treasure is, there your heart will also be.",
+	"Extra": {
+		"Reference": [
+			"Matthew 6:21",
+			"Luke 12:34"
+		]
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

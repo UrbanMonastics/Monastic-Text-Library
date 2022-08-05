@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "ordinary-week-19-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Là où [*] est ton trésor, là sera aussi ton cœur.",
+	"Extra": {
+		"Reference": [
+			"Matthieu 6:21",
+			"Luc 12:34"
+		]
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

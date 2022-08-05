@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-19-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ego sum panis vivus [*] qui de cælo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum; et panis quem ego dabo, caro mea est pro mundi vita, allelúia.",
+	"Notes": "",
+	"Extra": {
+		"Reference": ["John 6:51"]
+	},
+	"Changes": [
+		"2022-08-05 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

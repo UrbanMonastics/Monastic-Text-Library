@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-19-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Aussitôt, Jésus [*] tendit la main, le saisit et lui dit : « Toi, petit de foi, pourquoi as-tu douté ?»",
+	"Extra": {
+		"Reference": ["Matthieu 14:31"]
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

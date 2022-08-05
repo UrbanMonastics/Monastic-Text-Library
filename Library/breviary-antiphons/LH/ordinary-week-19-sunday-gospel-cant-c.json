@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-19-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ubi est [*] thesáurus tuus, ibi est et cor tuum.",
+	"Notes": "",
+	"Extra": {
+		"Reference": [
+			"Matthew 6:21",
+			"Luke 12:34"
+		]
+	},
+	"Changes": [
+		"2022-08-05 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

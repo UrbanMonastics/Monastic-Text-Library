@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "ordinary-week-19-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Contínuo Iesus [*] exténdens manum apprehéndit eum, et dixit: Módicæ fidei, quare dubitásti?",
+	"Notes": "",
+	"Extra": {
+		"Reference": ["Matthew 14:31"]
+	},
+	"Changes": [
+		"2022-08-05 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
