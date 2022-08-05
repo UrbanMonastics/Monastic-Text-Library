@@ -5,5 +5,8 @@
 	"Version": "LH",
 	"Text": "Iubilémus Deo salutári nostro.",
 	"Description": "Invitatory antiphon for Monday in ordinary time.",
+	"Extra": {
+		"BreviaryInstructions": ""
+	},
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

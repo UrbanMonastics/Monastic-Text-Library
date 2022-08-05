@@ -8,6 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "The King who is to come, it's the Lord. Come, let us adore him.",
-	"Description": "Invitatory antiphon for the begining of advent up to and including 16th of december.",
+	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for the begining of Advent up to and including December 16th."
+	},
 	"License": "© 2021 Urban Monastics, Paris"
 }

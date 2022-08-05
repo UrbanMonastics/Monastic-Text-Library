@@ -8,6 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "The great King, our Lord. Come, let us worship him.",
-	"Description": "Invitatory antiphon for Tuesday in ordinary time.",
+	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Tuesday in ordinary time."
+	},
 	"License": "© 2021 Urban Monastics, Paris"
 }

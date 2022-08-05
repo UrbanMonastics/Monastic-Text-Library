@@ -8,7 +8,9 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Come, let us adore the Christ, the beloved Son, in whom the Father is pleased.",
-	"Description": "Invitatory antiphon for the Feast of the Baptism of the Lord.",
+	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for the Feast of the Baptism of the Lord."
+	},
 	"Changes": [
 		"2022-01-08 - Paul Prins: First translation of this Antiphon."
 	],

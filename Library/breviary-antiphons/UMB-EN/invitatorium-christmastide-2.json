@@ -8,6 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Christ revealed himself to us. Come, let us adore him.",
-	"Description": "Invitatory antiphon for Christmastide after Epiphany.",
+	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Christmastide after Epiphany."
+	},
 	"License": "© 2021 Urban Monastics, Paris"
 }

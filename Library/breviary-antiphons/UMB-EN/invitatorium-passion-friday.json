@@ -8,6 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Christ, son of God, has redeemed us by his blood. Come, let us worship Him.",
-	"Description": "Invitatory antiphon from Good Friday.",
+	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon from Good Friday."
+	},
 	"License": "© 2021 Urban Monastics, Paris"
 }

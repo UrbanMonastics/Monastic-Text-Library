@@ -5,5 +5,8 @@
 	"Version": "LH",
 	"Text": "Regem magnum Dóminum, veníte, adorémus.",
 	"Description": "Invitatory antiphon for Tuesday in ordinary time.",
+	"Extra": {
+		"BreviaryInstructions": ""
+	},
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

@@ -5,6 +5,9 @@
 	"Version": "LH",
 	"Text": "Christum, Fílium diléctum, in quo Pater sibi complácuit, veníte, adorémus.",
 	"Description": "Invitatory antiphon for the Feast of the Baptism of the Lord.",
+	"Extra": {
+		"BreviaryInstructions": ""
+	},
 	"Changes": [
 		"2022-01-08 - Paul Prins: Added this text."
 	],

@@ -4,6 +4,9 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Alma [*] Redemptóris Mater,\r\n\tquæ pérvia cæli porta manes,\r\n\tet stella maris, succúrre cadénti, súrgere qui curat, pópulo ; tu quæ genuísti, natúra miránte, tuum sanctum Genitórem, Virgo prius ac postérius, Gabriélis ab ore sumens illus Ave, peccatórum miserére.",
+	"Extra": {
+		"BreviaryInstructions": ""
+	},
 	"Changes": [
 		"2020-10-27 - Paul Prins: Added this Antiphone."
 	],

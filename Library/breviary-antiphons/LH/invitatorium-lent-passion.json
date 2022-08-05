@@ -5,5 +5,8 @@
 	"Version": "LH",
 	"Text": "Christum Dóminum pro nobis tentátum et passum, veníte, adorémus.",
 	"Description": "Invitatory antiphon from ash wednesday until saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
+	"Extra": {
+		"BreviaryInstructions": ""
+	},
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

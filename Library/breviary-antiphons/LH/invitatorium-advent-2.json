@@ -5,5 +5,8 @@
 	"Version": "LH",
 	"Text": "Prope est iam Dóminus: veníte, adorémus.",
 	"Description": "Invitatory antiphon for Advent between the 16th of December and the end of Advent.",
+	"Extra": {
+		"BreviaryInstructions": ""
+	},
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }
