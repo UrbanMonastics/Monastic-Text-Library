@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-compline-1-anti-marian-until-ash-wednesday",
+	"TextAbbreviation": "compline-marian-ave-regina-caelorum",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -8,7 +8,11 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Salut, [*] Reine du Ciel!\r\nSalut, Reine des anges!\r\nSalut, fleur fructueuse!\r\nÀ travers vous, la lumière s'est élevée sur la création.\r\n\r\nRéjouis-toi, glorieuse Mère,\r\nBelle entre toutes les femmes!\r\nSalut, Splendid Radiance!\r\nAppelez à Christ [*] pour nous.",
+	"Extra": {
+		"BreviaryInstructions": "Du 2 février au Carême"
+	},
 	"Changes": [
+		"2022-08-06 - Paul Prins: Ajout des instructions du bréviaire.",
 		"2020-10-27 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

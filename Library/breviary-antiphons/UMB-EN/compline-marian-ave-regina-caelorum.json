@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-compline-1-anti-marian-until-ash-wednesday",
+	"TextAbbreviation": "compline-marian-ave-regina-caelorum",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -9,9 +9,10 @@
 	},
 	"Text": "Hail, [*] Queen of Heaven!\r\nHail, Queen of Angels!\r\nHail, Fruitful Flower!\r\nThrough you light rose over creation.\r\n\r\nRejoice, glorious Mother,\r\nBeautiful among all women!\r\nHail, Splendid Radiance.\r\nCall out to Christ [*] for us.",
 	"Extra": {
-		"BreviaryInstructions": ""
+		"BreviaryInstructions": "From 2 February through Lent"
 	},
 	"Changes": [
+		"2022-08-06 - Paul Prins: Added breviary instructions.",
 		"2020-10-27 - Paul Prins: First translation of this Antiphon."
 	],
 	"License": "© 2021 Urban Monastics, Paris"
