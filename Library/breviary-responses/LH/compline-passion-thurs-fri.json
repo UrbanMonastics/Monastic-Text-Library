@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "compline-passion-thurs-fri",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Christus [*] factus est pro nobis oboediens usque ad mortem.",
+	"Extra": {
+		"Reference": ["Philippians 2:8"],
+		"BreviaryInstructions": "Feria quinta et sexta Triduum paschalis."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

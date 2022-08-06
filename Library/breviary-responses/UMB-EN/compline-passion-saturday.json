@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "compline-passion-saturday",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Christ [*] became obedient unto death, for us. Death upon a cross. Therefore, God exalted Him, and gave him the name above all names.",
+	"Extra": {
+		"Reference": ["Philippians 2:8-9"],
+		"BreviaryInstructions": "Holy Saturday of the Easter Passion."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

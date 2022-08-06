@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-eastertide",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Into your hands, Lord, I commend my spirit.\r\n[R] Alleluia, alleluia.\r\n[V] It's you who has redeemed us, Lord, God of truth.",
+	"Extra": {
+		"BreviaryInstructions": "During Eastertide after the Octave."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

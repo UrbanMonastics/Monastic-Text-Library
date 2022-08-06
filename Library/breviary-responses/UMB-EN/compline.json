@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "compline",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Into your hands, Lord, I commit my spirit.\r\n[R] Into your hands, Lord, [*] I commit my spirit.\r\n[V] It's you who has redeemed us, Lord, God of truth.",
+	"Changes": [
+		"2022-08-05 - Paul Prins: Update response to more closely follow the latin.",
+		"2020-10-27 - Paul Prins: First translation."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

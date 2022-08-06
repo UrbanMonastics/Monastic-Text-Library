@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-sunday-compline-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous laisse prier.\r\nSeigneur, nos voix humbles te supplient. [*] Alors qu'aujourd'hui encore, nous avons célébré le mystère de ta résurrection. [*] Maintenant, donne-nous ta paix, à l'abri de tous les maux, afin que nous puissions nous reposer. Aide-nous à nous lever demain en nous réjouissant et en te louant.  Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Changes": [
+		"2022-08-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

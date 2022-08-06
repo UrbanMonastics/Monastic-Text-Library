@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "compline-passion-thurs-fri",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Christ [*] s'est fait obéissant jusqu'à la mort, pour nous.",
+	"Extra": {
+		"Reference": ["Philippiens 2:8"],
+		"BreviaryInstructions": "Le jeudi et le vendredi de la passion pascale."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

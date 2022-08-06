@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-sunday-compline-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Let us pray.\r\nLord, our humbled voices beg you. [t] While even today we have celebrated the mystery of your resurrection. [*] Now give us your peace, safe from all evils, so may we rest. Help us arise tomorrow rejoicing and praising you. Through Jesus Christ, our Lord.\r\nAmen",
+	"Changes": [
+		"2022-08-05 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

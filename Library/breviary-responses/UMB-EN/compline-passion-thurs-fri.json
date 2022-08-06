@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "compline-passion-thurs-fri",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Christ [*] became obedient unto death, for us.",
+	"Extra": {
+		"Reference": ["Philippians 2:8"],
+		"BreviaryInstructions": "The Thursday and Friday of the easter passion."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

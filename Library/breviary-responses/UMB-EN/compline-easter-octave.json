@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "compline-easter-octave",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "These are the days [*] the Lord has made: let’s rejoice and be glad in it.",
+	"Extra": {
+		"Reference": ["Psalm 118:24"],
+		"BreviaryInstructions": "During Octave of Easter."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: First translation."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

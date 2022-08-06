@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "compline-passion-saturday",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Christ [*] s'est fait obéissant jusqu'à la mort, pour nous. La mort sur une croix. C'est pourquoi Dieu l'a exalté, et lui a donné le nom au-dessus de tout nom.",
+	"Extra": {
+		"Reference": ["Philippiens 2:8-9"],
+		"BreviaryInstructions": "Samedi saint de la passion pascale."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

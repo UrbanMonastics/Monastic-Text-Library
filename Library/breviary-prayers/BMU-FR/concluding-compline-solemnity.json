@@ -9,7 +9,7 @@
 	},
 	"Text": "Nous laisse prier.\r\nSeigneur, nous prions pour que vous visitiez cette maison et éloigniez tous les embûches de l'ennemi. [t] Accueillez vos saints angles pour vivre ici et soutenir notre paix. [*] Que ta bénédiction restent avec nous pour toujours. Par Jésus-Christ notre Seigneur.\r\nAmen.",
 	"Extra": {
-		"BreviaryInstructions": "Pour le triduum pascal, et les solennités en semaine."
+		"BreviaryInstructions": "Pour le triduum pascal, et les solennités, en semaine."
 	},
 	"Changes": [
 		"2022-08-01 - Paul Prins: Modifier l'abréviation et ajouter des instructions.",

@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "compline",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Entre tes mains, Seigneur, Je remets mon esprit.\r\n[R] Entre tes mains, Seigneur, [*] Je remets mon esprit.\r\n[V] Sauve-nous, Seigneur, Dieu de la vérité.",
+	"Changes": [
+		"2022-08-05 - Paul Prins: Mise à jour de la réponse pour suivre de plus près le latin.",
+		"2020-10-27 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 202 Monastiques Urbain, Paris"
+}

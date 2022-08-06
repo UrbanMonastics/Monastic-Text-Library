@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "compline-easter-octave",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Voici les jours [*] que le Seigneur a faits : Réjouissons-nous et soyons dans l'allégresse.",
+	"Extra": {
+		"Reference": ["Psaume 118:24"],
+		"BreviaryInstructions": "Pendant l'Octave de Pâques."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

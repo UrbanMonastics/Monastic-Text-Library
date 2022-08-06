@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "compline-eastertide",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] In manus tuas Dómine [*] Comméndo spíritum meum.\r\n[R] Allelúia, allelúia.\r\n[V] Redemístinos, Dómine, Deus veritátis.",
+	"Extra": {
+		"BreviaryInstructions": "Tempore Paschali post Octavam."
+	},
+	"Changes": [
+		"2022-08-05 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
