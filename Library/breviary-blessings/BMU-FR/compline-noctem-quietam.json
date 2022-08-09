@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Que le Seigneur tout-puissant [+] nous accorde une nuit paisible et une fin parfaite. Amen.",
+	"Text": "Que le Seigneur tout-puissant [+] nous accorde une nuit paisible et une fin parfaite.\r\nAmen",
 	"Changes": [
+		"2022-08-09 - Paul Prins: Ajusté le formatage.",
 		"2020-10-27 - Paul Prins: Première traduction de cette bénédiction."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

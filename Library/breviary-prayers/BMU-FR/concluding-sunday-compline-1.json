@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous laisse prier.\r\nSoyez avec nous ce nuit Seigneur. [t] Aide-nous demain à nous éveiller et à nous lever pour célébrer joyeusement [*] la résurrection de votre Christ. Celui qui règne avec vous pour les siècles des siècles.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nSoyez avec nous ce nuit Seigneur. [t] Aide-nous demain à nous éveiller et à nous lever pour célébrer joyeusement [*] la résurrection de votre Christ. Celui qui règne avec vous pour les siècles des siècles.\r\nAmen.",
 	"Changes": [
+		"2022-08-09 - Paul Prins: Alignez l'ouverture avec les autres jours de la semaine.",
 		"2020-10-27 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

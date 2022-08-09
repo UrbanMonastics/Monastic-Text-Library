@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous laisse prier.\r\nSeigneur, nos voix humbles te supplient. [*] Alors qu'aujourd'hui encore, nous avons célébré le mystère de ta résurrection. [*] Maintenant, donne-nous ta paix, à l'abri de tous les maux, afin que nous puissions nous reposer. Aide-nous à nous lever demain en nous réjouissant et en te louant.  Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nAvec des voix humbles, Seigneur, nous te cherchons. [t] Aujourd'hui encore, nous t'avons trouvé en célébrant le mystère de ta résurrection. [*] Maintenant il est temps de se reposer. Donne-nous ta paix, et la protection contre tous les maux. Aide-nous à nous lever demain en nous réjouissant et en te louant.  Par Jésus-Christ, notre Seigneur.\r\nAmen.",
 	"Changes": [
+		"2022-08-09 - Paul Prins: Réécrivez la majeure partie de la prière pour la rendre plus fluide, plus claire et créer un sentiment d'unité.",
 		"2022-08-05 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"
