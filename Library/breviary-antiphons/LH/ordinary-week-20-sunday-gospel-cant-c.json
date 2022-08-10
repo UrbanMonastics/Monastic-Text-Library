@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-20-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Putátis [*] quia pacem veni dare in terram? Non, dico vobis, sed separatiónem.",
+	"Extra": {
+		"Reference": ["Luke 12:51"]
+	},
+	"Changes": [
+		"2022-08-10 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

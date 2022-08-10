@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-20-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, pour ceux qui te cherchent avec diligence, tu as préparé de bonnes choses juste au-delà de la vue. Répands en nos cœurs la ferveur pour ton amour. [t] Puissions-nous t'aimer en tout, et par-dessus tout. [*] Ainsi, nous atteindrons enfin l'héritage que tu as promis pour nous, qui surpasse tout désir connu. Par Jésus-Christ.",
+	"Changes": [
+		"2022-08-10 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

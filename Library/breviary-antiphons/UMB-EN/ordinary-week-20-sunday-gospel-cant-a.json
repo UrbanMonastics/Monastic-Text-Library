@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-20-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jesus withdrew [*] into the region of Tyre and Sidon. There a Canaanite woman from nearby came to him, crying out, \"Lord, son of David, have mercy on me!\"",
+	"Extra": {
+		"Reference": ["Matthew 15:21-22"]
+	},
+	"Changes": [
+		"2022-08-10 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
