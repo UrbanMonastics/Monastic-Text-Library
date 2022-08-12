@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0011",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "11",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"23": "\tLa nuit où le Seigneur Jésus fut trahi, il prit du pain. ",
+		"24": "Après avoir remercié, il le rompit, et dit :\r\n\t« Ceci est mon corps, qui est pour vous. Faites ceci en mémoire de moi. »\r\n",
+		"25": "\tDe même, après le repas, Jésus prit la coupe, et dit :\r\n\t« Cette coupe est la nouvelle alliance en mon sang. Faites ceci, chaque fois que vous en boirez, en mémoire de moi. »\r\n",
+		"26": "\tEn effet, toutes les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur jusqu'à ce qu'il vienne. "
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2022-08-12 - Paul Prins: Premier traduction des versets 23-26."
+	],
+	"FootNotes": {
+		"23": "La partie 'a' n'est pas nécessaire pour euchristie, elle l'est: Car j'ai reçu du Seigneur ce que je vous ai aussi transmis."
+	},
+	"License": "© 2022 Urban Monastics, Paris"
+}

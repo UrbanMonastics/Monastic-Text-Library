@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0026",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "26",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"26": "\tWhile they were eating, Jesus took some bread. After blessing it, He broke it, and gave it to the disciples, and said,\r\n\t\"Take, eat. This is My body.\"\r\n",
+		"27": "\tThen he took a cup, and when he had giving thanks, He gave it to them, saying,\r\n\t\"Drink from it, all of you. ",
+		"28": "For this is my blood of the covenant, which is being poured out for many for the forgiveness of sins.\"\r\n",
+		"29": "\t\"I tell you, I will not drink again the fruit of the vine until that day when I drink it with you, anew, in my Father's kingdom.\"\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-08-12 - Paul Prins: First translation of chapter 11:26-29."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

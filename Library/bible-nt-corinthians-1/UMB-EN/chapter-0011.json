@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0011",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "11",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"23": "\tThat on the night when the Lord Jesus was betrayed, He took bread. ",
+		"24": "After He had given thanks, He broke it, and said,\r\n\t\"This is my body, which is for you. Do this in remembrance of Me.\"\r\n",
+		"25": "\tIn the same way, Jesus took the cup after supper, saying,\r\n\t\"This cup is the new covenant in My blood. Do this, as often as you drink it, in remembrance of me.\"\r\n",
+		"26": "\tFor as often as you eat this bread, and drink the cup, you proclaim the Lord's death until He comes. "
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2022-08-12 - Paul Prins: First translation of verses 23-26."
+	],
+	"FootNotes": {
+		"23": "Part 'a' is not needed for eucharist, it is: For I received from the Lord what I also delivered to you."
+	},
+	"License": "© 2022 Urban Monastics, Paris"
+}

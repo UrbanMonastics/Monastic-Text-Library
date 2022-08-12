@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0022",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "22",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"14": "\tL'heure étant venue, Jésus, accompagné de ses apôtres, se mit à table. ",
+		"15": "Il leur dit alors : « J'ai vivement désiré manger cette Pâque avec vous avant de souffrir ; ",
+		"16": "car je vous dis que je ne la mangerai plus jusqu'à ce qu'elle soit accomplie dans le royaume de Dieu. »\r\n",
+		"17": "\tAprès avoir pris une coupe et rendues grâces, il dit : « Prenez cette coupe et partagez-la entre vous. ",
+		"18": "Car je vous le dis, je ne boirai plus le fruit de la vigne jusqu'à ce que le royaume de Dieu soit venu. »\r\n",
+		"19": "\tEnsuite, il prit du pain et, après avoir rendu grâces, il le rompit. Puis il le leur donna, en disant : « Ceci est mon corps, qui est donné pour vous ; faites ceci en mémoire de moi. »\r\n",
+		"20": "\tEt de la même façon, après leur repas, Il prit la coupe, en disant : « Cette coupe, qui est versée pour vous, est la nouvelle alliance en Mon sang. »\r\n"
+	},
+	"InlineTitles": {
+		"14": ""
+	},
+	"Changes": [
+		"2022-01-29 - Paul Prins: Première traduction du chapitre 22, 14-20 utilisée pendant l'Eucharistie."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
