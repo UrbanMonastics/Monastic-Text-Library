@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "compline-marian-regina-caeli",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Regína cæli, [*] lætáre, allelúia,\r\nQuia quem meruísti portáre, allelúia,\r\nResurréxit sicut dixit, allelúia,\r\nOra pro nobis Deum, allelúia.",
+	"Extra": {
+		"BreviaryInstructions": "Tempore Paschali"
+	},
+	"Changes": [
+		"2022-08-06 - Paul Prins: Added breviary instructions.",
+		"2022-08-06 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

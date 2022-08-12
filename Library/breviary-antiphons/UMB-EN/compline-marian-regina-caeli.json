@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-marian-regina-caeli",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Queen of Heaven, [*] rejoice, Alleluia!\r\nFor the Lord who you chose to bear, Alleluia!\r\nHe has risen as He said, Alleluia!\r\nPray to God for us, Alleluia!",
+	"Extra": {
+		"BreviaryInstructions": "During Eastertide"
+	},
+	"Changes": [
+		"2022-08-12 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-marian-regina-caeli",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Reine du ciel, [*] réjouis-toi, Alléluia!\r\nCar le Seigneur que tu as porté, Alléluia!\r\nIl est ressuscité comme Il l'avait dit, Alléluia!\r\nPrie Dieu pour nous, Alléluia!",
+	"Extra": {
+		"BreviaryInstructions": "Pendant le temps de Pâques."
+	},
+	"Changes": [
+		"2022-08-12 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
