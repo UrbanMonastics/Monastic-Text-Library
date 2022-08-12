@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0014",
+	"SourceAbbreviation": "bible-ot-jeremiah",
+	"Description": "",
+	"Chapter": "14",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"9": ""
+	},
+	"Changes": [
+		"2022-08-12 - Paul Prins: Initial translation of verse 9."
+	],
+	"FootNotes": {
+		"9": "Part 'a' is not needed for compline, it is: Why are you like a man taken by surprise, like a warrior who cannot save?"
+	},
+	"License": "© 2022 Urban Monastics, Paris"
+}

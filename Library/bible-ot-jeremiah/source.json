@@ -1,0 +1,17 @@
+{
+	"Abbreviation": "bible-ot-jeremiah",
+	"Title": {
+		"default": "Jeremiah",
+		"UMB-EN": "The Book of Jeremiah",
+		"BMU-FR": "Le livre de Jérémie",
+		"fra": "Jérémie"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "hbo",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"SegmentTitles": false,
+	"Verses": true,
+	"Notes": ""
+}

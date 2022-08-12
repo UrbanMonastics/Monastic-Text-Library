@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-thessalonians-1",
+	"Chapter": "5",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"4": "Mes fratries, vous n'êtes pas dans les ténèbres, pour que le jour du Seigneur [jour] vous surprendra comme un voleur. ",
+		"5": "Vous êtes tous des fils de la lumière et des fils du jour. Nous n'appartenons pas à la nuit, ni aux ténèbres. ",
+		"9": "Il n'y aura pas de la fureur, plutôt Dieu nous a destiné à recevoir le salut par notre Seigneur Jésus-Christ, ",
+		"10": "qui est mort pour nous. Nous vivrons ensemble avec lui. Peu importe que nous soyons éveillés ou endormis. ",
+		"23": "Que le Dieu de la paix, Lui-même, vous sanctifie tout entiers. Que votre esprit, votre âme et votre corps soient complètement conservés, et sans tache, lors de la venue de notre Seigneur Jésus-Christ. ",
+		"24": "Celui qui vous appelle est fidèle, et il le mènera à bien. "
+	},
+	"Changes": [
+		"2022-08-11 - Paul Prins: Première traduction du chapitre 5:4-5, 9-10, 23-24."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

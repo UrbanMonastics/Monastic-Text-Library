@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-peter-1",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"5": "All of you, clothe yourselves in humility towards one another, because, \"God opposes the proud, but shows favor to the humble.\" ",
+		"6": "Therefore humble yourselves under God's mighty hand, that he may exalt you at the proper time. ",
+		"7": "Cast all your anxiety upon Him, because he cares about you. ",
+		"8": "Be sober. Be watchful. Your adversary, the devil, prowls around like a roaring lion, looking to devour someone. ",
+		"9": "Resist him with the strength of faith. "
+	},
+	"Changes": [
+		"2022-08-11 - Paul Prins: First translation of verses 5-9(a) based on Greek."
+	],
+	"FootNotes": {
+		"5": "Part 'a'is not needed for vespers, it is: You who are younger, submit yourselves to your elders.",
+		"9": "Only the first portion required for compline."
+	},
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-peter-1",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"5": "Vous tous, revêtez-vous d'humilité les uns envers les autres, car « Dieu s'oppose aux orgueilleux, mais il fait grâce aux humbles. » ",
+		"6": "Humiliez-vous sous la main puissante de Dieu, afin qu'il vous élève au moment voulu. ",
+		"7": "Déchargez-vous sur lui de toutes vos anxiétés, parce qu'il se soucie de vous. ",
+		"8": "Soyez sobre. Soyez vigilants. Votre adversaire, le diable, rôde comme un lion rugissant, cherchant à dévorer quelqu'un. ",
+		"9": "Résistez-lui avec la force de la foi. "
+	},
+	"Changes": [
+		"2021-09-29 - Paul Prins: Première traduction des versets 5-9 basée sur le grec."
+	],
+	"FootNotes": {
+		"5": "La partie 'a' n'est pas nécessaire pour les vêpres, elle l'est: Vous qui êtes plus jeunes, soumettez-vous à vos anciens.",
+		"9": "Seule la première partie est nécessaire pour les complies."
+	},
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

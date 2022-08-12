@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0014",
+	"SourceAbbreviation": "bible-ot-jeremiah",
+	"Description": "",
+	"Chapter": "14",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"9": "Mais, tu es au milieu de nous, SEIGNEUR. Nous sommes appelés par ton nom. Ne nous abandonne pas !"
+	},
+	"Changes": [
+		"2022-08-12 - Paul Prins: Première traduction de verset 9."
+	],
+	"FootNotes": {
+		"9": "La partie 'a' n'est pas nécessaire pour les complies, elle l'est: Pourquoi es-tu comme un homme pris par surprise, comme un héros qui ne peut pas sauver ?"
+	},
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
