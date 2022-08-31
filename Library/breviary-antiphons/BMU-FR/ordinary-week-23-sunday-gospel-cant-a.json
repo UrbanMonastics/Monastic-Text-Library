@@ -8,7 +8,11 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "« Si deux [*] d'entre vous s'accordent sur une chose sur la terre, cela leur sera fait par mon Père qui est dans les cieux », dit le Seigneur.",
+	"Extra": {
+		"Reference": ["Matthew 18"]
+	},
 	"Changes": [
+		"2022-08-31 - Paul Prins: Ajouter une référence aux metadata.",
 		"2022-06-16 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

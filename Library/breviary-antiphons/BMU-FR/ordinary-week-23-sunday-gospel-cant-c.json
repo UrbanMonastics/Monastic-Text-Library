@@ -7,8 +7,12 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Le Christ nous dit [*] dans l'Évangile : « Celui qui ne renonce pas à tout ce qu'il possède, ne peut pas être mon disciple ».",
+	"Text": "Le Christ nous dit [*] dans les Évangiles : « Celui qui ne renonce pas à tout ce qu'il possède, ne peut pas être mon disciple ».",
+	"Extra": {
+		"Reference": ["Luc 14:33"]
+	},
 	"Changes": [
+		"2022-08-31 - Paul Prins: Ajouter une référence aux metadata.",
 		"2022-06-16 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

@@ -7,10 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Christ tells us [*] in the Gospel, \"One who doesn't renounce all they possess, cannot be my disciple.\"",
-	"Description": "Based on Luke 14:33. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle C.",
+	"Text": "Christ tells us [*] in the Gospels, \"One who doesn't renounce all they possess, cannot be my disciple.\"",
+	"Extra": {
+		"Reference": ["Luke 14:33"]
+	},
 	"Changes": [
+		"2022-08-31 - Paul Prins: Add Reference to metadata.",
 		"2022-06-16 - Paul Prins: Refreshed the translation, and updated formating"
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2022 Urban Monastics, Paris"
 }

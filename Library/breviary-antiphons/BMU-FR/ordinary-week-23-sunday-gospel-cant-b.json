@@ -8,7 +8,11 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Pendant que le Seigneur passait [*] dans la région de Tyr, Il fit entendre les sourds et parler les muets.",
+	"Extra": {
+		"Reference": ["Marc 7:31-37"]
+	},
 	"Changes": [
+		"2022-08-31 - Paul Prins: Ajouter une référence aux metadata.",
 		"2022-06-16 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

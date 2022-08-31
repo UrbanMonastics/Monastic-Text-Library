@@ -8,9 +8,12 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "\"If two [*] of you on earth agree about anything, it shall be done for them by My Father who is in heaven\", says the Lord.",
-	"Description": "Based on Matthew 18. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle A.",
+	"Extra": {
+		"Reference": ["Matthew 18"]
+	},
 	"Changes": [
-		"2022-06-16 - Paul Prins: Update formating of the text"
+		"2022-08-31 - Paul Prins: Add Reference to metadata.",
+		"2022-06-16 - Paul Prins: Update formatting of the text"
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2022 Urban Monastics, Paris"
 }
