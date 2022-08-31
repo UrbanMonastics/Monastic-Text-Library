@@ -7,11 +7,12 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Reine du ciel, [*] réjouis-toi, Alléluia!\r\nCar le Seigneur que tu as porté, Alléluia!\r\nIl est ressuscité comme Il l'avait dit, Alléluia!\r\nPrie Dieu pour nous, Alléluia!",
+	"Text": "Réjouis-toi, [*] Reine du Ciel, Alléluia !\r\nCar le Seigneur que tu as choisi de porter, Alléluia !\r\nIl s'est ressuscité comme Il l'avait dit, Alléluia !\r\nPrie Dieu pour nous, Alléluia !",
 	"Extra": {
 		"BreviaryInstructions": "Pendant le temps de Pâques."
 	},
 	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins : Mise à jour de cette antienne.",
 		"2022-08-12 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

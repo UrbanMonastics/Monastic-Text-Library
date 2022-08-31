@@ -7,13 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Hail, [*] Queen of Heaven!\r\nHail, Queen of Angels!\r\nHail, Fruitful Flower!\r\nThrough you light rose over creation.\r\n\r\nRejoice, glorious Mother,\r\nBeautiful among all women!\r\nHail, Splendid Radiance.\r\nCall out to Christ [*] for us.",
+	"Text": "Hail, [*] Queen of Heaven!\r\nHail, Lady of Angels!\r\nHail, Fruitful Flower!\r\nThrough you light rose over creation.\r\n\r\nRejoice, glorious Mother,\r\nBeautiful among all others!\r\nHail, Splendid Radiance.\r\nCall out to Christ for us.",
 	"Extra": {
 		"BreviaryInstructions": "From 2 February through Lent"
 	},
 	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins: Updated this Antiphon.",
 		"2022-08-06 - Paul Prins: Added breviary instructions.",
 		"2020-10-27 - Paul Prins: First translation of this Antiphon."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2022 Urban Monastics, Paris"
 }

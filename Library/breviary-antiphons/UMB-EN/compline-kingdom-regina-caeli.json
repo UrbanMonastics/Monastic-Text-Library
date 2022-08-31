@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-kingdom-regina-caeli",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Kingdom of Heaven, [*] rejoice, Alleluia!\r\nFor the Lord wears his crown, Alleluia!\r\nHe has risen as He said, Alleluia!\r\nPraise our God with us, Alleluia!",
+	"Extra": {
+		"BreviaryInstructions": "During Eastertide"
+	},
+	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins: Created this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

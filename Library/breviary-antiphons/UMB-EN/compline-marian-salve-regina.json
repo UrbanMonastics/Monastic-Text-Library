@@ -7,13 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Hail, [*] Queen, mother of Mercy,\r\nOne of Life, gentleness, and hope.\r\nChildren of Eve, we cry in our exile.\r\nTowards you, we sigh, mourn, and weep in this valley of tears.\r\n\r\nO you, our advocate,\r\nTurn your eyes of mercy towards us.\r\nAs we end our exile, show us Jesus, the blessed fruit of your flesh.\r\nO merciful, good, and sweet Virgin Mary.",
+	"Text": "Hail, [*] holy Queen, mother of mercy,\r\n\tone of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards you we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tyour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed fruit of your flesh.\r\n\tMerciful, loving, and sweet Virgin Mary.",
 	"Extra": {
 		"BreviaryInstructions": "During Ordinary time after Pentecost"
 	},
 	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins: Updated this Antiphon.",
 		"2022-08-06 - Paul Prins: Added breviary instructions.",
 		"2020-10-27 - Paul Prins: First translation of this Antiphon."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2022 Urban Monastics, Paris"
 }

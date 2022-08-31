@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-kingdom-salve-regina",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Salut, [*] saint Royaume, maison de la miséricorde,\r\n\tlieu de vie, de douceur et d'espoir.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très gracieuse avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle roi béni sur ton trône.\r\n\tMiséricordieux, aimant et tendre Seigneur Christ.",
+	"Extra": {
+		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte."
+	},
+	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins : Ont créé cette antienne."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -7,13 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Salut, [*] Reine du Ciel!\r\nSalut, Reine des anges!\r\nSalut, fleur fructueuse!\r\nÀ travers vous, la lumière s'est élevée sur la création.\r\n\r\nRéjouis-toi, glorieuse Mère,\r\nBelle entre toutes les femmes!\r\nSalut, Splendid Radiance!\r\nAppelez à Christ [*] pour nous.",
+	"Text": "Salue, [*] Reine du Ciel !\r\nSalut, Dame des Anges !\r\nSalut, Fleur féconde !\r\nPar toi la lumière s'est levée sur la création.\r\n\r\nRéjouis-toi, Mère glorieuse,\r\nBelle entre toutes les autres !\r\nSalut, Splendide Rayon.\r\nCriez vers le Christ pour nous.",
 	"Extra": {
 		"BreviaryInstructions": "Du 2 février au Carême"
 	},
 	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins : Mise à jour de cette antienne.",
 		"2022-08-06 - Paul Prins: Ajout des instructions du bréviaire.",
 		"2020-10-27 - Paul Prins: Traduit cette Antiphone."
 	],
-	"License": "© 2021 Monastiques Urbain, Paris"
+	"License": "© 2022 Monastiques Urbain, Paris"
 }

@@ -7,13 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Holy Mother [*] of our Redeemer\r\n\tGateway of Heaven,\r\n\tStar of the Sea.\r\nCome and help us who fall\r\n\tand who desire rise again.\r\n\r\nO Wonderful, you gave birth\r\n\tto the one who created you,\r\n\tand you remained a virgin.\r\nAccept the salvation of the angel Gabriel\r\n\tand have mercy on us sinners.",
+	"Text": "Loving mother [*] of the Redeemer,\r\n\tour gateway of heaven,\r\n\tand guiding star of the seas.\r\nAssist those who have fallen,\r\n\tyet desire to rise again.\r\n\r\nYou have borne the holy creator,\r\n\twhile all creation marveled,\r\n\tand you remained a virgin.\r\nAccepting with praise angel Gabriel's invitation,\r\n\thave mercy on us sinners.",
 	"Extra": {
 		"BreviaryInstructions": "From Advent through 1 February"
 	},
 	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins: Updated this Antiphon.",
 		"2022-08-06 - Paul Prins: Added breviary instructions.",
 		"2020-10-27 - Paul Prins: First translation of this Antiphon."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2022 Urban Monastics, Paris"
 }

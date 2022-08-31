@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-kingdom-alma-redemptoris-mater",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Saint royaume [*] du Rédempteur,\r\n\tnotre trésor de valeur éternelle,\r\n\tet l'étoile guidant de notre espoir.\r\nDonne la miséricorde à tous ceux qui sont tombés,\r\n\tmais qui désirent se relever.\r\n\r\nMaison du saint Créateur,\r\n\tdigne d'un émerveillement sans fin,\r\n\tet source de pur amour divin.\r\nAcceptant avec louange l'invitation du Royaume du Christ,\r\n\taies pitié de nous pécheurs.",
+	"Extra": {
+		"BreviaryInstructions": "De l'Avent au 1er février."
+	},
+	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins : Ont créé cette antienne."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

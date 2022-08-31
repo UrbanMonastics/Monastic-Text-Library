@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "compline-kingdom-alma-redemptoris-mater",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Holy kingdom [*] of the Redeemer,\r\n\tour treasure of eternal worth,\r\n\tand guiding star of our hope.\r\n Give mercy to all who have fallen,\r\n\tyet desire to rise again.\r\n\r\n Home of the holy Creator,\r\n\tworthy of endless wonder,\r\n\tand source of pure divine love.\r\nAccepting with praise Christs Kingdom invitation,\r\n\thave mercy on us sinners.",
+	"Extra": {
+		"BreviaryInstructions": "From Advent through 1 February"
+	},
+	"Changes": [
+		"2022-08-31 - Paul Prins, Jordan Prins: Created this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
