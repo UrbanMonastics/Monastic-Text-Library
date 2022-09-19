@@ -7,11 +7,12 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Whoever dwells [*] in the shelter of the Most High rests in the shadow of the Almighty.",
+	"Text": "Whoever lives [*] in the shelter of the Most High, will find rest in the shadow of the Almighty.",
 	"Extra": {
 		"Reference": ["Psalm 91:1"]
 	},
 	"Changes": [
+		"2022-09-19 - Paul Prins: Align with our translation of Psalm 91.",
 		"2022-09-06 - Paul Prins: Smoothed out the language.",
 		"2022-08-05 - Paul Prins: Translated this Antiphon."
 	],
