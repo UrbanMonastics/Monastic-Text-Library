@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0095",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Invitatio Ad Laudem Dei",
+	"Description": "",
+	"Chapter": "95",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Veníte, exsultémus Dómino; [t]\r\n\tiubilémus Deo salutári nostro.\r\n",
+		"2": "Præoccupémus fáciem eius in confessióne [*]\r\n\tet in psalmis iubilémus ei.\r\n\r\n[ANT]\r\n\r\n",
+		"3": "Quóniam Deus magnus Dóminus [*]\r\n\tet rex magnus super omnes deos.\r\n",
+		"4": "Quia in manu eius sunt profúnda terræ, [*]\r\n\taltitúdines móntium ipsíus sunt.\r\n",
+		"5": "Quóniam ipsíus est mare, et ipse fecit illud, [*]\r\n\tet siccam manus eius formavérunt.\r\n\r\n[ANT]\r\n\r\n",
+		"6": "Veníte, adorémus et procidámus [*]\r\n\tet génue flectámus ante Dóminum, qui fecit nos,\r\n",
+		"7": "quia ipse est Deus noster, [*]\r\n\tet nos pópulus páscuæ eius et oves manus eius.\r\n\r\n[ANT]\r\n\r\nUtinam hódie vocem eius audiátis: [t]\r\n",
+		"8": "\t\"Nolíte obduráre corda vestra, [*]\r\n\tsicut in Meríba secúndum diem Massa in desérto,\r\n",
+		"9": "ubi tentavérunt me patres vestri: [*]\r\n\tprobavérunt me, etsi vidérunt ópera mea.\"\r\n\r\n[ANT]\r\n\r\n",
+		"10": "Quadragínta annis tæduit me generatiónis illíus, [*]\r\n\tet dixi: \"Pópulus errántium corde sunt isti.\r\n",
+		"11": "Et ipsi non cognovérunt vias meas; [t]\r\n\tideo iurávi in ira mea: [*]\r\n\tNon introíbunt in réquiem meam.\"\r\n\r\n[ANT]"
+	},
+	"Changes": [
+		"2022-10-26 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

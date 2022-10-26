@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "chapter-0095",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "An Invitation to Praise God",
+	"Description": "",
+	"Chapter": "95",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Come, let us sing praise to the LORD,\r\n\tshout with joy to the Rock of our salvation.\r\n",
+		"2": "Let us enter His presence with a song of thanksgiving,\r\n\tsinging joyful songs to Him.\r\n\r\n",
+		"3": "For the LORD is a great God,\r\n\tand the great king above all gods.\r\n",
+		"4": "In His hand are the depths of the earth,\r\n\tand the mountain peaks are His also.\r\n",
+		"5": "The sea is His for He made it,\r\n\tthe dry land His hands formed.\r\n\r\n",
+		"6": "Come, let us bow down and worship,\r\n\tlet us kneel before the LORD our maker.\r\n",
+		"7": "For He is our God, and we are the people of his pasture,\r\n\tand the flock of His hand.\r\n\r\nToday, will you hear His voice,\r\n",
+		"8": "\t\"Do not harden not your hearts,\r\n\tas at Meribah and during the temptation in the wilderness.\r\n",
+		"9": "Where your ancestors tested and provoked Me,\r\n\talthough they were witness to My work.\"\r\n\r\n",
+		"10": "\"Forty years that generation disgusted me\",\r\n\tand I said, \"they are a people whose hearts go astray,\r\n\tand they do not know my ways.\"\r\n",
+		"11": "So I swore in my anger,\r\n\t\"never shall they enter into My rest.\""
+	},
+	"Changes": [
+		"2022-10-26 - Paul Prins: Removed Liturgical Formatting from the version in the breviary."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

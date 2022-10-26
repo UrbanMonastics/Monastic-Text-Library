@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "chapter-0095",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Une Invitation à Louer Dieu",
+	"Description": "",
+	"Chapter": "95",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Venez, crions de joie pour le SEIGNEUR,\r\n\tacclamons le Rocher de notre salut.\r\n",
+		"2": "Allons en Sa présence avec un chant d'action de grâce,\r\n\tchantons-Lui des chants joyeux.\r\n\r\n",
+		"3": "Car le SEIGNEUR est un grand Dieu,\r\n\tet le grand roi au-dessus de tous les dieux.\r\n",
+		"4": "En Sa main est les profondeurs de la terre,\r\n\tet les sommets des montagnes sont aussi à lui.\r\n",
+		"5": "La mer est à Lui, car Il l'a faite,\r\n\tla terre sèche, Ses mains l'ont formée.\r\n\r\n",
+		"6": "Venez, prosternons-nous et adorons,\r\n\tplions le genou devant le SEIGNEUR qui nous a faits.\r\n",
+		"7": "Car Il est notre Dieu, et nous sommes le peuple de Son pâturage,\r\n\tet le troupeau de Sa main.\r\n\r\nAujourd'hui, écouterez-vous Sa voix,\r\n",
+		"8": "\t« N'endurcissez pas vos cœurs,\r\n\tcomme à Meriba et lors de la tentation dans le désert.\r\n",
+		"9": "Où vos ancêtres m'ont tenté et provoqué,\r\n\tbien qu'ils aient vu mon exploit. »\r\n\r\n",
+		"10": "« Quarante ans que cette génération m'a dégoûté, »\r\n\tet j'ai dit : « C'est un peuple dont le cœur s'égare,\r\n\tet ils ne connaissent pas mes voies. »\r\n",
+		"11": "Aussi, j'ai juré dans ma colère :\r\n\t« jamais ils n'entreront dans mon repos. »"
+	},
+	"Changes": [
+		"2022-10-26 - Paul Prins: Removed Liturgical Formatting from the version in the breviary."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
