@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "friday-compline-1-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dómine, [*] Deus salútis meæ, in die clamávi et nocte coram te.",
+	"Changes": [
+		"2022-10-30 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

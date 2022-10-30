@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "friday-compline-1-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "SEIGNEUR, [*] le Dieu de mon salut, je pleure devant Toi jour et nuit.",
+	"Changes": [
+		"2022-10-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
