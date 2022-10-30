@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0088",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "The Cries of a Broken Person",
+	"Description": "A Song. A Psalm of the children of Korah. For the choir director; according to Mahalath Leannoth. A Maskil of Heman the Ezrahite.",
+	"Chapter": "88",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "LORD, the God of my salvation,\r\n\tI weep before You day and night.\r\n",
+		"2": "Let my prayer come before You,\r\n\tgive Your ear to my cry.\r\n\r\n",
+		"3": "For my soul is overwhelmed by troubles,\r\n\tand my life is nearly lost to Sheol.\r\n",
+		"4": "I have joined those descending to the pit,\r\n\tlike one whose strength has failed.\r\n\r\n",
+		"5": "Abandoned among the dead,\r\n\tlike the slain lying in the grave,\r\nthose You no longer remember,\r\n\texcluded and cut off from Your hand.\r\n\r\n",
+		"6": "You have put me in the deepest pit,\r\n\tinto the darkness and the depths.\r\n",
+		"7": "The weight of Your anger crushes me,\r\n\tand You overwhelm me with all Your waves.\r\nselah\r\n",
+		"8": "You took everyone I knew from me.\r\n\tYou made me repulsive to them.\r\nI am locked up and cannot get out.",
+		"9": "\tMy eyes are failing from grief.\r\n\r\nLORD, I call upon You all day long,\r\n\tI stretch out my hands to You.\r\n",
+		"10": " Will You work wonders for the dead?\r\n\tWill their spirits rise up and praise You?\r\nselah\r\n",
+		"11": "Will Your love be spoken of in the grave?\r\n\tYour faithfulness in the place of the dead?\r\n",
+		"12": "Will they know of Your wonders in the darkness?\r\n\tYour justice in the land of forgetfulness?\r\n\r\n",
+		"13": "As for me, LORD, I cry out to You for help,\r\n\tfrom the morning, my prayer seeks You.\r\n",
+		"14": "Why, LORD, do You reject my soul?\r\n\tWhy do You hide Your face from me?\r\n\r\n",
+		"15": "I have been miserable and near death since my youth;\r\n\tI can no longer endure Your terrors.\r\n",
+		"16": "Your burning wrath has swept over me,\r\n\tYour terrors have reduced me to silence. \r\n\r\n",
+		"17": "They surround me like a flood all day long,\r\n\tthey close in on me from everywhere.\r\n",
+		"18": "You have taken my lover and friends far from me,\r\n\tnow, darkness is my closest friend."
+	},
+	"Changes": [
+		"2021-10-30 - Paul Prins: Removed Liturgical Formatting from the version in the breviary."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}
