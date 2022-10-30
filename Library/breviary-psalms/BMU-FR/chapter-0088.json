@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0088",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Les Cris d'une Personne Brisée",
+	"Description": "Un chant. Un psaume des enfants de Koré. Pour le chef de chœur ; selon Mahalath Leannoth. Un Maskil de Heman le Ezrahite.",
+	"Chapter": "88",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "SEIGNEUR, le Dieu de mon salut, [*]\r\n\tje pleure devant Toi jour et nuit.\r\n",
+		"2": "Que ma prière parvienne jusqu'à Toi, [*]\r\n\tprête Ton oreille à mon cri.\r\n\r\n",
+		"3": "Car mon âme est accablée par les malheurs, [*]\r\n\tet ma vie est presque perdue à Shéol.\r\n",
+		"4": "On m'inclut avec ceux qui descendent dans la fosse, [*]\r\n\tje suis devenu celui dont la force a échoué.\r\n\r\n",
+		"5": "Abandonné parmi les morts, [*]\r\n\tcomme les tués qui reposent dans la tombe,\r\nceux dont Tu n'as plus souvenir, [*]\r\n\texclus et coupés de Ta main.\r\n\r\n",
+		"6": "Tu m'as mis au plus profond de la fosse, [*]\r\n\tdans les ténèbres et les profondeurs.\r\n",
+		"7": "Le poids de Ta colère m'écrase, [*]\r\n\tet, Tu m'accables de toutes Tes vagues.\r\nselah\r\n",
+		"8": "Tu as éloigné de moi tous ceux que je connaissais. [*]\r\n\tTu m'as rendu repoussant pour eux.\r\n\tJe suis enfermé et je ne peux pas sortir. [*]\r\n",
+		"9": "\tMes yeux sont usés par le chagrin.\r\n\r\nSEIGNEUR, je T'appelle tout la jour, [*]\r\n\tje tends les mains vers Toi.\r\n",
+		"10": "Feras-Tu des miracles pour les morts ? [*]\r\n\tLeurs esprits se lèveront-ils et Te loueront-ils ?\r\nselah\r\n",
+		"11": "Parlera-t-on de Ton amour dans la tombe ? [*]\r\n\tDe Ta fidélité dans le lieu des morts ?\r\n",
+		"12": "Connaîtront-ils Tes miracles dans les ténèbres ? [*]\r\n\tTa justice dans le pays de l'oubli ?\r\n\r\n",
+		"13": "Moi, SEIGNEUR, je crie à Ton secours, [*]\r\n\tdès le matin, ma prière Te cherche.\r\n",
+		"14": "Pourquoi, SEIGNEUR, rejettes-Tu mon âme ? [*]\r\n\tPourquoi me caches-Tu Ton visage ?\r\n\r\n",
+		"15": "Je suis misérable et proche de la mort depuis ma jeunesse ; [*]\r\n\tJe ne peux plus endurer Tes terreurs.\r\n",
+		"16": "Ta colère brûlante m'a submergé, [*]\r\n\tTes terreurs m'ont réduit au silence.\r\n\r\n",
+		"17": "Elles m'entourent comme un torrent tout le jour, [*]\r\n\tde partout, elles se rapprochent de moi.\r\n",
+		"18": "Tu as éloigné de moi mon amant et mes amis, [*]\r\n\tmaintenant, mon ami plus proche, c'est la ténèbre."
+	},
+	"Changes": [
+		"2022-10-28 - Paul Prins: Première traduction du psaume 88 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

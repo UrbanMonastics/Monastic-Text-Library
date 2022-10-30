@@ -1,0 +1,33 @@
+{
+	"TextAbbreviation": "chapter-0088",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Hominis Graviter Ægrotantis Oratio",
+	"Description": "Canticum. PSALMUS. Filiorum Core. Magistro chori. Secundum \" Mahalat \". Ad cantandum. Maskil. Heman Ezrahitae.",
+	"Chapter": "88",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Dómine, Deus salútis meæ, [*]\r\n\tin die clamávi et nocte coram te.\r\n",
+		"2": "Intret in conspéctu tuo orátio mea ; [*]\r\n\tinclína aurem tuam ad precem meam.\r\n\r\n",
+		"3": "Quia repléta est malis ánima mea, [*]\r\n\tet vita mea inférno appropinquávit.\r\n",
+		"4": "Æstimátus sum cum descendéntibus in lacum, [*]\r\n\tfactus sum sicut homo sine adiutório.\r\n\r\n",
+		"5": "Inter mórtuos liber, [*]\r\n\tsicut vulneráti dormiéntes in sepúlcris ;\r\nquorum non es memor ámplius, [*]\r\n\tet ipsi de manu tua abscíssi sunt.\r\n\r\n",
+		"6": "Posuísti me in lacu inferióri, [*]\r\n\tin tenebrósis et in umbra mortis.\r\n",
+		"7": "Super me gravátus est furor tuus, [*]\r\n\tet omnes fluctus tuos induxísti super me.\r\n\r\n",
+		"8": "Longe fecísti notos meos a me, [*]\r\n\tposuísti me abominatiónem eis ;\r\nconclúsus sum et non egrédiar. [*]\r\n",
+		"9": "\tOculi mei languérunt præ afflictióne.\r\n\r\nClamávi ad te, Dómine, tota die, [*]\r\n\texpándi ad te manus meas.",
+		"10": "Numquid mórtuis fácies mirabília, [*]\r\n\taut surgent umbræ et confitebúntur tibi?\r\n\r\n",
+		"11": "Numquid narrábit áliquis in sepúlcro misericórdiam tuam [*]\r\n\tet veritátem tuam in loco perditiónis?\r\n",
+		"12": "Numquid cognoscéntur in ténebris mirabília tua [*]\r\n\tet iustítia tua in terra obliviónis?\r\n\r\n",
+		"13": "Et ego ad te Dómine, clamávi, [*]\r\n\tet mane orátio mea prævéniet te.\r\n",
+		"14": "Ut quid, Dómine, repéllis ánimam meam, [*]\r\n\tabscóndis fáciem tuam a me?\r\n\r\n",
+		"15": "Pauper sum ego et móriens a iuventúte mea ; [*]\r\n\tportávi pavóres tuos et conturbátus sum.\r\n",
+		"16": "Super me transiérunt iræ tuæ, [*]\r\n\tet terróres tui excidérunt me.\r\n\r\n",
+		"17": "Circuiérunt me sicut aqua tota die, [*]\r\n\tcircumdedérunt me simul.\r\n",
+		"18": "Elongásti a me amícum et próximum, [*]\r\n\tet noti mei sunt ténebræ."
+	},
+	"Changes": [
+		"2022-10-26 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
