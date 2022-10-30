@@ -14,7 +14,7 @@
 		"1": "SEIGNEUR, le Dieu de mon salut, [*]\r\n\tje pleure devant Toi jour et nuit.\r\n",
 		"2": "Que ma prière parvienne jusqu'à Toi, [*]\r\n\tprête Ton oreille à mon cri.\r\n\r\n",
 		"3": "Car mon âme est accablée par les malheurs, [*]\r\n\tet ma vie est presque perdue à Shéol.\r\n",
-		"4": "On m'inclut avec ceux qui descendent dans la fosse, [*]\r\n\tje suis devenu celui dont la force a échoué.\r\n\r\n",
+		"4": "J'ai rejoint ceux qui descendent dans le fossé, [*]\r\n\tcomme quelqu'un dont la force a échoué.\r\n\r\n",
 		"5": "Abandonné parmi les morts, [*]\r\n\tcomme les tués qui reposent dans la tombe,\r\nceux dont Tu n'as plus souvenir, [*]\r\n\texclus et coupés de Ta main.\r\n\r\n",
 		"6": "Tu m'as mis au plus profond de la fosse, [*]\r\n\tdans les ténèbres et les profondeurs.\r\n",
 		"7": "Le poids de Ta colère m'écrase, [*]\r\n\tet, Tu m'accables de toutes Tes vagues.\r\nselah\r\n",
@@ -31,6 +31,7 @@
 		"18": "Tu as éloigné de moi mon amant et mes amis, [*]\r\n\tmaintenant, mon ami plus proche, c'est la ténèbre."
 	},
 	"Changes": [
+		"2022-10-29 - Paul Prins : Mise à jour du verset 4 pour corriger un flux maladroit et une confusion.",
 		"2022-10-28 - Paul Prins: Première traduction du psaume 88 basée sur le grec, le latin et un peu d'hébreu."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"
