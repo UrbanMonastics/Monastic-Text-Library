@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-32-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dum autem irent émere, [*] ecce sponsus venit ; et quæ parátæ erant, intrevérunt cum eo ad núptias.",
+	"Extra": {
+		"Reference": ["Matthew 25:10"]
+	},
+	"Changes": [
+		"2022-11-05 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

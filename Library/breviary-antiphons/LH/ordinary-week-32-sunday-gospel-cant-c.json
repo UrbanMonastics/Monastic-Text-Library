@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-32-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "In resurrectióne, [*] neque nubent neque nubéntur, sed erunt æquáles ángelis Dei.",
+	"Extra": {
+		"Reference": ["Matthew 22:30"]
+	},
+	"Changes": [
+		"2022-11-05 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

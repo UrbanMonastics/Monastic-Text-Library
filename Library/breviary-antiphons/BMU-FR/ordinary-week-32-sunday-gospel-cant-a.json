@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-32-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Et pendant qu'elles allaient acheter leur huile, [*] l'époux arriva, et ceux qui étaient prêts allèrent avec lui aux noces.",
+	"Extra": {
+		"Reference": ["Matthieu 25:10"]
+	},
+	"Changes": [
+		"2022-11-05 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

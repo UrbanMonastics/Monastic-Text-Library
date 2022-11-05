@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-32-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et miséricordieux, prends pitié de nous, et enlève tout ce qui nous entrave. [t] Afin que, libres d'esprit, de corps et d'âme, [*] nous soyons libres pour accomplir ta volonté. Par Jésus-Christ.",
+	"Changes": [
+		"2022-11-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

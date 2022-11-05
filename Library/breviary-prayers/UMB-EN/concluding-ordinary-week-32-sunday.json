@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-32-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and merciful God, have mercy on us, and remove all that hinders us. [t] So that, free in mind, body, and spirit, [*] we may be free to do your will. Through Jesus Christ.",
+	"Changes": [
+		"2022-11-05 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

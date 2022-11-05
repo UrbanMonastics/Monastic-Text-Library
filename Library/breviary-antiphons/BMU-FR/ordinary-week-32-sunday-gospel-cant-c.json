@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-32-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "À la résurrection, [*] on ne se mariera pas et on ne sera pas donné en mariage, mais on sera comme les anges du ciel.",
+	"Extra": {
+		"Reference": ["Matthieu 22:30"]
+	},
+	"Changes": [
+		"2022-11-05 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
