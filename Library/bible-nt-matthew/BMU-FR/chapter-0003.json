@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "En ce temps-là, Jean le Baptiste arriva, prêchant dans le désert de Judée, et disant : ",
+		"2": "« Repentez-vous, car le royaume des cieux approche rapidement. »",
+		"3": "Car c'est de lui qu'a parlé le prophète Ésaïe, lorsqu'il a dit ,\r\n\r\n« La voix de celui qui crie dans le désert.\r\n'Préparez le chemin de Seigneur,\r\n\trendez ses sentiers droits.' »\r\n\r\n",
+		"4": "Jean avait lui-même des vêtements en poil de chameau, et une ceinture de cuir autour de la taille. Il se nourrissait de sauterelles et de miel sauvage.",
+		"5": "Les peuples allaient vers lui de Jérusalem, de toute la Judée et de toute la région du Jourdain. ",
+		"6": "Ils se faisaient baptiser par lui dans les eaux du Jourdain, pendant qu'ils confessaient leurs péchés.\r\n"
+	},
+	"InlineTitles": {
+		"1": "Jean Baptiste Prépare le Chemin"
+	},
+	"Changes": [
+		"2022-11-25 - Paul Prins: Premier traduction du chapitre 3:1-6."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

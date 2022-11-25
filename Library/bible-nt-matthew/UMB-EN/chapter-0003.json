@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tIn those days John the Baptist came, preaching in the wilderness of Judea, saying, ",
+		"2": "\"Repent, for the Kingdom of Heaven approaches quickly.\" ",
+		"3": "For this is who the prophet Isaiah spoken of when he said,\r\n\r\n\"The voice of one crying out in the wilderness.\r\nPrepare the way of the LORD,\r\n\tmake his paths straight.\"\r\n\r\n",
+		"4": "\tNow John himself had clothes made of camel's hair, and a leather belt around his waist. His food was locusts and wild honey. ",
+		"5": "The people went out to him from Jerusalem, across Judea, and the whole region of the Jordan. ",
+		"6": "They were being baptized by him in the Jordan River, while they confessed their sins. \r\n"
+	},
+	"InlineTitles": {
+		"1": "John the Baptist Prepares the Way"
+	},
+	"Changes": [
+		"2022-11-25 - Paul Prins: First translation of chapter 3:1-6."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
