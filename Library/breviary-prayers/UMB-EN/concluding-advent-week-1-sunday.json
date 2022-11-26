@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-1-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Give to all the faithful, almighty God, your enduring will. [t] That we may meet the coming Christ with works of Justice. [*] So that each of us will be welcomed, at his judgement, into the Kingdom of Heaven. Through Jesus Christ.",
+	"Changes": [
+		"2022-11-26 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

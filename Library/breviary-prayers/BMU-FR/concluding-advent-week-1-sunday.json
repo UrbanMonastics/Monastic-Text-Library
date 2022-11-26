@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-1-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Donne à tous les fidèles, Dieu tout-puissant, ta volonté durable. [t] Que nous puissions rencontrer le Christ qui vient avec des vies de justice. [*] Pour que chacun d'entre nous soit accueilli, lors de Son jugement, dans le Royaume des Cieux. Par Jésus-Christ.",
+	"Changes": [
+		"2022-11-26 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
