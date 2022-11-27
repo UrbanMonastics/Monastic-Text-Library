@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-monday-vespers",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Viens nous libérer, Seigneur, Dieu de l'univers !\r\n[R] Viens nous libérer, [*] Seigneur, Dieu de l'univers !\r\n[V] Expose-nous ton visage, et nous serons sauvés !",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Première traduction du latin."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

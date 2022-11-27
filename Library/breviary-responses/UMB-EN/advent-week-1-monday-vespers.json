@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Come liberate us, Lord, God of the Universe!\r\n[R] Come liberate us, [*] Lord, God of the Universe!\r\n[V] Show us your face, and we will be saved!",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Initial translation from Latin"
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
