@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Holy Spirit [*] will descend upon you, Mary: do not fear, you will carry and give birth to the Son of God, alleluia.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

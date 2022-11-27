@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-mediant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The prophets foretold [*] a Savior would be born of the Virgin Mary.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

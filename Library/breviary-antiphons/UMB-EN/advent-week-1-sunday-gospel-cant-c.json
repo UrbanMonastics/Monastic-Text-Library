@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Blessed are you, Mary, [*] who has believed. In you the words spoken to you by the Lord will be fulfilled, alleluia.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

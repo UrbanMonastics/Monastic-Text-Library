@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ecce vénio cito, [*] et merces mea mecum est, dicit Dóminus: dare unicuíque secúndum ópera sua.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

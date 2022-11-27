@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "L'Esprit Saint [*] descendra sur toi, Marie : ne crains pas, tu porteras et enfanteras le Fils de Dieu, alléluia.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Announce [*] to all people and say: Behold, our God and Savior is coming.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

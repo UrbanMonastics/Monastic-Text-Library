@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-median",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Les prophètes ont proclamé : [*] le Sauveur naîtra de la Vierge Marie.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Beáta es, María, [*] quæ credidísti: perficiéntur in te, quæ dicta sunt tibi Dómino, allelúia.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

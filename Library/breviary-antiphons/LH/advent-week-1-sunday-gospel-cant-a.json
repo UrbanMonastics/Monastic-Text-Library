@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Spíritus Sanctus [*] in te descéndet, María: ne tímeas, habébis in útero Filium Dei, allelúia.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

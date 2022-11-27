@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Ne crains pas, Marie, [*] tu as trouvé grâce auprès du Seigneur. Tu vas concevoir et enfanter le Fils, alléluia.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

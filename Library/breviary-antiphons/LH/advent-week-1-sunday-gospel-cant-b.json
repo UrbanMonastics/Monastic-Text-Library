@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ne tímeas, María, [*] invenísti grátiam apud Dóminum: ecce concípies et páries Fílium, allelúia.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

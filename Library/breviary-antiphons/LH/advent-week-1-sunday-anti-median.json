@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-median",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Prophétæ prædicavérunt [*] nasci Salvatórem de Virgine María.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

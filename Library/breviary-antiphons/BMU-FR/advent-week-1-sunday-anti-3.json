@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Voici, que je viens vite, [*]  et j'ai Mes récompenses avec Moi, dit le Seigneur, pour donner gracieusement à tous selon ce qu'ils ont fait.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Bénie es-tu, Marie, [*] toi qui as cru. En toi s'accompliront les paroles que le Seigneur t'a dites, alléluia.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

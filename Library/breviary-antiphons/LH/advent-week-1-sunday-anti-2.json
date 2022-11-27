@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "In illa die [*] stillábunt montes dulcédinem, et colles fluent lac et mel, allelúia.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
