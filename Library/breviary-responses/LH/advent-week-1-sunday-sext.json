@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-sext",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Meménto nostri, Dómine, in beneplácito pópuli tui.\r\n[R] Meménto nostri, Dómine, [*] in beneplácito pópuli tui.\r\n[V] Vísita nos in salutári tuo.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

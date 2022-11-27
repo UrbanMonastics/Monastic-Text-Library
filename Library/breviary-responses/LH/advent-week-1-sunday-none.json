@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Veni, Dómine, et noli tardáre.\r\n[R] Veni, Dómine, [*] et noli tardáre.\r\n[V] Reláxa facínora plebi tuæ.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

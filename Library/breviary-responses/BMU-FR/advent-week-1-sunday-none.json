@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Viens, Seigneur, et ne tarde pas.\r\n[R] Viens, Seigneur, [*] et ne tarde pas.\r\n[V] Remets à ton peuple ses péchés.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Première traduction du latin."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

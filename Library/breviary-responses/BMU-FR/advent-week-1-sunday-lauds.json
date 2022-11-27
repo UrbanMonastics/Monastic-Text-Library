@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-lauds",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Christ, Fils du Dieu vivant, aie pitié de nous.\r\n[R] Christ, Fils du Dieu vivant, [*] aie pitié de nous.\r\n[V] Toi qui viens dans le monde.",
+	"Changes": [
+		"2022-11-27 - Paul Prins: Première traduction du latin."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

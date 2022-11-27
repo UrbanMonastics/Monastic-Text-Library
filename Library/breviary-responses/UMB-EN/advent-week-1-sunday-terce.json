@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-vespers-2",
+	"TextAbbreviation": "advent-week-1-sunday-terce",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Let us see, Lord, your mercy.\r\n[R] Let us see, Lord, [*] your mercy.\r\n[V] And give us your salvation.",
+	"Text": "[V] The nations will fear the name of the Lord.\r\n[R] The nations will fear [*] the name of the Lord.\r\n[V] And all earthly rulers and kings will glorify You.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Initial translation from Latin"
 	],

@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-vespers-2",
+	"TextAbbreviation": "advent-week-1-sunday-sext",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Let us see, Lord, your mercy.\r\n[R] Let us see, Lord, [*] your mercy.\r\n[V] And give us your salvation.",
+	"Text": "[V] Remember us, Lord, your people in your pleasure.\r\n[R] Remember us, Lord, [*] your people in your pleasure.\r\n[V] Visit us with your salvation.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Initial translation from Latin"
 	],

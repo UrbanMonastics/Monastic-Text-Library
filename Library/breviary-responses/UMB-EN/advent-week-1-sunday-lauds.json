@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-vespers-2",
+	"TextAbbreviation": "advent-week-1-sunday-lauds",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Let us see, Lord, your mercy.\r\n[R] Let us see, Lord, [*] your mercy.\r\n[V] And give us your salvation.",
+	"Text": "[V] Christ, Son of the living God, have compassion on us.\r\n[R] Christ, Son of the living God, [*] have compassion on us.\r\n[V] You who comes into the world.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Initial translation from Latin"
 	],
