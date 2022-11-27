@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday-gospel-cant-vespers",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Quærite Dóminum, [*] dum inveníri potest ; invocáte eum, dum prope est, allelúia.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-11-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
