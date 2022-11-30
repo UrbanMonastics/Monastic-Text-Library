@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-romans",
+	"Chapter": "13",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "\tSo do this, understanding the time. The hour has already come for you to awaken from sleep. For our salvation is to us now than when we first believed. ",
+		"12": "The night is almost over, and the day draws near. Let us set aside the deeds of darkness and put on the armor of light. ",
+		"13": "Let us behave properly, as in the daylight, not in carousing and drunkenness, not in sexual promiscuity and debauchery, not in quarreling and jealousy. ",
+		"14": "But put on the Lord Jesus Christ, and give no more thought to gratifying the desires of the flesh."
+	},
+	"Changes": [
+		"2022-11-29 Paul Prins: First translation of verse 11-14."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

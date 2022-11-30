@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0001",
+	"SourceAbbreviation": "bible-nt-thessalonians-2",
+	"Chapter": "1",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"6": "\tFor it is only just for God to repay those who oppressed you with oppression, ",
+		"7": "and give relief to you who are oppressed, and to us as well. This will happen when the Lord Jesus is revealed from heaven with His might angels. ",
+		"8": "They will punish those who do not know God, and do not obey the gospel of our Lord Jesus. ",
+		"9": "They will pay for their punishment with eternal destruction, cast away from the presence of the Lord and from the Glory of His power. ",
+		"10": " When He comes to be glorified in His saints on that day, and to be marveled at among all who have believed. Believing because of our testimony to you.\r\n"
+	},
+	"Changes": [
+		"2022-11-29 - Paul Prins: Added verses 6-7, 10 from the Greek."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

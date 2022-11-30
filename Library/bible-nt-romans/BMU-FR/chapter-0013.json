@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-romans",
+	"Chapter": "13",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "\tFaites donc cela, en comprenant l'heure. L'heure est déjà venue pour vous de vous réveiller du sommeil. Car notre salut est plus grand maintenant que lorsque nous avons cru pour la première fois. ",
+		"12": "La nuit est presque finie, et le jour approche. Mettons de côté les œuvres des ténèbres et revêtons les armes de la lumière. ",
+		"13": "Conduisons-nous convenablement, comme en plein jour, non pas dans les réjouissances et l'ivrognerie, non pas dans la promiscuité sexuelle et la débauche, non pas dans les querelles et la jalousie. ",
+		"14": "Mais revêtez-vous du Seigneur Jésus-Christ, et ne pensez plus à satisfaire les désirs de la chair."
+	},
+	"Changes": [
+		"2022-11-29 Paul Prins: Première traduction des versets 11-14."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
