@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "petitions-advent-week-1-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Christum, gáudium et exsultatiónem ómnium eum exspectántium, invocémus, dicéntes :\r\n[IR] Veni, Dómine, et noli tardáre.\r\n[I1] Læti exspectámus advéntum tuum,\r\n[I2] veni, Dómine Iesu.\r\n[I1] Tu, qui es ante sæcula,\r\n[I2] veni ad salvándum nos in hoc sæculo.\r\n[I1] Tu, qui creásti mundum et omnes qui hábitant in eo,\r\n[I2] veni ad rediméndum opus mánuum tuárum.\r\n[I1] Qui nostram non horruísti mortálem natúram,\r\n[I2] veni ad eripiéndum nos a mortis império.\r\n[I1] Qui venísti ut vitam superabundántem haberémus,\r\n[I2] veni nobísque dona tuam vitam ætérnam.\r\n[I1] Qui omnes hómines in regnum tuum adunáre voluísti,\r\n[I2] veni ad congregándum eos qui vultus tui visiónem exspéctant.",
+	"Changes": [
+		"2022-12-05 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

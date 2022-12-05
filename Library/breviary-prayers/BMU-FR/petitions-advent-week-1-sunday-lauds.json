@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-advent-week-1-sunday-lauds",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Prions Dieu le Père, qui, dans sa bonté, nous donne la grâce d'attendre la révélation de notre Seigneur Jésus-Christ, disons :\r\n[IR] Montre-nous, Seigneur, ta miséricorde !\r\n[I1] Seigneur, sanctifie-nous esprit, âme et corps,\r\n[I2] et garde-nous sans tache pour l'avènement de ton Fils.\r\n[I1] Aujourd'hui, fais-nous marcher dans la sainteté,\r\n[I2] ainsi qu'en poursuivant la justice, et en vivant dévotement dans ce monde.\r\n[I1] Permets-nous de nous couvrir de notre Seigneur Jésus-Christ,\r\n[I2] et d'être remplis du Saint-Esprit.\r\n[I1] Accorde-nous la vigilance durable, Seigneur,\r\n[I2] jusqu'à la manifestation glorieuse de ton Fils.",
+	"Changes": [
+		"2022-12-05 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
