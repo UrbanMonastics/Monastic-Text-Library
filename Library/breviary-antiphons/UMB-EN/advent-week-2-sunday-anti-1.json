@@ -9,5 +9,11 @@
 	},
 	"Text": "Strengthen [*] the failing hands, take courage, and say: \"Behold our God, He comes to save us, hallelujah!\"",
 	"Description": "Maybe loosly based on Isaiah 35:3-4",
+	"Reference": [
+		"Isaiah 35:3-4"
+	],
+	"Changes": [
+		"2021-12-05 - Paul Prins: First translation of this antiphpon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

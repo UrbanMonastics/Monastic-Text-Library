@@ -8,6 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Zion [*] is our strong city. There the Lord has built a wall and fortification. Open the gates! God is with us, hallelujah!",
-	"Description": "",
+	"Changes": [
+		"2021-12-05 - Paul Prins: First translation of this antiphpon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

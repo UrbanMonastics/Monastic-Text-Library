@@ -7,6 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Il en vient [*] un qui est plus puissant que moi. Je ne suis pas digne de délier la courroie de ses sandales.",
-	"License": "© 2021 Monastiques Urbain, Paris"
+	"Text": "Celui qui vient [*] est plus puissant que moi. Celui dont la courroie des sandales je suis indigne de délier.",
+	"Extra": {
+		"Reference": ["Luc 3:16"]
+	},
+	"Changes": [
+		"2022-12-05 - Paul Prins: Mise à jour cette Antiphone.",
+		"2021-12-05 - Paul Prins: Premier traduction du cette Antiphone"
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
 }

@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"16": "John answered and said to them all, \"I baptize you with water, but one is coming who is mightier than I, and I am unworthy to untie the straps of his sandals. He will baptize you with the Holy Spirit and with Fire.\""
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-05 - Paul Prins: First translation of chapter 3:16."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

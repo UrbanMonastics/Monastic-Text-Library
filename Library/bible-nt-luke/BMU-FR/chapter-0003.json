@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"16": "Jean répondit et leur dit à tous : « Je vous baptise avec de l'eau, mais un autre vient, plus puissant que moi, et je suis indigne de délier la courroie de ses sandales. Il vous baptisera du Saint-Esprit et du feu. »"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-05 - Paul Prins: Premier traduction du chapitre 3:16."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -7,7 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "One is coming [*] who is mightier than me. I am not worthy to until the the strap of his sandals.",
-	"Description": "Comes from Luke 3:16",
+	"Text": "One is coming [*] who is mightier than I. One whose sandals straps I am unworthy to untie.",
+	"Extra": {
+		"Reference": ["Luke 3:16"]
+	},
+	"Changes": [
+		"2022-12-05 - Paul Prins: Updated this antiphon.",
+		"2021-12-05 - Paul Prins: First translation of this antiphpon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }
