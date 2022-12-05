@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "instructions-compline-concluding-antiphon",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["UMB-EN"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Pour finir les Complies, prier l'antienne Mariale ou Royaume.",
+	"Changes": [
+		"2022-12-05 - Paul Prins: Traduit et adapté ces instructions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

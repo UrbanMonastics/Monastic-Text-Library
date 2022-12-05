@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "instructions-compline-concluding-antiphon",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Text": "To conclude Compline, please pray the Marian antiphon, because of this days focus. The Kingdom antiphon does remain available.",
+	"Changes": [
+		"2022-12-05 - Paul Prins: Added this text."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
