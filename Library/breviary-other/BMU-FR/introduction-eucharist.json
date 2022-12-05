@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "introduction-eucharist",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["UMB-EN"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus, invite-moi à Ta table.\r\nEt je proclamerai Ta mort jusqu'à Ton retour.",
+	"Changes": [
+		"2022-12-05 - Paul Prins: Traduit et adapté ces instructions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

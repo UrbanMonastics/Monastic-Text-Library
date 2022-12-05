@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "introduction-eucharist",
+	"SourceAbbreviation": "breviary-other",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Text": "Jesus invite me to Your table.\r\nAnd I will proclaim Your death until You return.",
+	"Changes": [
+		"2022-12-05 - Paul Prins: Added this text."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
