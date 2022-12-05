@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-terce",
+	"TextAbbreviation": "advent-sunday-sext",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] The nations will fear the name of the Lord.\r\n[R] The nations will fear [*] the name of the Lord.\r\n[V] And all earthly rulers and kings will glorify You.",
+	"Text": "[V] Remember us, Lord, your people in your pleasure.\r\n[R] Remember us, Lord, [*] your people in your pleasure.\r\n[V] Visit us with your salvation.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Initial translation from Latin"
 	],

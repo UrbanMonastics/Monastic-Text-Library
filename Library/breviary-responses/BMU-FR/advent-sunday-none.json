@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-terce",
+	"TextAbbreviation": "advent-sunday-none",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Les nations craindront le nom du Seigneur.\r\n[R] Les nations craindront [*] le nom du Seigneur.\r\n[V] Et tous les souverains et rois de la terre te glorifieront.",
+	"Text": "[V] Viens, Seigneur, ne tarde pas.\r\n[R] Viens, Seigneur, [*] ne tarde pas.\r\n[V] Remets à ton peuple ses péchés.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Première traduction du latin."
 	],

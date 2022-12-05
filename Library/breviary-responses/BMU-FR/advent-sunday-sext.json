@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-none",
+	"TextAbbreviation": "advent-sunday-sext",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Viens, Seigneur, ne tarde pas.\r\n[R] Viens, Seigneur, [*] ne tarde pas.\r\n[V] Remets à ton peuple ses péchés.",
+	"Text": "[V] Souviens-toi de nous, Seigneur, ton peuple dans ton plaisir.\r\n[R] Souviens-toi de nous, Seigneur, [*] ton peuple dans ton plaisir.\r\n[V] Visite-nous avec ton salut.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Première traduction du latin."
 	],

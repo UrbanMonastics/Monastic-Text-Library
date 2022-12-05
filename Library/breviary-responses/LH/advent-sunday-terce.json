@@ -1,9 +1,9 @@
 {
-	"TextAbbreviation": "advent-week-1-sunday-lauds",
+	"TextAbbreviation": "advent-sunday-terce",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Christe, Fili Dei vivi, Miserére nobis.\r\n[R] Christe, Fili Dei vivi, [*] Miserére nobis.\r\n[V] Qui ventúrus es in mundum.",
+	"Text": "[V] Timébunt gentes nomen tuum, Dómine.\r\n[R] Timébunt gentes [*] nomen tuum, Dómine.\r\n[V] Et omnes reges terræ glóriam tuam.",
 	"Changes": [
 		"2022-11-27 - Paul Prins: Added this Response."
 	],
