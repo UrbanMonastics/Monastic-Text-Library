@@ -47,7 +47,7 @@
 		"License": "© 2021 Monastiques Urbain, Paris",
 		"Language": "fra-sta",
 		"Date": "2021",
-		"Options": {
+		"Formatting": {
 			"SmallCaps": true,
 			"Selah": true
 		}
@@ -59,7 +59,7 @@
 		"License": "© 2021 Monastiques Urbain, Paris",
 		"Language": "fra-sta",
 		"Date": "2021",
-		"Options": {
+		"Formatting": {
 			"SmallCaps": true,
 			"Selah": true
 		}
@@ -71,7 +71,7 @@
 		"License": "© 2021 Urban Monastics, Paris",
 		"Language": "eng",
 		"Date": "2021",
-		"Options": {
+		"Formatting": {
 			"SmallCaps": true,
 			"Selah": true
 		}
@@ -83,7 +83,7 @@
 		"License": "© 2021 Urban Monastics, Paris",
 		"Language": "eng",
 		"Date": "2021",
-		"Options": {
+		"Formatting": {
 			"SmallCaps": true,
 			"Selah": true
 		}
