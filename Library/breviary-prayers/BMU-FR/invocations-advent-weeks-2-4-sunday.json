@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "invocations-advent-weeks-2-4-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Très chères fratries, supplions notre Seigneur Jésus-Christ, qui juge les vivants et les morts, en disant :\r\n[IR] Viens, Seigneur Jésus !\r\n[I1] Seigneur Christ, qui est venu sauver les pécheurs,\r\n[I2] protège-nous de chaque chemin qui mène à la tentation. \r\n[I1] Nous croyons que Tu reviendras indubitablement pour le Jugement,\r\n[I2] révèle en nous la puissance de ton salut.\r\n[I1] Accorde-nous, par la puissance de l'Esprit, de garder les préceptes de Ta loi,\r\n[I2] afin que, dans la charité, nous saluions Ta venue.\r\n[I1] Toi, qui es béni pour toujours, par Ta miséricorde, accorde-nous des vies fidèles et sombres en notre temps,\r\n[I2] en anticipant la bienheureuse espérance, et l'arrivée de Ta splendeur.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

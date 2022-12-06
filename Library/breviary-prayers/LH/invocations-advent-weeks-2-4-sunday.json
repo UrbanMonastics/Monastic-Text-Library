@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "invocations-advent-weeks-2-4-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Dóminum Iesum Christum, fratres caríssimi, deprecémur, qui est iudex vivórum et mortuórum, ipsi dicéntes:\r\n[IR] Veni, Dómine Iesu.\r\n[I1] Christe Dómine, qui peccatóres salváre venísti,\r\n[I2] nos ab omni tentatiónum adversitáte defénde.\r\n[I1] Qui ad iudícium maniféste ventúrus esse créderis,\r\n[I2] poténtiam tuæ salvatiónis in nobis osténde.\r\n[I1] Da nobis legis tuæ præcépta virtúte Spíritus custodíre,\r\n[I2] ut advéntum tuum in caritáte præstolári possímus.\r\n[I1] Tu, qui es benedíctus in sæcula, fac ut per misericórdiam tuam pie et sóbrie in hoc sæculo vivámus,\r\n[I2] expectántes beátam spem et advéntum magnificéntiæ tuæ.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
