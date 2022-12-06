@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0001",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "1",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"7": "Et il prêchait en disant : « Après moi, il en vient un qui est plus puissant que moi, et je suis indigne de me baisser pour délier la courroie de ses sandales. » "	
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-06 - Paul Prins: Première traduction du chapitre 1:7."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

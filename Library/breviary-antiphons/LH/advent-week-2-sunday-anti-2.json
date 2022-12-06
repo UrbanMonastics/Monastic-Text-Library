@@ -4,6 +4,8 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Urbs [*] fortitúdisnis nostræ Sion, Salvátor ponétur in ea murus et antemurále. Aperíte portas, quia nobíscum Deus, allelúia.",
-	"Description": "",
+	"Changes": [
+		"2021-12-05 - Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

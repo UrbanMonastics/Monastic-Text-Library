@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jerusalem, rejoice [*] with great joy! For your Savior is coming, alleluia.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: First translation of this antiphpon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

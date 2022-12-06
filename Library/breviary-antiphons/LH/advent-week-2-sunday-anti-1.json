@@ -4,9 +4,11 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Confortáte [*] manus dissolútas; confortámini, dícite: Ecce Deus noster véniet et salvábit nos, allelúia.",
-	"Description": "Maybe loosly based on Isaiah 35:3-4",
 	"Extra": {
 		"Reference": ["Isaiah 35:3-4"]
 	},
+	"Changes": [
+		"2021-12-05 - Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

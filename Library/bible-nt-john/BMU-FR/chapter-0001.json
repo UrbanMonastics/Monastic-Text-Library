@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0001",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "1",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"23": "Il a dit : « Je suis la voix de celui qui crie dans le sauvage. 'Aplanissez le chemin du Seigneur,' comme l'a dit le prophète Isaïe. » "
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-06 - Paul Prins: Premier traduction du chapitre 1:23."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

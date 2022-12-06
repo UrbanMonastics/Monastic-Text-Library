@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, you see that your people faithfully prepare to celebrate the birth of your Son. [t] In waiting, focus our joy onto the everlasting salvation to come. [*] That we may celebrate our salvation with joyous new hearts. Through Jesus Christ.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

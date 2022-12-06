@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Es-tu [*] celui qui vient, ou attendons-nous un autre ? Rapporte à Jean ce que vous avez vu : les aveugles voient, les morts ressuscitent, et l'Évangile est annoncé aux pauvres, alléluia.",
+	"Reference": ["Mathieu 11:3-6", "Luc 7:19-23"],
+	"Changes": [
+		"2022-12-06 - Paul Prins: Premier traduction du cette Antiphone"
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ierúsalem, gaude [*] gáudio magno, quia véniet tibi Salvátor, allelúia.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

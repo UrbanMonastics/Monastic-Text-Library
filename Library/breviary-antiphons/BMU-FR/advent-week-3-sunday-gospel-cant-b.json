@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Je suis la voix de celui qui crie dans le sauvage. « Aplanissez le chemin du Seigneur, » comme l'a dit le prophète Isaïe.",
+	"Reference": ["Jean 1:23"],
+	"Changes": [
+		"2022-12-06 - Paul Prins: Premier traduction du cette Antiphone"
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

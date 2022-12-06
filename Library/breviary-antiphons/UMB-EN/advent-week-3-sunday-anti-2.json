@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Every Mountain and hill [*] will be lowered, winding rough ways made straight and smooth. Come Lord, don't delay, alleluia!",
+	"Changes": [
+		"2022-12-06 - Paul Prins: First translation of this antiphpon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

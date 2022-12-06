@@ -1,0 +1,16 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Are you [*] the one who is coming, or are we waiting for another? Tell John what you saw: the blind see, the dead rise, and the Gospel is proclaimed to the poor, alleluia.",
+	"Reference": ["Matthew 11:3-6", "Luke 7:19-23"],
+	"Changes": [
+		"2022-12-06 - Paul Prins: First translation of this antiphpon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

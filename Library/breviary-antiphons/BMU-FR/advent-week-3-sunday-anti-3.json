@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Vivons de façon juste et droite, [*] en attendant la bienheureuse espérance et la venue du Seigneur.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Premier traduction du cette Antiphone"
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ego vox [*] clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías prophéta.",
+	"Extra": {
+		"Reference": ["John 1:23"]
+	},
+	"Changes": [
+		"2022-12-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

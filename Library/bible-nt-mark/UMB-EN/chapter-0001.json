@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0001",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "1",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"7": "And he was preaching, saying, \"After me One is coming who is mightier than I, and I'm unworthy to bend down and untie the straps of His sandals.\" "
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-06 - Paul Prins: First translation of chapter 1:7."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

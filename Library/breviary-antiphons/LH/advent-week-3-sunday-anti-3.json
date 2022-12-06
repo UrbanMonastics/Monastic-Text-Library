@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "advent-week-3-sunday-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Iuste et pie vivámus, [*] exspectántes beátam spem et advéntum Dómini.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

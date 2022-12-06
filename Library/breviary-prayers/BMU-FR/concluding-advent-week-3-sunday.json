@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, tu vois que ton peuple se prépare fidèlement à célébrer la naissance de ton Fils. [t] En attendant, concentre notre joie sur le salut éternel à venir. [*] Que nous puissions célébrer notre salut avec des nouveaux cœurs, remplis de joie. Par Jésus-Christ.",
+	"Changes": [
+		"2022-12-06 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
