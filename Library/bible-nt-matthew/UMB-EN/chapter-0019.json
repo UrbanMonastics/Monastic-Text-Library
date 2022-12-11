@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0019",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "19",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"27": "\tThen Peter said to Him, \"Look, we have left everything and follower you. What, then, will there be for us?\"\r\n",
+		"28": "\tAnd Jesus said to them, \"Truly I say to you, that you who have followed Me, in the new creation when the Son of Man will sit on His glorious throne. Then you also will sit upon twelve thrones, judging the twelve tribes of Israel. ",
+		"29": "Also, everyone who has left their homes, or siblings, or father, or mother, or children, or lands, for the sake of My name, will receive a hundred-fold what they left. And they will inherit eternal life. ",
+		"30": "But, many who are first will be last, and the last will be first.\""
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-11 - Paul Prins: First translation of chapter 19:27-30."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

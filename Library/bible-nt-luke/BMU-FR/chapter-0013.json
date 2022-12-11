@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "13",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tJésus dit encore : « À quoi ressemble le Royaume de Dieu ? À quoi dois-je le comparer ? ",
+		"19": "Quelqu'un l'a prise et l'a jetée dans son jardin. Là, il poussa et devint un arbre où les oiseaux du ciel nichaient dans ses branches. »\r\n",
+		"20": "\tIl dit encore : « À quoi comparerai-je le Royaume de Dieu ? ",
+		"21": "Il est semblable à du levain qu'une femme a pris et mis dans trois grandes mesures de farine, jusqu'à ce que tout fût levé. »\r\n"
+	},
+	"InlineTitles": {
+		"18": "Paraboles du Grain de Moutarde et du Levain",
+		"22": "Porte Étroite"
+	},
+	"Changes": [
+		"2022-12-05 - Paul Prins: Premier traduction du chapitre 13:18-21."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

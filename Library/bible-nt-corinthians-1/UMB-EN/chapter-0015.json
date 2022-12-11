@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0015",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "15",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"50": "\tNow I say this, siblings, that flesh and blood cannot inherit the Kingdom of God, nor does the perishable inherit the imperishable. "
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2022-12-11 - Paul Prins: First translation of verse 50."
+	],
+	"FootNotes": {},
+	"License": "© 2022 Urban Monastics, Paris"
+}

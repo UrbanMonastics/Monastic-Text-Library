@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0020",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "20",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\t\"For the Kingdom of Heaven is like a landowner who went out early in the morning to hire workers for their vineyard. ",
+		"2": "The owner agreed with the workers on a wage of a denarius for the day. And the workers were sent into the vineyard.\"\r\n",
+		"3": "\t\"And the owner went out around the third hour and saw others standing idle in the marketplace, ",
+		"4": "and told them, 'You go into my vineyard also, and I will pay you whatever is right.' And so they went.\"\r\n",
+		"5": "\t\"Again, the owner went around the sixth and ninth hours and did the same. ",
+		"6": "And around the eleventh hour they went out and found others standing around. So they asked them, 'Why have you  been standing here all day doing nothing?'\"\r\n",
+		"7": "\"They responded to him, 'because no one hired us.'\"\r\n\t\"The owner said to them, 'You go into the vineyard too.'\"\r\n",
+		"8": "\t\"When evening came, the owner of the vineyard said to his manager, 'Call the workers and pay them their wages, starting with the last and to the first.'\"\r\n",
+		"9": "\t\"The workers hired around the eleventh hour came up, each one received a denarius. ",
+		"10": "So when those hired first came up, they thought that they would receive more. But each one of them also received a denarius. ",
+		"11": "When they received their wage they grumbled at the landowner. ",
+		"12": "Saying, 'Those who were hired last worked only one hour. And you made them equal to us who borne the burden of the day's work with its sweltering heat.'\"\r\n",
+		"13": "\t\"But he replied to one of them, 'Friend, I am not doing wrong by you, did you not agree to work for a denarius?",
+		"14": "Take what is yours and go. I want to give to those hired last the same as you. ",
+		"15": "Is it not my right to do what I want with my own money? Or are you envious because I am generous?'\"\r\n",
+		"16": "\t\"So the last will be first, and the first will be last.\""
+	},
+	"InlineTitles": {
+		"1": "Parable of the Vineyard Workers"
+	},
+	"Changes": [
+		"2022-12-11 - Paul Prins: First translation of chapter 20:1-16."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0028",
+	"SourceAbbreviation": "bible-nt-acts",
+	"Chapter": "28",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"30": "\tPaul demeura deux ans là, dans un logement qu'il louait, et il recevait tous ceux qui venaient à lui, ",
+		"31": "proclamant le Royaume de Dieu et enseignant sur le Seigneur Jésus-Christ, ouvertement et sans entrave."
+	},
+	"Changes": [
+		"2022-12-11 - Paul Prins: Première traduction des versets 30-31 basée sur le grec."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

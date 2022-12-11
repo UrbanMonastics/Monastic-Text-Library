@@ -1,0 +1,20 @@
+{
+	"TextAbbreviation": "chapter-0015",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "15",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"50": "\tMaintenant, je dis ceci, fratries, que la chair et le sang ne peuvent hériter le Royaume de Dieu, ni le périssable hériter l'impérissable. "
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2022-12-11 - Paul Prins: Premier traduction de verset 50."
+	],
+	"FootNotes": {},
+	"License": "© 2022 Urban Monastics, Paris"
+}

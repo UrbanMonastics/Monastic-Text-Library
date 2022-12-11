@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0017",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "17",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"20": "\tNow He was questioned by the Pharisees as to when the Kingdom of God was coming, and He answered them, saying, \"The Kingdom of God is not coming with signs to be observed. ",
+		"21": "Neither will they say, 'Look, here it is', or 'There it is.' For behold, the Kingdom of God is within your midst.\"\r\n"
+	},
+	"InlineTitles": {
+		"20": "The Coming of the Kingdom of God"
+	},
+	"Changes": [
+		"2022-12-11 - Paul Prins: First translation of chapter 17:20-21."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

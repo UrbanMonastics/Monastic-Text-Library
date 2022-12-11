@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0028",
+	"SourceAbbreviation": "bible-nt-acts",
+	"Chapter": "28",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"30": "\tFor two years Paul stayed there in his own rented housing, and welcomed all who came to him, ",
+		"31": "proclaiming the Kingdom of God and teaching about the Lord Jesus Christ openly and without hindrance."
+	},
+	"Changes": [
+		"2022-01-08 - Paul Prins: First translation of verses 30-31 based on Greek."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

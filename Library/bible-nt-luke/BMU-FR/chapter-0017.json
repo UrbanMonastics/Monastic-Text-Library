@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0017",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "17",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"20": "\tIl fut questionné par les pharisiens sur le moment de la venue du Royaume de Dieu, et il leur répondit : « Le Royaume de Dieu ne viendra pas avec des signes à observer. ",
+		"21": "On ne dira pas non plus : 'Voici, c'est ici', où 'Il est là'. Car voici, le Royaume de Dieu est au milieu de vous. »\r\n"
+	},
+	"InlineTitles": {
+		"20": "La Venue du Royaume de Dieu"
+	},
+	"Changes": [
+		"2022-12-05 - Paul Prins: Premier traduction du chapitre 17:20-21."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

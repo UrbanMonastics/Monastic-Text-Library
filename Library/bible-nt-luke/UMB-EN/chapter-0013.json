@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "13",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tSo Jesus was saying, \"What is the Kingdom of God like? What shall I compare it to? ",
+		"19": "It is like a mustard seed. That someone took, and tossed into their garden. There it grew and became a tree where the birds of the air nested in its branches.\"\r\n",
+		"20": "\tAgain He said, \"What shall I compare the Kingdom of God to? ",
+		"21": "It is like yeast that a woman took and working into three large measures of flour till it all was leavened.\"\r\n"
+	},
+	"InlineTitles": {
+		"18": "Parables of the Mustard Seed and Yeast",
+		"22": "Narrow Door"
+	},
+	"Changes": [
+		"2022-12-11 - Paul Prins: First translation of chapter 13:18-21."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

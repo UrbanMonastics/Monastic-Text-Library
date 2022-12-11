@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0019",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "19",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"27": "/tAlors Pierre Lui dit : « Regarde, nous avons tout quitté et nous te suivons. Qu'y aura-t-il donc pour nous ? »/r/n",
+		"28": "\tEt Jésus leur dit : « En vérité, Je vous le dis, vous qui M'avez suivi, dans la nouvelle création, lorsque le Fils de l'Homme sera assis sur Son trône glorieux. Alors, vous aussi, vous serez assis sur douze trônes, pour juger les douze tribus d'Israël.",
+		"29": "De plus, tous ceux qui auront quitté leur maison, ou leurs fratries, ou leur père, ou leur mère, ou leurs enfants, ou leurs terres, à cause de mon nom, recevront au centuple ce qu'ils auront laissé. Et ils hériteront de la vie éternelle. ",
+		"30": "Mais, plusieurs qui sont premiers seront derniers, et les derniers seront premiers. »"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-11 - Paul Prins: Premier traduction du chapitre 19:27-30."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
