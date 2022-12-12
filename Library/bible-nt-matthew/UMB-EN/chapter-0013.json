@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "13",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"45": "\tAgain, the Kingdom of Heaven is like a merchant seeking beautiful pearls. ",
+		"46": "Upon finding one pearl of exceptional worth, they left to sell everything they owned, and bought it.\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-12 - Paul Prins: First translation of chapter 13:45-46."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

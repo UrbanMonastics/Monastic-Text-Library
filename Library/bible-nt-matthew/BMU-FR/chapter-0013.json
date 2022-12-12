@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "13",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"45": "\tEncore, le Royaume des Cieux est semblable à un marchand qui cherche des belles perles. ",
+		"46": "Après avoir trouvé une perle de prix exceptionnel, il est parti vendre tout ce qu'il possédait, et l'a achetée.\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-12 - Paul Prins: Premier traduction du chapitre 13:45-46."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
