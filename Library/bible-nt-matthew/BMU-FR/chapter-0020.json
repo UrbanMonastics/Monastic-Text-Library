@@ -14,14 +14,14 @@
 		"3": "\t« Le propriétaire sortit vers la troisième heure, Le propriétaire sortit vers la troisième heure et vit d'autres personnes qui se tenaient sur la place du marché, sans rien faire, ",
 		"4": "et leur dit : 'Allez vous aussi dans ma vigne, et je vous paierai ce qui est juste.' Et ils y allèrent. »\r\n",
 		"5": "\t« De nouveau, le propriétaire sortit aux sixième et neuvième heures et fit de même. ",
-		"6": "Vers la onzième heure, ils sont sortis et ont trouvé d'autres personnes debout. On leur demanda alors : 'Pourquoi êtes-vous restés là toute la journée sans rien faire ?' »\r\n",
-		"7": "\t« Ils lui répondirent : 'Parce que personne ne nous a embauchés.' »\r\n\t« Le propriétaire leur dit : 'Vous aussi, allez à la vigne.' »\r\n",
+		"6": "Vers la onzième heure, ils sont sortis et ont trouvé d'autres personnes debout. Alors, le propriétaire leur a demandé : 'Pourquoi êtes-vous restés là toute la journée sans rien faire ?' »\r\n",
+		"7": "\t« Ils répondirent : 'Parce que personne ne nous a embauchés.' »\r\n\t« Le propriétaire leur dit : 'Vous aussi, allez à la vigne.' »\r\n",
 		"8": "\t« Quand le soir fut venu, le propriétaire de la vigne dit à son manager : 'Appelle les travailleurs et paie-leur le salaire, en commençant par le dernier jusqu'au premier. »\r\n",
 		"9": "\t« Les travailleurs embauchés vers la onzième heure sont montés, chacun a reçu un denier. ",
 		"10": "Quand les premiers embauchés se présentèrent, ils croyaient recevoir davantage. Mais ils reçurent aussi chacun un denier. ",
 		"11": "En recevant leur salaire, ils murmuraient contre le propriétaire. ",
 		"12": "Disant : 'Ceux qui ont été embauchés, les derniers n'ont travaillé qu'une heure. Et toi, tu les as rendus égaux à nous, qui avons porté le poids du travail de la journée et de la chaleur étouffante.' »\r\n",
-		"13": "\t« Mais il répondit à l'un d'eux : 'Mon ami, je ne te fais pas de tort. N'as-tu pas accepté de travailler pour un denier ? ",
+		"13": "\t« Mais le propriétaire a répondu à l'un d'eux : 'Mon ami, je ne te fais pas de tort. N'as-tu pas accepté de travailler pour un denier ? ",
 		"14": "Prends ce qui est à toi et va-t'en. Je veux donner aux derniers embauchés la même chose qu'à toi. ",
 		"15": "N'ai-je pas le droit de faire ce que je veux avec mon propre argent ? Ou bien es-tu envieux parce que je suis généreux ?' »\r\n",
 		"16": "\t« Ainsi les derniers seront les premiers, et les premiers seront les derniers. »"
@@ -30,6 +30,7 @@
 		"1": "Parabole des Travailleurs de la Vigne"
 	},
 	"Changes": [
+		"2022-12-12 - Paul Prins : Fixer quelques fautes de grammaire.",
 		"2022-12-11 - Paul Prins: Premier traduction du chapitre 20:1-16."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
