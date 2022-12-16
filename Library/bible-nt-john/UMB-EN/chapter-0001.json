@@ -9,11 +9,27 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"23": "He said, \"I am a voice of one crying out in the wilderness. 'Make straight the way of the Lord', as Isaiah  the prophet said.\" "
+		"1": "\tIn the beginning was the Word, and the Word was with God, and the Word was God. ",
+		"2": "In the beginning He was with God. ",
+		"3": "Through Him all things came into being. And without Him, nothing that has ever existed, has come to be. ",
+		"4": "In Him was life, and that life was the Light of all peoples. ",
+		"5": "And that Light shines in the darkness, and the darkness did not subdue it.\r\n",
+		"6": "\tThere came another sent from God, and his name was John. ",
+		"7": "He came to be a witness, to testify about the Light, so that through him all might believe. ",
+		"8": "He was not the Light, rather he came to tell us about the Light. ",
+		"9": "That the true Light was coming into the world to enlighten everyone. ",
+		"10": "He was in the world, and creation was made through Him, yet creation did not know Him.\r\n",
+		"11": "\tHe came to His own people, and they rejected Him. ",
+		"12": "But to all who accept Him, to those who believed in His name, He gave them the right to become children of God. ",
+		"13": "Children who were not born of blood, nor the will of the flesh, nor of a person's will, but of God. ",
+		"14": "And the Word became flesh and lived among us, and we saw His glory. The glory of the only Son from the Father, full of grace and truth.\r\n",
+		"23": "He said, \"I am a voice of one crying out in the wilderness. 'Make straight the way of the Lord', as Isaiah the prophet said.\" "
 	},
 	"InlineTitles": {
+		"1": "The Word became Flesh"
 	},
 	"Changes": [
+		"2022-12-16 - Paul Prins: First translation of chapter 1:1-14.",
 		"2022-12-06 - Paul Prins: First translation of chapter 1:23."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

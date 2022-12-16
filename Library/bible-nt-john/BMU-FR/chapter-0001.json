@@ -9,11 +9,27 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
+		"1": "\tAu commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu. ",
+		"2": "Au commencement Il était avec Dieu. ",
+		"3": "Par Lui, toutes choses ont été créées. Et sans Lui, rien de ce qui n'a jamais existé, n'est venu à être. ",
+		"4": "En lui était la vie, et cette vie était la Lumière de tous les peuples. ",
+		"5": "Et cette Lumière brille dans les ténèbres, et les ténèbres ne l'ont pas subjuguée.\r\n",
+		"6": "\tIl y eut un autre envoyée par Dieu, et son nom était Jean. ",
+		"7": "Il vint pour être un témoin, pour rendre témoignage de la Lumière, afin que par lui tous crussent. ",
+		"8": "Il n'était pas la Lumière, mais il est venu nous parler de la Lumière. ",
+		"9": "Que la vraie Lumière venait dans le monde pour éclairer tout le monde. ",
+		"10": "Il était dans le monde, et la création a été faite par lui, mais la création ne l'a pas connu.\r\n",
+		"11": "\tIl est venu chez son peuple, et celui-ci l'a rejeté. ",
+		"12": "Mais à tous ceux qui l'ont accepté, à ceux qui croient en son nom, il a donné le droit de devenir enfants de Dieu. ",
+		"13": "Des enfants qui ne sont pas nés du sang, ni de la volonté de la chair, ni de la volonté d'une personne, mais de Dieu. ",
+		"14": "Et la Parole devint chair et habita parmi nous, et nous vîmes sa gloire. La gloire du seul Fils du Père, plein de grâce et de vérité.\r\n",
 		"23": "Il a dit : « Je suis la voix de celui qui crie dans le sauvage. 'Aplanissez le chemin du Seigneur,' comme l'a dit le prophète Isaïe. » "
 	},
 	"InlineTitles": {
+		"1": "La Parole s'est Faite Chair"
 	},
 	"Changes": [
+		"2022-12-16 - Paul Prins: Premier traduction du chapitre 1:1-14.",
 		"2022-12-06 - Paul Prins: Premier traduction du chapitre 1:23."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
