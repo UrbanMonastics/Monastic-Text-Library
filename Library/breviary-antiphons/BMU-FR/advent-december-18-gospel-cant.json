@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-december-18-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Ô Adonaï, [*] chef de la maison d'Israël,\r\nqui apparut à Moïse dans le feu du buisson ardent,\r\net lui a donné la loi au Sinaï.\r\nViens, délivre-nous de ton bras tendu.",
+	"Changes": [
+		"2022-12-18 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}
