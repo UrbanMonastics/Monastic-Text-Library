@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "advent-week-4-sunday-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Multiplicábitur [*] eius impérium, et pacis non erit finis.",
+	"Changes": [
+		"2022-12-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

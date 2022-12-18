@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-4-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous prions pour que ta grâce, Seigneur, soit répandue en nos cœurs. [t] Par le message de l'Ange, tu nous as fait connaître l'incarnation de ton Fils bien-aimé. [*] Guide-nous à travers sa passion, et sa croix, pour partager la gloire de la résurrection. Par Jésus-Christ.",
+	"Changes": [
+		"2022-12-17 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

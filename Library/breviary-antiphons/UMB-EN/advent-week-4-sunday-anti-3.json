@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "advent-week-3-sunday-anti-3",
+	"TextAbbreviation": "advent-week-4-sunday-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,9 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us live justly and upright, [*] awaiting the blessed hope and coming of the Lord.",
+	"Text": "His reign [*] expands, and his peace will never end.",
 	"Changes": [
-		"2022-12-06 - Paul Prins: First translation of this antiphon."
+		"2022-12-16 - Paul Prins: First translation of this antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

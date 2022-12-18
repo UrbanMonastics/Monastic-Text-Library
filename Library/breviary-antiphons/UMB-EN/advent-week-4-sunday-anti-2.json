@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-4-sunday-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Lord is coming! [*] Meet him saying, \"Great is Your power, and Your kingdom will have no end. Mighty God, Eternal King, Prince of Peace, Hallelujah, hallelujah!\"",
+	"Changes": [
+		"2022-12-16 - Paul Prins: First translation of this antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

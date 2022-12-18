@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "advent-week-4-sunday-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dominus véniet, [*] occúrrite illi dicéntes: Magnum princípium, et regni eius non erit finis, Deus fortis, Dominátor, Princeps pacis, allelúia.",
+	"Changes": [
+		"2022-12-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

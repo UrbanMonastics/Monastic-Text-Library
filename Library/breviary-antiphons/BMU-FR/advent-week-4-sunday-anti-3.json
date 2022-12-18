@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-4-sunday-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Son règne [*] s'étend, et sa paix ne finira jamais.",
+	"Changes": [
+		"2022-12-16 - Paul Prins: Premier traduction du cette Antiphone"
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-4-sunday-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Seigneur va venir! [*] Allez à sa rencontre en disant : «  Grand est Ton pouvoir, et Ton règne n'aura pas de fin. Dieu Fort, Roi Éternel, Prince de la Paix, alléluia, alléluia !»",
+	"Changes": [
+		"2022-12-16 - Paul Prins: Premier traduction du cette Antiphone"
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

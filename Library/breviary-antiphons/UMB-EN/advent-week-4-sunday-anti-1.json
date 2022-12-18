@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "advent-week-4-sunday-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Look! He is coming, [*] the one that all people desire! The house of the Lord will be filled with glory, hallelujah!",
+	"Changes": [
+		"2022-12-16 - Paul Prins: First translation of this antiphon."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

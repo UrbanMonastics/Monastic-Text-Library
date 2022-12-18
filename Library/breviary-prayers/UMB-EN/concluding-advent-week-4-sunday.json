@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-advent-week-4-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "We pray that Your grace, Lord, be poured into our hearts. [t] Through the Angel's message, you made known to us the incarnation of your beloved Son. [*] Guide us through his passion, and his cross, to share in the glory of the resurrection. Through Jesus Christ.",
+	"Changes": [
+		"2022-12-17 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
