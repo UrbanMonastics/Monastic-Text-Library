@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-december-22-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "O Rex géntium [*] et desidrátus eárum,\r\nlapísque anguláris qui facis útraque unnum :\r\nveni, salva hóminem,\r\nquem de limo formásti.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-12-17 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

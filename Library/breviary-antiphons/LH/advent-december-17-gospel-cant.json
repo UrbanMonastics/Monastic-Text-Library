@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-december-17-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "O Sapiéntia, [*]\r\nquæ ex ore Altíssimi prodisti,\r\nattíngens a fine usque ad finem fórtiter,\r\nsuáviter disponénsque ómnia :\r\nveni ad docéndum nos viam prudéntiæ.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-12-17 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

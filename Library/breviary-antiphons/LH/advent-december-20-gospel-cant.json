@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-december-20-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": " O Clavis David [*] et sceptrum domus Israel,\r\nqui áperis, et nemo claudit,\r\nclaudis et nemo áperit :\r\nveni et educ vinctum de domo cárceris,\r\nsedéntem in ténebris et umbra mortis.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-12-17 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

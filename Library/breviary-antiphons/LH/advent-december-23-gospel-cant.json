@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-december-23-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "O Emmánuel, [*] rex et légifer noster,\r\nexpectátio g´ntium et salvátor eárum :\r\nveni ad salvándum nos, Dómine Deus noster.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-12-17 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

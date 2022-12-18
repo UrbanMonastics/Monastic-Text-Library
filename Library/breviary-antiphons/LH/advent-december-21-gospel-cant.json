@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-december-21-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "O Oriens, [*]\r\nsplendor lucis ætérnæ et sol iustítiæ :\r\nveni, et illúmina sedéntes in ténebris et umbra mortis.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-12-17 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

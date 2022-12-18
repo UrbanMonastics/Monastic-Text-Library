@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "advent-december-19-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "O Radix Iesse, [*]\r\nqui stas in signum populórum,\r\nsuper quem continébunt reges os suum,\r\nquem gentes deprecabúntur :\r\nveni ad liberándum nos, iam noli tardáre.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2022-12-17 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
