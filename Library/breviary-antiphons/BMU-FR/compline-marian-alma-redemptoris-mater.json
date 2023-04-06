@@ -7,14 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Mère aimante [*] du Rédempteur,\r\n\tnotre porte du ciel,\r\n\tet l'étoile guidant des mers.\r\nAssiste tous ceux qui sont tombés,\r\n\tmais qui voudraient se relever.\r\n\r\nTu as porté le saint Créateur,\r\n\tpendant que toute la création s'émerveillait,\r\n\tet tu es restée vierge.\r\nAcceptant avec louange l'invitation de l'ange Gabriel,\r\n\taies pitié de nous pécheurs.",
+	"Text": "Mère aimante [*] du Rédempteur,\r\n\tnotre porte du ciel,\r\n\tet l'étoile guidant des mers.\r\nAssiste ceux qui sont tombés,\r\n\tmais voudrait se relever.\r\n\r\nTu as porté le saint créateur,\r\n\tpendant que toute la création s'émerveillait,\r\n\tet tu es restée vierge.\r\nAcceptant avec louange l'invitation de l'ange Gabriel,\r\n\tayez pitié de nous, pécheurs.",
 	"Extra": {
 		"BreviaryInstructions": "De l'Avent au 1er février."
 	},
 	"Changes": [
-		"2022-08-31 - Paul Prins, Jordan Prins : Mise à jour de cette antienne.",
+		"2023-04-6 - Paul Prins: Mise à jour de cette antienne.",
+		"2022-08-31 - Paul Prins, Jordan Prins: Mise à jour de cette antienne.",
 		"2022-08-06 - Paul Prins: Ajout des instructions du bréviaire.",
 		"2020-10-27 - Paul Prins: Traduit cette Antiphone."
 	],
-	"License": "© 2022 Monastiques Urbain, Paris"
+	"License": "© 2023 Monastiques Urbain, Paris"
 }

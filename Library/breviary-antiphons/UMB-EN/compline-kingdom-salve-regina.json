@@ -7,12 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Hail, [*] holy Kingdom, home of mercy,\r\n\tplace of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards you we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tyour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed king on your throne.\r\n\tMerciful, loving, and tender Lord Christ.",
+	"Text": "Hail, [*] holy Kingdom, home of mercy,\r\n\tsource of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards you we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tyour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed king on your throne.\r\n\tMerciful, loving, and sweet Lord Christ.",
 	"Extra": {
 		"BreviaryInstructions": "During Ordinary time after Pentecost"
 	},
 	"Changes": [
+		"2023-04-06 - Paul Prins: Refined to more closely align with its Marian antiphon.",
 		"2022-08-31 - Paul Prins, Jordan Prins: Created this Antiphon."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2023 Urban Monastics, Paris"
 }
