@@ -3,9 +3,10 @@
 	"SourceAbbreviation": "breviary-other",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
-	"Text": "To conclude Compline pray either the Marian or Kingdom antiphon.",
+	"Text": "You may pray either the Marian or Kingdom antiphon to conclude Compline.",
 	"Changes": [
+		"2023-04-06 - Paul Prins: Updated this text.",
 		"2022-12-05 - Paul Prins: Added this text."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2023 Urban Monastics, Paris"
 }

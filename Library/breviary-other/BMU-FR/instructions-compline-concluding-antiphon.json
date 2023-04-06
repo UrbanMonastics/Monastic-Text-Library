@@ -7,8 +7,9 @@
 		"Versions": ["UMB-EN"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Pour finir les Complies, prier l'antienne Mariale ou Royaume.",
+	"Text": "Vous pouvez prier l'antienne Mariale ou l'antienne du Royaume pour conclure les complies.",
 	"Changes": [
+		"2023-04-06 - Paul Prins: Mise à jour de ce texte.",
 		"2022-12-05 - Paul Prins: Traduit et adapté ces instructions."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

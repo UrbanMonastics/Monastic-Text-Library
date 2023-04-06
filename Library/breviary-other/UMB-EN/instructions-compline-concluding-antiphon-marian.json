@@ -3,9 +3,10 @@
 	"SourceAbbreviation": "breviary-other",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
-	"Text": "To conclude Compline, please pray the Marian antiphon, because of this days focus. The Kingdom antiphon does remain available.",
+	"Text": "Tonight, we strongly encourage you to pray the Marian antiphon in light of today's proper.",
 	"Changes": [
+		"2023-04-06 - Paul Prins: Updated this text.",
 		"2022-12-05 - Paul Prins: Added this text."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2023 Urban Monastics, Paris"
 }
