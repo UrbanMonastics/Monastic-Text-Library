@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"10": "\tEt l'ange leur dit : « N'ayez pas peur. Voici, je vous annonce une bonne nouvelle, qui sera une grande joie pour tout le peuple. ",
+		"11": "Car aujourd'hui, dans la ville de David, un sauveur est né pour tous. Il est le Christ, le Seigneur. ",
+		"12": "Et ceci sera un signe pour vous : vous trouverez un bébé emmailloté et couché dans une crèche. »\r\n",
+		"13": "\tEt soudain, une multitude d'anges célestes apparurent avec l'ange, louant Dieu et disant : ",
+		"14": "« Gloire à Dieu dans les lieux très hauts ! Et paix sur la terre ! Le désir de Dieu pour tous les peuples ! »\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-22 - Paul Prins: Premier traduction du chapitre 2:10-14."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

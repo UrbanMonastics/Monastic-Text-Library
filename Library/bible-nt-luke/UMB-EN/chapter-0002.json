@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"10": "\tAnd so the Angel said to them, \"Do not be afraid. Behold, I bring you good news, that will bring great joy to all people. ",
+		"11": "For today, in the city of David, a savior was born for all. He is Christ the Lord. ",
+		"12": "And this will be a sign for you: you will find a baby wrapped in cloth, and lying in a manger.\"\r\n",
+		"13": "\tThen suddenly a multitude of heavenly angels appeared with the angel, praising God, and saying, ",
+		"14": "\"Glory to God in the highest! And peace on earth! God's desire for all peoples!\"\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2022-12-2 - Paul Prins: First translation of chapter 2:10-14."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
