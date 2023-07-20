@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "6",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"20": "\tThen He looked up towards His disciples, and began to speak.\r\n\t\"Blessed are the poor, for yours is the Kingdom of God.\r\n",
+		"21": "\tBlessed are you who hunger now, for you will be satisfied.\r\n\tBlessed are you who weep now, for you will laugh.\r\n",
+		"22": "\tBlessed are you when people hate you, exclude you, insult you, and scorn your name as evil, because of the Son of Man.\r\n",
+		"23": "\tRejoice on that day and leap for joy. Behold, your reward is great in heaven. For their ancestors used to treat the prophets the same way.\r\n",
+		"24": "\tBut woe to you who are rich, for you are receiving your comfort in full.\r\n",
+		"25": "\tWoe to you who are well-fed, for you will be hungry.\r\n\tWoe to you who laugh, for you will mourn and weep.\r\n",
+		"26": "\tWoe to you when all people speak well of you, for their ancestors used to treat the false prophets the same way.\"\r\n"
+	},
+	"InlineTitles": {
+		"20": "The Beatitudes"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: First translation of chapter 6:20-26."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

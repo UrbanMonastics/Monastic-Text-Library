@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0011",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "11",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"25": "\tEn ce temps-là, Jésus dit : « Je te loue, Père, Seigneur du ciel et de la terre. Que tu aies caché ces choses aux sages et aux intelligents, et tu les aies révélées aux nourrissons. ",
+		"26": "Oui, Père, car c'est la façon qui t'a plu. ",
+		"27": "Tout m'a été donné par mon Père. Personne ne connaît le Fils, si ce n'est le Père. Personne non plus ne connaît le Père, si ce n'est le Fils, et tous ceux à qui le Fils veut bien Le révéler. »\r\n",
+		"28": "\t« Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai le repos. ",
+		"29": "Prenez mon joug sur vous et apprenez de Moi. Car je suis doux et humble de cœur, et vous trouverez le repos pour vos âmes. ",
+		"30": "En effet, mon joug est agréable, et mon fardeau est léger. »\r\n"
+	},
+	"InlineTitles": {
+		"25": "Un Joug Agréable"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: Premier traduction du chapitre 11:25-30."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

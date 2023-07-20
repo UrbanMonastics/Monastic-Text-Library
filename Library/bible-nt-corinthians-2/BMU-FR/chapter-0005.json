@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-corinthians-2",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"20": "\tNous sommes donc les ambassadeurs pour Christ. Comme si Dieu adressait par nous un appel. Nous vous supplions, au nom du Christ : « Soyez réconciliés avec Dieu ! » ",
+		"21": "Il a fait de Lui, qui ne connaissait pas le péché, à être péché pour nous. Ainsi, nous pouvons peut-être devenir en lui la justice de Dieu.\r\n"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: Première traduction des versets 5:20-21."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

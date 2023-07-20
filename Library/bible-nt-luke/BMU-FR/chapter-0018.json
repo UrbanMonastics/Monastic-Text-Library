@@ -1,0 +1,33 @@
+{
+	"TextAbbreviation": "chapter-0018",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "18",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tUn chef interrogea Lui, et dit : « Bon Maître, Bon maître, que dois-je faire pour hériter de la vie éternelle ? »\r\n",
+		"19": "\tJésus lui répondit : « Pourquoi M'appelles-tu bon ? Personne n'est bon, si ce n'est Dieu seul. ",
+		"20": "Tu connais les commandements : ne commets pas d'adultère, ne tue pas, ne vole pas, ne dis pas de faux témoignage, et honore tes parents. »\r\n",
+		"21": "\t« J'ai observé toutes ces choses dès ma jeunesse, » dit-il.\r\n",
+		"22": "\tQuand Jésus entendit cela, Il lui dit : « Il te manque encore une chose : vends tout ce que tu possèdes, distribue l'argent aux pauvres, et tu auras un trésor dans le ciel. Puis viens et suis-moi. »\r\n",
+		"23": "\tLorsqu'il eut entendu ces paroles, il fut profondément affligé, car il était extrêmement riche. ",
+		"24": "Jésus le regarda et dit : « Qu'il est difficile aux riches d'entrer dans le Royaume de Dieu ! ",
+		"25": "Car il est plus facile à un chameau de passer par le trou d'une aiguille qu'à un riche d'entrer dans le Royaume de Dieu ! »\r\n",
+		"26": "\tCeux qui l'entendaient dirent : « Alors, qui peut être sauvé ? »\r\n",
+		"27": "\tJésus répondit : « Ce qui est impossible pour des personnes est possible avec Dieu ! »\r\n",
+		"28": "\tPierre dit : « Voici, nous avons tout quitté, et nous t'avons suivi. »\r\n",
+		"29": "\tJésus leur dit : « Je vous le dis en vérité. Il n'y a personne qui ait quitté sa maison, son épouse, sa fratrie, ses parents, ses enfants, pour la cause du Royaume de Dieu ",
+		"30": "qui ne recevra pas beaucoup plus en ce temps présent et dans le siècle à venir : la vie éternelle. »\r\n"
+	},
+	"InlineTitles": {
+		"18": "Le Chef Riche"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: Premier traduction du chapitre 18:18-30."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "9",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tAs He went along, He saw a man who was born blind. ",
+		"2": "His disciples asked Him, \"Rabbi, who sinned that he was born blind? This man or his parents?\"\r\n",
+		"3": "\tJesus answered, \"Neither that man sinned, nor his parents. Instead, it was so that the works of God might be revealed in him. ",
+		"4": "We must do the works of the one who sent me while it is day. Night is coming, when no one can work. ",
+		"5": " While I am in the world, I am the Light of the world.\"\r\n"
+	},
+	"InlineTitles": {
+		"1": "The Man Born Blind"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: First translation of chapter 9:1-5."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

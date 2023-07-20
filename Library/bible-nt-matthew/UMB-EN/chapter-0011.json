@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0011",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "11",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"25": "\tAt that time Jesus said, \"I praise you, Father, Lord of heaven and earth. That you have hidden these things from the wise and intelligent and have revealed them to infants. ",
+		"26": "Yes, Father, for this is the way that has pleased you. ",
+		"27": "All things have been handed over to me by My Father. No one knows the Son except the Father. Neither does anyone know the Father except the Son and anyone to whom the Son chooses to reveal Him.\"\r\n",
+		"28": "\t\"Come to me, all who are weary and burdened, and I will give you rest. ",
+		"29": "Take My yoke upon you and learn from Me. For I am gentle and humble in heart, and you will find rest for your souls. ",
+		"30": "Indeed, My yoke is pleasant, and my burden is light.\"\r\n"
+	},
+	"InlineTitles": {
+		"25": "A Pleasant Yolk"
+	},
+	"Changes": [
+		"2023-07-19 - Paul Prins: First translation of chapter 11:xyz"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

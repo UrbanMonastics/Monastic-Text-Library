@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "9",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tEn chemin, Il vit un homme né aveugle. ",
+		"2": "Ses disciples lui demandent : « Rabbi, qui a péché pour qu'il soit né aveugle ? Cet homme ou ses parents ?»\r\n",
+		"3": "\tJésus répondit : « Ni cet homme ni ses parents n'ont péché. Mais c'est pour que les œuvres de Dieu soient révélées en lui. ",
+		"4": "Nous devons faire les œuvres de celui qui m'a envoyé tandis qu'il fait jour. La nuit vient, où personne ne peut travailler. ",
+		"5": "Pendant que Je suis dans le monde, Je suis la Lumière du monde. »\r\n"
+	},
+	"InlineTitles": {
+		"1": "L'Homme Né Aveugle"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: Premier traduction du chapitre 9:1-5."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

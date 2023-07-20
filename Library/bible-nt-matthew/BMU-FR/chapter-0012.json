@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "chapter-0012",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "12",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"34": "\t« Races de vipères ! Comment, étant mauvais, pouvez-vous exprimer quelque chose de bon ? Car c'est de la plénitude du cœur que la bouche parle. ",
+		"35": "La personne bonne tire de bonnes choses de ses dépôts de bonne. La personne mauvaise tire les mauvaises choses de ses dépôts de méchanceté. ",
+		"36": "Maintenant, je vous le dis, au jour du jugement, les personnes rendront compte de toutes les paroles négligentes qu'elles auront prononcées. ",
+		"37": "Car par tes paroles tu seras justifié, et par tes paroles tu seras condamné. »\r\n",
+		"46": "\tComme il parlait encore à la foule, Sa mère et Ses frères se tenaient dehors,  Ils voulaient Lui parler. ",
+		"47": "Quelqu'un lui dit : « Voici, Ta mère et Tes frères se tiennent dehors. Ils veulent Te parler. »\r\n",
+		"48": "\tMais Jésus leur répond et dit : « Qui est Ma mère, et qui sont Mes frères ? » ",
+		"49": "Puis Il étendit Sa main vers Ses disciples. Il dit : « Voici Ma mère et Mes frères. ",
+		"50": "Car quiconque fait la volonté de Mon Père, qui est dans les cieux, est Mon frère, Ma sœur et Ma mère. »\r\n"
+	},
+	"InlineTitles": {
+		"46" : "La Famille de Jésus"
+	},
+	"Footnotes": {
+		"47": " Certains manuscrits grecs n'incluent pas le verset 47."
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: Premier traduction du chapitre 12:34-37, 46-50."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

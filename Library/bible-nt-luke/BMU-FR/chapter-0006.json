@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "6",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"20": "\tAlors, Il leva les yeux vers Ses disciples et commença à parler.\r\n\t« Heureux les pauvres, car le Royaume de Dieu est à vous.\r\n",
+		"21": "\tHeureux vous qui avez faim maintenant, car vous serez rassasiés.\r\n\tHeureux êtes-vous qui pleurez présentement, car vous rirez.\r\n",
+		"22": "\tHeureux serez-vous quand le peuple vous haïra, vous exclura, vous insultera, et méprisera votre nom comme mauvais, à cause du Fils de l'Homme.\r\n",
+		"23": "\tRéjouissez-vous en ce jour-là et sautez de joie. Voici que votre récompense est grande dans le ciel. Car leurs ancêtres traitaient les prophètes de la même manière.\r\n",
+		"24": "\tMais malheur à vous qui êtes riches, car vous recevez votre confort en entier.\r\n",
+		"25": "\tMalheur à vous qui êtes rassasiés, car vous aurez faim.\r\n\tMalheur à vous qui riez, car vous serez dans le deuil et les larmes.\r\n",
+		"26": "\tMalheur à vous si tous les peuples parlent bien de vous,  car leurs ancêtres traitaient les faux prophètes de la même manière. »\r\n"
+	},
+	"InlineTitles": {
+		"20": "Les Béatitudes"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: Premier traduction du chapitre 6:20-26."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

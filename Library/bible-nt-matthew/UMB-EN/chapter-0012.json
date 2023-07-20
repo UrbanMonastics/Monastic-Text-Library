@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "chapter-0012",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "12",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"34": "\t\"You brood of vipers! How can you, being evil, express anything good? For the mouth speaks from the fullness of the heart. ",
+		"35": "The good person brings good things out of their deposits of good. The evil person brings evil out of their deposits of evil. ",
+		"36": "Now, I tell you, on the day of judgment, people will give account for every careless word they speak. ",
+		"37": "For by your words you will be justified, and by your words you will be condemned.\"\r\n",
+		"46": "\tWhile Jesus was still speaking to the crowds His mother and brothers were standing outside. They were wanting to speak to Him.  ",
+		"47": "Someone said to Him, \"Look, Your mother and brothers are standing outside. They want to speak to You.\"\r\n",
+		"48": "\tBut Jesus responded to them and said, \"Who is My mother, and who are My brothers?\" ",
+		"49": "Then he stretched out His hand towards His disciples. He said, \"Here, My mother, and My brothers. ",
+		"50": "For whoever does the will of My Father, who is in heaven, is my brother, sister, and mother.\"\r\n"
+	},
+	"InlineTitles": {
+		"46": "The Family of Jesus"
+	},
+	"Footnotes": {
+		"47": "Some Greek manuscripts do not include verse 47."
+	},
+	"Changes": [
+		"2023-07-19 - Paul Prins: First translation of chapter 12:34-37, 46-50"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

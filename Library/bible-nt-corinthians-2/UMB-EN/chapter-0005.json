@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-corinthians-2",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"20": "\tTherefore, we are ambassadors for Christ. Just as if God were making an appeal through us. We beg you, on behalf of Christ: \"Be reconciled to God!\" ",
+		"21": "He made Him, who did not know sin, to be sin on our behalf. So that in Him we might become the righteousness of God.\r\n"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: First translation of verses 5:20-21."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

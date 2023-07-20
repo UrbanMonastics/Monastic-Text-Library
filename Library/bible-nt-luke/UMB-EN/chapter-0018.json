@@ -1,0 +1,33 @@
+{
+	"TextAbbreviation": "chapter-0018",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "18",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tA ruler questioned Him, saying, \"Good Teacher, what shall I do to inherit eternal life?\"\r\n",
+		"19": "\t Jesus replied to him, \"Why do you call Me good? No one is good except God alone. ",
+		"20": "You know the commandments: 'do not commit adultery, do not murder, do not steal, do not give false testimony, and honor your parents.'\"\r\n",
+		"21": "\t\"All these things I have kept from my youth,\" he said.\r\n",
+		"22": "\tWhen Jesus heard this, He said to him, \"One thing you still lack. Sell all that you possess, distribute the money to the poor, and you will have treasure in heaven. Then come and follow me.\"\r\n",
+		"23": "\tBut when he heard these things, he became deeply grieved, for he was extremely wealthy. ",
+		"24": "Jesus looked at him and said, \"How hard it is for those who are wealthy to enter the Kingdom of God! ",
+		"25": "For it is easier for a camel to go through the eye of a needle, than for a rich person to enter the Kingdom of God!\"\r\n",
+		"26": "\tThose who heard Him said, \"Then, who can be saved?\"\r\n",
+		"27": "\tJesus replied, \"Things that are impossible for people are possible with God!\"\r\n",
+		"28": "\tPeter said, \"Behold, we have left everything and followed You.\"\r\n",
+		"29": "\tSo He said to them, \"I tell you the truth. There is no one who left a home, spouse, siblings, parents, or children for the cause of the Kingdom of God ",
+		"30": "who will not receive many times as much at this time and in the age to come: eternal life.\"\r\n"
+	},
+	"InlineTitles": {
+		"18": "The Rich Ruler"
+	},
+	"Changes": [
+		"2023-07-20 - Paul Prins: First translation of chapter 18:18-30."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
