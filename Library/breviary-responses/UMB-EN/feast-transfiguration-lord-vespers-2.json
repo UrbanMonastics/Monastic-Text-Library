@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "feast-transfiguration-lord-vespers-2",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Majesty and beauty emanate from Him.\r\n[R] Alleluia, alleluia!\r\n[V] Beauty and power from His sanctuary.",
+	"Changes": [
+		"2023-08-06 - Paul Prins: Initial translation from Latin"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
