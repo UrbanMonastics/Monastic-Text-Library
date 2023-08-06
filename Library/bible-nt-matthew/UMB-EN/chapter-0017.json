@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "chapter-0017",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "17",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tSix days later, Jesus took with Him Peter, James, and his brother John. He led them up onto a high mountain by themselves. ",
+		"2": "There, Jesus was transfigured before them. His face shone like the sun, and His garments became as white as pure light. ",
+		"3": "Behold, just then  Moses and Elijah appeared to them, talking with Jesus. ",
+		"4": "Peter began saying to Jesus, \"Lord it is good for us to be here. If you wish, I will make three tabernacles here. One for You, one for Moses, and one for Elijah.\"\r\n",
+		"5": "\tWhile Peter was still speaking, a bright cloud consumed them. Behold, a voice out of the cloud said, \"This is My beloved Son with whom I am well pleased. Listen to Him!\"\r\n",
+		"6": "\tWhen the disciples heard this, they fell face down and were filled with terror. ",
+		"7": "Then Jesus came to them, touched them, and said, \"Get up, and do not be afraid.\" ",
+		"8": "They raised their eyes and saw no one there except Jesus, alone by Himself.\r\n"
+	},
+	"InlineTitles": {
+		"1": "The Transfiguration of Jesus"
+	},
+	"Changes": [
+		"2023-08-06 - Paul Prins: First translation of chapter 17:1-8."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

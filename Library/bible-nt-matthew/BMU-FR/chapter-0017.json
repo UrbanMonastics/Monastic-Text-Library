@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "chapter-0017",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "17",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tSix jours après, Jésus prit avec lui Pierre, Jacques et son frère Jean. Il les conduisit sur une haute montagne, en solitaire. ",
+		"2": "Là, Jésus fut transfiguré devant eux. Son visage resplendit comme le soleil, et ses vêtements devinrent blancs comme la lumière pure. ",
+		"3": "En ce moment, Moïse et Élie leur apparurent, ils s'entretenant avec Jésus. ",
+		"4": "Pierre commença à parler à Jésus : « Seigneur, il est bon que nous soyons ici. Si tu le veux, je ferai ici trois tabernacles : un pour toi, un pour Moïse et un pour Élie. Un pour toi, un pour Moïse et un pour Élie. »\r\n",
+		"5": "\tComme Pierre parlait encore, une nuée lumineuse les enveloppa. Et voici, une voix fit entendre de la nuée ces paroles : « Celui-ci est mon Fils bien-aimé, en qui j'ai mis toute mon affection. Écoutez-le ! »\r\n",
+		"6": "\tLorsque les disciples l'entendirent, ils tombèrent sur leur visage et furent saisis de terreur. ",
+		"7": "Jésus s'approcha d'eux, les toucha et leur dit : « Levez-vous et n'ayez pas peur. » ",
+		"8": "Ils levèrent les yeux et ne virent plus que Jésus, tout seul.\r\n"
+	},
+	"InlineTitles": {
+		"1": "La Transfiguration de Jésus"
+	},
+	"Changes": [
+		"2023-08-06 - Paul Prins: Premier traduction du chapitre 17:1-8."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
