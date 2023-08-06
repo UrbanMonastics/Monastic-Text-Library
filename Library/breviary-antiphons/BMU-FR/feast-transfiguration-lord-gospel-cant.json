@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "feast-transfiguration-lord-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Et voici, [*] une voix fit entendre de la nuée ces paroles : « Celui-ci est mon Fils bien-aimé, en qui j'ai mis toute mon affection. Écoutez-le ! » ",
+	"Extra": {
+		"Reference": ["Matthew 17:5"]
+	},
+	"Changes": [
+		"2023-08-06 - Paul Prins: Première traduction de cette Antienne."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "feast-transfiguration-lord-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Behold, [*] a voice out of the cloud said, \"This is My beloved Son with whom I am well pleased. Listen to Him!\"",
+	"Extra": {
+		"Reference": ["Matthew 17:5"]
+	},
+	"Changes": [
+		"2023-08-06 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
