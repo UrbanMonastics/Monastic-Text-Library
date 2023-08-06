@@ -9,9 +9,12 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"11": "Mais si l'Esprit de Celui qui a ressuscité Jésus d'entre les morts habite en vous, celui qui a ressuscité le Christ d'entre les morts donnera aussi la vie à vos corps mortels par Son Esprit qui habite en vous. "
+		"11": "Mais si l'Esprit de Celui qui a ressuscité Jésus d'entre les morts habite en vous, celui qui a ressuscité le Christ d'entre les morts donnera aussi la vie à vos corps mortels par Son Esprit qui habite en vous. ",
+		"16": "L'Esprit lui-même rend témoignage à notre esprit que nous sommes enfants de Dieu. ",
+		"17": "Si nous sommes enfants, nous sommes aussi héritiers. Héritiers de Dieu et cohéritiers du Christ. Si nous souffrons avec lui, c'est pour être glorifiés avec lui.\r\n"
 	},
 	"Changes": [
+		"2023-08-06 Paul Prins: Première traduction des versets 16, 17 basée sur le grec.",
 		"2022-06-04 Paul Prins: Première traduction de verset 11 basée sur le grec."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
