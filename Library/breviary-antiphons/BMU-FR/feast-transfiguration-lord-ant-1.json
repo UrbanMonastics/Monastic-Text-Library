@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "feast-transfiguration-lord-ant-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus prit [*] avec lui Pierre, Jacques et son frère Jean. Il les conduisit sur une haute montagne, en solitaire. Là, Jésus fut transfiguré devant eux.",
+	"Extra": {
+		"Reference": ["Matthew 17:1-2"]
+	},
+	"Changes": [
+		"2023-08-06 - Paul Prins: Première traduction de cette Antienne."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

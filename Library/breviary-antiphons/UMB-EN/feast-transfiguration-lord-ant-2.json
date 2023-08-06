@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "feast-transfiguration-lord-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "His face shone [*] like the sun, and His garments became as white as pure light.",
+	"Extra": {
+		"Reference": ["Matthew 17:2"]
+	},
+	"Changes": [
+		"2023-08-06 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
