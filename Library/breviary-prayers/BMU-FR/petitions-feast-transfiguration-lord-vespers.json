@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-feast-transfiguration-lord-vespers",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Prions avec confiance notre Sauveur. À celui qui a été miraculeusement transfiguré sur la montagne. Sous les yeux des disciples :\r\n[IR] Illumine nos ténèbres, Toi notre Dieu!\r\n[I1] Christ, par ta transfiguration, tu as révélé aux disciples ta résurrection avant de monter ta croix. Nous te prions pour ta sainte Eglise qui lutte dans le monde :\r\n[I2] dans ses échecs, qu'elle soit transfigurée par la joie de ta victoire.\r\n[I1] Christ, qui avait pris avec lui Pierre, Jacques et Jean. Il les a menés seuls au sommet d'une haute montagne. Nous te prions pour les responsables de ton Église :\r\n[I2] qu'ils servent ton peuple avec l'espérance de la résurrection.\r\n[I1] Christ, qui sur cette montagne a fait resplendir ton visage sur Moïse et Elie. Nous te prions pour tous ceux qui n'ont pas connu l'illumination de ta parole et de ton chemin :\r\n[I2] qu'ils puissent partager avec nous la plénitude de la rédemption.\r\n[I1] Christ, qui a illuminé la terre quand la gloire du Créateur s'est levée sur toi. Nous te prions pour tous ceux qui transforment le mal en bien :\r\n[I2] qu'ils marchent dans ta lumière.\r\n[I1] Christ, qui transformera nos humbles corps en corps de gloire. Nous prions pour nos fratries qui ont quitté cette vie avant nous :\r\n[I2] qu'ils entrent dans ta gloire.",
+	"Changes": [
+		"2023-08-06 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

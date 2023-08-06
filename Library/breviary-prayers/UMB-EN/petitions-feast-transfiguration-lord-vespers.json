@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "petitions-feast-transfiguration-lord-vespers",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Let us pray with confidence to our Savior. To Him who was miraculously transfigured on the mountain. In the sight of the disciples:\r\n[IR] Illuminate our darkness, You our God!\r\n[I1] Christ, with your transfiguration, you revealed to the disciples your resurrection before you climbed your cross. We pray to you for your holy Church, which is struggling in the world:\r\n[I2] in its failures, may it be transfigured by the joy of your victory.\r\n[I1] Christ, who took Peter, James, and John with him. He led them up a tall mountain alone. We pray to you for the leaders of your Church:\r\n[I2] that they minister to your people with the hope of the resurrection.\r\n[I1] Christ, who upon that mountain shone your face upon Moses and Elijah. We pray to you for all who have not known the illumination of your word and way:\r\n[I2] that they may share with us in the fullness of redemption.\r\n[I1] Christ, who illuminated the earth when the glory of the Creator arose upon you. We pray to you for all who are transforming bad into good:\r\n[I2] that they may walk in your light.\r\n[I1] Christ, who will transform our humble bodies into bodies of glory. We pray for our siblings who have left this life before us:\r\n[I2] that they may enter into your glory.",
+	"Changes": [
+		"2023-08-06 - Paul Prins: Initial translation of these intentions."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

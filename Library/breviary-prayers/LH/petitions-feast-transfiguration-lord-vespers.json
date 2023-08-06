@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "petitions-feast-transfiguration-lord-vespers",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Salvatórem nostrum, qui in monte ante discípulos  mirabíliter transfigurátus est, fidénter deprecémur :\r\n[IR] Deus noster, illúmina ténebras nostras.\r\n[I1] Christe, qui transfigurátus revelásti discípulis tuis resurrectiónem ante passiónem, orámus te pro Ecclésia tua sancta laboránte in necessitátibus mundi,\r\n[I2] ut in tribulatióne semper transfigurétur victóriæ tuæ gáudio.\r\n[I1] Christe, qui assumpsísti Petrum cum Iacóbo et Ioánne et duxísti eos in montem excélsum seórsum, orámus te pro Papa nostro et epíscopis,\r\n[I2] ut pópulo tuo in spe resurrectiónis minístrent.\r\n[I1] Christe, qui in monte illuminásti fáciem tuam super Móysen et Elíam, orámus te pro Iudæis, pópulo acquisitiónis antíquæ,\r\n[I2] ut ad redemptiónis mereántur plenitúdinem perveníre.\r\n[I1] Christe, qui terræ illuxísti, cum glória Creatóris super te orta est, orámus te pro homínibus bonæ voluntátis,\r\n[I2] ut ámbulent in lúmine tuo.\r\n[I1] Christe, qui reformábis corpus humilitátis nostræ configurátum córpori claritátis tuæ, orámus te pro frátribus nostris defúnctis,\r\n[I2] ut intrent in glóriam tuam.",
+	"Changes": [
+		"2023-08-06 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
