@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0086",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Prayer of a Poor Person in Need",
+	"Description": "A Prayer of David",
+	"Chapter": "86",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Bring low your ear, LORD, and answer me, \r\n\tfor I am poor and needy.\r\n",
+		"2": "Preserve my soul, for I am faithful, \r\n\tmy God, save your servant who trusts in You.\r\n\r\n",
+		"3": "Be gracious to me, Lord, \r\n\tfor I cry to you all day long.\r\n",
+		"4": "Fill your servants soul with rejoicing, \r\n\tfor I lift my soul, Lord, to you.\r\n",
+		"5": "For you, Lord, are good and ready to forgive, \r\n\twith abundant mercy for all who call upon you.\r\n\r\n",
+		"6": "Turn your ear, LORD, to my prayer, \r\n\tand listen to my pleading voice.\r\n",
+		"7": "On the day of trouble, I will call on you, \r\n\tfor you will answer me.\r\n\r\n",
+		"8": "There are none like you among the gods, \r\n\tLord, no works compare with yours.\r\n",
+		"9": "All the nations you have made will come, \r\n\tthey will worship before you, Lord, \r\n\tand they will glorify your name.\r\n",
+		"10": "For you are great, and do wonderful things, \r\n\tYou alone are God.\r\n\r\n",
+		"11": "Teach me, LORD, your way, \r\n\tand I will walk in your truth.\r\nBe united with my heart, \r\n\tand it will fear your Name.\r\n",
+		"12": "I will give you thanks, Lord, with all my heart, \r\n\tand I will glorify your name forever.\r\n",
+		"13": "For great is your mercy over me, \r\n\tthat you saved me from the depths of Sheol.\r\n\r\n",
+		"14": "God, arrogant people are attacking me, \r\n\tthese violent people want my life, \r\n\tand they have no desire for you.\r\n",
+		"15": "But you, Lord, are a compassionate and gracious God, \r\n\tslow to anger, and overflowing with mercy and faithfulness.\r\n",
+		"16": "Turn towards me and be gracious with me, \r\n\tgrant your strength to your servant, \r\n\tand save my life, your servant's child.\r\n\r\n",
+		"17": "Make me into a sign of your goodness, \r\n\tupon seeing it those who hate me will be ashamed, \r\n\tbecause you, LORD, have helped and comforted me."
+	},
+	"Changes": [
+		"2023-08-10 - Paul Prins: First translation of psalm 86 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

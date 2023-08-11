@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "chapter-0088",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Pauperis in Rebus Adversis Oratio",
+	"Description": "Precatio. David.",
+	"Chapter": "86",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Inclína, Dómine, aurem tuam et exáudi me, [*]\r\n\tquóniam inops et pauper sum ego.\r\n",
+		"2": "Custódi ánimam meam, quóniam sanctus sum; [*]\r\n\tsalvum fac servum tuum, Deus meus, sperántem in te.\r\n\r\n",
+		"3": "Miserére mei, Dómine, [*]\r\n\tquóniam ad te clamávi tota die.\r\n",
+		"4": "Lætífica ánimam servi tui, [*]\r\n\tquóniam ad te, Dómine, ánimam meam levávi.\r\n",
+		"5": "Quóniam tu, Dómine, suávis et mitis [*]\r\n\tet multæ misericórdiæ ómnibus invocántibus te.\r\n\r\n",
+		"6": "Auribus pércipe, Dómine, oratiónem meam [*]\r\n\tet inténde voci deprecatiónis meæ.\r\n",
+		"7": "In die tribulatiónis meæ clamávi ad te, [*]\r\n\tquia exáudies me.\r\n\r\n",
+		"8": "Non est símilis tui in diis, Dómine, [*]\r\n\tet nihil sicut ópera tua.\r\n",
+		"9": "Omnes gentes quascúmque fecísti, vénient [t]\r\n\tet adorábunt coram te, Dómine, [*]\r\n\tet glorificábunt nomen tuum,\r\n",
+		"10": "quóniam magnus es tu et fáciens mirabília : [*]\r\n\ttu es Deus solus.\r\n\r\n",
+		"11": "Doce me, Dómine, viam tuam, [*]\r\n\tet ingrédiar in veritáte tua;\r\nsimplex fac cor meum, [*]\r\n\tut tímeat nomen tuum.\r\n",
+		"12": "Confitébor tibi, Dómine, viam tuam, [*]\r\n\tet glorificábo numen tuum in ætérnum,\r\n",
+		"13": "quia misericórdia tua magna est super me, [*]\r\n\tet eruísti ánimam meam ex inférno inferióri.\r\n\r\n",
+		"14": "Deus, supérbi insurrexérunt super me, [t]\r\n\tet synagóga poténtium quæsiérunt ánimam meam [*]\r\n\tet non proposuérunt te in conspéctu suo.\r\n",
+		"15": "Et tu, Dómine, Deus miserátor et miséricors, [*]\r\n\tpátiens et multæ misericórdiæ et veritátis,\r\n",
+		"16": "réspice in me et miserére mei; [t]\r\n\tde fortitúdinem tuam púero tuo [*]\r\n\tet salvum fac fílium ancíllæ tuæ.\r\n\r\n",
+		"17": "Fac mecum signum in bonum, [t]\r\n\tut vídeant, qui odérunt me, et confundántur, [*]\r\n\tquóniam tu, Dómine, adiuvísti me et consolátus es me."
+	},
+	"Changes": [
+		"2023-08-10- Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
