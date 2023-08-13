@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "chapter-0143",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "A Prayer in Anguish",
+	"Description": "A Psalm of David",
+	"Chapter": "143",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "LORD, hear my prayer, [t]\r\n\tturn your ear toward my plea, [*]\r\n\tin your faithfulness and righteousness, answer me.\r\n",
+		"2": "And do not place judgement against Your servant, [*]\r\n\tfor no one living is righteous before You.\r\n\r\n",
+		"3": "For the enemy pursues my soul, [t]\r\n\tthey crush my life into the ground, [*]\r\n\tmaking me dwell in the darkness, with those long dead.\r\n",
+		"4": "So my spirit is weakening within me, [*]\r\n\twithin me, my heart is in desolation.\r\n\r\n",
+		"5": "I remember the days of old, [t]\r\n\tmeditate on all that you have done, [*]\r\n\tand reflect on the works of your hands.\r\n",
+		"6": "I spread out my hands to you, [*]\r\n\tmy soul thirsts for you like a parched land.\r\nselah\r\n",
+		"7": "Quickly, LORD, answer me, [*]\r\n\tfor my spirit fails.\r\nDon't hide your face from me, [*]\r\n\tor I will follow those going down into the pit.\r\n\r\n",
+		"8": "Let the morning bring word of your faithfulness, [*]\r\n\tfor I trust in you.\r\nShow me the way I should go, [*]\r\n\tfor I lift my soul to you.\r\n\r\n",
+		"9": "Save me from my enemies, LORD, [*]\r\n\tin you, I take refuge.\r\n",
+		"10": "Teach me to do your will, [*]\r\n\tfor you are my God.\r\nMay your good spirit lead me on level ground; [*]\r\n",
+		"11": "\tFor your name's sake, LORD, revive me.\r\nIn your righteousness, [*]\r\n\tdeliver my soul from trouble.\r\n\r\n",
+		"12": "[And in your faithfulness, put an end to my enemies, [t]\r\n\tand ruin all who attack my soul, [*]\r\n\tfor I am your servant.]"
+	},
+	"Changes": [
+		"2023-08-12 - Paul Prins: First translation of psalm 143 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

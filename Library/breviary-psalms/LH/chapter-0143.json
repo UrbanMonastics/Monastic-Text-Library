@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0143",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Pauperis in Rebus Adversis Oratio",
+	"Description": "Precatio. David.",
+	"Chapter": "143",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Dómine, exáudi oratiónem meam, [t]\r\n\táuribus pércipe obsecratiónem meam in veritáte tua ; [*]\r\n\texáudi me in tua iustítia.\r\n",
+		"2": "Et non intres in iudícium cum servo tuo, [*]\r\n\tquia non iustificábitur in conspéctu tuo omnis vivens.\r\n\r\n",
+		"3": "Quia persecútus est inimícus ánimam meam, [t]\r\n\tcontrívit in terra vitam meam, [*]\r\n\tcollocávit me in obscúris sicut mórtuos a sǽculo.\r\n",
+		"4": "Et anxiátus est in me spíritus meus, [*]\r\n\tin médio mei obríguit cor meum.\r\n\r\n",
+		"5": "Memor fui diérum antiquórum, [t]\r\n\tmeditátus sum in ómnibus opéribus tuis, [*]\r\n\tin factis mánuum tuárum recogitábam.\r\n",
+		"6": "Expándi manus meas ad te, [*]\r\n\tánima mea sicut terra sine aqua tibi.\r\n\r\n",
+		"7": "Velóciter exáudi me, Dómine ; [*]\r\n\tdefécit spíritus meus.\r\nNon abscóndas fáciem tuam a me, [*]\r\n\tne símilis fiam descendéntibus in lacum.\r\n\r\n",
+		"8": "Audítam fac mihi mane misericórdiam tuam, [*]\r\n\tquia in te sperávi.\r\n\tNotam fac mihi viam in qua ámbulem, [*]\r\n\tquia ad te levávi ánimam meam.\r\n\r\n",
+		"9": "Eripe me de inimícis meis, [*]\r\n\tDómine, ad te confúgi.\r\n",
+		"10": "Doce me fácere voluntátem tuam, [*]\r\n\tquia Deus meus es tu.\r\nSpíritus tuus bonus dedúcet me in terram rectam ; [*]\r\n",
+		"11": "\tpropter nomen tuum, Dómine, vivificábis me.\r\nIn iustítia tua [*]\r\n\tedúces de tribulatióne ánimam meam.",
+		"12": "[Et in misericórdia tua dispérdes inimícos meos; [t]\r\n\tet perdes omnes qui tríbulant ànimam meam, [*]\r\n\tquóniam ego servus tuus sum.]"
+	},
+	"Changes": [
+		"2023-08-12 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

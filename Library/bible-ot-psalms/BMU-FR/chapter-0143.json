@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "chapter-0143",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Une Prière dans l'Angoisse",
+	"Description": "Un Psaume de David",
+	"Chapter": "143",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "SEIGNEUR, écoute ma prière, [t]\r\n\tprête l'oreille à m'appeler, [*]\r\n\tdans ta fidélité et ta justice, réponds-moi.\r\n",
+		"2": "Et n'entre pas en jugement avec ton serviteur, [*]\r\n\tcar aucun vivant n'est juste devant toi.\r\n\r\n",
+		"3": "Car l'ennemi poursuit mon âme, [t]\r\n\til écrase ma vie dans le sol, [*]\r\n\til me fait habiter dans les obscurités, avec les morts depuis longtemps.\r\n",
+		"4": "Ainsi mon esprit s'affaiblit en moi, [*]\r\n\ten moi mon cœur est dans la désolation.\r\n\r\n",
+		"5": "Je me souviens des jours d'autrefois, [t]\r\n\tje médite sur tout ce que tu as fait, [*]\r\n\tet je réfléchis aux œuvres de tes mains.\r\n",
+		"6": "J'étends mes mains vers toi, [*]\r\n\tmon âme a soif de toi comme une terre desséchée.\r\nselah\r\n",
+		"7": "Vite, SEIGNEUR, réponds-moi, [*]\r\n\tcar mon esprit se consume.\r\nNe me cache pas ton visage, [*]\r\n\tou je suivrai ceux qui descendent dans la fosse.\r\n\r\n",
+		"8": "Au matin, fais-moi entendre ta fidélité [*]\r\n\tcar je me confie en toi.\r\nMontre-moi le chemin que je dois suivre, [*]\r\n\tcar j'élève mon âme vers toi.\r\n\r\n",
+		"9": "Sauve-moi de mes ennemis, SEIGNEUR, [*]\r\n\ten toi, je me réfugie.\r\n",
+		"10": "Apprends-moi à faire ta volonté, [*]\r\n\tcar tu es mon Dieu.\r\nQue ton bon esprit me conduise sur un terrain plat, [*]\r\n",
+		"11": "\tà cause de ton nom, SEIGNEUR, rends-moi la vie.\r\nDans ta justice, [*]\r\n\tDélivre mon âme de la détresse.\r\n\r\n",
+		"12": "[Et dans ta fidélité, mets fin à mes ennemis, [t]\r\n\truine tous ceux qui s'attaquent à mon âme, [*]\r\n\tcar je suis ton serviteur.]"
+	},
+	"Changes": [
+		"2023-08-12 - Paul Prins: Première traduction du psaume 143 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
