@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "tuesday-compline-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Do not place [*] judgement against Your servant, Lord.",
+	"Extra": {
+		"Reference": ["Psalm 86:6"]
+	},
+	"Changes": [
+		"2023-08-11 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

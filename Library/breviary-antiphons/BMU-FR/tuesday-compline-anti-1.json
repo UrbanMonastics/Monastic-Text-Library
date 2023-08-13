@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "tuesday-compline-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "N'entre pas [*] en jugement avec ton serviteur, Seigneur.",
+	"Extra": {
+		"Reference": ["Psalm 143:2"]
+	},
+	"Changes": [
+		"2023-08-13 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
