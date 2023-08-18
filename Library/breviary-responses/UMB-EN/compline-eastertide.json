@@ -7,12 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Into your hands, Lord, I commend my spirit.\r\n[R] Alleluia, alleluia.\r\n[V] It's you who has redeemed us, Lord, God of truth.",
+	"Text": "[V] Into your hands, LORD, I entrust my spirit.\r\n[R] Alleluia, alleluia.\r\n[V] For you have redeemed us, LORD, God of truth.",
 	"Extra": {
 		"BreviaryInstructions": "During Eastertide after the Octave."
 	},
 	"Changes": [
+		"2023-08-14 - Paul Prins: Updated the versicles to match our Psalm 31:5.",
 		"2022-08-05 - Paul Prins: First translation."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2023 Urban Monastics, Paris"
 }
