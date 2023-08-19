@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0031",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Une Prière Confiante pour le Refuge",
+	"Description": "Au directeur musical. Un psaume de David.",
+	"Chapter": "31",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "En toi, SEIGNEUR, je me réfugie, [t]\r\n\tque je ne sois pas honteux, [*]\r\n\tdans ta justice, sauve-moi.\r\n",
+		"2": "Incline ton oreille vers moi, [*]\r\n\tet sauve-moi vite.\r\nSois mon rocher de force, [*]\r\n\tune forte forteresse pour me sauver.\r\n\r\n",
+		"3": "Puisque tu es mon rocher et ma forteresse, [*]\r\n\tconduis-moi et guide-moi à cause de ton nom.\r\n",
+		"4": "Épargne-moi le piège qu'ils m'ont tendu en secret, [*]\r\n\tcar tu es mon protecteur.\r\n\r\n",
+		"5": "Entre tes mains je confie mon esprit, [*]\r\n\ttu m'as racheté, SEIGNEUR, Dieu de vérité.\r\n\r\n",
+		"6": "Je hais ceux qui s'attachent à des idoles sans valeur, [*]\r\n\tpour moi, je me confie à SEIGNEUR.\r\n",
+		"7": "Par ta fidélité, Je serai dans la joie et l'allégresse, [t]\r\n\tparce que tu m'as vu affligé. [*]\r\n\tTu connais l'angoisse de mon âme.\r\n",
+		"8": "Tu ne m'as pas livré à mon ennemi, [*]\r\n\tmais tu as mis mes pieds au large.\r\n\r\n",
+		"9": "Aie pitié de moi, SEIGNEUR, car je suis dans la détresse, [t]\r\n\tmon oeil est échoué par le chagrin, [*]\r\n\tmon âme et mon corps aussi.\r\n",
+		"10": "Je passe ma vie consumée dans la douleur, [*]\r\n\tet mes années à gémir.\r\n\tMes forces s'affaiblissent sous ma culpabilité, [*]\r\n\tet mes os se désagrègent.\r\n\r\n",
+		"11": " A cause de mes ennemis, je suis devenu méprisé, [t]\r\n\tun objet d'effroi pour mes voisins et mes amis, [*]\r\n\tceux qui me voient dans la rue me fuient.\r\n",
+		"12": "Je suis oublié comme un mort et rejeté de la mémoire, [*]\r\n\tje suis comme une poterie brisée.\r\n",
+		"13": "Car j'ai entendu calomnier des peuples nombreux, et leur terreur m'environne, [t]\r\n\tils conspirent contre moi, [*]\r\n\tet ils complotent pour m'ôter la vie.\r\n\r\n",
+		"14": "Mais moi, je me confie en toi, SEIGNEUR! [t]\r\nJe dis : « Tu es mon Dieu. [*]\r\n",
+		"15": "\tMes jours sont entre tes mains. »\r\nDélivre-moi de la main de mes ennemis, [*]\r\n\tet de ceux qui me poursuivent.\r\n\r\n",
+		"16": "Fais briller ton visage sur ton serviteur, [*]\r\n\tsauve-moi par ton amour indéfectible.\r\n",
+		"17": "Que je ne sois pas honteux, SEIGNEUR, parce que je t'invoque, [*]\r\n\tmais que le méchant ait honte et se taise dans le Shéol.\r\n",
+		"18": "Mettez en silence leurs lèvres menteuses, [t]\r\n\tà cause des choses viles et méprisantes qu'elles disent [*]\r\n\tavec arrogance contre le juste.\r\n\r\n",
+		"19": "Que ta bonté est grande ! [*]\r\n\tTu as fait des réserves pour ceux qui te craignent.\r\nAux yeux de tous, tu as agi [*]\r\n\tpour ceux qui se réfugient en toi.\r\n",
+		"20": "Tu les abrites en ta présence, [*]\r\n\tles cachant de toutes les conspirations humaines.\r\nTu les mets à l'abri en secret, [*]\r\n\tprotégés des langues accusatrices.\r\n\r\n",
+		"21": "Béni soit le SEIGNEUR, [*]\r\n\tcar il m'a montré sa merveilleuse fidélité dans une ville assiégée.\r\n",
+		"22": " J'ai dit dans mon alarme : [*]\r\n\t« Je suis coupé de tes yeux. »\r\nMais toi, tu as entendu mes supplications, [*]\r\n\tquand j'ai crié à ton secours.\r\n\r\n",
+		"23": "Aimez le SEIGNEUR, tout son peuple saint [t]\r\n\tle SEIGNEUR garde les fidèles, [*]\r\n\tmais il récompense pleinement les orgueilleux.\r\n",
+		"24": "Fortifiez-vous, et que votre cœur s'enhardisse, [*]\r\n\tvous tous qui attendez SEIGNEUR."
+	},
+	"Changes": [
+		"2023-08-14 - Paul Prins: Première traduction du psaume 31 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

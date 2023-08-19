@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "wednesday-compline-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Be for me, Lord, [*] a God who protects me.",
+	"Changes": [
+		"2023-08-19 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
