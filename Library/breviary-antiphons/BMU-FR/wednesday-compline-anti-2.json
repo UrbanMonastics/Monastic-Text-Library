@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "wednesday-compline-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "De l'abîme, [*] j'ai crié vers toi, SEIGNEUR.",
+	"Extra": {
+		"Reference": ["Psalm 130:1"]
+	},
+	"Changes": [
+		"2023-08-23 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

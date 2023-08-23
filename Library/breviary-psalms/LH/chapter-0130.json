@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0130",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "De Profúndis Clamávi",
+	"Description": "Cánticum Ascensiónum",
+	"Chapter": "130",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "De Profúndis clamávi de te, Dómine ; [*]\r\n",
+		"2": "\tDómine, exáudi vocem meam.\r\nFiant aures tuæ intendéntes [*]\r\n\tin vocem deprecatiónis meæ.\r\n\r\n",
+		"3": "Si iniquitátes observáveris, Dómine, [*]\r\n\tDómine, quis sustinébit?\r\n",
+		"4": "Quia apud te propitiátio est, [*]\r\n\tut timeámus te.\r\n\r\n",
+		"5": "Sustínui te, Dómine, [*]\r\n\tsustínuit ánima mea in verbo eius ;\r\n",
+		"6": "sperávit ánima mea in Dómino [*]\r\n\tmagis quam custódes auróram.\r\nMagis quam custódes auróram [*]\r\n",
+		"7": "\tsperet Israel in Dómino,\r\n\r\nquia apud Dóminum misericórdia, [*]\r\n\tet copiósa apud eum redémptio.\r\n",
+		"8": "Et ipse rédimet Israel [*]\r\n\tex ómnibus iniquitátibus eius."
+	},
+	"Changes": [
+		"2023-08-23 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

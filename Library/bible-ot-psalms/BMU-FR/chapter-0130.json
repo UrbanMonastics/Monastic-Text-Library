@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0130",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "J'ai Crié des Abîmes",
+	"Description": "Chant d'Ascension",
+	"Chapter": "130",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "De l'abîme, j'ai crié vers toi, SEIGNEUR,\r\n",
+		"2": "\tSeigneur, écoute ma voix.\r\nQue tes oreilles soient attentives\r\n\tà mon cri de miséricorde.\r\n\r\n",
+		"3": "Si tu, SEIGNEUR, tenais compte de l'impiété,\r\n\talors, Seigneur, qui pourrait subsister ?\r\n",
+		"4": " Mais avec toi, il y a le pardon,\r\n\tpour que tu sois révéré.\r\n\r\n",
+		"5": "J'attends le SEIGNEUR, mon âme l'attend,\r\n\tet je mets mon espérance dans sa parole.\r\n",
+		"6": "Mon âme attend le Seigneur avec espérance,\r\n\tplus que le veilleurs de nuit n'attend l'aurore.\r\n\r\nOui, plus que le veilleurs de nuit n'attend l'aurore,\r\n",
+		"7": "\tIsraël attend le SEIGNEUR.\r\n\r\nCar avec le SEIGNEUR Il y a de la miséricorde,\r\n\tet avec Lui la rédemption en abondance.\r\n",
+		"8": "Et Il rachètera Israël\r\n\tde toute son impiété."
+	},
+	"Changes": [
+		"2023-08-23 - Paul Prins: Première traduction du psaume 130 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

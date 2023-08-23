@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0130",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "I Cried from the Depths",
+	"Description": "Song of Ascension",
+	"Chapter": "130",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Out of the depths, I cried to You, LORD,\r\n",
+		"2": "\tLord, hear my voice.\r\nLet Your ears be attentive\r\n\tto my cry for mercy.\r\n\r\n",
+		"3": "If You, LORD, kept a record of ungodliness,\r\n\tthen, Lord, who could stand?\r\n",
+		"4": "But with You, there is forgiveness,\r\n\tso that You may be revered.\r\n\r\n",
+		"5": "I wait for the LORD, my soul waits,\r\n\tand in His word I put my hope.\r\n",
+		"6": "My soul waits in hope for the Lord,\r\n\tmore than the night-watch waits for the dawn.\r\nYes, more than the night-watch waits for the dawn,\r\n",
+		"7": "\tIsrael waits for the LORD.\r\n\r\nFor with the LORD there is mercy,\r\n\tand with Him redemption in abundance.\r\n",
+		"8": "And He will redeem Israel\r\n\tfrom all their ungodliness."
+	},
+	"Changes": [
+		"2023-08-23 - Paul Prins: First translation of psalm 130 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
