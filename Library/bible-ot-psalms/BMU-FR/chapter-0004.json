@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Le Seigneur Entend mes Cris",
+	"Description": "Pour le chef de choeur, avec les instruments à cordes. Un psaume de David.",
+	"Chapter": "4",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"2": "Quand je crie vers toi, réponds-moi, Dieu de ma justice,\r\n\ttoi me sauvé quand j'étais opprimé,\r\naie pitié de moi maintenant,\r\n\tet écoute ma prière.\r\n\r\n",
+		"3": "Combien de temps allez-vous les gens transformer ma gloire en honte,\r\n\tl'amour ce qui ne vaut rien, et aspire aux mensonges?\r\nselah\r\n",
+		"4": "Mais sachez que le SEIGNEUR a mis à part les fidèles pour lui-même;\r\n\tle SEIGNEUR entend quand je crie à lui.\r\n\r\n",
+		"5": "Tremblez dans votre colère mais ne péchez point;\r\n\tméditez dans votre cœur,\r\n\tsur votre lit et faites silence.\r\nselah\r\n",
+		"6": "Offrez vos sacrifices de justice,\r\n\tet faites confiance au SEIGNEUR.\r\n\r\n",
+		"7": "Beaucoup demandent: «Qui peut nous montrer quelque chose de bien ? »\r\n\tSEIGNEUR, fais briller la lumière de ton visage sur nous !\r\n",
+		"8": "Tu mets plus de joie dans mon cœur,\r\n\tque lorsque d'autre débordent avec de blé et de vin nouveau.\r\n",
+		"9": "En paix je vais me coucher et endormir,\r\n\tcar toi seul, SEIGNEUR, laisse-moi d'habiter en sécurité."
+	},
+	"Changes": [
+		"2021-04-22 - Paul Prins: Première traduction du psaume 4 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

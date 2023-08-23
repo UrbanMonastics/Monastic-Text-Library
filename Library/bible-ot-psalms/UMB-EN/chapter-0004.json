@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "The Lord Hears my Cries",
+	"Description": "For the music director, with stringed instruments. A psalm of David.",
+	"Chapter": "4",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "When I cry to you, answer me, God of my justice,\r\n\tyou rescued me when I was oppressed,\r\nbe gracious with me now,\r\n\tand hear my prayer.\r\n\r\n",
+		"2": "How long will you people turn my glory into shame,\r\n\tlove what is worthless, and pursue lies?\r\nselah\r\n",
+		"3": "But know that the LORD has set apart the faithful for himself;\r\n\tthe LORD hears when I cry out to him.\r\n\r\n",
+		"4": "Tremble in your anger but do not sin;\r\n\tmeditate in your heart,\r\n\twhile on your bed, and be still.\r\nselah\r\n",
+		"5": "Offer your righteous sacrifices,\r\n\tand trust in the LORD.\r\n\r\n",
+		"6": "Many are asking, \"Who can show us anything good?\"\r\n\tLORD, let the light of your face shine upon us!\r\n",
+		"7": "You put more gladness in my heart,\r\n\tthan when others overflow with grain and new wine.\r\n",
+		"8": "In peace I will lie down and find sleep,\r\n\tfor you alone, LORD, let me dwell in safety."
+	},
+	"Changes": [
+		"2021-04-22 - Paul Prins: First translation of Psalm 4 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

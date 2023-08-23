@@ -2,7 +2,7 @@
 	"TextAbbreviation": "chapter-0134",
 	"SourceAbbreviation": "bible-ot-psalms",
 	"Title": "A Night Prayer in the Sanctuary",
-	"Description": "",
+	"Description": "A Song of Ascents",
 	"Chapter": "134",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -11,7 +11,7 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "*A Song of Ascents*\r\nOh, bless the Lord, all you servants of the Lord,\r\n\tyou who serve throughout the nights in the house of the Lord.\r\n",
+		"1": "Oh, bless the Lord, all you servants of the Lord,\r\n\tyou who serve throughout the nights in the house of the Lord.\r\n",
 		"2": "Lift your hands in that sanctuary,\r\n\tand bless the Lord.\r\n",
 		"3": "May the Lord bless you from Zion,\r\n\tHe who made heaven and earth."
 	},
