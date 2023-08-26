@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Le Seigneur est mon Partage",
+	"Description": "Miktam de David.",
+	"Chapter": "16",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Protège-moi, mon Dieu ! [*]\r\n\tCar en toi, je trouve mon refuge.\r\n",
+		"2": "J'ai dit au SEIGNEUR : « Tu es mon Dieu ! [*]\r\n\tJe n'ai rien de bon en dehors de toi. »\r\n",
+		"3": "Quant aux saints de la terre, les majestueux, [*]\r\n\ttoute ma joie est en eux.\r\n\r\n",
+		"4": "Ceux qui se sont approchés d'autres dieux [*]\r\n\tverront leurs peines multipliées.\r\nCar je ne verserai pas leurs offrandes de sang, [*]\r\n\tni que les noms d'autres dieux soient sur mes lèvres.\r\n\r\n",
+		"5": "Le SEIGNEUR est mon partage et ma coupe, [*]\r\n\ttu soutiens mon sort.\r\n",
+		"6": "Ces lignes de démarcation sont tombées pour moi dans des lieux agréables, [*]\r\n\ten effet, mon héritage est magnifique.\r\n",
+		"7": "Je bénirai le SEIGNEUR, qui m'a conseillé, [*]\r\n\ten effet, mon cœur m'instruit pendant les nuits.\r\n\r\n",
+		"8": "J'ai toujours mis le SEIGNEUR devant moi. [*]\r\n\tAvec lui à ma droite, je ne serais pas ébranlé.\r\n",
+		"9": "Donc mon cœur est heureux, [t]\r\n\tet ma langue se réjouit, [*]\r\n\taussi, ma chair habitera en sûreté.\r\n\r\n",
+		"10": "Car tu ne m'abandonneras pas au Shéol, [*]\r\n\tni ne laisseras ton saint pourrir dans la fosse de la mort.\r\n",
+		"11": "Tu me montreras le chemin de la vie ; [t]\r\n\ten ta présence, la joie rendue parfaite ; [*]\r\n\tà ta droite, il y a des plaisirs pour toujours."
+	},
+	"Changes": [
+		"2023-08-26 - Paul Prins: Première traduction du psaume 16 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

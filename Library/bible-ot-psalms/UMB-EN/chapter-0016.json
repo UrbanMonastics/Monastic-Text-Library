@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "The Lord is my Portion",
+	"Description": "Miktam of David.",
+	"Chapter": "16",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Protect me, my God!\r\n\tFor in you, I take refuge.\r\n",
+		"2": "I said to the LORD, \"You are my God!\r\n\tI have nothing good apart from You.\"\r\n",
+		"3": "As for the saints of the earth, the majestic ones,\r\n\tall my delight is in them.\r\n\r\n",
+		"4": "Those, who have drawn near to other gods,\r\n\twill see their sorrows multiplied.\r\nFor I will not pour out their blood offerings\r\n\tor even let the names of other gods be on my lips.\r\n\r\n",
+		"5": "The LORD is my portion and my cup,\r\n\tYou sustain my lot.\r\n",
+		"6": "These boundary lines have fallen into pleasant places for me;\r\n\tindeed, my inheritance is beautiful.\r\n",
+		"7": "I will bless the LORD who counseled me;\r\n\tindeed, my heart instructs me through the nights.\r\n\r\n",
+		"8": "I have always set the LORD before me.\r\n\tWith him at my right hand, I will not be shaken.\r\n",
+		"9": "Therefore, my heart is glad\r\n\tand my tongue rejoices;\r\n\talso, my flesh will dwell in safety.\r\n\r\n",
+		"10": "For You will not abandon me to Sheol,\r\n\tnor will You let Your holy one rot in the pit of death.\r\n",
+		"11": "You will show me the way of life;\r\n\tin Your presence is joy perfected;\r\n\tin Your right hand are pleasures forever."
+	},
+	"Changes": [
+		"2023-08-26 - Paul Prins: First translation of psalm 16 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

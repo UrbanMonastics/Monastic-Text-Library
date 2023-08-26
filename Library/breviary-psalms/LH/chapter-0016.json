@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Dóminus pars Hereditátis Meæ",
+	"Description": "Miktam. David.",
+	"Chapter": "16",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Consérva me, Deus, [*]\r\n\tquóniam sperávi in te.\r\n",
+		"2": "Dixi Dómino: \"Dóminus meus es tu, [*]\r\n\tbonum mihi non est sine te.\"\r\n",
+		"3": "In sanctos qui sunt in terra, ínclitos viros, [*]\r\n\tomnis volútas mea in eos.\r\n\r\n",
+		"4": "Multiplicántur dolóres eórum [*]\r\n\tqui post deos aliénos acceleravérunt.\r\nNon effúndam libatiónes eórum de sanguínibus [*]\r\n\tneque assúmam nómina eórum in lábiis meis.\r\n\r\n",
+		"5": "Dóminus pars hereditátis meæ et cálicis mei: [*]\r\n\ttu es qui détines sortem meam.\r\n",
+		"6": "Funes cecidérunt mihi in præcláris ; [*]\r\n\tínsuper et heréditas mea speciósa est mihi.\r\n",
+		"7": "Benedícam Dóminum qui tríbuit mihi intelléctum ; [*]\r\n\tínsuper et in nóctibus erudiérunt me renes mei.\r\n\r\n",
+		"8": "Proponébam Dóminum in conspéctu meo semper ; [*]\r\n\tquóniam a dextris est mihi, non commovébor.\r\n",
+		"9": "Propter hoc lætátum est cor meum, [t]\r\n\tet exsultavérunt præcórdia mea ; [*]\r\n\tínsuper et caro mea requiéscet in spe.\r\n\r\n",
+		"10": "Quóniam non derelínques ánimam meam in inférno, [*]\r\n\tnec dabis sanctum tuum vidére corruptiónem.\r\n",
+		"11": "Notas mihi fácies vias vitæ, [t]\r\n\tplenitúdinem lætítiæ cum vultu tuo, [*]\r\n\tdelectatiónes in déxtera tua usque in finem."
+	},
+	"Changes": [
+		"2023-08-26 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
