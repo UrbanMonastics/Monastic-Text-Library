@@ -7,13 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us Pray.\r\nLord, we pray that you will visit this house and drive far away every snare of the enemy. [t] Make welcome your holy angles to live here and to sustain our peace. [*] May your blessings remain with us forever. Through Jesus Christ our Lord.\r\nAmen.",
+	"Text": "Let us Pray.\r\nVisit this home, Lord. We pray You will make this place safe from every snare of the enemy. [t] That Your peace would dwell here and protect us through the holy power of Your Kingdom. [*] Let Your blessing be upon us forever. Through Jesus Christ, our Lord.\r\nAmen.",
 	"Extra": {
 		"BreviaryInstructions": "For the Easter Triduum, and Solemnities occurring during the week."
 	},
 	"Changes": [
+		"2023-08-30 - Paul Prins: Retranslated this prayer to fit with other compline concluding prayers",
 		"2022-08-01 - Paul Prins: Change abbreviation and add instructions.",
 		"2020-10-27 - Paul Prins: Translated this prayer."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2023 Urban Monastics, Paris"
 }

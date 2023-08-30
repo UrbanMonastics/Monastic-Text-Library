@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "concluding-compline-tuesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Orémus.\r\nNoctem istam, quǽsumus, Dómine, benígnus illúmina, [t] et ita fac in pace nos tuos fámulos obdormíre, [*] ut læti ad novi diéi claritátem in tuo nómine suscitémur. Per Christum Dóminum nostrum.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

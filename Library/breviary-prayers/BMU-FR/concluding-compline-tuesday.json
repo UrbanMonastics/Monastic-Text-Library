@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-compline-tuesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Prions le Seigneur.\r\nÉclaire ta lumière avec bonté, Seigneur, en cette nuit qui est la nôtre. [t] Donne-nous, tes serviteurs, de dormir dans ta paix. [*] Afin que nous nous levions dans la clarté d'un jour nouveau, avec la joie de ton Nom. Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

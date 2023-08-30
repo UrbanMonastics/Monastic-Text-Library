@@ -7,13 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous laisse prier.\r\nSeigneur, nous prions pour que vous visitiez cette maison et éloigniez tous les embûches de l'ennemi. [t] Accueillez vos saints angles pour vivre ici et soutenir notre paix. [*] Que ta bénédiction restent avec nous pour toujours. Par Jésus-Christ notre Seigneur.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nVisite cette maison, Seigneur. Nous prions que tu mettes ce lieu à l'abri de tous les pièges de l'ennemi. [t] Que ta paix habite ici et nous protège par la puissance sainte de ton Royaume. [*] Que ta bénédiction soit sur nous pour toujours. Par Jésus-Christ notre Seigneur.\r\nAmen.",
 	"Extra": {
 		"BreviaryInstructions": "Pour le triduum pascal, et les solennités, en semaine."
 	},
 	"Changes": [
+		"2023-08-30 - Paul Prins: Retraduisez cette prière pour accompagner les autres prières des Complies.",
+		"2023-08-29 - Paul Prins: Mettez en correspondance la ligne d'ouverture avec les autres prières de conclusion.",
 		"2022-08-01 - Paul Prins: Modifier l'abréviation et ajouter des instructions.",
 		"2020-10-27 - Paul Prins: Traduit cette prière."
 	],
-	"License": "© 2021 Monastiques Urbain, Paris"
+	"License": "© 2023 Monastiques Urbain, Paris"
 }

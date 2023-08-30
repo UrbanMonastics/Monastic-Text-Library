@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-compline-thursday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Prions le Seigneur.\r\nSeigneur notre Dieu, donne-nous un sommeil reposant et réparateur après la fatigue de notre travail du jour. [t] Car tu nous ranimes toujours, [*] et nous te servirons de corps, d'esprit et d'âme. Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "concluding-compline-thursday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Orémus.\r\nDómine Deus noster, diúrno labóre fatigátos quiéto sopóre nos réfove, [t] ut, tuo semper auxílio recreáti, [*] tibi córpore simus et mente devóti. Per Christum Dóminum nostrum.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

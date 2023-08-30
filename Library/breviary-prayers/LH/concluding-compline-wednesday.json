@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "concluding-compline-wednesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Orémus.\r\nDómine Jesu Christe, qui iugum suave te sequéntibus onúsque leve pérhibes mitis et húmilis, [t] dignáre hujus diéi vota et ópera nostra suscípere, [*] quiétem tribúere, qua tuo nos fácias servítio promptióres. Qui vivis et regnas in sǽcula sæculórum.\r\nAmen.",
+	"Extra": {
+		"Reference" : ["Matthew 11:28-30"]
+	},
+	"Changes": [
+		"2023-08-30 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nWith humbled voices, Lord, we seek you. [t] Even today, we found you as we celebrated the mystery of your resurrection. [*] Now it is time to rest. Grant us your peace, and safety from all evils. Help us arise tomorrow rejoicing and praising you. Through Jesus Christ, our Lord.\r\nAmen",
+	"Text": "Let us pray.\r\nWith humbled voices, Lord, we seek You. [t] Even today, we found You as we celebrated the mystery of Your resurrection. [*] Now it is time to rest. Grant us Your peace, and safety from all evils. Help us arise tomorrow rejoicing and praising You. Through Jesus Christ, our Lord.\r\nAmen.",
 	"Changes": [
+		"2023-08-30 - Paul Prins: Update the casing of pronouns used for God.",
 		"2022-08-09 - Paul Prins: Rewrite most of the prayer for flow, clarity, and create a sense of unity.",
 		"2022-08-05 - Paul Prins: Translated this prayer."
 	],

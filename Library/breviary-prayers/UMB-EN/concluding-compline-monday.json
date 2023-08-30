@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-compline-monday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Let us pray.\r\nGive peace, Lord, to our bodies while we sleep. [t] The seeds sown for Your Kingdom, by our labor, are now in Your hands. [*] Nurture them until the season of their eternal harvest. Through Jesus Christ, our Lord.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

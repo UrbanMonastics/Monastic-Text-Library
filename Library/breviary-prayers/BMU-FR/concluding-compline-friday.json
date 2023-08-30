@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-compline-friday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Prions le Seigneur.\r\nPardonne-nous, Dieu tout-puissant. [t] Afin que nous puissions suivre fidèlement ton Fils unique dans la tombe. [*] En le suivant par la mort, et en ressuscitant dans une nouvelle vie avec lui. Toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

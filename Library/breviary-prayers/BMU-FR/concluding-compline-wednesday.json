@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "concluding-compline-wednesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Prions le Seigneur.\r\nSeigneur Jésus-Christ, tu es doux et humble de cœur. Tu rends agréable le joug et tu allèges le fardeau de ceux qui te suivent. [t] Tu es digne de recevoir nos prières et notre dévotion. [*] Donne-nous ta paix pour que nous nous levions prêts à te servir. Toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
+	"Extra": {
+		"Reference" : ["Matthew 11:28-30"]
+	},
+	"Changes": [
+		"2023-08-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

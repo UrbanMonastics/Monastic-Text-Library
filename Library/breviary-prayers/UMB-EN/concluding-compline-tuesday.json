@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-compline-tuesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Let us pray.\r\nKindly shine Your light, Lord, on this night of ours. [t] Grant Your servants to sleep in Your peace. [*] So that we may arise into the brightness of a new day with joy for Your Name. Through Jesus Christ, our Lord.\r\nAmen.",
+	"Changes": [
+		"2023-08-30 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
