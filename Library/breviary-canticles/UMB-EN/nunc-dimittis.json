@@ -10,15 +10,18 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses":{
-		"29": "Lord [+], now let your servant go in peace. [*]\r\n\tYou have kept your promise.\r\n",
-		"30": "For my eyes have seen your salvation, [*]\r\n\t",
-		"31": "which you prepared in the sight of all people.\r\n",
-		"32": "A light of revelation for the nations, [*]\r\n\tand the glory of your people Israel."
+		"29": "Lord [+], now let Your servant go in peace. [*]\r\n\tYou have kept Your promise.\r\n",
+		"30": "For my eyes have seen Your salvation, [*]\r\n\t",
+		"31": "which You prepared in the sight of all people.\r\n",
+		"32": "A light of revelation for the nations, [*]\r\n\tand the glory of Your people Israel."
 	},
 	"Extra": {
 		"Reference": ["Luke 2:29-32"],
 		"LiturgiaeHorarum-Index": 3,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
-	"License": "© 2021 Urban Monastics, Paris"
+	"Changes": [
+		"2023-08-30 - Paul Prins : Update the casing of Gods pronouns."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
 }
