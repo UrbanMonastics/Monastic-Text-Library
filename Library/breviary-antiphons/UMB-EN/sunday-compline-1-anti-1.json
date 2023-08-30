@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Have Mercy on me Lord, [*] and hear my prayer.",
+	"Text": "Have mercy on me Lord, [*] and hear my prayer.",
 	"Changes": [
+		"2022-08-30 - Paul Prins: Fix casing on one of the words.",
 		"2020-10-27 - Paul Prins: First translation of this Antiphon."
 	],
 	"License": "© 2021 Urban Monastics, Paris"
