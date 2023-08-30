@@ -7,11 +7,12 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Hail, [*] Kingdom of Heaven!\r\nHail, Dwelling of Angels!\r\nHail, your Divine Will!\r\nOn earth as it is in heaven.\r\n\r\nRejoice, glorious Kingdom,\r\nBeautiful above all others!\r\nHail, Splendid Radiance.\r\nCall out to Christ with us.",
+	"Text": "Hail, [*] Kingdom of Heaven!\r\nHail, Dwelling of Angels!\r\nHail, Your Divine Will!\r\nOn earth as it is in heaven.\r\n\r\nRejoice, glorious Kingdom,\r\nBeautiful above all others!\r\nHail, Splendid Radiance.\r\nCall out to Christ with us.",
 	"Extra": {
 		"BreviaryInstructions": "From 2 February through Lent"
 	},
 	"Changes": [
+		"2023-08-30 - Paul Prins: Update the casing of Gods pronouns.",
 		"2022-09-01 - Paul Prins: Ends less triumphal for Lent, Good Friday, and Holy Saturday.",
 		"2022-08-31 - Paul Prins, Jordan Prins: Created this Antiphon."
 	],
