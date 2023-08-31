@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nLord our God, give us restful and restoring sleep after the fatigue of our daily work. [t] For You always revive us, [*] and we will serve You in body, mind, and spirit. Through Jesus Christ, our Lord.\r\nAmen.",
+	"Text": "Let us pray.\r\nLord our God, give us restful and restoring sleep after the fatigue of our daily work. [t] For You always revive us, [*] and we will serve You in spirit, soul, and body. Through Jesus Christ, our Lord.\r\nAmen.",
 	"Changes": [
+		"2023-08-31 - Paul Prins: Fix the order of the words",
 		"2023-08-30 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2023 Urban Monastics, Paris"
