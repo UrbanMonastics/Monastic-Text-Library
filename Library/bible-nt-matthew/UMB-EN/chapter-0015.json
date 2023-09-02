@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0015",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "15",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"10": "\tAfter Jesus had called the crowd to Him, He said to them, \"Hear and understand! ",
+		"11": "It is not what enters the mouth that defiles someone, but what comes out of one's mouth that defiles them.\"\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: First translation of verses 10-15."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

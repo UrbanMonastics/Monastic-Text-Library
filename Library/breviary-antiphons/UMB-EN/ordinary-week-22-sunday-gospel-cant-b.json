@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "It is not what enters the mouth [*] that defiles someone, but what comes out of one's mouth that defiles them.",
+	"Extra": {
+		"Reference": [
+			"Matthew 15:11",
+			"Mark 7:15"
+		]
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Omnis qui se exáltat, [*] humiliábitur; et qui se humíliat, exaltábitur, dicit Dóminus.",
+	"Extra": {
+		"Reference": ["Luke 14:11"]
+	},
+	"Changes": [
+		"2023-09-02 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

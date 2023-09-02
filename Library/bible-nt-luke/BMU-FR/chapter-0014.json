@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0014",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "14",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"5": "\tPuis il leur dit : « Qui d'entre vous, ayant un enfant ou un bœuf tombé dans un puits le jour du sabbat, ne les en retirera pas aussitôt ? » ",
+		"6": "Et aucun d'eux ne répondit.\r\n",
+		"7": "\tMaintenant, il commence à raconter une parabole aux invités, après avoir remarqué qu'ils ont choisi les places d'honneur à la table. Il leur dit : ",
+		"8": "« Lorsque quelqu'un vous invite à des noces, ne prenez pas la place d'honneur. Car ils peuvent avoir invité quelqu'un de plus distingué que toi. ",
+		"9": "Alors celui qui vous a invités l'un et l'autre viendra vous dire : ' Cède ta place à cette personne.' Enfin, humilié, vous irez prendre la dernière place disponible. ",
+		"10": "Au contraire, lorsque vous êtes invité, allez choisir la place la plus basse. Ensuite, lorsque l'hôte arrive, il peut vous dire : ' Mon ami, montez à cette meilleure place. ' Ainsi, tu seras honoré aux yeux de tous les autres invités. ",
+		"11": "Car quiconque s'élève sera abaissé, et quiconque s'abaisse sera élevé. »\r\n"
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Premier traduction du chapitre 14:5-11."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

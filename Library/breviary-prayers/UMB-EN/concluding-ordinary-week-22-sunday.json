@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-22-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God of virtues, You are the best of all things. [t] Place the love of Your name in our hearts above all else. [*] Grow within us a longing for what nurtures our souls. Also, give us an attentive spirit for what will help us grow and protect us. Through Jesus Christ.",
+	"Changes": [
+		"2023-09-01 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

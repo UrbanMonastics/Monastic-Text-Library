@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Car quiconque s'élève [*] sera abaissé, et quiconque s'abaisse sera élevé, dit le Seigneur.",
+	"Extra": {
+		"Reference": ["Luke 14:11"]
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

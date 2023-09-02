@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "16",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"21": "\tÀ partir de ce moment-là, Jésus commence à expliquer à ses disciples qu'il doit aller à Jérusalem. Qu'il devait y souffrir beaucoup de la part des anciens, des chefs des prêtres et des scribes. Qu'il devait être tué et ressusciter le troisième jour. ",
+		"22": "Pierre prend lui à part et se met à le réprimander en disant : « Dieu ne plaise, Seigneur ! Cela ne t'arrivera jamais ! »\r\n",
+		"23": "\tMais il se retourna et dit à Pierre : « Arrière de moi, Satan ! Tu es pour moi une pierre d'achoppement. Car tu n'as pas pensé aux desseins de Dieu, mais à des préoccupations humaines. »\r\n",
+		"24": "\tAlors Jésus dit à ses disciples : « Si quelqu'un veut me suivre,  qu'il renonce à lui-même, qu'il se charge de sa croix et qu'il me suive. ",
+		"25": "Car quiconque veut sauver son âme la perdra, mais quiconque perdra sa vie à cause de moi la trouvera. ",
+		"26": "Car à quoi sert de gagner le monde entier en perdant son âme ? Ou que peut-on donner en échange de son âme ?",
+		"27": "Car le Fils de l'homme va venir dans la gloire de son Père, avec ses anges. Il rendra à chacun selon ce qu'il aura fait.",
+		"28": "Je vous dis en vérité, quelques-uns de vous qui êtes ici ne goûteront pas la mort avant d'avoir vu le Fils de l'homme venir dans son Royaume. »"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Premier traduction du chapitre 16:21-28."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-22-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu des vertus, tu es la meilleure des choses. [t] Place l'amour de ton nom dans nos cœurs par-dessus tout. [*] Fais grandir en nous le désir de ce qui nourrit nos âmes. Donne-nous aussi un esprit attentif à ce qui nous fera grandir et nous protégera. Par Jésus-Christ.",
+	"Changes": [
+		"2023-09-01 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

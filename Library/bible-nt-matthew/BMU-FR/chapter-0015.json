@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "chapter-0015",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "15",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"10": "\tAprès que Jésus a appelé la foule à lui,, il lui dit : « Écoutez et comprenez ! ",
+		"11": "Ce n'est pas ce qui entre dans la bouche qui souille quelqu'un, mais c'est ce qui sort de la bouche qui le souille. »\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Premier traduction du chapitre 15:10-11."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

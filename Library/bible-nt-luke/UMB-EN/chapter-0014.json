@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "chapter-0014",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "14",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"5": "\tThen He said to them, \"Who among you who has a child or an ox fall into a well on the Sabbath will not immediately pull them out?\" ",
+		"6": "And none of them responded.\r\n",
+		"7": "\tNow He began telling a parable to the invited guest after He noticed how they had been picking the places of honor at the table. Saying to them,",
+		"8": "\"Whenever you are invited by someone to a wedding feast, do not take the place of honor. For they may have invited someone more distinguished than you. ",
+		"9": "Then the one who invited you both will come and say to you, 'Give this person your place.' Finally, humiliated, you will go take the lowest available place. ",
+		"10": "Instead, when you are invited, go and choose the lowest place. Then, when the host comes, they may say to you, 'Friend, move up to this better seat.' So that you will be honored in the sight of all the other guests. ",
+		"11": "For everyone who exalts themselves will be humbled, and those who humble themself will be exalted.\"\r\n"
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2023-09-02 - Paul Prins: First translation of chapter 14:5-11."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

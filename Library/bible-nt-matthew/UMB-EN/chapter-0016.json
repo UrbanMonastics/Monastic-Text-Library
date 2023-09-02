@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "16",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"21": "\tFrom that moment on, Jesus began to show his disciples that He must go to Jerusalem. There He must suffer many things from the elders, chief priests, and scribes. That He must be killed and raised up on the third day. ",
+		"22": "Peter took Him aside and began to rebuke Him, saying, \"God forbid it, Lord! This shall never happen to You!\"\r\n",
+		"23": "\tBut He turned and said to Peter, \"Get behind Me, Satan! You are a stumbling block to Me. For your mind is not set on God's purposes but on human concerns.\"\r\n",
+		"24": "\tThen Jesus said to His disciples, \"If anyone wants to follow Me, they must deny themself, take up their cross, and follow Me. ",
+		"25": "For whoever wishes to save their soul will loose it; but whoever looses their life for My sake will find it. ",
+		"26": "For what good is it if someone gains the whole world yet loses their soul? Or what can anyone give in exchange for their soul? ",
+		"27": "For the Son of Man is going to come in His Father's glory, with His angels. Then He will reward each person according to what they have done. ",
+		"28": "Truly, I tell you, some of you standing here will not taste death before they see the Son of Man coming in His Kingdom.\""
+	},
+	"InlineTitles": {
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: First translation of verses 21-28."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

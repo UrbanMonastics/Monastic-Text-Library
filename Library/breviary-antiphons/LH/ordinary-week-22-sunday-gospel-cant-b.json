@@ -1,0 +1,17 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday-gospel-cant-ab",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Non quod intrat in os, [*] coínquinat hóminem, sed quod procédit ex ore, hoc coínquinat hóminem.",
+	"Extra": {
+		"Reference": [
+			"Matthew 15:11",
+			"Mark 7:15"
+		]
+	},
+	"Changes": [
+		"2023-09-02 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

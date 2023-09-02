@@ -1,0 +1,21 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Ce n'est pas ce qui entre dans la bouche [*] qui souille quelqu'un, mais c'est ce qui sort de la bouche qui le souille.",
+	"Extra": {
+		"Reference": [
+			"Matthew 15:11",
+			"Mark 7:15"
+		]
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "For whoever wishes [*] to save their soul will loose it; but whoever looses their life for My sake will find it, alleluia.",
+	"Extra": {
+		"Reference": [
+			"Matthew 16:25",
+			"Mark 8:35",
+			"Luke 9:24"
+		]
+	},
+	"Changes": [
+		"2023-09-02 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
