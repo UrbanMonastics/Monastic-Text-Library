@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty and everlasting God, out of your inexhaustible love you fulfill those who seek you in prayer. [t] You give to them beyond their merits and desires. Pour out your mercy on us [*] by freeing our minds from what worries them, and by giving more than we dare ask. Through Jesus Christ.",
+	"Text": "Almighty and everlasting God, out of Your inexhaustible love You fulfill those who seek You in prayer. [t] You give to them beyond their merits and desires. Pour out Your mercy on us [*] by freeing our minds from what worries them, and by giving more than we dare ask. Through Jesus Christ.",
 	"Changes": [
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2021-09-30 - Paul Prins: First translation of this prayer."
 	],
 	"License": "© 2021 Urban Monastics, Paris"

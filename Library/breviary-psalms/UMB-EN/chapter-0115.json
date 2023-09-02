@@ -11,7 +11,7 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "Not to us, Lord, not to us, [t]\r\n\tbut to your name, give the glory, [*]\r\n\tbecause of your mercy, and your truth.\r\n\r\n",
+		"1": "Not to us, Lord, not to us, [t]\r\n\tbut to Your name, give the glory, [*]\r\n\tbecause of Your mercy, and Your truth.\r\n\r\n",
 		"2": "Why do the nations say, [*]\r\n\t\"Where is their God?\"\r\n\r\n",
 		"3": "But our God is in heaven, [*]\r\n\tand he does whatever he wants.\r\n",
 		"4": "Their idols; of silver and gold, [*]\r\n\tthe work of human hands.\r\n\r\n",
@@ -21,16 +21,17 @@
 		"8": "The artisans who create idols will become like them, [*]\r\n\talong with all whose faith is in them.\r\n\r\n",
 		"9": "People of Israel, trust in the Lord; [*]\r\n\the is their help and shield.\r\n",
 		"10": "House of Aaron, trust in the Lord; [*]\r\n\the is their help and shield.\r\n",
-		"11": "All who fear him, trust in the Lord; [*]\r\n\the is their help and shield.\r\n\r\n",
+		"11": "All who fear Him, trust in the Lord; [*]\r\n\the is their help and shield.\r\n\r\n",
 		"12": "The Lord remembers us [*]\r\n\tand will bless us;\r\nhe will bless the People of Israel, [*]\r\n\the will bless the House of Aaron.\r\n",
 		"13": "He will bless those who fear the Lord, [*]\r\n\t the small with the great.\r\n\r\n",
-		"14": "May the Lord increase your blessings, [*]\r\n\tto you and all your children.\r\n",
-		"15": "May you be blessed by the Lord, [*]\r\n\tmaker of heaven and earth.\r\n",
+		"14": "May the Lord increase Your blessings, [*]\r\n\tto You and all Your children.\r\n",
+		"15": "May You be blessed by the Lord, [*]\r\n\tmaker of heaven and earth.\r\n",
 		"16": "The heavens are the heavens of the Lord, [*]\r\n\tbut the earth He has given all children.\r\n\r\n",
 		"17": "The dead do not praise the Lord, [*]\r\n\tnor do any who descend into silence.\r\n",
 		"18": "But us, we will bless the Lord, [*]\r\n\tin this moment and forever."
 	},
 	"Changes": [
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2021-04-10 - Paul Prins: First translation of psalm 115 based on Greek, Latin, and some Hebrew."
 	],
 	"License": "© 2021 Urban Monastics, Paris"
