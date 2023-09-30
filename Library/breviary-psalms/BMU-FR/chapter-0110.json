@@ -11,14 +11,15 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "Le Seigneur dit à mon maître: [*]\r\n\t« Assieds-toi à ma droite,\r\net je ferai de tes ennemis [*]\r\n\tun marchepied de tes pieds. »\r\n\r\n",
-		"2": "De Sion, le Seigneur étendra la portée de ton sceptre avec sa force et en disant: [*]\r\n\t« Règne au milieu de tes ennemis. »\r\n\r\n",
+		"1": "Le SEIGNEUR dit à mon maître: [*]\r\n\t« Assieds-toi à ma droite,\r\net je ferai de tes ennemis [*]\r\n\tun marchepied de tes pieds. »\r\n\r\n",
+		"2": "De Sion, le SEIGNEUR étendra la portée de ton sceptre avec sa force et en disant: [*]\r\n\t« Règne au milieu de tes ennemis. »\r\n\r\n",
 		"3": "Le jour de ta force, ton peuple te suivra, [t]\r\n\tavec ta sainte splendeur, [*]\r\n\t« À l'aube, ta jeunesse te vient comme la rosée. »\r\n\r\n",
-		"4": "Le Seigneur a juré un serment irrévocable, [*]\r\n\t« Tu es un prêtre toujours, dans l'ordre du roi Melkisédek. »\r\n\r\n",
+		"4": "Le SEIGNEUR a juré un serment irrévocable, [*]\r\n\t« Tu es un prêtre toujours, dans l'ordre du roi Melkisédek. »\r\n\r\n",
 		"5": "À ta droite est mon maître, [*]\r\n\tqui écrasera les rois le jour de sa colère.\r\n\r\n",
 		"7": "Il boira au torrent en chemin; [*]\r\n\tc'est pourquoi il relèvera sa tête."
 	},
 	"Changes": [
+		"2023-09-30 - Paul Prins: Correction de la majuscule sur le nom divin.",
 		"2022-05-02 - Paul Prins: Corrections à partir des commentaires.",
 		"2021-06-05 - Paul Prins: Corrigez le formatage et l'espacement des guillemets.",
 		"2021-04-07 - Paul Prins: Première traduction du psaume 110 basée sur le grec, le latin et un peu d'hébreu."
