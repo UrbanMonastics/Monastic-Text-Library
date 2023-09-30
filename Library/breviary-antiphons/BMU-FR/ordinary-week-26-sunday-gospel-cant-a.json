@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-26-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "« Plusieurs qui sont [*] premiers seront derniers, et les derniers seront premiers » : a dit Jésus.",
+	"Extra": {
+		"Reference": ["Matthew 19:30"]
+	},
+	"Changes": [
+		"2023-09-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

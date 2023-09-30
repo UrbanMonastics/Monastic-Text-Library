@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "9",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"38": "\tJean dit à Jésus : « Maître, nous avons vu quelqu'un qui chassait les démons en ton nom. Comme cette personne ne nous suivait pas, nous avons essayé de l'empêcher de le faire. »\r\n",
+		"39": "\tMais Jésus dit : « Ne les empêchez pas ! Car quiconque fait un miracle en mon nom ne pourra pas, aussitôt après, dire du mal de moi. ",
+		"40": "Car qui n'est pas contre nous est pour nous. ",
+		"41": "Je vous dis la vérité. Quiconque vous donnera à boire un verre d'eau en mon nom ne perdra pas sa récompense, parce que vous appartenez au Christ. »\r\n",
+		"42": "\t« À quiconque fait pécher l'un de ces petits qui croient en moi. Il vaut mieux pour lui qu'on lui mette au cou une lourde meule de moulin et qu'il soit jeté à la mer. ",
+		"43": "Et si ta main te fait pécher, coupe-la. Mieux vaut entrer dans la vie mutilé que d'avoir deux mains et d'aller dans les feux inextinguibles de la Géhenne. ",
+		"44": "",
+		"45": "Et si ton pied te fait pécher, coupe-le. Il vaut mieux entrer dans la vie boiteux que d'avoir deux pieds et d'être jeté dans la Géhenne. ",
+		"46": "",
+		"47": "Et si ton œil te fait pécher, arrache-le. Il vaut mieux entrer dans le Royaume de Dieu avec un œil que d'avoir deux yeux et d'être jeté dans la Géhenne. ",
+		"48": "Où le ver ne meurt pas, et où le feu ne s'éteint pas. ",
+		"49": "Car chacun sera salé au feu. »\r\n",
+		"50": "\t« Le sel est bon. Mais si le sel perd sa saveur, comment le rendre salé ? Ayez du sel entre vous, et soyez en paix les uns avec les autres. »"
+	},
+	"InlineTitles": {
+		"38": "Qui n'est pas Contre Nous est pour Nous",
+		"42": "Vous Faisant Pécher"
+		
+	},
+	"FootNotes": {
+		"44": ["Ce verset n'est pas présent dans la source critique que nous avons utilisée."],
+		"46": ["Ce verset n'est pas présent dans la source critique que nous avons utilisée."]
+	},
+	"Changes": [
+		"2023-09-30 - Paul Prins: Première traduction des versets 38-50."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

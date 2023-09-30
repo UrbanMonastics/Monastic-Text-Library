@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-26-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, nous voyons ta puissance chaque jour dans ta patience et ta miséricorde. [t] Multiplie ta grâce sur nous. [*] Attire-nous vers le bien que tu promets. Avec toi, nous atteindrons les joies du ciel. Par Jésus-Christ.",
+	"Changes": [
+		"2023-09-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

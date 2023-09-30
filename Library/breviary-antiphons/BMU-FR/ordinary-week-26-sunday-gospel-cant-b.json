@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-26-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Il vaut mieux [*] entrer dans la vie mutilé que d'aller dans les feux inextinguibles de la Géhenne avec deux mains.",
+	"Extra": {
+		"Reference": ["Mark 9:43"]
+	},
+	"Changes": [
+		"2023-09-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

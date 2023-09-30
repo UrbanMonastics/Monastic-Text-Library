@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-26-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Bonum est tibi [*] débilem introíre in vitam quam duas manus habéntem ire in gehénnam.",
+	"Extra": {
+		"Reference": ["Mark 9:43"]
+	},
+	"Changes": [
+		"2023-09-30 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

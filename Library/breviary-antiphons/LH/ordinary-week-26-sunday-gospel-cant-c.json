@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-26-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dives ille [*] guttam aquæ pétiit, qui micas panis Lázaro negávit.",
+	"Extra": {
+		"Reference": ["Luke 16:19-31"]
+	},
+	"Changes": [
+		"2023-09-30 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

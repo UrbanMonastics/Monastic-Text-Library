@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ordinary-week-26-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Multi erunt [*] primi novíssimi et novíssimi primi, dixit Iésus.",
+	"Extra": {
+		"Reference": ["Matthew 19:30"]
+	},
+	"Changes": [
+		"2023-09-30 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ordinary-week-26-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "That rich man [*] who asked Lazarus for a drop of water was the same man who earlier denied him crumbs of his bread.",
+	"Extra": {
+		"Reference": ["Luke 16:19-31"]
+	},
+	"Changes": [
+		"2023-09-30 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

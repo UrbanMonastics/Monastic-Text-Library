@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "9",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"38": "\tJohn said to Jesus, \"Teacher, we saw someone casting out demons in Your name. Since they were not following us, we tried to prevent them from doing it.\"\r\n",
+		"39": "\tBut Jesus said, \"Don't hinder them! For no one who performs a miracle in My name will be able, soon afterwards, to speak evil of Me. ",
+		"40": "For one who is not against us is for us. ",
+		"41": "I tell you the truth. Whoever gives you a cup of water to drink in My name will not lose their reward because you belong to Christ.\"\r\n",
+		"42": "\t\"To whoever causes one of these little ones, who believe in Me, to sin. It is better for them to have a heavy millstone hung from their neck and be thrown into the sea. ",
+		"43": "And if your hand causes you to sin, cut it off. It is better to enter life maimed than to have two hands and go into the unquenchable fires of Gehenna. ",
+		"44": "",
+		"45": "And if your foot causes you to sin, cut it off. It is better to enter life lame than to have two feet and be thrown into Gehenna. ",
+		"46": "",
+		"47": "And if your eye causes you to sin, pluck it out. It is better to enter the Kingdom of God with one eye than to have two eyes and be thrown into Gehenna. ",
+		"48": "Where their worm does not die, and the fire is not quenched. ",
+		"49": "For everyone will be salted with fire.\"\r\n",
+		"50": "\t\"Salt is good. But if the salt loses its saltiness, how can you make it salty again? Have salt among yourselves, and be at peace with one another.\""
+	},
+	"InlineTitles": {
+		"38": "Those not Against Us are for Us",
+		"42": "Causing You to Sin"
+	},
+	"FootNotes": {
+		"44": ["This verse is not present in the critical source we used."],
+		"46": ["This verse is not present in the critical source we used."]
+	},
+	"Changes": [
+		"2023-09-30 - Paul Prins: First translation of verses 38-50."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

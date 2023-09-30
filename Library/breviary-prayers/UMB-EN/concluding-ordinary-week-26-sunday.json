@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-26-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, we see Your power every day in Your patience and mercy. [t] Multiply Your grace upon us. [*] Draw us to the good You promise. With You, we will reach the joys of heaven. Through Jesus Christ.",
+	"Changes": [
+		"2023-09-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
