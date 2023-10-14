@@ -5,6 +5,10 @@
 	"Chapter": "134",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Oh, bénissez le Seigneur, vous tous serviteurs du Seigneur, [*]\r\n\tvous qui servez au long des nuits dans la maison du Seigneur.\r\n",
 		"2": "Levez tes mains dans ce sanctuaire, [*]\r\n\tet bénissez le Seigneur.\r\n",

@@ -5,6 +5,10 @@
 	"Chapter": "136",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Rendez grâce au Seigneur, il est bon, [*]\r\n\tcar sa miséricorde dure à jamais.\r\n",
 		"2": "Rendez grâce au Dieu des dieux, [*]\r\n\tcar sa miséricorde dure à jamais.\r\n",

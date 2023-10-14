@@ -5,6 +5,10 @@
 	"Chapter": "136",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
 	"Verses": {
 		"1": "Give thanks to the Lord, he is good, [*]\r\n\tfor His mercy endures forever.\r\n",
 		"2": "Give thanks to the God of gods, [*]\r\n\tfor His mercy endures forever.\r\n",
