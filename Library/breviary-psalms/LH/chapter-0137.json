@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0137",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Super Flúmina Babylónis",
+	"Chapter": "137",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Super flúmina Babylónis, illic sédimus et flévimus, [*]\r\n\tcum recordarémur Sion.\r\n",
+		"2": "In salícibus in médio eius [*]\r\n\tsuspéndimus cítharas nostras.\r\n\r\n",
+		"3": "Quia illic rogavérunt nos, qui captívos duxérunt nos, [*]\r\n\tverba cantiónum,\r\net qui affligébant nos lætítiam : [*]\r\n\t\"Cantáte nobis de cánticis Sion.\"\r\n\r\n",
+		"4": "Quómodo cantábimus cánticum Dómini [*]\r\nin terra aliéna?\r\n",
+		"5": "Si oblítus fúero tui, Ierúsalem, [*]\r\n\toblivióni detur déxtera mea ;\r\n",
+		"6": "adhǽreat lingua mea fáucibus meis, [*]\r\n\tsi no memínero tui,\r\nsi non præposúero Ierúsalem [*]\r\n\tin cápite lætítiæ meæ.\r\n\r\n",
+		"7": "Memor esto, Dómine, advérsus fílios Edom [*]\r\n\tdiéi Ierúsalem ;\r\nqui dicébant: \"Exinaníte, exinaníte [*]\r\n\tusque ad fundaméntum in ea.\"\r\n\r\n",
+		"8": "Fília Babylónis devástans, [t]\r\n\tbeátus qui retríbuet tibi retributiónem tuam [*]\r\n\tquam retribuísti nobis ;\r\n",
+		"9": "beátus qui renébit [*]\r\n\tet allídet párvulos tuos ad petram."
+	},
+	"Changes": [
+		"2023-10-14 - Paul Prins: Added this Text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

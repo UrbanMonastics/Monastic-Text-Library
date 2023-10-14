@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "chapter-0137",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Au Bord des Fleuves de Babylone",
+	"Chapter": "137",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Là, au bord des fleuves de Babylone, nous étions assis et nous pleurions, [*]\r\n\tquand nous avons souvenir de Sion.\r\n",
+		"2": " Sur et dans les saules [*]\r\n\tnous avons pendu nos harpes.\r\n\r\n",
+		"3": "Car c'est là que nos ravisseurs [*]\r\n\tnous exigeaient des chants.\r\nLà, nos bourreaux demandaient des chants joyeux : [*]\r\n\t« Chantez-nous un des chants de Sion ! »\r\n\r\n",
+		"4": "Comment chantons-nous le chant de SEIGNEUR [*]\r\n\tsur une terre étrangère ?\r\n",
+		"5": "Si je t'oublie, Jérusalem, [*]\r\n\tque ma main droite m'oublie !\r\n",
+		"6": "Que ma langue s'attache à mon palais, [*]\r\n\tsi je ne me souviens pas de toi,\r\nsi je n'élève Jérusalem [*]\r\n\tau dessus de ma plus grande joie.\r\n\r\n"
+	},
+	"Changes": [
+		"2023-10-14 - Paul Prins: Première traduction basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
