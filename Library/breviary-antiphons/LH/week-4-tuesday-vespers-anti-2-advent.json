@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-2-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Urbs [*] fortitúdinis nostræ Sion, Salvátor ponétur in ea murus et antemurále. Aperíte portas, quia nobíscum Deus, allelúia.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2023-10-15 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

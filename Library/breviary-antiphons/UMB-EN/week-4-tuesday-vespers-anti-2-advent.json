@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-2-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The city [*] of our strength is Zion. The Savior has built a wall and fortifications. Open the gates, for God is with us! Alleluia!",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2023-10-15 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "In the presence [*] of angels, I will sing to you, my God.",
+	"Extra": {
+		"Reference": ["Psalm 138:1"]
+	},
+	"Changes": [
+		"2023-10-15 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

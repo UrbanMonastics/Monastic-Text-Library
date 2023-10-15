@@ -1,0 +1,23 @@
+{
+	"TextAbbreviation": "chapter-0138",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Gratiárum Áctio",
+	"Description": "David.",
+	"Chapter": "138",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Confitébor tibi, Dómine, in toto corde meo, [*]\r\n\tquóniam audísti verba oris mei.\r\nIn conspéctu angelórum psallam tibi, [*]\r\n",
+		"2": "\tadorábo ad templum sanctum tuum;\r\net confitébor nómini tuo [t]\r\n\tpropter misericórdiam tuam et veritátem tuam, [*]\r\n\tquóniam magnificásti super omne nomen elóquium tuum.\r\n\r\n",
+		"3": "In quacúmque die invocávero te, exáudi me ; [*]\r\n\tmultiplicábis in ánima mea virtútem.\r\n",
+		"4": "Confitebúntur tibi, Dómine, omnes reges terræ, [*]\r\n\tquia audiérunt elóquia oris tui.\r\n",
+		"5": "Et cantábunt vias Dómini; [*]\r\n\tquóniam magna est glória Dómini ;\r\n",
+		"6": "quóniam excélsus Dóminus [t]\r\n\tet húmilem réspicit [*]\r\n\tet supérbum a longe cognóscit.\r\n\r\n",
+		"7": "Si ambulávero in médio tribulatiónis, vivificábis me ; [t]\r\n\tet contra iram inimicórum meórum exténdes manum tuam, [*]\r\n\tet salvum me fáciet déxtera tua.\r\n",
+		"8": "Dóminus perfíciet pro me ; [t]\r\n\tDómine, misericórdia tua in sǽculum : [*]\r\n\tópera mánuum tuárum ne despícias."
+	},
+	"Changes": [
+		"2023-10-15 - Paul Prins: Added this Text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

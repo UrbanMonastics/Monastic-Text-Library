@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "chapter-0138",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Je te Louerai",
+	"Description": "Un Psaume de David",
+	"Chapter": "138",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Je te louerai de tout mon cœur.\r\n\tJe chanterai tes louanges devant les dieux.\r\n",
+		"2": "Je me prosternerai vers ton temple sacré,\r\n\tet je louerai ton nom\r\n\tpour ta miséricorde et ta vérité.\r\nCar tu as élevé au-dessus de tout\r\n\tton Nom et ta parole.\r\n\r\n",
+		"3": "Le jour où j'ai appelé, tu m'as répondu,\r\n\ttu as redonné de la force à mon âme.\r\n",
+		"4": "Tous les rois de la terre, SEIGNEUR, te loueront,\r\n\tquand ils entendant les paroles de ta bouche.\r\n",
+		"5": "Ils chantent les chemins du SEIGNEUR,\r\n\tcar la gloire du SEIGNEUR est grande.\r\n",
+		"6": "Car le SEIGNEUR est élevé,\r\n\tmais il s'occupe des humbles,\r\n\tet il reconnaît de loin l'orgueilleux.\r\n\r\n",
+		"7": "Si je marche dans la détresse, tu préserves ma vie.\r\n\tTa main s'étend contre la colère de mes ennemis,\r\n\tet ta main droite me sauvera.\r\n",
+		"8": "Le SEIGNEUR accomplira ses desseins sur moi.\r\n\tSEIGNEUR, éternel est ton amour fidèle,\r\n\tn'abandonne pas les oeuvres de tes mains."
+	},
+	"Changes": [
+		"2023-10-15 - Paul Prins: Première traduction basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
