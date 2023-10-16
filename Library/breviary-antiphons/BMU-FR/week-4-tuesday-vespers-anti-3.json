@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Digne est l'Agneau, [*] qui a été massacré et est ressuscité pour nous. De prendre le rouleau et d'en briser les sceaux.",
+	"Extra": {
+		"Reference": ["Revelation 5"]
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

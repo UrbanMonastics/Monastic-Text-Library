@@ -1,20 +1,23 @@
 {
 	"TextAbbreviation": "dignus-es",
 	"SourceAbbreviation": "breviary-canticles",
-	"Title": "Benediçite, omnia opera",
-	"Notes": "From Revelations 4:11, 5:9-10,12",
+	"Title": "Hymnus Redemptórum",
+	"Description": "From Revelations 4:11, 5:9-10,12",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses": {
-		"11": "",
-		"9": "",
-		"10": "",
-		"12": ""
+		"11": "Dignus es, Dómine et Deus noster, [*]\r\n\taccípere glóriam et honórem et virtútem,\r\n\tquia tu creásti ómnia, [*]\r\n\tet propter voluntátem tuam erant et creáta sunt.\r\n\r\n",
+		"9": "Dignus es, Dómine, accípere librum [*]\r\n\tet aperíre signácula euis,\r\nquóniam occísus es [t]\r\n\tet redemísti Deo in sánguine tuo [*]\r\n\tex omni tribu et lingua et pópulo et natióne\r\n",
+		"10": "et fecísti eos Deo nostro regnum et sacerdótes, [*]\r\n\tet regnábunt super terram.\r\n\r\n",
+		"12": "Dignus est Agnus, qui occísus est [t]\r\n\taccípere virtútem et divítias et sapiéntiam [*]\r\n\tet fortitúdinem et honórem et glóriam et benedictiónem."
 	},
 	"Extra": {
 		"Reference" : ["Revelations 4:11, 5:9-10,12"],
 		"LiturgiaeHorarum-Index": 19,
 		"LiturgiaeHorarum-Cantica": "NT"
 	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Added this text"
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

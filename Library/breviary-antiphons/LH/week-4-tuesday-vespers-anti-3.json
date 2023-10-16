@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Dignus est Agnus, [*] qui pro nobis occísus est et resurréxit, accípere librum et sólvere illum.",
+	"Extra": {
+		"Reference": ["Revelation 5"]
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

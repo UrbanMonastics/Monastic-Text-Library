@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-3-eastertide",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Que toute créature [*] loue le Seigneur.  Il a parlé, et tout a été fait. Il commanda, et elles furent créées, alléluia.",
+	"Extra": {
+		"Reference": ["Revelation 5"]
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

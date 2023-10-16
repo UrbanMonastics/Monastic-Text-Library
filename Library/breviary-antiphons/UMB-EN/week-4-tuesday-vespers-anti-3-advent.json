@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-3-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "That your way, Lord, [*] be known on the earth. Your salvation among all nations.",
+	"Extra": {
+		"Reference": ["Psalm 67:2"],
+		"Needs Revision": "TODO: When Psalm 67 is translated this antiphon needs review/revision."
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

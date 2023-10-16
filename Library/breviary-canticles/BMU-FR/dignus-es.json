@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "dignus-es",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Tu es Digne, Seigneur",
+	"Description": "De Apocalypse 4:11, 5:9-10,12",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "Tu es digne, notre Seigneur et notre Dieu, [*]\r\n\tde recevoir la gloire, l'honneur et la puissance.\r\nC'est toi qui as créé toutes choses, [*]\r\n\tet par ta volonté, elles ont existé et ont été créées.\r\n\r\n",
+		"9": "Tu es digne, Seigneur, de prendre le rouleau [*]\r\n\tet d'en briser les sceaux.\r\nCar tu as été massacré, [t]\r\n\tet tu les as rachetés pour Dieu, par ton sang, [*]\r\n\tde toute tribu, langue, peuple et nation.\r\n",
+		"10": "Tu as fait d'eux un royaume, [t]\r\n\tet des prêtres pour notre Dieu, [*]\r\n\tet ils régneront sur la terre.\r\n\r\n",
+		"12": "Digne est l'agneau qui a été massacré [t]\r\n\tde recevoir la puissance, la richesse, la sagesse, [*]\r\n\tla puissance, la gloire, l'honneur et la bénédiction."
+	},
+	"Extra": {
+		"Reference" : ["Revelations 4:11, 5:9-10,12"],
+		"LiturgiaeHorarum-Index": 19,
+		"LiturgiaeHorarum-Cantica": "NT"
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Première traduction basée sur le grec, et le latin."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

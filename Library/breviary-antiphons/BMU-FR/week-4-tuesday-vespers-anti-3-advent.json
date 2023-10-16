@@ -1,0 +1,19 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-anti-3-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Que ton chemin, Seigneur, [*] soit connu sur la terre. Ton salut parmi toutes les nations.",
+	"Extra": {
+		"Reference": ["Psalm 67:2"],
+		"Needs Revision": "TODO: When Psalm 67 is translated this antiphon needs review/revision."
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
