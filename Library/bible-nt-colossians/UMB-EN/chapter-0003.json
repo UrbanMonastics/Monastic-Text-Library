@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-colossians",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"15": "Let the peace of Christ rule in your hearts. The peace that you were called to as one body. And be thankful. ",
+		"16": "Let the word of Christ dwell within you in its richness! Teach and admonish one another with all wisdom; with psalms, hymns, and spiritual songs. Do this while singing to God with thankfulness in your hearts. ",
+		"17": "Whatever you do in word or deed, do it all in the name of the Lord Jesus. Giving thanks through Him to God the Father. "
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2023-10-16 - Paul Prins: First translation of verses 15-17."
+	],
+	"FootNotes": {},
+	"License": "© 2023 Urban Monastics, Paris"
+}

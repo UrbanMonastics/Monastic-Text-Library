@@ -1,0 +1,22 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-colossians",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"15": "Que la paix du Christ règne dans vos cœurs. La paix à laquelle vous avez été appelés en tant une seule corps. Et soyez reconnaissants. ",
+		"16": "Que la parole du Christ habite en vous dans toute sa richesse. Enseignez-vous et avertissez-vous les uns les autres en toute sagesse; par des psaumes, des hymnes et des cantiques spirituels. Tout en chantant à Dieu avec la reconnaissance dans vos cœurs. ",
+		"17": "Quoi que vous fassiez, en paroles ou en actes, faites tout au nom du Seigneur Jésus. Remerciant par lui Dieu le Père. "
+	},
+	"InlineTitles": {},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Premier traduction des versets 15-17."
+	],
+	"FootNotes": {},
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
