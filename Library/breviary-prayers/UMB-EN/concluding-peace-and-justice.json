@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-peace-and-justice",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "In your presence, Lord, we long for your peace and justice in our world. [t] Help us to seek your peace, to believe in justice, [*] and for your will to be done on earth as in heaven. Through Jesus Christ.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: Wrote this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

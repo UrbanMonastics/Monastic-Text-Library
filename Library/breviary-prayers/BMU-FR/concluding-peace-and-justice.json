@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-peace-and-justice",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "En ta présence, Seigneur, nous soupirons après ta paix et ta justice dans notre monde. [t] Aide-nous à aspirer à ta paix, à croire en la justice, [*] et à ce que ta volonté soit faite sur la terre comme au ciel. Par Jésus-Christ.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: A écrit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}
