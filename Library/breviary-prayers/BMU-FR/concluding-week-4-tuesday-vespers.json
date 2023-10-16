@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-week-4-tuesday-vespers",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "En priant en ta présence, Seigneur, nous implorons tes miséricordes. [*] Afin que nous méditions toujours en eux dans nos cœurs et que nous confessions sur nos lèvres ce que tu as fait pour nous. Par Jésus-Christ.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

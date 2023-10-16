@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-week-4-tuesday-vespers",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Praying in your presence, Lord, we implore your mercies. [*] So that we might continuously meditate on them in our hearts and confess with our lips what you have done for us. Through Jesus Christ.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
