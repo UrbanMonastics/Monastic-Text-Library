@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ignatius-antioch",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu éternel et tout-puissant, tu ornes le corps saint de ton Église du témoignage des saints martyrs. [t] Que la passion de saint Ignace d'Antioche soit pour nous une source de courage. [*] Comme elle lui a apporté la gloire éternelle. Par Jésus-Christ.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

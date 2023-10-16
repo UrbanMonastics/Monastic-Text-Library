@@ -1,0 +1,11 @@
+{
+	"TextAbbreviation": "concluding-ignatius-antioch",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Omnípotens sempitérne Deus, qui sanctórum mártyrum confessiónibus Ecclésiæ tuæ sacrum corpus exórnas, [t] concéde, quǽsumus, ut hodiérna glória passiónis, sicut beáto Ignátio magnificéntiam tríbuit sempitérnam, [*] ita nobis perpétuum munímen operétur. Per Dóminum.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

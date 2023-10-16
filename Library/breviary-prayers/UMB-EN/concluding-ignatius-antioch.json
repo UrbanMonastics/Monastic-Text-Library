@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "concluding-ignatius-antioch",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Eternal and Almighty God, you adorn the holy body of your Church with the witness of the holy martyrs. [t] May the passion of Saint Ignatius of Antioch be a source of courage for us. [*] Just as it has brought him eternal glory. Through Jesus Christ.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
