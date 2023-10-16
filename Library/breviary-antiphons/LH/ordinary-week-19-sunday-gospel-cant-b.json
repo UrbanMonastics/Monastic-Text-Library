@@ -4,7 +4,7 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Ego sum panis vivus [*] qui de cælo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum; et panis quem ego dabo, caro mea est pro mundi vita, allelúia.",
-	"Notes": "",
+	"Description": "",
 	"Extra": {
 		"Reference": ["John 6:51"]
 	},

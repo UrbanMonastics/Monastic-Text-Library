@@ -4,7 +4,7 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Ubi est [*] thesáurus tuus, ibi est et cor tuum.",
-	"Notes": "",
+	"Description": "",
 	"Extra": {
 		"Reference": [
 			"Matthew 6:21",

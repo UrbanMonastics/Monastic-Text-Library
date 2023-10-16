@@ -4,7 +4,7 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Dixit Dóminus Iesus: [*] Ego sum panis vitæ; qui venit ad me, non esúriet, et qui credit in me, non sítiet umquam, allelúia.",
-	"Notes": "Likely sourced from John 6:35",
+	"Description": "Likely sourced from John 6:35",
 	"Extra": {
 		"Reference": ["John 6:35"]
 	},

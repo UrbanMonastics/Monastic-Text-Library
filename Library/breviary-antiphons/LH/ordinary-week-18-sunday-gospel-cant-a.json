@@ -4,7 +4,7 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "De quinque pánibus [*] et duóbus píscibus satiávit Dóminus quinque mília hóminum.",
-	"Notes": "Likely sourced from Matthew 14:1-20",
+	"Description": "Likely sourced from Matthew 14:1-20",
 	"Extra": {
 		"Reference": ["Matthew 14:1-20"]
 	},
