@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Tu me combleras de joie devant ta face, Seigneur.\r\n[R] Tu me combleras de joie [*] devant ta face, Seigneur.\r\n[V] Avec des délices éternels à ta droite.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

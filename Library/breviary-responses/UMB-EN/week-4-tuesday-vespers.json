@@ -1,0 +1,15 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] You will fill me with joy before your face, Lord.\r\n[R] You will fill me with joy [*] before your face, Lord.\r\n[V] With eternal pleasures at your right hand.",
+	"Changes": [
+		"2023-10-16 - Paul Prins: First translation."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}
