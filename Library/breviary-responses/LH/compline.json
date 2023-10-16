@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V]In manus tuas, Dómine, Comméndo spíritum meum.\r\n[R]In manus tuas, Dómine, [*] Comméndo spíritum meum.\r\n[V]Redemisti nos, Dómine, Deus vertitátis.",
+	"Text": "[V] In manus tuas, Dómine, Comméndo spíritum meum.\r\n[R] In manus tuas, Dómine, [*] Comméndo spíritum meum.\r\n[V] Redemisti nos, Dómine, Deus vertitátis.",
 	"Extra": {
 		"Reference": ["Psalm 31:5"]
 	},

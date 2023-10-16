@@ -7,12 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Entre tes mains, Seigneur, Je confie mon esprit.\r\n[R] Entre tes mains, Seigneur, [*] Je confie mon esprit.\r\n[V] Car tu nous as rachetés, Seigneur, Dieu de vérité.",
+	"Text": "[V] Entre tes mains, Seigneur, à toi je confie mon esprit.\r\n[R] Entre tes mains, Seigneur, [*] à toi je confie mon esprit.\r\n[V] Car tu nous as rachetés, Seigneur, Dieu de vérité.",
 	"Extra": {
 		"Reference": ["Psalm 31:5"]
 	},
+	"Notes" : "Nous avons ajouté la phrase 'à toi' dans la première ligne. Cela améliore la fluidité lors de la répétition",
 	"Changes": [
-		"2023-08-14 - Paul Prins : Mise à jour pour correspondre à notre Psaume 31:5",
+		"2023-10-16 - Paul Prins: Lisser la phrase raccourcie.",
+		"2023-08-14 - Paul Prins: Mise à jour pour correspondre à notre Psaume 31:5",
 		"2022-08-05 - Paul Prins: Mise à jour de la réponse pour suivre de plus près le latin.",
 		"2020-10-27 - Paul Prins: Preimère traduction."
 	],
