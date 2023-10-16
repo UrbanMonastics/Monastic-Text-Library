@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ignatius-antioch-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "It's Him I seek, [*] who died for us. It's Him I desire, who has risen for use.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

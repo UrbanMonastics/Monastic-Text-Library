@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le Seigneur a connu [*] mon humilité, et le Puissant fit pour moi des choses merveilleuses.",
+	"Extra": {
+		"Reference": ["Luc 1:48-49"]
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

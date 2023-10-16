@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "week-4-tuesday-vespers-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Respéxit Dóminus [*] humilitátem meam, et fecit in me magna qui potens est.",
+	"Extra": {
+		"Reference": ["Luke 1:48-49"]
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

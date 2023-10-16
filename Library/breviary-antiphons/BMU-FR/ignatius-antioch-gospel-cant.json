@@ -1,0 +1,18 @@
+{
+	"TextAbbreviation": "ignatius-antioch-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "C'est lui que je cherche, [*] qui est mort pour nous. C'est lui que je désire, qui est ressuscité pour nous.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,14 @@
+{
+	"TextAbbreviation": "ignatius-antioch-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Illum quæro, [*] qui pro nobis mórtuus est; illum volo qui propter nos resurréxit.",
+	"Extra": {
+		"Reference": []
+	},
+	"Changes": [
+		"2023-10-16 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
