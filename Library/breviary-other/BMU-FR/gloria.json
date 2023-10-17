@@ -7,6 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Gloire au Père, au Fils,\r\n\tet au Saint-Esprit.\r\nComme il était au commencement,\r\n\tmaintenant et toujours,\r\n\tpour les siècles des siècles.\r\n*Amen*\r\nAlléluia",
+	"Text": "Gloire au Père, et au Fils,\r\n\tet au Saint-Esprit,\r\nau Dieu qui est, qui était et qui vient,\r\n\tpour les siècles des siècles.\r\n*Amen*\r\nAlléluia",
+	"Changes": [
+		"2023-10-17 - Paul Prins : Alignement sur l'AELF"
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }
