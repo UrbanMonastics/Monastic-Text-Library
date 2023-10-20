@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-timothy-1",
 	"Title": {
-		"default": "1 Timothy",
-		"UMB-EN": "The Apostle Paul's First Letter to Timothy"
+		"default": "Α' Τιμόθεο",
+		"UMB-EN": "The First Epistle to Timothy",
+		"BMU-FR": "La Première Épître à Timothée",
+		"eng": "1 Timothy",
+		"fra": "1 Timothée"
 	},
 	"Description": "",
 	"Type": "Letter",

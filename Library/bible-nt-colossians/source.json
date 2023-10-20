@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-colossians",
 	"Title": {
-		"default": "Colossians",
-		"UMB-EN": "The Apostle Paul's Letter to his Siblings in Colosse"
+		"default": "Κολοσσαείς",
+		"UMB-EN": "An Epistle to the Church in Colossians",
+		"BMU-FR": "Une Épître à l'Église des Colossiens",
+		"eng": "Colossians",
+		"fra": "Colossiens"
 	},
 	"Description": "",
 	"Type": "Letter",

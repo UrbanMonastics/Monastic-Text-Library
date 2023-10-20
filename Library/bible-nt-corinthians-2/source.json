@@ -1,9 +1,11 @@
 {
 	"Abbreviation": "bible-nt-corinthians-2",
 	"Title": {
-		"default": "2 Corinthians",
-		"UMB-EN": "The Apostle Paul's Second Letter to the Church in Corinth",
-		"BMU-FR": "La Deuxième Lettre de l'Apôtre Paul à l'Église de Corinthe"
+		"default": "Β' Κορινθίους",
+		"UMB-EN": "The Second Epistle to the Corinthians",
+		"BMU-FR": "La Deuxième Épître aux Corinthiens",
+		"eng": "2 Corinthians",
+		"fra": "2 Corinthiens"
 	},
 	"Description": "",
 	"Type": "Letter",

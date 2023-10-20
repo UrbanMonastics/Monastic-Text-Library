@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-revelation",
 	"Title": {
-		"default": "Revelation",
-		"UMB-EN": "The Apocalypse of John on Patmos"
+		"default": "Αποκάλυψη",
+		"UMB-EN": "The Apocalypse of John on Patmos",
+		"BMU-FR": "L'Apocalypse de Jean sur Patmos",
+		"eng": "Revelation",
+		"fra": "Apocalypse"
 	},
 	"Description": "",
 	"Type": "Letter",

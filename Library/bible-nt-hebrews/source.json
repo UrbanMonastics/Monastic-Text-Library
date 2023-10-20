@@ -1,9 +1,11 @@
 {
 	"Abbreviation": "bible-nt-hebrews",
 	"Title": {
-		"default": "Hebrews",
-		"UMB-EN": "The Letter to the Hebrews",
-		"BMU-FR": "La Lettre aux Hébreux"
+		"default": "Εβραίους",
+		"UMB-EN": "An Epistle to the Hebrews",
+		"BMU-FR": "Une Épître aux Hébreux",
+		"eng": "Hebrews",
+		"fra": "Hébreux"
 	},
 	"Description": "",
 	"Type": "Letter",

@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-philemon",
 	"Title": {
-		"default": "Philemon",
-		"UMB-EN": "The Apostle Paul's Letter to Philemon, Apphia, Archippus, and their Church"
+		"default": "Φιλήμονα",
+		"UMB-EN": "The Epistle to Philemon, Apphia, Archippus, and their Church",
+		"BMU-FR": "L'Épître à Philémon, Apphia, Archippe et leur Église",
+		"eng": "Philemon",
+		"fra": "Philémon" 
 	},
 	"Description": "",
 	"Type": "Letter",

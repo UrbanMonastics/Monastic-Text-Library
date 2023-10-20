@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-jude",
 	"Title": {
-		"default": "Jude",
-		"UMB-EN": "The Letter of the Apostle Jude to those Loved by God"
+		"default": "Ιούδα",
+		"UMB-EN": "The Epistle of Jude",
+		"BMU-FR": "L'Épître de Jude",
+		"eng": "Jude",
+		"fra": "Jude"
 	},
 	"Description": "",
 	"Type": "Letter",

@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-romans",
 	"Title": {
-		"default":"Romans",
-		"UMB-EN": "The Apostle Paul's Letter to the Church in Rome"
+		"default": "Ρωμαίους",
+		"UMB-EN": "An Epistle to the Church in Rome",
+		"BMU-FR": "Une Épître à l'Église de Rome",
+		"eng": "Romans",
+		"fra": "Romains"
 	},
 	"Description": "",
 	"Type": "Letter",

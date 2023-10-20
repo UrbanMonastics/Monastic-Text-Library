@@ -1,10 +1,13 @@
 {
 	"Abbreviation": "bible-nt-acts",
 	"Title": {
-		"default": "Acts",
-		"UMB-EN": "The Acts of the Apostles by Luke the Evangelist"
+		"default": "Πράξεις Ἀποστόλων",
+		"UMB-EN": "Acts of the Apostles",
+		"BMU-FR": "Actes des Apôtres",
+		"eng": "Acts",
+		"fra": "Actes"
 	},
-	"Description": "The book picks up at the conclusion of Lukes Gospel. ",
+	"Description": "The book picks up at the conclusion of Luke's Gospel. ",
 	"Type": "Book",
 	"Language": "grc-koi",
 	"Version": "Original",

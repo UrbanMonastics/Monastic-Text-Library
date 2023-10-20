@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-ephesians",
 	"Title": {
-		"default": "Ephesians",
-		"UMB-EN": "The Apostle Paul's Letter to the Saints in Ephesus"
+		"default": "Εφεσίους",
+		"UMB-EN": "An Epistle to the Church in Ephesus",
+		"BMU-FR": "Une Épître à l'Église d'Éphèse",
+		"eng": "Ephesians",
+		"fra": "Ephésiens"
 	},
 	"Description": "",
 	"Type": "Letter",

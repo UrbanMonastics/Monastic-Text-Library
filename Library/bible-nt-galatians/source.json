@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-galatians",
 	"Title": {
-		"default": "Galatians",
-		"UMB-EN": "The Apostle Paul's Letter to the Churches in Galatia"
+		"default": "Γαλάτες",
+		"UMB-EN": "An Epistle to the Churches in Galatia",
+		"BMU-FR": "Une Épître aux Églises de Galatie",
+		"eng": "Galatians",
+		"fra": "Galates"
 	},
 	"Description": "",
 	"Type": "Letter",

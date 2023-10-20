@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-mark",
 	"Title": {
-		"default": "Mark",
-		"UMB-EN": "The Gospel of the Apostle Mark"
+		"default": "Μάρκος",
+		"UMB-EN": "The Gospel of Mark the Apostle",
+		"BMU-FR": "L'Évangile de Marc l'Apôtre",
+		"eng": "Mark",
+		"fra": "Marc"
 	},
 	"Description": "",
 	"Type": "Book",

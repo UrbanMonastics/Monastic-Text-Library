@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-john-1",
 	"Title": {
-		"default": "1 John",
-		"UMB-EN": "The First Letter of the Apostle John"
+		"default": "Α' Ιωάννη",
+		"UMB-EN": "The First Epistle of John",
+		"BMU-FR": "La Première Épître de Jean",
+		"eng": "1 John",
+		"fra": "1 Jean"
 	},
 	"Description": "",
 	"Type": "Letter",

@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-james",
 	"Title": {
-		"default": "James",
-		"UMB-EN": "The Letter of James to the Twelve Tribes Among the Nations"
+		"default": "Ιακώβου",
+		"UMB-EN": "The Epistle of James to the Twelve Scattered Tribes",
+		"BMU-FR": "L'Épître de Jacques aux Douze Tribus Dispersées",
+		"eng": "James",
+		"fra": "Jacques"
 	},
 	"Description": "",
 	"Type": "Letter",

@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-john",
 	"Title": {
-		"default": "John",
-		"UMB-EN": "The Gospel of the Apostle John"
+		"default": "Ιωάννης",
+		"UMB-EN": "The Gospel of John the Apostle",
+		"BMU-FR": "L'Évangile de Jean l'Apôtre",
+		"eng": "John",
+		"fra": "Jean"
 	},
 	"Description": "",
 	"Type": "Book",

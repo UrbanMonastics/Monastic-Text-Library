@@ -1,14 +1,15 @@
 {
 	"Abbreviation": "bible-nt-peter-1",
 	"Title": {
-		"default": "1 Peter",
-		"UMB-EN": "The First Letter of the Apostle Peter to the Faithful",
-		"BMU-FR": "La Première Lettre de l'Apôtre Pierre aux Fidèles",
+		"default": "Α' Πέτρου",
+		"UMB-EN": "The First Epistle of Peter",
+		"BMU-FR": "La Première Épître de Pierre",
+		"eng": "1 Peter",
 		"fra": "1 Pierre" 
 	},
 	"AlternativeTitles": {
 		"eng": ["1 Peter", "First Peter"],
-		"fra": ["1 Pierre", "Première Lettre de Pierre"]
+		"fra": ["1 Pierre", "Première Épître de Pierre"]
 	},
 	"Description": "",
 	"Type": "Letter",

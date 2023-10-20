@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-timothy-2",
 	"Title": {
-		"default": "2 Timothy",
-		"UMB-EN": "The Apostle Paul's Second Letter to Timothy"
+		"default": "Α' Τιμόθεο",
+		"UMB-EN": "The Second Epistle to Timothy",
+		"BMU-FR": "La Deuxième Épître à Timothée",
+		"eng": "2 Timothy",
+		"fra": "2 Timothée"
 	},
 	"Description": "",
 	"Type": "Letter",

@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-peter-2",
 	"Title": {
-		"default": "2 Peter",
-		"UMB-EN": "The Second Letter of the Apostle Peter to the Faithful"
+		"default": "Β' Πέτρου",
+		"UMB-EN": "The Second Epistle of Peter",
+		"BMU-FR": "La Deuxième Épître de Pierre",
+		"eng": "2 Peter",
+		"fra": "2 Pierre" 
 	},
 	"Description": "",
 	"Type": "Letter",

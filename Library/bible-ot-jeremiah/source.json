@@ -1,9 +1,10 @@
 {
 	"Abbreviation": "bible-ot-jeremiah",
 	"Title": {
-		"default": "Jeremiah",
+		"default": "יִרְמְיָהוּ",
 		"UMB-EN": "The Book of Jeremiah",
 		"BMU-FR": "Le livre de Jérémie",
+		"eng": "Jeremiah",
 		"fra": "Jérémie"
 	},
 	"Description": "",

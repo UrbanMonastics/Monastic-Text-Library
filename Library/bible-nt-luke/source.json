@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-luke",
 	"Title": {
-		"default": "Luke",
-		"UMB-EN": "The Gospel of Luke the Evangelist"
+		"default": "Λουκάς",
+		"UMB-EN": "The Gospel of Luke the Evangelist",
+		"BMU-FR": "L'Évangile de Luc l'Évangéliste",
+		"eng": "Luke",
+		"fra": "Luc"
 	},
 	"Description": "",
 	"Type": "Book",

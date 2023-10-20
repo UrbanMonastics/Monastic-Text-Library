@@ -2,7 +2,10 @@
 	"Abbreviation": "bible-nt-titus",
 	"Title": {
 		"default": "Titus",
-		"UMB-EN": "The Apostle Paul's Letter to Titus"
+		"UMB-EN": "The Epistle to Titus",
+		"BMU-FR": "L'Éspitle à Titus",
+		"eng": "Titus",
+		"fra": "Titus"
 	},
 	"Description": "",
 	"Type": "Letter",

@@ -1,9 +1,10 @@
 {
 	"Abbreviation": "bible-ot-deuteronomy",
 	"Title": {
-		"default": "Deuteronomy",
+		"default": "דְּבָרִים",
 		"UMB-EN": "The Book of Deuteronomy",
 		"BMU-FR": "Le livre du Deutéronome",
+		"eng": "Deuteronomy",
 		"fra": "Deutéronome"
 	},
 	"Description": "",

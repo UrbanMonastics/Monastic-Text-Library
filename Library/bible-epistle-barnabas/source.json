@@ -1,7 +1,13 @@
 {
 	"Abbreviation": "bible-epistle-barnabas",
-	"Title": "Epistle of Barnabas",
-	"Description": "This is a non-conanaical text.",
+	"Title": {
+		"default": "Βαρνάβα Ἐπιστολή",
+		"UMB-EN": "The Epistle of Barnabas",
+		"BMU-FR": "L'Épître de Barnabé",
+		"eng": "Epistle of Barnabas",
+		"fra": "Épître de Barnabé"
+	},
+	"Description": "This is a extra canonical text.",
 	"Type": "Book",
 	"Language": "",
 	"Version": "grc-koi",

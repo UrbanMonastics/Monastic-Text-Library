@@ -1,9 +1,10 @@
 {
 	"Abbreviation": "bible-ot-psalms",
 	"Title": {
-		"default": "Psalms",
+		"default": "תְהִלִּים",
 		"UMB-EN": "The Book of Psalms",
 		"BMU-FR": "Le livre des Psaumes",
+		"eng": "Psalms",
 		"fra": "Psaumes"
 	},
 	"Description": "",

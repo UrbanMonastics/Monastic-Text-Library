@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-john-2",
 	"Title": {
-		"default": "2 John",
-		"UMB-EN": "The Second Letter of the Apostle John"
+		"default": "Β' Ιωάννη",
+		"UMB-EN": "The Second Epistle of John",
+		"BMU-FR": "La Deuxième Épître de Jean",
+		"eng": "2 John",
+		"fra": "2 Jean"
 	},
 	"Description": "",
 	"Type": "Letter",

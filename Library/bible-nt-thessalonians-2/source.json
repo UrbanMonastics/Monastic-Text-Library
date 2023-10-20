@@ -1,9 +1,10 @@
 {
 	"Abbreviation": "bible-nt-thessalonians-2",
 	"Title": {
-		"default": "2 Thessalonians",
-		"UMB-EN": "The Second Letter to the Church in Thessaloniki",
-		"BMU-FR": "La Deuxième Lettre à l'Église de Thessalonique",
+		"default": "Β' Θεσσαλονικείς",
+		"UMB-EN": "Second Epistle to the Church in Thessaloniki",
+		"BMU-FR": "Deuxième Épître à l'Église de Thessalonique",
+		"eng": "2 Thessalonians",
 		"fra": "2 Thessaloniciens"
 	},
 	"Description": "",

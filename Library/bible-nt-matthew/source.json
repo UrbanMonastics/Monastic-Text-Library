@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-matthew",
 	"Title": {
-		"default": "Matthew",
-		"UMB-EN": "The Gospel of the Apostle Matthew"
+		"default": "Ματθαίος",
+		"UMB-EN": "The Gospel of Matthew the Apostle",
+		"BMU-FR": "L'Évangile de Matthieu l'Apôtre",
+		"eng": "Matthew",
+		"fra": "Matthieu" 
 	},
 	"Description": "",
 	"Type": "Book",

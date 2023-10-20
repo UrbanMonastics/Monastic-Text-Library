@@ -1,8 +1,11 @@
 {
 	"Abbreviation": "bible-nt-john-3",
 	"Title": {
-		"default": "3 John",
-		"UMB-EN": "The Third Letter of the Apostle John"
+		"default": "Γ' Ιωάννη",
+		"UMB-EN": "The Third Epistle of John",
+		"BMU-FR": "La Troisième Épître de Jean",
+		"eng": "3 John",
+		"fra": "3 Jean"
 	},
 	"Description": "",
 	"Type": "Letter",
