@@ -22,5 +22,9 @@
 			},
 			"Reviewers": {}
 		}
-	}
+	},
+	"Changes": [
+		"YYYY-MM-DD - First Last: Added this text."
+	],
+	"License": "© YYYY organization"
 }
