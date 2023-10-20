@@ -9,7 +9,16 @@
 	},
 	"Text": "Salue, [*] Reine du Ciel !\r\nSalut, Dame des Anges !\r\nSalut, Fleur féconde !\r\nPar toi la lumière s'est levée sur la création.\r\n\r\nRéjouis-toi, Mère glorieuse,\r\nBelle entre toutes les autres !\r\nSalut, Splendide Rayon.\r\nCriez vers le Christ pour nous.",
 	"Extra": {
-		"BreviaryInstructions": "Du 2 février au Carême"
+		"BreviaryInstructions": "Du 2 février au Carême",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": "Peer-Review",
+				"2020-10-27": "Second-Pass",
+				"2020-10-26": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins, Jordan Prins : Mise à jour de cette antienne.",

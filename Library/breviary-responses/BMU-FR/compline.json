@@ -7,16 +7,29 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Entre tes mains, Seigneur, à toi je confie mon esprit.\r\n[R] Entre tes mains, Seigneur, [*] à toi je confie mon esprit.\r\n[V] Car tu nous as rachetés, Seigneur, Dieu de vérité.",
+	"Text": "[V] Entre tes mains, SEIGNEUR, mon esprit, je te le confie.\r\n[R] Entre tes mains, SEIGNEUR, [*] mon esprit, je te le confie..\r\n[V] Car tu nous as rachetés, SEIGNEUR, Dieu de vérité.",
 	"Extra": {
-		"Reference": ["Psalm 31:5"]
+		"Reference": ["Psalm 31:5"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
 	},
-	"Notes" : "Nous avons ajouté la phrase 'à toi' dans la première ligne. Cela améliore la fluidité lors de la répétition",
 	"Changes": [
+		"2023-10-20 - Paul Prins, Jordan Prins : Reformuler le verscical pour qu'il s'articule mieux avec la réponse",
 		"2023-10-16 - Paul Prins: Lisser la phrase raccourcie.",
 		"2023-08-14 - Paul Prins: Mise à jour pour correspondre à notre Psaume 31:5",
 		"2022-08-05 - Paul Prins: Mise à jour de la réponse pour suivre de plus près le latin.",
 		"2020-10-27 - Paul Prins: Preimère traduction."
 	],
-	"License": "© 202 Monastiques Urbain, Paris"
+	"License": "© 2020 Monastiques Urbain, Paris"
 }

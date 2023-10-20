@@ -26,7 +26,18 @@
 	"Extra": {
 		"Reference": ["Luc 1:68-79"],
 		"LiturgiaeHorarum-Index": 2,
-		"LiturgiaeHorarum-Cantica": "NT"
+		"LiturgiaeHorarum-Cantica": "NT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

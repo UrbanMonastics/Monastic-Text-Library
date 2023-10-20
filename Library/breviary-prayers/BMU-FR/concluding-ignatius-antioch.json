@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu éternel et tout-puissant, tu ornes le corps saint de ton Église du témoignage des saints martyrs. [t] Que la passion de saint Ignace d'Antioche soit pour nous une source de courage. [*] Comme elle lui a apporté la gloire éternelle. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Traduit cette prière."
 	],

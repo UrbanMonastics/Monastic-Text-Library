@@ -8,5 +8,23 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Alleluia, Alleluia, Alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-01-01": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-01-01 - Paul Prins: First translation of this Antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

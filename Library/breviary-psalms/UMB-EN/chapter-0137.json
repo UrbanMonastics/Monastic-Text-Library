@@ -17,6 +17,19 @@
 		"5": "If I forget you, Jerusalem, [*]\r\n\tlet my right hand forget me.\r\n",
 		"6": "Let my tongue stick to the roof of my mouth, [*]\r\n\tif I do not remember you,\r\nif I do not exalt Jerusalem [*]\r\n\tabove my greatest joy.\r\n\r\n"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-15": ["Peer-Review"],
+				"2023-10-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-14 - Paul Prins: First translation based on Greek, Latin, and some Hebrew."
 	],

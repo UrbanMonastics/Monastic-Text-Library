@@ -5,5 +5,21 @@
 	"Version": "LH",
 	"Text": "Pater noster, qui es in cælis:\r\n\tsanctificétur nomen tuum;\r\nadvéniat regnum tuum;\r\n\tfiat volúntas tua,\r\n\tsicut in cælo et in terra.\r\nPanem nostrum cotidiánum da nobis hódie;\r\net dimítte nobis débita nostra,\r\n\tsicut et nos dimíttimus debitóribus nostris;\r\net ne nos indúcas in tentatiónem;\r\n\tsed líbera nos a malo.\r\nAmen.",
 	"Description": "The Lords Prayer.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-02": ["Peer-Review"],
+				"2020-10-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2020-10-01 - Paul Prins: Added this prayer"
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

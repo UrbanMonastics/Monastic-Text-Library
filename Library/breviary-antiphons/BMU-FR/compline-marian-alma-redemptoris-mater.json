@@ -9,7 +9,16 @@
 	},
 	"Text": "Mère aimante [*] du Rédempteur,\r\n\tnotre porte du ciel,\r\n\tet l'étoile guidant des mers.\r\nAssiste ceux qui sont tombés,\r\n\tmais voudrait se relever.\r\n\r\nTu as porté le saint créateur,\r\n\tpendant que toute la création s'émerveillait,\r\n\tet tu es restée vierge.\r\nAcceptant avec louange l'invitation de l'ange Gabriel,\r\n\tayez pitié de nous, pécheurs.",
 	"Extra": {
-		"BreviaryInstructions": "De l'Avent au 1er février."
+		"BreviaryInstructions": "De l'Avent au 1er février.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": "Peer-Review",
+				"2020-10-27": "Second-Pass",
+				"2020-10-26": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-04-6 - Paul Prins: Mise à jour de cette antienne.",

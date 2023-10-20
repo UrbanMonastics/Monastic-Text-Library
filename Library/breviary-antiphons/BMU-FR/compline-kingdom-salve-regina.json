@@ -9,7 +9,16 @@
 	},
 	"Text": "Salut, [*] saint Royaume, maison de miséricorde,\r\n\tsource de vie, de douceur et d'espérance.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très gracieuse avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle roi béni sur ton trône.\r\n\tMiséricordieux, aimant et doux Seigneur Christ.",
 	"Extra": {
-		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte."
+		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte.",
+		"Writing":{
+			"Authors": ["Paul Prins", "Jordan Prins"],
+			"Step": {
+				"2023-09-01": "Peer-Review",
+				"2022-08-31": "Second-Pass",
+				"2022-08-30": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-04-06 - Paul Prins: Raffiné pour mieux correspondre à son antienne mariale.",

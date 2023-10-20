@@ -22,7 +22,18 @@
 	"Extra": {
 		"Reference": ["Ephésiens 1:3-10"],
 		"LiturgiaeHorarum-Index": 10,
-		"LiturgiaeHorarum-Cantica": "NT"
+		"LiturgiaeHorarum-Cantica": "NT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2021-05-24 - Paul Prins: Première traduction du ephésiens 1 basée sur le grec, et le latin."

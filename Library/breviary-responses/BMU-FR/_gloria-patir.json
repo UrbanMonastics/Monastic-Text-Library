@@ -8,6 +8,25 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Gloire au Père, et au Fils, et au Saint-Esprit.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2020-03-30": ["Peer-Review"],
+				"2020-03-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2023-10-17 - Paul Prins : Alignement sur l'AELF",
 		"2022-04-30 - Paul Prins: Première traduction du latin."

@@ -30,6 +30,19 @@
 		"17": "The dead do not praise the Lord, [*]\r\n\tnor do any who descend into silence.\r\n",
 		"18": "But us, we will bless the Lord, [*]\r\n\tin this moment and forever."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-11": ["Peer-Review"],
+				"2021-04-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2021-04-10 - Paul Prins: First translation of psalm 115 based on Greek, Latin, and some Hebrew."

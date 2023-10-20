@@ -8,5 +8,20 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Alléluia, Alléluia, Alléluia.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-01-01": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

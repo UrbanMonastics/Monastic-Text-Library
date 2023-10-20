@@ -7,11 +7,25 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Kingdom of Heaven, [*] rejoice, Alleluia!\r\nFor the Lord wears his crown, Alleluia!\r\nHe has risen as He said, Alleluia!\r\nPraise our God with us, Alleluia!",
+	"Text": "Kingdom of Heaven, [*] rejoice, Alleluia!\r\nFor the Lord wears His crown, Alleluia!\r\nHe has risen as He said, Alleluia!\r\nPraise our God with us, Alleluia!",
 	"Extra": {
-		"BreviaryInstructions": "During Eastertide"
+		"BreviaryInstructions": "During Eastertide",
+		"Writing":{
+			"Authors": ["Paul Prins", "Jordan Prins"],
+			"Step": {
+				"2022-09-01": ["Peer-Review"],
+				"2022-08-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
 	},
 	"Changes": [
+		"2022-08-31 - Jordan Prins: Corrected casing on a pronoun.",
 		"2022-08-31 - Paul Prins, Jordan Prins: Created this Antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

@@ -15,7 +15,19 @@
 	"Extra": {
 		"Reference" : ["Daniel 3:57-88, 56"],
 		"LiturgiaeHorarum-Index": 48,
-		"LiturgiaeHorarum-Cantica": "VT"
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [],
 	"License": "© 2021 Urban Monastics, Paris"
 }

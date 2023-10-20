@@ -9,7 +9,16 @@
 	},
 	"Text": "Réjouis-toi, [*] Royaume des Cieux, Alléluia !\r\nCar le Seigneur porte sa couronne, Alléluia !\r\nIl s'est ressuscité comme Il l'avait dit, Alléluia !\r\nLouez notre Dieu avec nous, Alléluia !",
 	"Extra": {
-		"BreviaryInstructions": "Pendant le temps de Pâques."
+		"BreviaryInstructions": "Pendant le temps de Pâques.",
+		"Writing":{
+			"Authors": ["Paul Prins", "Jordan Prins"],
+			"Step": {
+				"2023-09-01": "Peer-Review",
+				"2022-08-31": "Second-Pass",
+				"2022-08-30": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins, Jordan Prins : Ont créé cette antienne."

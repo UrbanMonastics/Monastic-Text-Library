@@ -22,6 +22,19 @@
 		"9": "He has sent redemption to His people, [*]\r\n\testablishing His covenant forever.\r\n\r\nHoly and awe-inspiring is His name. [*]\r\n",
 		"10": "\tThe fear of the LORD is the beginning of wisdom.\r\nAll those who embody this have good understanding, [*]\r\n\ttheir praise endures forever."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-22": ["Peer-Review"],
+				"2021-09-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-21 - Paul Prins: First translation of psalm 111 based on Greek, Latin, and Hebrew"
 	],

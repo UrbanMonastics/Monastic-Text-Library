@@ -9,7 +9,20 @@
 	},
 	"Text": "Let us pray.\r\nLord Jesus Christ, You are meek and humble of heart. You make pleasant the yoke and light the burden for those who follow You. [t] Worthy are You to receive our prayers and our devotion. [*] Grant us Your peace so that we might arise ready to serve You. You who lives and reigns forever.\r\nAmen.",
 	"Extra": {
-		"Reference" : ["Matthew 11:28-30"]
+		"Reference" : ["Matthew 11:28-30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-31": ["Peer-Review"],
+				"2023-08-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
 	},
 	"Changes": [
 		"2023-08-30 - Paul Prins: Translated this prayer."

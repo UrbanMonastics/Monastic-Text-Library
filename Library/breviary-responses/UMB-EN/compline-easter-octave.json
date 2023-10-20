@@ -7,10 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "These are the days [*] the Lord has made: let's rejoice and be glad in it.",
+	"Text": "These are the days [*] the Lord has made: let us rejoice and be glad in it.",
 	"Extra": {
 		"Reference": ["Psalm 118:24"],
-		"BreviaryInstructions": "During Octave of Easter."
+		"BreviaryInstructions": "During Octave of Easter.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: First translation."

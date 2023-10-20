@@ -18,6 +18,19 @@
 		"5": "À ta droite est mon maître, [*]\r\n\tqui écrasera les rois le jour de sa colère.\r\n\r\n",
 		"7": "Il boira au torrent en chemin; [*]\r\n\tc'est pourquoi il relèvera sa tête."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-08": ["Peer-Review"],
+				"2021-04-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Correction de la majuscule sur le nom divin.",
 		"2022-05-02 - Paul Prins: Corrections à partir des commentaires.",

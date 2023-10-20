@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Orémus.\r\nVísita nos, quǽsumus, Dómine, hac nocte præsénti, [t] ut, dilúculo tua virtúte surgéntes, [*] de resurrectióne Christi tui gaudére valeámus. Qui vivit et regnat in sǽcula sæulórum.\r\nAmen.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-30 - Paul Prins: Fix a typo.",
 		"2020-10-27 - Paul Prins: Added this prayer."

@@ -24,7 +24,21 @@
 	"Extra": {
 		"Reference": ["Luke 1:46-55"],
 		"LiturgiaeHorarum-Index": 1,
-		"LiturgiaeHorarum-Cantica": "NT"
+		"LiturgiaeHorarum-Cantica": "NT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-03-30": ["Peer-Review"],
+				"2020-03-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2020-03-29 - Paul Prins : Added this Canticle."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

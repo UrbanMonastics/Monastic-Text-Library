@@ -7,12 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Into Your hands, LORD, to you I entrust my spirit.\r\n[R] Into Your hands, LORD, [*] to you I entrust my spirit.\r\n[V] For You have redeemed us, LORD, God of truth.",
-	"Extra": {
-		"Reference": ["Psalm 31:5"]
-	},
+	"Text": "[V] Into Your hands, LORD, my spirit I entrust to You.\r\n[R] Into Your hands, LORD, [*] my spirit I entrust to You.\r\n[V] For You have redeemed us, LORD, God of truth.",
 	"Notes" : "We added the phrase 'to you' in the first line. This improves the smoothness when repeated.",
+	"Extra": {
+		"Reference": ["Psalm 31:5"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
+		"2023-10-20 - Paul Prins, Jordan Prins: Rephrase the verscical to flow better with the response.",
 		"2023-10-16 - Paul Prins: Smooth out shortened phrase.",
 		"2023-08-14 - Paul Prins: Updated the versicles to match our Psalm 31:5.",
 		"2022-08-05 - Paul Prins: Update response to more closely follow the latin.",

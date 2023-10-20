@@ -28,6 +28,19 @@
 		"15": "They will call to Me, and I will answer them; [t]\r\n\tI will be with them in trouble, [*]\r\n\tI will rescue and honor them.\r\n",
 		"16": "With a long life I will satisfy them, [*]\r\n\tand I will show them My salvation.\""
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-03": ["Peer-Review"],
+				"2021-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-02 - Paul Prins: First translation of Psalm 91 based on Greek, Latin, and some Hebrew"
 	],

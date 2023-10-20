@@ -3,6 +3,9 @@
 	"SourceAbbreviation": "breviary-other",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Glória Patri,\r\n\tet Fílio,\r\n\tet Spirítui Sancto.\r\nSicut erat in princípio,\r\n\tet nunce, et semper,\r\n\tet in s´æcula sæculórum.\r\nAmen.\r\nAllelúia.",
+	"Text": "Glória Patri,\r\n\tet Fílio,\r\n\tet Spirítui Sancto.\r\nSicut erat in princípio,\r\n\tet nunce, et semper,\r\n\tet in sǽcula sæculórum.\r\nAmen.\r\nAllelúia.",
+	"Changes": [
+		"2020-03-29 - Paul Prins: Added this text."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

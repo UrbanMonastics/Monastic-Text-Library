@@ -22,6 +22,19 @@
 		"9": "Il a envoyé la libération à son peuple, [*]\r\n\tétablissant son alliance pour toujours.\r\n\r\nSaint et inspirant la crainte est Son nom. [*]\r\n",
 		"10": "\tLa crainte du SEIGNEUR est le commencement de la sagesse.\r\nTous ceux qui l'incarnent ont une bonne intelligence, [*]\r\n\tleur louange dure à jamais."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-22": ["Peer-Review"],
+				"2021-09-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-21 - Paul Prins: Première traduction du psaume 111 basée sur le grec, le latin et l'hébreu."
 	],

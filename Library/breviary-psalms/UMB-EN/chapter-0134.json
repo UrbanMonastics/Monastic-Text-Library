@@ -14,6 +14,19 @@
 		"2": "Lift your hands in that sanctuary, [*]\r\n\tand bless the Lord.\r\n",
 		"3": "May the Lord bless you from Zion, [*]\r\n\tHe who made heaven and earth."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-06": ["Peer-Review"],
+				"2021-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-08-05 - Paul Prins: First translation of psalm 134 based on Greek, Latin, and some Hebrew"
 	],

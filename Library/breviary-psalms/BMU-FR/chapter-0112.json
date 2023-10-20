@@ -22,6 +22,19 @@
 		"9": "Il a distribué librement, Il a donné aux pauvres ; [t]\r\n\tSa justice est éternelle, [*]\r\n\tSa corne sera exaltée avec honneur.\r\n\r\n",
 		"10": "Les méchants le verront et seront furieux, [t]\r\n\tils grinceront des dents et se fondront. [*]\r\n\tLe désir des méchants mène à la destruction."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-30": ["Peer-Review"],
+				"2021-09-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-29 - Paul Prins: Première traduction du psaume 112 basée sur le grec, le latin et l'hébreu."
 	],

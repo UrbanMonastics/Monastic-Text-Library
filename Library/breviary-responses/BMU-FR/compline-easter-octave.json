@@ -10,7 +10,18 @@
 	"Text": "Voici les jours [*] que le Seigneur a faits : Réjouissons-nous et soyons dans l'allégresse.",
 	"Extra": {
 		"Reference": ["Psaume 118:24"],
-		"BreviaryInstructions": "Pendant l'Octave de Pâques."
+		"BreviaryInstructions": "Pendant l'Octave de Pâques.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Preimère traduction."

@@ -15,7 +15,20 @@
 	"Extra": {
 		"Reference" : ["Philippians 2:6-11"],
 		"LiturgiaeHorarum-Index": 11,
-		"LiturgiaeHorarum-Cantica": "NT"
+		"LiturgiaeHorarum-Cantica": "NT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

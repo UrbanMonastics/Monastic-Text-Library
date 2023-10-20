@@ -7,10 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Christ [*] became obedient unto death, for us.",
+	"Text": "Christ [*] became obedient unto death for us.",
 	"Extra": {
 		"Reference": ["Philippians 2:8"],
-		"BreviaryInstructions": "The Thursday and Friday of the easter passion."
+		"BreviaryInstructions": "The Thursday and Friday of the easter passion.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: First translation."

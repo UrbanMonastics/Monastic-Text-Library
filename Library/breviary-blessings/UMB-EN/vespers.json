@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "May the Lord bless us,\r\n\tkeep us from all evil,\r\n\tand bring us to everlasting life.\r\n*Amen*",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-03-22": ["Peer-Review"],
+				"2021-03-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-03-21 - Paul Prins: First translation of this blessing."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

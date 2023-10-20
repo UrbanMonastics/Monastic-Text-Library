@@ -18,6 +18,19 @@
 		"5": "On your right is my master, [*]\r\n\twho will crush rulers on the day of his wrath.\r\n\r\n",
 		"7": "He will drink from the brook along his way; [*]\r\n\ttherefore he will lift up his head."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-08": ["Peer-Review"],
+				"2021-04-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Fixed casings on divine name.",
 		"2021-04-07 - Paul Prins: First translation of psalm 110 based on Greek, Latin, and some Hebrew"

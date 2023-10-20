@@ -8,8 +8,29 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Gloire au Père, et au Fils,\r\n\tet au Saint-Esprit,\r\nau Dieu qui est, qui était et qui vient,\r\n\tpour les siècles des siècles.\r\n*Amen*\r\nAlléluia",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2020-03-30": ["Peer-Review"],
+				"2020-03-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
-		"2023-10-17 - Paul Prins : Alignement sur l'AELF"
+		"2023-10-17 - Paul Prins : Alignement sur l'AELF",
+		"2022-05-01 - Paul Prins: Update language.",
+		"2020-03-29 - Paul Prins: First translation."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

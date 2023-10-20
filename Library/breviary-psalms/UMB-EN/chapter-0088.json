@@ -30,6 +30,19 @@
 		"17": "They surround me like a flood all day long, [*]\r\n\tthey close in on me from everywhere.\r\n",
 		"18": "You have taken my lover and friends far from me, [*]\r\n\tnow, darkness is my closest friend."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-10-29": ["Peer-Review"],
+				"2022-10-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-10-29 - Paul Prins: Updated verse 4 to fix awkward flow and confusion.",
 		"2022-10-28 - Paul Prins: First translation of psalm 88 based on Greek, Latin, and some Hebrew"

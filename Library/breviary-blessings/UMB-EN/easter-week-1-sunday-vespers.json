@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Bless the Lord, Alléluia, Alléluia.\r\n[R]We gave thanks to God, Alléluia, Alléluia.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: First translation of this blessing."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

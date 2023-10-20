@@ -9,7 +9,16 @@
 	},
 	"Text": "Saint royaume [*] du Rédempteur,\r\n\tnotre promesse du ciel,\r\n\tet l'étoile guidant des mers.\r\nAssiste ceux qui sont tombés,\r\n\tmais voudrait se relever.\r\n\r\nRoyaume porté par le saint créateur,\r\n\tpendant que toute la création s'émerveillait,\r\n\tet tu as proclamé la bonne nouvelle.\r\nAccepter avec louange l'invitation du Christ au Royaume,\r\n\tayez pitié de nous, pécheurs.",
 	"Extra": {
-		"BreviaryInstructions": "De l'Avent au 1er février."
+		"BreviaryInstructions": "De l'Avent au 1er février.",
+		"Writing":{
+			"Authors": ["Paul Prins", "Jordan Prins"],
+			"Step": {
+				"2023-09-01": "Peer-Review",
+				"2022-08-31": "Second-Pass",
+				"2022-08-30": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-04-06 - Paul Prins: Raffiné pour mieux correspondre à son antienne mariale.",

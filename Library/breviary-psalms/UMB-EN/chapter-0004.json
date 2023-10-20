@@ -20,6 +20,19 @@
 		"7": "You put more gladness in my heart, [*]\r\n\tthan when others overflow with grain and new wine.\r\n",
 		"8": "In peace I will lie down and find sleep, [*]\r\n\tfor You alone, LORD, let me dwell in safety."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-23": ["Peer-Review"],
+				"2021-04-22": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2021-04-22 - Paul Prins: First translation of Psalm 4 based on Greek, Latin, and some Hebrew"

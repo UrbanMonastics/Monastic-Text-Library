@@ -8,6 +8,17 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Sauve-nous, Seigneur, quand nous veillons.\r\n\tProtège-nous pendant que nous dormons.\r\nRéveillés, nous veillions avec le Christ,\r\n\tet dans le repos, nous ayons la paix.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": "Peer-Review",
+				"2020-10-27": "Second-Pass",
+				"2020-10-26": "Initial"
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-09 - Paul Prins: Rafraîchie avec un meilleur sens du latin, et un meilleur écoulement.",
 		"2020-10-27 - Paul Prins: Traduit cette Antiphone."

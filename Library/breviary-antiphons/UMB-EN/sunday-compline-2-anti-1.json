@@ -9,7 +9,18 @@
 	},
 	"Text": "Whoever lives [*] in the shelter of the Most High, will find rest in the shadow of the Almighty.",
 	"Extra": {
-		"Reference": ["Psalm 91:1"]
+		"Reference": ["Psalm 91:1"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-09-19 - Paul Prins: Align with our translation of Psalm 91.",

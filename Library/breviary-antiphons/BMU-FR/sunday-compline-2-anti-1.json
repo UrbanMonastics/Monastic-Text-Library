@@ -9,7 +9,16 @@
 	},
 	"Text": "Celui qui vit [*] sous l'abri du Très-Haut trouvera le repos à l'ombre du Tout-Puissant.",
 	"Extra": {
-		"Reference": ["Psalms 91:1"]
+		"Reference": ["Psalms 91:1"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": "Peer-Review",
+				"2022-08-05": "Second-Pass",
+				"2022-08-04": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-09-19 - Paul Prins : S'aligner sur notre traduction du Psaume 91.",

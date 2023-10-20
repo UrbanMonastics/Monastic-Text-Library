@@ -8,5 +8,27 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, [+] come to my assistance,[*]\r\nLord, make haste to help me.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2020-10-02": ["Peer-Review"],
+				"2020-10-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2020-10-01 - Paul Prins: Added this text."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

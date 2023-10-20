@@ -9,7 +9,16 @@
 	},
 	"Text": "Réjouis-toi, [*] Reine du Ciel, Alléluia !\r\nCar le Seigneur que tu as choisi de porter, Alléluia !\r\nIl s'est ressuscité comme Il l'avait dit, Alléluia !\r\nPrie Dieu pour nous, Alléluia !",
 	"Extra": {
-		"BreviaryInstructions": "Pendant le temps de Pâques."
+		"BreviaryInstructions": "Pendant le temps de Pâques.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": "Peer-Review",
+				"2020-10-27": "Second-Pass",
+				"2020-10-26": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins, Jordan Prins : Mise à jour de cette antienne.",

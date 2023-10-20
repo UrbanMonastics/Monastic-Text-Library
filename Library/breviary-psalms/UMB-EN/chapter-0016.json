@@ -14,7 +14,7 @@
 		"1": "Protect me, my God! [*]\r\n\tFor in You, I take refuge.\r\n",
 		"2": "I said to the LORD, \"You are my God! [*]\r\n\tI have nothing good apart from You.\"\r\n",
 		"3": "As for the saints of the earth, the majestic ones, [*]\r\n\tall my delight is in them.\r\n\r\n",
-		"4": "Those, who have drawn near to other gods, [*]\r\n\twill see their sorrows multiplied.\r\nFor I will not pour out blood offerings to them, [*]\r\n\tor even let the names of other gods be on my lips.\r\n\r\n",
+		"4": "Those who have drawn near to other gods, [*]\r\n\twill see their sorrows multiplied.\r\nFor I will not pour out blood offerings to them, [*]\r\n\tor even let the names of other gods be on my lips.\r\n\r\n",
 		"5": "The LORD is my portion and my cup, [*]\r\n\tYou sustain my lot.\r\n",
 		"6": "These boundary lines have fallen into pleasant places for me; [*]\r\n\tindeed, my inheritance is beautiful.\r\n",
 		"7": "I will bless the LORD who counseled me; [*]\r\n\tindeed, my heart instructs me through the nights.\r\n\r\n",
@@ -23,7 +23,23 @@
 		"10": "For You will not abandon me to Sheol, [*]\r\n\tnor will You let Your holy one rot in the pit of death.\r\n",
 		"11": "You will show me the way of life; [t]\r\n\tin Your presence is joy perfected; [*]\r\n\tin Your right hand are pleasures forever."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-27": ["Peer-Review"],
+				"2023-08-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
+		"2023-10-19 - Jordan Prins: Fix punctuation in verse 4.",
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2023-08-26 - Paul Prins: First translation of psalm 16 based on Greek, Latin, and some Hebrew"
 	],

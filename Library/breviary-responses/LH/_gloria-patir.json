@@ -4,6 +4,23 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[V] Gloria Patir, et Fílio, et Spirítui Sancto.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2020-03-30": ["Peer-Review"],
+				"2020-03-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-04-30 - Paul Prins: Added this Response."
 	],

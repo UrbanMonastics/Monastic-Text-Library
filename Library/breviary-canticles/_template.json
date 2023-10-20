@@ -11,6 +11,16 @@
 	"Extra": {
 		"Reference" : [""],
 		"LiturgiaeHorarum-Index": 0,
-		"LiturgiaeHorarum-Cantica": "VT/NT"
+		"LiturgiaeHorarum-Cantica": "VT/NT",
+		"Writing":{
+			"Authors": [],
+			"Step": {
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	}
 }

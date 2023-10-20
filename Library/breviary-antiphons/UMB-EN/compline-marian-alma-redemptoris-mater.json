@@ -7,11 +7,25 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Loving mother [*] of the Redeemer,\r\n\tour gateway of heaven,\r\n\tand guiding star of the seas.\r\nAssist those who have fallen,\r\n\tyet desire to rise again.\r\n\r\nYou have borne the holy creator,\r\n\twhile all creation marveled,\r\n\tand you remained a virgin.\r\nAccepting with praise angel Gabriel's invitation,\r\n\thave mercy on us sinners.",
+	"Text": "Loving mother [*] of the Redeemer,\r\n\tour gateway of heaven,\r\n\tand guiding star of the seas.\r\nAssist those who have fallen,\r\n\tyet desire to rise again.\r\n\r\nYou have borne the Holy Creator,\r\n\twhile all creation marveled,\r\n\tand you remained a virgin.\r\nAccepting with praise angel Gabriel's invitation,\r\n\thave mercy on us sinners.",
 	"Extra": {
-		"BreviaryInstructions": "From Advent through 1 February"
+		"BreviaryInstructions": "From Advent through 1 February",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
 	},
 	"Changes": [
+		"2022-08-31 - Jordan Prins: Corrected the casing on Holy Creator.",
 		"2022-08-31 - Paul Prins, Jordan Prins: Updated this Antiphon.",
 		"2022-08-06 - Paul Prins: Added breviary instructions.",
 		"2020-10-27 - Paul Prins: First translation of this Antiphon."

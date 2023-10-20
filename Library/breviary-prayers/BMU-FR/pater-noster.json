@@ -9,5 +9,21 @@
 	},
 	"Text": "Notre Père, qui es aux cieux,\r\n\tque ton nom soit sanctifié,\r\nque ton règne vienne,\r\n\tque ta volonté soit faite\r\n\tsur la terre comme au ciel.\r\nDonne-nous aujourd’hui notre pain de ce jour.\r\nPardonne-nous nos offenses,\r\n\tcomme nous pardonnons aussi à ceux qui nous ont offensés.\r\nEt ne nous laisse pas entrer en tentation\r\n\tmais délivre-nous du Mal.\r\nPour le royaume, la puissance,\r\n\tet la gloire est à toi sans fin.\r\nAmen.",
 	"Description": "Le Notre Père.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-02": ["Peer-Review"],
+				"2020-10-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2020-10-01 - Paul Prins: Added this prayer"
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

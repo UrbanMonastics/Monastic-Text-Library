@@ -8,6 +8,25 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Glory to the Father, to the Son, and to the Holy Spirit.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2020-03-30": ["Peer-Review"],
+				"2020-03-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2022-04-30 - Paul Prins: Initial translation from Latin"
 	],

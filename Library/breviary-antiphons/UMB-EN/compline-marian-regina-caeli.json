@@ -9,7 +9,20 @@
 	},
 	"Text": "Queen of Heaven, [*] rejoice, Alleluia!\r\nFor the Lord who you chose to bear, Alleluia!\r\nHe has risen as He said, Alleluia!\r\nPray to God for us, Alleluia!",
 	"Extra": {
-		"BreviaryInstructions": "During Eastertide"
+		"BreviaryInstructions": "During Eastertide",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-13": ["Peer-Review"],
+				"2022-08-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
 	},
 	"Changes": [
 		"2022-08-12 - Paul Prins: First translation of this Antiphon."

@@ -8,6 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "After a short time examining your soul, spirit, and consciousness - pray to the Lord.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-05": ["Peer-Review"],
+				"2022-07-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2022-07-04 - Paul Prins: Translated and adapted these instructions."
 	],

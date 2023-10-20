@@ -9,7 +9,18 @@
 	},
 	"Text": "Prions le Seigneur.\r\nSeigneur Jésus-Christ, tu es doux et humble de cœur. Tu rends agréable le joug et tu allèges le fardeau de ceux qui te suivent. [t] Tu es digne de recevoir nos prières et notre dévotion. [*] Donne-nous ta paix pour que nous nous levions prêts à te servir. Toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
 	"Extra": {
-		"Reference" : ["Matthew 11:28-30"]
+		"Reference" : ["Matthew 11:28-30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-31": ["Peer-Review"],
+				"2023-08-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-08-30 - Paul Prins: Traduit cette prière."

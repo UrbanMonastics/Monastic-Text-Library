@@ -8,6 +8,25 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "In Your presence, Lord, we long for Your peace and justice in our world. [t] Help us to seek Your peace, to believe in justice, [*] and for Your will to be done on earth as in heaven. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-19": [
+					"Verified",
+					"Guidelines"
+				],
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Wrote this prayer."
 	],

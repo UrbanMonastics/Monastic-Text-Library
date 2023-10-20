@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "En ta présence, Seigneur, nous soupirons après ta paix et ta justice dans notre monde. [t] Aide-nous à aspirer à ta paix, à croire en la justice, [*] et à ce que ta volonté soit faite sur la terre comme au ciel. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: A écrit cette prière."
 	],

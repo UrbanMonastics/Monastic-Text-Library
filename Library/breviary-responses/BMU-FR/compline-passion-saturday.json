@@ -10,7 +10,18 @@
 	"Text": "Le Christ [*] s'est fait obéissant jusqu'à la mort, pour nous. La mort sur une croix. C'est pourquoi Dieu l'a exalté, et lui a donné le nom au-dessus de tout nom.",
 	"Extra": {
 		"Reference": ["Philippiens 2:8-9"],
-		"BreviaryInstructions": "Samedi saint de la passion pascale."
+		"BreviaryInstructions": "Samedi saint de la passion pascale.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Preimère traduction."

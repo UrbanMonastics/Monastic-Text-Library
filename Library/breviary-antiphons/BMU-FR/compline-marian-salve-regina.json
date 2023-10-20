@@ -9,7 +9,16 @@
 	},
 	"Text": "Salut, [*] sainte Reine, mère de miséricorde,\r\n\tune de vie, de douceur et d'espérance.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très gracieuse avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle fruit béni de ta chair.\r\n\tMiséricordieuse, aimante et douce Vierge Marie.",
 	"Extra": {
-		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte."
+		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": "Peer-Review",
+				"2020-10-27": "Second-Pass",
+				"2020-10-26": "Initial"
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-04-06 - Paul Prins: Mise à jour de cette antienne.",

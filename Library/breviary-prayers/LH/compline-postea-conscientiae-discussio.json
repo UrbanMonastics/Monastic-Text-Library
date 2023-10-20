@@ -4,6 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "\tConfíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne : mea culpa mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Virginem, omnes Angelos et Sanctos, et vos, fratres oráre pro me ad Dóminum Deum nostrum.\r\n\r\n\tMisereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.\r\n\r\nAmen",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-07-04 - Paul Prins: Moved to the Prayers section",
 		"2020-10-27 - Paul Prins: Added this prayer."

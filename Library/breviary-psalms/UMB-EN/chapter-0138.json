@@ -20,6 +20,19 @@
 		"7": "Though I walk amidst trouble, You preserve my life. [t]\r\n\tYour hand stretches out against the wrath of my enemies, [*]\r\n\tand You will save me with Your right hand.\r\n",
 		"8": "The LORD will fulfill His purposes for me. [t]\r\n\tLORD, your faithful love has no end, [*]\r\n\tdo not abandon the works of Your hands."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-15": ["Peer-Review"],
+				"2023-10-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-15 - Paul Prins: First translation based on Greek, Latin, and some Hebrew."
 	],

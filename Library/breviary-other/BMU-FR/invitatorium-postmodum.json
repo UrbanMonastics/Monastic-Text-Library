@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu, [+] viens à mon aide.[*]\r\nSeigneur, hâtez-vous de me secourir.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-02": ["Peer-Review"],
+				"2020-10-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2020-10-01 - Paul Prins: Ajout de ce texte."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

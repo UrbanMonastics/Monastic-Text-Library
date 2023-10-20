@@ -4,6 +4,25 @@
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Text": "Tonight, we strongly encourage you to pray the Marian antiphon in light of today's proper.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2022-12-06": ["Peer-Review"],
+				"2022-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2023-04-06 - Paul Prins: Updated this text.",
 		"2022-12-05 - Paul Prins: Added this text."

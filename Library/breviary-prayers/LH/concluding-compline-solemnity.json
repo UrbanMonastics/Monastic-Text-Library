@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Orémus.\r\nVísita, quǽsumus, Dómine, habitatiónem istam, et omnes  insídias inimíci ab ea longe repélle ; [t] ángeli tui ancti hábitent in ea, qui nos in pace custódiant ; [*] et benedíctio tua sit super nos semper. Per Christum Dóminum nostrum.\r\nAmen.",
 	"Extra": {
-		"BreviaryInstructions": "Vel, Tridou paschali, et in sollemnitatibus extra dominicam occurrentibus"
+		"BreviaryInstructions": "Vel, Tridou paschali, et in sollemnitatibus extra dominicam occurrentibus",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-01 - Paul Prins: Change abbreviation and add instructions.",

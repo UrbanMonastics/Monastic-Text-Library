@@ -36,6 +36,19 @@
 		"23": "Aimez le SEIGNEUR, tout son peuple saint [t]\r\n\tle SEIGNEUR garde les fidèles, [*]\r\n\tmais il récompense pleinement les orgueilleux.\r\n",
 		"24": "Fortifiez-vous, et que votre cœur s'enhardisse, [*]\r\n\tvous tous qui attendez SEIGNEUR."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-15": ["Peer-Review"],
+				"2023-08-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-08-14 - Paul Prins: Première traduction du psaume 31 basée sur le grec, le latin et un peu d'hébreu."
 	],

@@ -4,6 +4,25 @@
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Text": "Jesus invite me to Your table.\r\nAnd I will proclaim Your death until You return.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-20": [
+					"Verified",
+					"Guidelines"
+				],
+				"2022-12-05": ["Peer-Review"],
+				"2022-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Added this text."
 	],
