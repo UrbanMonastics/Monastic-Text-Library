@@ -13,6 +13,19 @@
 	},
 	"InlineTitles": {
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"022-01-29": ["Peer-Review"],
+				"2022-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-29 - Paul Prins: First translation of chapter 5:5."
 	],

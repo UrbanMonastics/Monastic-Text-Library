@@ -12,6 +12,19 @@
 	"Verses": {
 		"9": "Yet, You are in our midst, LORD. We are called by Your name. Do not leave us!"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-13": ["Peer-Review"],
+				"2022-08-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-25 - Paul Prins: Unsure where verse 9 went, I retranslated it.",
 		"2022-08-12 - Paul Prins: Initial translation of verse 9."

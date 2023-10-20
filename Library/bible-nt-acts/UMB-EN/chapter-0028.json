@@ -12,6 +12,18 @@
 		"30": "\tFor two years Paul stayed there in his own rented housing, and welcomed all who came to him, ",
 		"31": "proclaiming the Kingdom of God and teaching about the Lord Jesus Christ openly and without hindrance."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-08 - Paul Prins: First translation of verses 30-31 based on Greek."
 	],

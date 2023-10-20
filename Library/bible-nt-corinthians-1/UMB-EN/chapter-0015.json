@@ -12,6 +12,19 @@
 		"50": "\tNow I say this, siblings, that flesh and blood cannot inherit the Kingdom of God, nor does the perishable inherit the imperishable. "
 	},
 	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-12": ["Peer-Review"],
+				"2022-12-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-11 - Paul Prins: First translation of verse 50."
 	],

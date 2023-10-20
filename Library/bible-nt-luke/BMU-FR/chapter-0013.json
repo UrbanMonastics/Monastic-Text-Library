@@ -18,6 +18,19 @@
 		"18": "Paraboles du Grain de Moutarde et du Levain",
 		"22": "Porte Étroite"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-05": ["Peer-Review"],
+				"2022-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Premier traduction du chapitre 13:18-21."
 	],

@@ -19,6 +19,19 @@
 	"InlineTitles": {
 		"25": "Un Joug Agréable"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-07-21": ["Peer-Review"],
+				"2023-07-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-07-20 - Paul Prins: Premier traduction du chapitre 11:25-30."
 	],

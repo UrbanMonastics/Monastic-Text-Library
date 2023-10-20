@@ -18,6 +18,19 @@
 	"InlineTitles": {
 		"22": "Jesus Establishes the Eucharist"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-03": ["Peer-Review"],
+				"2021-10-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-10-02 - Paul Prins: First translation of chapter 12:22-26."
 	],

@@ -18,6 +18,19 @@
 	"InlineTitles": {
 		"1": "The Man Born Blind"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-07-21": ["Peer-Review"],
+				"2023-07-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-07-20 - Paul Prins: First translation of chapter 9:1-5."
 	],

@@ -20,6 +20,19 @@
 		"8": "City of Babylon, doomed to devastation,\r\n\tblessed will be they who repays you\r\n\tfor the evil you have done to us.\r\n",
 		"9": "Blessed will be the one who takes your infants\r\n\tand dashes them against the rocks."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-15": ["Peer-Review"],
+				"2023-10-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-14 - Paul Prins: First translation based on Greek, Latin, and some Hebrew."
 	],

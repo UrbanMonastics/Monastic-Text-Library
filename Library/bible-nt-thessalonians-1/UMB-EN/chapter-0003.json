@@ -12,5 +12,21 @@
 		"12": "May the Lord cause you to increase and overflow with love for each other and for everyone. Just as our love does for you. ",
 		"13": "So that He may strengthen your hearts, making them blameless and holy in the presence of our God and Father when our Lord Jesus comes with all Gods people. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins:  First Translation of verses 12-13."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

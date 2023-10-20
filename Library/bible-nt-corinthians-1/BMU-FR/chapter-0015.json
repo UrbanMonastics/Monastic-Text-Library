@@ -12,6 +12,19 @@
 		"50": "\tMaintenant, je dis ceci, fratries, que la chair et le sang ne peuvent hériter le Royaume de Dieu, ni le périssable hériter l'impérissable. "
 	},
 	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-12": ["Peer-Review"],
+				"2022-12-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-11 - Paul Prins: Premier traduction de verset 50."
 	],

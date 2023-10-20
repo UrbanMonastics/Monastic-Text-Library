@@ -15,6 +15,19 @@
 		"9": "They will pay for their punishment with eternal destruction, cast away from the presence of the Lord and from the Glory of His power. ",
 		"10": " When He comes to be glorified in His saints on that day, and to be marveled at among all who have believed. Believing because of our testimony to you.\r\n"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-30": ["Peer-Review"],
+				"2022-11-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-29 - Paul Prins: Added verses 6-7, 10 from the Greek."
 	],

@@ -12,6 +12,19 @@
 		"3": "Blessed be the God and Father of our Lord Jesus Christ. The Father of mercies and the God of all comfort. ",
 		"4": "Who comforts us no matter our troubles. May we also comfort those in any trouble with the same comfort we ourselves received from God. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-11-07": ["Peer-Review"],
+				"2021-11-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-11-07 - Paul Prins: First translation of verses 3-4 based on Greek."
 	],

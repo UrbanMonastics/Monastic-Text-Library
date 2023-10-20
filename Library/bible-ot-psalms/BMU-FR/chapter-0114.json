@@ -20,6 +20,19 @@
 		"7": "Tremble, terre, devant le Seigneur,\r\n\tdevant le Dieu de Jacob.\r\n",
 		"8": "Qui a transformé le rocher en bassins d'eau,\r\n\tet fait les eaux coule du silex."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-19 - Paul Prins: J'ai réparé verse 8. Pour the meme reason du les traduction anglais - c'est plus lisse maintenant.",
 		"2021-04-11 - Paul Prins: Première traduction du psaume 114 basée sur le grec, le latin et un peu d'hébreu."

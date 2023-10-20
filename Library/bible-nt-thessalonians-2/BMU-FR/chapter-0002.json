@@ -12,6 +12,19 @@
 		"13": "Mais nous rendons toujours grâce à Dieu pour vous, nos fratries, qui êtes profondément aimés par le Seigneur. Que Dieu vous a choisis pour être parmi les premiers à être salut par l'œuvre sanctifiante de l'Esprit, et par votre foi en la vérité. ",
 		"14": "Il vous a appelés à cela par notre évangile, afin que vous puissiez participer à la gloire de notre Seigneur Jésus-Christ. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-06-06": ["Peer-Review"],
+				"2021-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-06-05 - Paul Prins: Ajout des versets 13 et 14 du grec."
 	],

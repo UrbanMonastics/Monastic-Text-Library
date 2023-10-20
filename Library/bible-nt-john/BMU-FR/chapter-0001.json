@@ -28,6 +28,19 @@
 	"InlineTitles": {
 		"1": "La Parole s'est Faite Chair"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-16 - Paul Prins: Premier traduction du chapitre 1:1-14.",
 		"2022-12-06 - Paul Prins: Premier traduction du chapitre 1:23."

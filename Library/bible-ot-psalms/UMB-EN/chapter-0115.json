@@ -30,6 +30,19 @@
 		"17": "The dead do not praise the Lord,\r\n\tnor do any who descend into silence.\r\n",
 		"18": "But us, we will bless the Lord,\r\n\tin this moment and forever.\r\n\r\nPraise the Lord."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-11": ["Peer-Review"],
+				"2021-04-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-10 - Paul Prins: Removed Liturgical Formating from the version in the breviary, and added the 'Praise the Lord' back to the end."
 	],

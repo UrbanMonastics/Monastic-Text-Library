@@ -29,6 +29,19 @@
 	"InlineTitles": {
 		"1": "Parable of the Vineyard Workers"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-12": ["Peer-Review"],
+				"2022-12-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-12 - Paul Prins: Fix some bad grammar.",
 		"2022-12-11 - Paul Prins: First translation of chapter 20:1-16."

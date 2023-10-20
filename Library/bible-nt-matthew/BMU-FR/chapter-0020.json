@@ -29,6 +29,19 @@
 	"InlineTitles": {
 		"1": "Parabole des Travailleurs de la Vigne"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-12": ["Peer-Review"],
+				"2022-12-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-12 - Paul Prins : Fixer quelques fautes de grammaire.",
 		"2022-12-11 - Paul Prins: Premier traduction du chapitre 20:1-16."

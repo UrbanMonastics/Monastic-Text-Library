@@ -15,6 +15,19 @@
 		"26": "\tEn effet, toutes les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur jusqu'à ce qu'il vienne. "
 	},
 	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-13": ["Peer-Review"],
+				"2022-08-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-12 - Paul Prins: Premier traduction des versets 23-26."
 	],

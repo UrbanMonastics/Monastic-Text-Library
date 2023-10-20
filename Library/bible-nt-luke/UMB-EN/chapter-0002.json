@@ -17,8 +17,21 @@
 	},
 	"InlineTitles": {
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-22": ["Peer-Review"],
+				"2022-12-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
-		"2022-12-2 - Paul Prins: First translation of chapter 2:10-14."
+		"2022-12-22 - Paul Prins: First translation of chapter 2:10-14."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

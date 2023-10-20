@@ -12,6 +12,19 @@
 		"13": "But always we give thanks to God for you, our siblings, who are deeply beloved by the Lord. That God chose you to be among the first to be saved through the sanctifying work of the Spirit, and your belief in the truth. ",
 		"14": "He called you to this through our gospel, so that you might share in the glory of our Lord Jesus Christ. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-06-06": ["Peer-Review"],
+				"2021-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-06-05 - Paul Prins: Added verses 13 and 14 from the Greek."
 	],

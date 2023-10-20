@@ -30,6 +30,19 @@
 		"17": "Les morts ne louent pas les Seigneur,\r\n\tni aucun de ceux qui descendent dans le silence.\r\n",
 		"18": "Mais nous, nous bénirons le Seigneur,\r\n\tdans ce moment et pour toujours.\r\n\r\nLouez le Seigneur."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-11": ["Peer-Review"],
+				"2021-04-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-10 - Paul Prins: Removed Liturgical Formating from the version in the breviary, and added the 'Louez le Seigneur' back to the end."
 	],

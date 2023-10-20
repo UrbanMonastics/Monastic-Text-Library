@@ -20,6 +20,19 @@
 		"31": "Laissez tomber toute amertume, toute fureur, toute colère, toute clameur, toute calomnie et toute malice. ",
 		"32": "Soyez bons et tendres les uns envers les autres. Pardonnez-vous les uns aux autres, comme Dieu nous a pardonné en Christ. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-04": ["Peer-Review"],
+				"2022-06-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-08-30 - Paul Prins : Lisser la traduction des versets 26-27, 29",
 		"2022-08-12 - Paul Prins: Première traduction des versets 26-27, 29-32 basée sur le grec.",

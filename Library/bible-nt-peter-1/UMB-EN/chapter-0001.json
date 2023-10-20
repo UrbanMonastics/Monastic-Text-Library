@@ -19,6 +19,19 @@
 		"8": "Though you haven't seen him, you love him; and even though you do not see him now, you believe in him, and you rejoice with an inexpressible glorious joy. ",
 		"9": "For you are receiving the result of your faith - the salvation of souls.\r\n"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-30": ["Peer-Review"],
+				"2021-09-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-29 - Paul Prins: First translation of verses 1-9 based on Greek."
 	],

@@ -20,6 +20,19 @@
 	"InlineTitles": {
 		"14": "The Last Supper"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-07": ["Peer-Review"],
+				"2022-08-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-07 - Paul Prins: First translation of chapter 22:14-20 used during the Eucharist."
 	],

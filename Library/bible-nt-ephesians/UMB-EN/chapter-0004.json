@@ -20,6 +20,19 @@
 		"31": "Let go of all bitterness, wrath, anger, clamor, slander, and malice. ",
 		"32": "Be kind and tender with one another. Forgiving each other, just as God has forgiven us in Christ."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-04": ["Peer-Review"],
+				"2022-06-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-08-30 - Paul Prins: Smooth out translation of verses 26-27, 29",
 		"2022-08-12 - Paul Prins: First translation of verses 26-27, 29-32",

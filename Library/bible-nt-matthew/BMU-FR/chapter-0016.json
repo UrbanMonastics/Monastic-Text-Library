@@ -20,6 +20,19 @@
 	},
 	"InlineTitles": {
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-03": ["Peer-Review"],
+				"2023-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Premier traduction du chapitre 16:21-28."
 	],

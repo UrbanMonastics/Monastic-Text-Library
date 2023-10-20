@@ -18,6 +18,19 @@
 		"11": "Car quiconque s'élève sera abaissé, et quiconque s'abaisse sera élevé. »\r\n"
 	},
 	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-02": ["Peer-Review"],
+				"2023-09-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Premier traduction du chapitre 14:5-11."
 	],

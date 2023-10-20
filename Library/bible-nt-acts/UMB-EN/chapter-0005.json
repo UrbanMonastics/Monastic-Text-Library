@@ -13,6 +13,18 @@
 		"31": "He is the one exalted to the right hand of God as a Prince and Savior. To deliver repentance to Israel and the forgiveness of sins. ",
 		"32": "And we are witnesses to all of this, along with the Holy Spirit, whom God has given to those who obey Him.\" "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-04 - Paul Prins: First translation of verses 30-32 based on Greek."
 	],

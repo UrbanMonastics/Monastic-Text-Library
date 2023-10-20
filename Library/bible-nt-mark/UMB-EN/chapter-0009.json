@@ -31,6 +31,19 @@
 		"44": ["This verse is not present in the critical source we used."],
 		"46": ["This verse is not present in the critical source we used."]
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: First translation of verses 38-50."
 	],

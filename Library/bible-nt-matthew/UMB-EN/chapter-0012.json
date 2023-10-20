@@ -25,6 +25,19 @@
 	"Footnotes": {
 		"47": "Some Greek manuscripts do not include verse 47."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-07-20": ["Peer-Review"],
+				"2023-07-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-07-19 - Paul Prins: First translation of chapter 12:34-37, 46-50"
 	],

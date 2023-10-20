@@ -30,6 +30,19 @@
 		"17": "They surround me like a flood all day long,\r\n\tthey close in on me from everywhere.\r\n",
 		"18": "You have taken my lover and friends far from me,\r\n\tnow, darkness is my closest friend."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-10-31": ["Peer-Review"],
+				"2022-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-10-30 - Paul Prins: Removed Liturgical Formatting from the version in the breviary."
 	],

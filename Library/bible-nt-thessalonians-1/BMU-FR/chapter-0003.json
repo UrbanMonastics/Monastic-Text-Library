@@ -12,5 +12,21 @@
 		"12": "Que le Seigneur vous fasse grandir et déborder d'amour les uns pour les autres et pour tous. Juste comme notre amour le fait pour vous. ",
 		"13": "Afin qu'il puisse fortifier vos cœurs, les rendant irréprochables et saints en présence de notre Dieu et Père lorsque notre Seigneur Jésus viendra avec tout les peuple de Dieu. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins:  Premier traduction des versets 12-13."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

@@ -19,6 +19,19 @@
 	"InlineTitles": {
 		"1": "Jean Baptiste Prépare le Chemin"
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-26": ["Peer-Review"],
+				"2022-11-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-25 - Paul Prins: Premier traduction du chapitre 3:1-6."
 	],

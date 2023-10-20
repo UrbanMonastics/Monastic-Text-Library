@@ -23,6 +23,21 @@
 		"10": "For You will not abandon me to Sheol,\r\n\tnor will You let Your holy one rot in the pit of death.\r\n",
 		"11": "You will show me the way of life;\r\n\tin Your presence is joy perfected;\r\n\tin Your right hand are pleasures forever."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-27": ["Peer-Review"],
+				"2023-08-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
 	"Changes": [
 		"2023-10-19 - Jordan Prins: Fix punctuation in verse 4.",
 		"2023-08-26 - Paul Prins: First translation of psalm 16 based on Greek, Latin, and some Hebrew"

@@ -14,6 +14,19 @@
 	},
 	"InlineTitles": {
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-12": ["Peer-Review"],
+				"2022-12-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-12 - Paul Prins: First translation of chapter 13:45-46."
 	],

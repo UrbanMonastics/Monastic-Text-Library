@@ -20,6 +20,19 @@
 		"7": "Tremble, earth, before the Lord,\r\n\tbefore the God of Jacob.\r\n",
 		"8": "Who turned the rock into pools of water,\r\n\tand made waters spring forth from flint."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-19 - Paul Prins: Cleaned up verse 8. It was feeling very stiff and mechanical. Couldn't stop thinking about it.",
 		"2021-04-11 - Paul Prins: First translation of psalm 114 based on Greek, Latin, and some Hebrew."

@@ -30,6 +30,19 @@
 		"17": "Elles m'entourent comme un torrent tout le jour,\r\n\tde partout, elles se rapprochent de moi.\r\n",
 		"18": "Tu as éloigné de moi mon amant et mes amis,\r\n\tmaintenant, mon ami plus proche, c'est la ténèbre."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-10-31": ["Peer-Review"],
+				"2022-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-10-30 - Paul Prins : Supprimé le formatage liturgique de la version dans le bréviaire."
 	],

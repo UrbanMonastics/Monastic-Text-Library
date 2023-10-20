@@ -15,6 +15,19 @@
 		"26": "\tFor as often as you eat this bread, and drink the cup, you proclaim the Lord's death until He comes. "
 	},
 	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-13": ["Peer-Review"],
+				"2022-08-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-12 - Paul Prins: First translation of verses 23-26."
 	],

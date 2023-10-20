@@ -16,6 +16,19 @@
 		"23": "Que le Dieu de paix lui-même vous sanctifie entièrement. Que votre esprit, votre âme et votre corps soient complètement préservés et sans tache à l'avènement de notre Seigneur Jésus-Christ. ",
 		"24": "Celui qui vous appelle est fidèle, et il ira jusqu'au bout. "
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-12": ["Peer-Review"],
+				"2022-08-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-08-30 - Paul Prins : Affiner le langage dans les versets 4-5, 9, 23-24",
 		"2022-08-11 - Paul Prins: Première traduction du chapitre 5:4-5, 9-10, 23-24."

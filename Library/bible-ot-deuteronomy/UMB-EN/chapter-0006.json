@@ -18,8 +18,21 @@
 		"6": "These words, which I am commanding you this day, shall be on your heart. ",
 		"7": "And you should repeat them regularly to your children. Talk of them when you rest in your home, and when you walk on the road, when you lie down, and when you get up."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-06": ["Peer-Review"],
+				"2021-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-08-05 - Paul Prins: First translation of chapter 6:1-7"
 	],
-	"License": "© 2021 Monastiques Urbain, Paris"
+	"License": "© 2021 Urban Monastics, Paris"
 }
