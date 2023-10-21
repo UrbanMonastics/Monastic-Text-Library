@@ -13,7 +13,7 @@
 	"Verses": {
 		"1": "LORD, the God of my salvation, [*]\r\n\tI weep before You day and night.\r\n",
 		"2": "Let my prayer come before You, [*]\r\n\tgive Your ear to my cry.\r\n\r\n",
-		"3": "For my soul is overwhelmed by troubles, [*]\r\n\tand my life is nearly lost to Sheol.\r\n",
+		"3": "For troubles have overwhelmed my soul, [*]\r\n\tand my life is nearly lost to Sheol.\r\n",
 		"4": "I have joined those descending to the pit, [*]\r\n\tlike one whose strength has failed.\r\n\r\n",
 		"5": "Abandoned among the dead, [*]\r\n\tlike the slain lying in the grave,\r\nthose You no longer remember, [*]\r\n\texcluded and cut off from Your hand.\r\n\r\n",
 		"6": "You have put me in the deepest pit, [*]\r\n\tinto the darkness and the depths.\r\n",
@@ -40,10 +40,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2023-10-20": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2023-10-21 - Paul Prins: Rephrased verse 3 to rhyme more.",
 		"2022-10-29 - Paul Prins: Updated verse 4 to fix awkward flow and confusion.",
 		"2022-10-28 - Paul Prins: First translation of psalm 88 based on Greek, Latin, and some Hebrew"
 	],
