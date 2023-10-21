@@ -4,9 +4,22 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Christum Dóminum pro nobis tentátum et passum, veníte, adorémus.",
-	"Description": "Invitatory antiphon from ash wednesday until saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
 	"Extra": {
-		"BreviaryInstructions": ""
+		"BreviaryInstructions": "Invitatory antiphon from ash wednesday until saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

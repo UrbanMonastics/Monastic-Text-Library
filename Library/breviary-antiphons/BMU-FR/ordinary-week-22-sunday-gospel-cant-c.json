@@ -9,7 +9,18 @@
 	},
 	"Text": "Car quiconque s'élève [*] sera abaissé, et quiconque s'abaisse sera élevé, dit le Seigneur.",
 	"Extra": {
-		"Reference": ["Luke 14:11"]
+		"Reference": ["Luke 14:11"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-03": ["Peer-Review"],
+				"2023-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Traduit cette Antiphone."

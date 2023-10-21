@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Ô Adonaï, [*] chef de la maison d'Israël,\r\nqui apparut à Moïse dans le feu du buisson ardent,\r\net lui a donné la loi au Sinaï.\r\nViens, délivre-nous de ton bras tendu.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-19": ["Peer-Review"],
+				"2022-12-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-18 - Paul Prins: Traduit cette Antiphone."
 	],

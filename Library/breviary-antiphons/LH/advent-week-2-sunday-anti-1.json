@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Confortáte [*] manus dissolútas; confortámini, dícite: Ecce Deus noster véniet et salvábit nos, allelúia.",
 	"Extra": {
-		"Reference": ["Isaiah 35:3-4"]
+		"Reference": ["Isaiah 35:3-4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: Added this Antiphon."

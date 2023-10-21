@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Seigneur [*] est notre juge, le Seigneur est notre Roi. Il viendra et nous sauvera.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: Premier traduction du cette Antiphone"
 	],

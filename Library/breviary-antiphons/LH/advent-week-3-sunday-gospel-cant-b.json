@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Ego vox [*] clamántis in desérto: Dirígite viam Dómini, sicut dixit Isaías prophéta.",
 	"Extra": {
-		"Reference": ["John 1:23"]
+		"Reference": ["John 1:23"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-07": ["Peer-Review"],
+				"2021-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Added this Antiphon."

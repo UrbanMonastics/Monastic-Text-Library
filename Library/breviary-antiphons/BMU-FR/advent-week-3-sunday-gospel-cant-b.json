@@ -8,7 +8,20 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Je suis la voix de celui qui crie dans le sauvage. « Aplanissez le chemin du Seigneur, » comme l'a dit le prophète Isaïe.",
-	"Reference": ["Jean 1:23"],
+	"Extra": {
+		"Reference": ["Jean 1:23"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Premier traduction du cette Antiphone"
 	],

@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Demeurez dans [*] mon amour ; celui qui demeure en moi, je demeure moi aussi en lui. Alléluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

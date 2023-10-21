@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Que mon âme t'exalte à jamais [*], mon Dieu.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

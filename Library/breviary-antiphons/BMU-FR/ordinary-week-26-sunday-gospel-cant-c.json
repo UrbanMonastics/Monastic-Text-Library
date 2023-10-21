@@ -9,7 +9,18 @@
 	},
 	"Text": "Cet homme riche [*] qui a demandé à Lazare une goutte d'eau est le même qui lui avait refusé des miettes de son pain.",
 	"Extra": {
-		"Reference": ["Luke 16:19-31"]
+		"Reference": ["Luke 16:19-31"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Traduit cette Antiphone."

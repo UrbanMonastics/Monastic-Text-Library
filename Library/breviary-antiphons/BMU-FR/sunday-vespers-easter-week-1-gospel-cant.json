@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "C'était le soir du premier jour de la semaine. Les disciples s'étaient enfermés dans la pièce où ils se trouvaient. Jésus se tenait au milieu d’eux. Il leur dit: « La paix soit avec vous »! Alléluia",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

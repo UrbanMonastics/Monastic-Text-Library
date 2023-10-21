@@ -8,6 +8,22 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Quiconque a soif, [*] qu'il vienne à moi et qu'il boive: et l'eau vive jaillira du profondément de leur eux-mêmes.",
-	"Description": "Based on John 7:38",
+	"Extra": {
+		"Reference": ["Jean 7:38"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

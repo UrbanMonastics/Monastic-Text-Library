@@ -4,6 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Salva nos, [*] Dómine, vigilántes, custódi nos dormiéntes, ut vigilémus cum Christo et requiescámus in pace.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2020-10-27 - Paul Prins: Added this Antiphone."
 	],

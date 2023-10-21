@@ -8,7 +8,18 @@
 		"Reference": [
 			"Matthew 15:11",
 			"Mark 7:15"
-		]
+		],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-03": ["Peer-Review"],
+				"2023-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-02 Paul Prins: Added this Antiphon."

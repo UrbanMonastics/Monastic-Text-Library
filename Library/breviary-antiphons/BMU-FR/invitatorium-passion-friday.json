@@ -9,5 +9,21 @@
 	},
 	"Text": "Christ, fils de Dieu, nous a rachetés par son sang : venez, adorons-le.",
 	"Description": "Invitatory antiphon from Good Friday.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

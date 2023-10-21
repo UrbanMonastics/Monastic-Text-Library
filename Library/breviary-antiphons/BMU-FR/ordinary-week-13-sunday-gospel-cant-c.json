@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Les renards ont des terriers, [*] et les oiseaux du ciel ont des nids, mais le Fils de l'homme n'a pas d'endroit où poser sa tête.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
 	],

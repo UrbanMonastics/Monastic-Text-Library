@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Vous aussi, [*] quand vous aurez fait tout ce que Dieu vous a commandé, vous vous direz : « Nous sommes des serviteurs inutiles : nous n'avons fait que ce que nous devions faire. »",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-30 - Paul Prins: Traduit cette Antiphone."
 	],

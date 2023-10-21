@@ -9,7 +9,18 @@
 	},
 	"Text": "Aussitôt, Jésus [*] tendit la main, le saisit et lui dit : « Toi, petit de foi, pourquoi as-tu douté ?»",
 	"Extra": {
-		"Reference": ["Matthieu 14:31"]
+		"Reference": ["Matthieu 14:31"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Traduit cette Antiphone."

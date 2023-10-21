@@ -9,7 +9,18 @@
 	},
 	"Text": "Jésus vit la foule vaste. [*] Il a eu pitié envers eux, parce qu'ils étaient comme des brebis sans berger.",
 	"Extra": {
-		"Reference": ["Matthieu 9:36"]
+		"Reference": ["Matthieu 9:36"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-17": ["Peer-Review"],
+				"2021-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-16 - Paul Prins: Traduit cette Antiphone."

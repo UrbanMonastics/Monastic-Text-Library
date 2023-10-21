@@ -4,9 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Qui vult veníre post me, [*] ábneget semetípsum et tollat crucem suam et sequátur me, dicit Dóminus.",
-	"Description": "Based on Matthew 16:24",
 	"Extra": {
-		"Reference": ["Matthew 16:24"]
+		"Reference": ["Matthew 16:24"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-19": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: Added this Antiphone."

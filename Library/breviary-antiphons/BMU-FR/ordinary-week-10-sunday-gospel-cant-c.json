@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "La peur les a saisis, et ils ont rendu gloire à Dieu : « Un grand prophète s'est levé parmi nous, et Dieu a visité son peuple. »",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

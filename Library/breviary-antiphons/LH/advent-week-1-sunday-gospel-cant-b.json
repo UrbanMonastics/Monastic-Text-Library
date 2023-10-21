@@ -5,7 +5,17 @@
 	"Version": "LH",
 	"Text": "Ne tímeas, María, [*] invenísti grátiam apud Dóminum: ecce concípies et páries Fílium, allelúia.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: Added this Antiphon."

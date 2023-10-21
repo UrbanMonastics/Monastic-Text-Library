@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Ave, [*] Regina cælórum, ave, Dómina Angelórum,\r\nsalve, radix, salve, porta, ex qua mundo lux est orta.\r\nGuade, Virgo gloriósa, super omnes speciósa ;\r\nvale, o valde decóra, et pro nobis Christum [*] exóra. ",
 	"Extra": {
-		"BreviaryInstructions": "A diei 2 Februarii per Quadragesimam"
+		"BreviaryInstructions": "A diei 2 Februarii per Quadragesimam",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-06 - Paul Prins: Added breviary instructions.",

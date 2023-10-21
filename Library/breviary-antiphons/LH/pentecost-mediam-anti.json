@@ -4,7 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Spíritus Sanctus, [*] procédens a throno, apostolórum péctoraa invisibíliter penetrávit, allelúia.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-19": ["Peer-Review"],
+				"2022-06-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-18 - Paul Prins: Added this Antiphone."
 	],

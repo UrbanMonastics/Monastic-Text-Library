@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Il nous a choisis en Christ [*] avant le commencement du monde, afin que nous soyons saints et sans blâme devant Dieu, dans l'amour.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

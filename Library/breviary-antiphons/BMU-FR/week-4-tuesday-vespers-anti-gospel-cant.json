@@ -9,7 +9,18 @@
 	},
 	"Text": "Le Seigneur a connu [*] mon humilité, et le Puissant fit pour moi des choses merveilleuses.",
 	"Extra": {
-		"Reference": ["Luc 1:48-49"]
+		"Reference": ["Luc 1:48-49"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Traduit cette Antiphone."

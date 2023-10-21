@@ -5,7 +5,17 @@
 	"Version": "LH",
 	"Text": "O Rex géntium [*] et desidrátus eárum,\r\nlapísque anguláris qui facis útraque unnum :\r\nveni, salva hóminem,\r\nquem de limo formásti.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-18": ["Peer-Review"],
+				"2022-12-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-12-17 - Paul Prins: Added this Antiphon."

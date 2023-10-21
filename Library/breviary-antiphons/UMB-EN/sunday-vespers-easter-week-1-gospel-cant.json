@@ -7,6 +7,22 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "It was evening of the first day of the week. The disciples had locked themselves in the room where they were. Jesus stood in their midst. He said to them, \"Peace be with you!\" Alléluia.",
+	"Text": "It was evening of the first day of the week. The disciples had locked themselves in the room where they were. Jesus stood in their midst. He said to them, \"Peace be with you!\" Alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: Added this text."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

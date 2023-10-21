@@ -7,6 +7,22 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Quickly, [*] go tell the others, alléluia, they must go to Galilee; they shall see me there, alléluia alléluia alléluia.",
+	"Text": "Quickly, [*] go tell the others, alleluia, they must go to Galilee; they shall see me there, alleluia alleluia alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: Added this text."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

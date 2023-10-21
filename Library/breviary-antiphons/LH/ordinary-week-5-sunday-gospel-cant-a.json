@@ -4,7 +4,20 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Vos estis sal terræ; [*] quod si sal evanúerit, in qou saliétur?",
-	"Description": "Matthew 5:13",
+	"Extra": {
+		"Reference": ["Matthew 5:13"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-30": ["Peer-Review"],
+				"2022-01-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-29 - Paul Prins: Added this Antiphone."
 	],

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Annoncez [*] à tout le peuple et dites : Voici que vient notre Dieu et Sauveur.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
 	],

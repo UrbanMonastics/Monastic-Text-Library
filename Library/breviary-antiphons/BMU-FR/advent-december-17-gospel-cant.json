@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-4-tuesday-vespers-anti-1",
+	"TextAbbreviation": "advent-december-17-gospel-cant",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,14 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Chantez pour nous ! [*] Chantez-nous un des chants de Sion !",
+	"Text": "",
 	"Extra": {
-		"Reference": ["Psalm 137:3"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2023-10-15": ["Peer-Review"],
-				"2023-10-14": [
+				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-DD": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -23,7 +22,7 @@
 		}
 	},
 	"Changes": [
-		"2023-10-14 - Paul Prins: Traduit cette Antiphone."
+		"2022-12-18 - Paul Prins: Traduit cette Antiphone."
 	],
-	"License": "© 2023 Monastiques Urbain, Paris"
+	"License": "© 2022 Monastiques Urbain, Paris"
 }

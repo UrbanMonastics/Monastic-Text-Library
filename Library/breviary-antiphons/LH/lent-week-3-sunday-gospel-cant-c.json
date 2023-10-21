@@ -4,5 +4,21 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Peccáta mea, [*] Dómine, sicut sagittæ infíxa sunt in me; sed ántequam vúlnera génerent in me, sana me, Dómine, medicaménto pæniténtiæ, Deus.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

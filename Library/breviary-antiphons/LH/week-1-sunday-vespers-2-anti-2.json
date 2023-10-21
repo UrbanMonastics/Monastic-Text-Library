@@ -4,5 +4,21 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Ex Ægypto [*] eduxís nos, Dómine.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-11-18": ["Peer-Review"],
+				"2021-11-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-11-17 - Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

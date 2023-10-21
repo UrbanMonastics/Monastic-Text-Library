@@ -9,7 +9,18 @@
 	},
 	"Text": "« Plusieurs qui sont [*] premiers seront derniers, et les derniers seront premiers » : a dit Jésus.",
 	"Extra": {
-		"Reference": ["Matthew 19:30"]
+		"Reference": ["Matthew 19:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Traduit cette Antiphone."

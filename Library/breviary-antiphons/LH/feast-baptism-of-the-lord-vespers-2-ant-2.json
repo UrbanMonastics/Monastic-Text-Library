@@ -4,7 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Caput dracónis Salvátor [*] contéruit in Iordáne flúmine, ab eius potestáte omnes erípuit.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: Added this Antiphon."
 	],

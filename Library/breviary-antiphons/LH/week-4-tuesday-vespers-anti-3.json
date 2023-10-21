@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Dignus est Agnus, [*] qui pro nobis occísus est et resurréxit, accípere librum et sólvere illum.",
 	"Extra": {
-		"Reference": ["Revelation 5"]
+		"Reference": ["Revelation 5"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Added this Antiphon."

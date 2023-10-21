@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Elle se dit en elle-même : [*] « Si je touche seulement le bord de Son vêtement, je serai sauvée. »",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: Traduit cette Antiphone."
 	],

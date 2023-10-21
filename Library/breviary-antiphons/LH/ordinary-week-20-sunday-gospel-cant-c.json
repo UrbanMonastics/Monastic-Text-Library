@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Putátis [*] quia pacem veni dare in terram? Non, dico vobis, sed separatiónem.",
 	"Extra": {
-		"Reference": ["Luke 12:51"]
+		"Reference": ["Luke 12:51"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-11": ["Peer-Review"],
+				"2022-08-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-10 Paul Prins: Added this Antiphon."

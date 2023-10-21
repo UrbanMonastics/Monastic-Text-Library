@@ -7,6 +7,22 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "You have seen me, [*] Thomas, and believed. Blessed are those that have not seen and yet believe, allelúia.",
+	"Text": "You have seen me, [*] Thomas, and believed. Blessed are those that have not seen and yet believe, alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: Added this text."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

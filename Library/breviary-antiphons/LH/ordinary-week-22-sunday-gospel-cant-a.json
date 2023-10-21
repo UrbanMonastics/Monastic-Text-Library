@@ -9,7 +9,18 @@
 			"Matthew 16:25",
 			"Mark 8:35",
 			"Luke 9:24"
-		]
+		],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-03": ["Peer-Review"],
+				"2023-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-02 Paul Prins: Added this Antiphon."

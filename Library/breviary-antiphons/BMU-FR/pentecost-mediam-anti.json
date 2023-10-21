@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "L'Esprit Saint, [*] venu du trône de Dieu, a pénétré mystérieusement dans le cœur des Apôtres, alléluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-19": ["Peer-Review"],
+				"2022-06-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-18 - Paul Prins: Traduit cette Antiphone."
 	],

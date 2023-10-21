@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Sauveur a écrasé [*] la tête du serpent au bord du Jourdain. Pour que tous puissent être libérés de son pouvoir.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: Premier traduction du cette antiphone."
 	],

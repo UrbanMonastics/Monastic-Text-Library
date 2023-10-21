@@ -4,5 +4,21 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Dixit Iesus [*] discípulis suis: Afférte de píscibus quos prendidístis nunc. Ascéndit autem Simon Petrus et traxit rete in terram, plenum magnis píscibus, allelúia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2022-04-30 - Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

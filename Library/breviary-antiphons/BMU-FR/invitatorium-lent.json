@@ -9,5 +9,21 @@
 	},
 	"Text": "Aujourd'hui, ne laissons pas notre cœur s'endurcir, mais écoutons la voix du Seigneur.",
 	"Description": "Invitatory antiphon from ash Wednesday until Saturday 5th week of Lent. [Option 2/2] We're using in on Tuesday and Thursday (so it is read the morning Jesus is betrayed)",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

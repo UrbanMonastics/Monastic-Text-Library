@@ -10,7 +10,18 @@
 	"Text": "Que ton chemin, Seigneur, [*] soit connu sur la terre. Ton salut parmi toutes les nations.",
 	"Extra": {
 		"Reference": ["Psalm 67:2"],
-		"Needs Revision": "TODO: When Psalm 67 is translated this antiphon needs review/revision."
+		"Needs Revision": "TODO: When Psalm 67 is translated this antiphon needs review/revision.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Traduit cette Antiphone."

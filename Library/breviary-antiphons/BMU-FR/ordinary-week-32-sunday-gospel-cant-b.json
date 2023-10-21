@@ -9,7 +9,18 @@
 	},
 	"Text": "Cette pauvre veuve, [*] de sa pauvreté, a donné tout ce qu'elle avait pour vivre.",
 	"Extra": {
-		"Reference": ["Marc 12:43-44"]
+		"Reference": ["Marc 12:43-44"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-06": ["Peer-Review"],
+				"2022-11-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-11-05 - Paul Prins: Traduit cette Antiphone."

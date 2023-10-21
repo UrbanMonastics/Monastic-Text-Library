@@ -9,7 +9,18 @@
 	},
 	"Text": "« Si deux [*] d'entre vous s'accordent sur une chose sur la terre, cela leur sera fait par mon Père qui est dans les cieux », dit le Seigneur.",
 	"Extra": {
-		"Reference": ["Matthew 18"]
+		"Reference": ["Matthew 18"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins: Ajouter une référence aux metadata.",

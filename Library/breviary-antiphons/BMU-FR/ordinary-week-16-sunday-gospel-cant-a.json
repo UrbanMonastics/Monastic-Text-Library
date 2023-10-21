@@ -9,7 +9,18 @@
 	},
 	"Text": "« Ramassez [*] d'abord les mauvaises herbes et liez-les en bottes pour les brûler. Puis recueillerez le blé dans ma grange, » dit le Seigneur.",
 	"Extra": {
-		"Reference": ["Matthieu 13:30"]
+		"Reference": ["Matthieu 13:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-17": ["Peer-Review"],
+				"2021-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-16 - Paul Prins: Traduit cette Antiphone."

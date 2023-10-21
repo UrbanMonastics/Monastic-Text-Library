@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Bénie es-tu, Marie, [*] toi qui as cru. En toi s'accompliront les paroles que le Seigneur t'a dites, alléluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: Traduit cette Antiphone."
 	],

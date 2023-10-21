@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Mes fratries, [*] si vous désirez être vraiment riches, alors aimez ce qui est vraiment riche pour l'éternité.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-02": ["Peer-Review"],
+				"2021-08-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-07-31 - Paul Prins: Lissé le flux de la deuxième moitié",
 		"2021-08-01 - Paul Prins: Traduit cette Antiphone."

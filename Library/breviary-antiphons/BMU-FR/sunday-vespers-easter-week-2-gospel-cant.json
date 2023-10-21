@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Tu m'as vu, [*] Thomas, et tu crois. Heureux ceux qui n'ont pas vu et croient encore, allelúia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

@@ -4,5 +4,20 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Allelúia, Allelúia, Allelúia.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-01-01": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

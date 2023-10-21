@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Creatúra omnis [*] laudet Dómninum : quia ipse dixit, et facta sunt ómnia; mandávit, et creáta sunt, allelúja.",
 	"Extra": {
-		"Reference": ["Revelation 5"]
+		"Reference": ["Revelation 5"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Added this Antiphon."

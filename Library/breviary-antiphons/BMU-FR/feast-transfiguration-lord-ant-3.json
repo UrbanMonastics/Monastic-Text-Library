@@ -9,7 +9,18 @@
 	},
 	"Text": "Seigneur, [*] il est bon que nous soyons ici. Si tu le veux, je ferai ici trois tabernacles : un pour toi, un pour Moïse et un pour Élie. Un pour toi, un pour Moïse et un pour Élie.",
 	"Extra": {
-		"Reference": ["Matthew 17:4"]
+		"Reference": ["Matthew 17:4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-07": ["Peer-Review"],
+				"2023-08-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-08-06 - Paul Prins: Première traduction de cette Antienne."

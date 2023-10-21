@@ -9,7 +9,18 @@
 	},
 	"Text": "Il vaut mieux [*] entrer dans la vie mutilé que d'aller dans les feux inextinguibles de la Géhenne avec deux mains.",
 	"Extra": {
-		"Reference": ["Mark 9:43"]
+		"Reference": ["Mark 9:43"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Traduit cette Antiphone."

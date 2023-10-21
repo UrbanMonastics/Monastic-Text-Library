@@ -6,7 +6,18 @@
 	"Text": "Christus nobis dicit [*] in evangélio: Qui non renúntiat ómnibus quae póssidet, non potest esse meus discípulus.",
 	"Description": "Based on Luke 14:33. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle C.",
 	"Extra": {
-		"Reference": ["Luke 14:33"]
+		"Reference": ["Luke 14:33"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 Paul Prins: Added Reference.",

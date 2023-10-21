@@ -4,9 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Collígite [*] primum zizánia et alligáte ea in fascículos ad comburéndum; tríticum autem congregáte in hórreum meum, dicit Dóminus.",
-	"Description": "From Matthew 13:30b",
 	"Extra": {
-		"Reference": ["Matthew 13:30"]
+		"Reference": ["Matthew 13:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-17": ["Peer-Review"],
+				"2022-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-16 - Paul Prins: Added this Antiphon."

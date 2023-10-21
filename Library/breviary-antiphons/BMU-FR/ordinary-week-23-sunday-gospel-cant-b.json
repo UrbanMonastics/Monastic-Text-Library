@@ -9,7 +9,18 @@
 	},
 	"Text": "Pendant que le Seigneur passait [*] dans la région de Tyr, Il fit entendre les sourds et parler les muets.",
 	"Extra": {
-		"Reference": ["Marc 7:31-37"]
+		"Reference": ["Marc 7:31-37"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins: Ajouter une référence aux metadata.",

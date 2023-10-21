@@ -9,7 +9,18 @@
 	},
 	"Text": "Et pendant qu'elles allaient acheter leur huile, [*] l'époux arriva, et ceux qui étaient prêts allèrent avec lui aux noces.",
 	"Extra": {
-		"Reference": ["Matthieu 25:10"]
+		"Reference": ["Matthieu 25:10"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-06": ["Peer-Review"],
+				"2022-11-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-11-05 - Paul Prins: Traduit cette Antiphone."

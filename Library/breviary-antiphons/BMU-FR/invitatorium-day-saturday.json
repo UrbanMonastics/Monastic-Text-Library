@@ -9,5 +9,21 @@
 	},
 	"Text": "Nous célébrons Marie, Mère de Jésus, et adorons le Christ, son fils, notre Seigneur.",
 	"Description": "Invitatory antiphon for Saturday in ordinary time.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

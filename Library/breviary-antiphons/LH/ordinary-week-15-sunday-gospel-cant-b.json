@@ -4,12 +4,22 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Egréssi [*] duódecim apóstoli circuíbant per castélla, evangelizántes et curántes ubíque.",
-	"Description": "Paraphrase from Mark 6:7-13 & Matthew 10",
 	"Extra": {
 		"Reference": [
 			"Mark 6:7-13",
 			"Matthew 10"
-		]
+		],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-06-20 - Paul Prins: Added this Antiphon."

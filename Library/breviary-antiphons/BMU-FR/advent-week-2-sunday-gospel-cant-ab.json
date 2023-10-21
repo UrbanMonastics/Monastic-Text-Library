@@ -9,7 +9,18 @@
 	},
 	"Text": "Celui qui vient [*] est plus puissant que moi. Celui dont la courroie des sandales je suis indigne de délier.",
 	"Extra": {
-		"Reference": ["Luc 3:16"]
+		"Reference": ["Luc 3:16"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Mise à jour cette Antiphone.",

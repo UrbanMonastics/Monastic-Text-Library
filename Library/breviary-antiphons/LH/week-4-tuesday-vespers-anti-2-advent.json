@@ -5,7 +5,17 @@
 	"Version": "LH",
 	"Text": "Urbs [*] fortitúdinis nostræ Sion, Salvátor ponétur in ea murus et antemurále. Aperíte portas, quia nobíscum Deus, allelúia.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-16": ["Peer-Review"],
+				"2023-10-15": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-15 - Paul Prins: Added this Antiphon."

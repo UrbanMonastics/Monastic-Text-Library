@@ -12,7 +12,18 @@
 		"Reference": [
 			"Marc 6:7-13",
 			"Matthieu 10"
-		]
+		],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-15": ["Peer-Review"],
+				"2021-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Traduit cette Antiphone."

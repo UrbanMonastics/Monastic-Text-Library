@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Quand arriva [*] le jour de la Pentecôte, tous étaient ensemble et chantaient : Alléluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-08": ["Peer-Review"],
+				"2022-05-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-05-07 - Paul Prins: Traduit cette Antiphone."
 	],

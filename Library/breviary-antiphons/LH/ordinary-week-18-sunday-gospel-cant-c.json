@@ -6,7 +6,18 @@
 	"Text": "Si vere, fratres, [*] dívites esse cúpitis, veras divítias amáte.",
 	"Description": "Might be in reference to 1 Timothy 6:9",
 	"Extra": {
-		"Reference": ["1 Timothy 6:9"]
+		"Reference": ["1 Timothy 6:9"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-02": ["Peer-Review"],
+				"2021-08-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 Paul Prins: Added Reference.",

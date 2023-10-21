@@ -5,7 +5,17 @@
 	"Version": "LH",
 	"Text": "Illum quæro, [*] qui pro nobis mórtuus est; illum volo qui propter nos resurréxit.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Added this Antiphon."

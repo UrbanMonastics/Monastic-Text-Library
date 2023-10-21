@@ -9,7 +9,18 @@
 	},
 	"Text": "« À vous, [*] j'ai donné la connaissance des mystères du Royaume de Dieu. Aux autres, j'ai parlé en paraboles : » dit Jésus à ses disciples.",
 	"Extra": {
-		"Reference": ["Luc 8:10"]
+		"Reference": ["Luc 8:10"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-15": ["Peer-Review"],
+				"2021-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Traduit cette Antiphone."

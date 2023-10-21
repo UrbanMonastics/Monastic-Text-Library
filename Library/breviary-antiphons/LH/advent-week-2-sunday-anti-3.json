@@ -4,6 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Dominus [*] légifer noster, Dóminus rex noster, ipse véniet et salvábit nos.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: Added this Antiphon."
 	],

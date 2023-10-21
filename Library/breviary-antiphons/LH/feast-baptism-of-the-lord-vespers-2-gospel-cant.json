@@ -4,7 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Christus Iesus [*] diléxit nos et lavit nos a peccátis nostris in sánguine suo et fecit nos regnum et sacerdótes Deo et Patri suo. Ipsi glória et impérium in sǽcula.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: Added this Antiphon."
 	],

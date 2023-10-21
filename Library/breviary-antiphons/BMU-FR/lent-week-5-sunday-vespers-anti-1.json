@@ -8,8 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
-		"2022-01-29 - Paul Prins: First translation of this prayer."
+		"2022-01-29 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

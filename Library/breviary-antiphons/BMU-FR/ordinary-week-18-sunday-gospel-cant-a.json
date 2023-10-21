@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Avec cinq pains [*] et deux poissons, le Seigneur rassasai cinq mille personnes.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-02": ["Peer-Review"],
+				"2021-08-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-08-01 - Paul Prins: Traduit cette Antiphone."
 	],

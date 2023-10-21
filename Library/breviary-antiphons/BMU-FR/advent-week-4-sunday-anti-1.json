@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Regardez ! Il vient, [*] celui que les peuples désirent ! La maison du Seigneur sera remplie de gloire, alléluia !",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-17": ["Peer-Review"],
+				"2022-12-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-16 - Paul Prins: Premier traduction du cette Antiphone"
 	],

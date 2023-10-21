@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Laissez venir [*] à moi les petits, car le Royaume des Cieux est à ceux qui leur ressemblent.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-30 - Paul Prins: Traduit cette Antiphone."
 	],

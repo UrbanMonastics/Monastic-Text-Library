@@ -4,9 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Vobis datum est [*] nosse mystérium regni Dei, céteris autem in parábolis, dixit Iesus discípulis suis.",
-	"Description": "From Luke 8:10a",
 	"Extra": {
-		"Reference": ["Luke 8:10"]
+		"Reference": ["Luke 8:10"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-06-20 - Paul Prins: Added this Antiphon."

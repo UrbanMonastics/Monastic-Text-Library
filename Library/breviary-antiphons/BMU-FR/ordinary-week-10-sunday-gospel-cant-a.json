@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "C'est la miséricorde que je veux, et non le sacrifice. Je ne suis pas venu appeler les justes, mais les pécheurs.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Traduit cette Antiphone."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

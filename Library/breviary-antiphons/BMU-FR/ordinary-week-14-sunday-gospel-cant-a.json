@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Nous te [*] louons, Père, Seigneur du ciel et de la terre. Ce que tu as caché aux sages et aux prudents, tu l'as révélé aux tout-petits.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-05": ["Peer-Review"],
+				"2021-07-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-07-04 - Paul Prins: Traduit cette Antiphone."
 	],

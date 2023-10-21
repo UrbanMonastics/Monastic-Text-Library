@@ -9,7 +9,18 @@
 	},
 	"Text": "Un homme [*] descendait de Jérusalem à Jéricho lorsqu'il rencontra des bandits qui le dépouillèrent et le battirent. Ils ont poursuivi leur chemin et l'ont laissé à moitié mort.",
 	"Extra": {
-		"Reference": ["Luc 10:30"]
+		"Reference": ["Luc 10:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-15": ["Peer-Review"],
+				"2021-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Traduit cette Antiphone."

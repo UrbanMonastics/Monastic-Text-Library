@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Dives ille [*] guttam aquæ pétiit, qui micas panis Lázaro negávit.",
 	"Extra": {
-		"Reference": ["Luke 16:19-31"]
+		"Reference": ["Luke 16:19-31"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-30 Paul Prins: Added this Antiphon."

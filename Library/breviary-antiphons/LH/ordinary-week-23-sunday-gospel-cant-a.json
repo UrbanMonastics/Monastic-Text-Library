@@ -6,7 +6,18 @@
 	"Text": "Si duo [*] ex vobis consénserint super terram, de omni re quamcúmque petíerint, fiet illis a Patre meo, dicit Dóminus.",
 	"Description": "Based on Matthew 18. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle A.",
 	"Extra": {
-		"Reference": ["Matthew 18"]
+		"Reference": ["Matthew 18"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 Paul Prins: Added Reference.",

@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Ut cognoscámus, Dómine, [*] in terra viam tuam, in ómnibus géntibus salutáre tuum.",
 	"Extra": {
-		"Reference": ["Psalm 67:2"]
+		"Reference": ["Psalm 67:2"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Added this Antiphon."

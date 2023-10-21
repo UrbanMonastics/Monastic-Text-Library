@@ -4,6 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Dominus véniet, [*] occúrrite illi dicéntes: Magnum princípium, et regni eius non erit finis, Deus fortis, Dominátor, Princeps pacis, allelúia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-17": ["Peer-Review"],
+				"2021-12-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-16 - Paul Prins: Added this Antiphon."
 	],

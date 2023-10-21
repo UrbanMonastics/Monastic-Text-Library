@@ -5,7 +5,17 @@
 	"Version": "LH",
 	"Text": " O Clavis David [*] et sceptrum domus Israel,\r\nqui áperis, et nemo claudit,\r\nclaudis et nemo áperit :\r\nveni et educ vinctum de domo cárceris,\r\nsedéntem in ténebris et umbra mortis.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-18": ["Peer-Review"],
+				"2022-12-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-12-17 - Paul Prins: Added this Antiphon."

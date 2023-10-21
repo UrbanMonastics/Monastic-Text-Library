@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Ces méchants [*] seront expulsés, et il fera venir dans sa vigne d'autres vignerons qui lui livreront des fruits à la saison suivante.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-30 - Paul Prins: Traduit cette Antiphone."
 	],

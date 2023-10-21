@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Veniet [*] fórtior me post me, cuius non sum dignus sólvere corrígiam calceamentórum eius.",
 	"Extra": {
-		"Reference": ["Mark 1:7", "Luke 3:16"]
+		"Reference": ["Mark 1:7", "Luke 3:16"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: Added this Antiphon."

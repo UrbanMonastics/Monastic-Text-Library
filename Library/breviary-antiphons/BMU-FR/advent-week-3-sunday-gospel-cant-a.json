@@ -8,7 +8,23 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Es-tu [*] celui qui vient, ou attendons-nous un autre ? Rapporte à Jean ce que vous avez vu : les aveugles voient, les morts ressuscitent, et l'Évangile est annoncé aux pauvres, alléluia.",
-	"Reference": ["Mathieu 11:3-6", "Luc 7:19-23"],
+	"Extra": {
+		"Reference": [
+			"Mathieu 11:3-6",
+			"Luc 7:19-23"
+		],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Premier traduction du cette Antiphone"
 	],

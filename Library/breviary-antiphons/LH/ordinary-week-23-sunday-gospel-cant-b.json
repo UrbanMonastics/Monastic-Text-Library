@@ -6,7 +6,18 @@
 	"Text": "Dum transíret Dóminus [*] per médios fines Tyri, surdos fecit audíre et mutos loqui.",
 	"Description": "Based on Mark 7:31-37. Gospel Canticle for the 23rd week of Ordinary Time during Sunday Cycle B.",
 	"Extra": {
-		"Reference": ["Mark 7:31-37"]
+		"Reference": ["Mark 7:31-37"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 Paul Prins: Added Reference.",

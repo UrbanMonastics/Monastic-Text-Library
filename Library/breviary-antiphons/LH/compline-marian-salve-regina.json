@@ -5,7 +5,18 @@
 	"Version": "LH",
 	"Text": "Salve, [*] Regína, marter misericórdiæ :\r\nVita, dulcédo, et spes nostra, salve.\r\nAd te clamámus, éxsules, fílii Hevæ.\r\nAd te suspirámus, geméntes et flenttes in hac lacrimárum valle.\r\n\r\nEia ergo, Advocáta nostra,\r\nillos tuos misericórdes óculos ad nos convérte.\r\nEt Iesum benedictum fructum ventris tui, nobis post hoc exsílium osténde.\r\nO clemens : O pia: O dulcis Virgo María.",
 	"Extra": {
-		"BreviaryInstructions": "Tempore Ordinario post Pentecosten"
+		"BreviaryInstructions": "Tempore Ordinario post Pentecosten",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-06 - Paul Prins: Added breviary instructions.",

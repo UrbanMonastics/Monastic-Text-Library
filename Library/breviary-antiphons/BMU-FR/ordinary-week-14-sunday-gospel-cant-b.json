@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "En vérité, je vous le dis, [*] aucun prophète n'est accepté dans sa patrie.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-05": ["Peer-Review"],
+				"2021-07-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-07-04 - Paul Prins: Traduit cette Antiphone."
 	],

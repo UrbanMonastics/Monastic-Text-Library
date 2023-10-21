@@ -4,6 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Confíteor [*] tibi, Pater, Dómine cæli et terræ, quia abscondísti hæc a sapiéntibus et prudéntibus, et revelásti ea párvulis.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-05": ["Peer-Review"],
+				"2021-07-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-07-04 - Paul Prins: Added this Antiphone."
 	],

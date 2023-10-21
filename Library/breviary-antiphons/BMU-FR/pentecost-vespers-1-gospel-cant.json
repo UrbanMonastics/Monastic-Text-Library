@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Viens, Esprit Saint, [*] remplis le cœur de tes fidèles, et allume en eux le feu de ton amour. Toi qui, à travers toutes les langues et tous les temps, nous as unis dans la même foi, alléluia, alléluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-08": ["Peer-Review"],
+				"2022-05-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-05-08 - Paul Prins: Traduit cette Antiphone."
 	],

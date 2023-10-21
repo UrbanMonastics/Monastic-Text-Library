@@ -4,7 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Fontes [*] et ómnia quæ movéntur in aquis, humnum dícite Deo, allelúia.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-08": ["Peer-Review"],
+				"2022-05-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-05-07 - Paul Prins: Added this Antiphone."
 	],

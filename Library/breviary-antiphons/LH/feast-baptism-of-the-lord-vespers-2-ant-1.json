@@ -4,7 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Vox de cælis [*] sónuit et vox Patris audíta est: Hic est Fílius meus, in quo mihi complácui, ipsum audíte.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: Added this Antiphon."
 	],

@@ -4,9 +4,19 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Homo quidam [*] descendébat ab Ierúsalem in Iéricho et íncidit in latrónes, qui étiam despoliavérunt eum et plagis impósitis abiérunt semivívo relícto.",
-	"Description": "From Luke 10:30",
 	"Extra": {
-		"Reference": ["Luke 10:30"]
+		"Reference": ["Luke 10:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-06-20 - Paul Prins: Added this Antiphon."

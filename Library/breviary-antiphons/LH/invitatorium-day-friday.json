@@ -4,9 +4,22 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Dóminum Deum nostrum, veníte, adorémus.",
-	"Description": "Invitatory antiphon for Friday in ordinary time.",
 	"Extra": {
-		"BreviaryInstructions": ""
+		"BreviaryInstructions": "Invitatory antiphon for Friday in ordinary time.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

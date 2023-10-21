@@ -5,7 +5,17 @@
 	"Version": "LH",
 	"Text": "O Sapiéntia, [*]\r\nquæ ex ore Altíssimi prodisti,\r\nattíngens a fine usque ad finem fórtiter,\r\nsuáviter disponénsque ómnia :\r\nveni ad docéndum nos viam prudéntiæ.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-18": ["Peer-Review"],
+				"2022-12-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-12-17 - Paul Prins: Added this Antiphon."

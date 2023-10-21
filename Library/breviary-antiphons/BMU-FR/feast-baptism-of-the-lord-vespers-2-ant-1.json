@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Une voix vint [*] du ciel et c'était la voix du Père. On il entendit dire : « Celui-ci est mon Fils, en qui j'ai mis toute mon affection. Écoutez-le. »",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: Premier traduction du cette antiphone."
 	],

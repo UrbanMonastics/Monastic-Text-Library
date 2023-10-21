@@ -7,6 +7,22 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "They came, [*] Mary Magdaline and the other Mary, to make their vist to the tomb, alléulia.",
+	"Text": "They came, [*] Mary Magdalene and the other Mary, to make their visit to the tomb, alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-04-11 - Paul Prins: Added this text."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }
