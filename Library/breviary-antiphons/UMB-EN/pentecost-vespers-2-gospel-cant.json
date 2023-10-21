@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Today [*] is the day of Pentecost, alleluia. Today the Holy Spirit appeared to the disciples like fire, and poured out upon them gifts from his grace. He sent them throughout creation to proclaim this testimony: All who believe and are baptized will be saved, alleluia!",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-09": ["Peer-Review"],
+				"2022-05-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-05-08 - Paul Prins: First translation of this Antiphon."
 	],

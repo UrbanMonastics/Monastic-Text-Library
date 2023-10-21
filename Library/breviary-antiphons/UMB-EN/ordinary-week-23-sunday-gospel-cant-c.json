@@ -9,7 +9,18 @@
 	},
 	"Text": "Christ tells us [*] in the Gospels, \"One who doesn't renounce all they possess, cannot be my disciple.\"",
 	"Extra": {
-		"Reference": ["Luke 14:33"]
+		"Reference": ["Luke 14:33"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins: Add Reference to metadata.",

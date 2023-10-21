@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Seigneur nous a faits : venez, adorons-le.",
-	"Description": "Invitatory antiphon for Wednesday in ordinary time.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Wednesday in ordinary time.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

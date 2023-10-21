@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "The Holy Spirit [*] will descend upon you, Mary: do not fear, you will carry and give birth to the Son of God, alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: First translation of this Antiphon."
 	],

@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Adorons le Seigneur, car c'est lui qui nous a faits.",
-	"Description": "Invitatory antiphon for Thursday in ordinary time.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Thursday in ordinary time.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

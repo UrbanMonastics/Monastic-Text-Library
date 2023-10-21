@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Venez et adorez le Seigneur, car il est notre Dieu.",
-	"Description": "Invitatory antiphon for Friday in ordinary time.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Friday in ordinary time.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

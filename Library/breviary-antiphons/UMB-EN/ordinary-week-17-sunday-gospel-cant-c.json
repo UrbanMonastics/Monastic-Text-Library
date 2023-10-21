@@ -9,7 +9,18 @@
 	},
 	"Text": "Ask, [*] and you will receive. Seek, and you will find. Knock, and it shall be opened to you. Alleluia.",
 	"Extra": {
-		"Reference": ["Matthew 7:7"]
+		"Reference": ["Matthew 7:7"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-20": ["Peer-Review"],
+				"2022-07-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-20 - Paul Prins: Translated this Antiphon."

@@ -9,7 +9,18 @@
 	},
 	"Text": "In the presence [*] of angels, I will sing to you, my God.",
 	"Extra": {
-		"Reference": ["Psalm 138:1"]
+		"Reference": ["Psalm 138:1"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-16": ["Peer-Review"],
+				"2023-10-15": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-15 - Paul Prins: First translation of this Antiphon."

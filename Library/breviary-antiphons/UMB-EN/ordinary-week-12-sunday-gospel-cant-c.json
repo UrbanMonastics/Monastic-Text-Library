@@ -7,10 +7,22 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "\"Whoever wants to come after me, [*] must deny themself, take up their cross, and follow me\", says the Lord.",
-	"Description": "",
+	"Text": "\"Whoever wants to come after me, [*] must deny their self, take up their cross, and follow me\", says the Lord.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
-		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
+		"2022-06-19 - Paul Prins: First Translation of this Antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

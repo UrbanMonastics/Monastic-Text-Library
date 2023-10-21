@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Nous célébrons Marie, Mère de Jésus, et adorons le Christ, son fils, notre Seigneur.",
-	"Description": "Invitatory antiphon for Saturday in ordinary time.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Saturday in ordinary time.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

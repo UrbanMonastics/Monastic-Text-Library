@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "O Adonai, [*] leader of the House of Israel,\r\nwho appeared to Moses in the fire of the burning bush,\r\nand gave him the law on Sinai.\r\nCome, redeem us with your outstretched arm.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-18": ["Peer-Review"],
+				"2022-12-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-18 - Paul Prins: First translation of this Antiphon."
 	],

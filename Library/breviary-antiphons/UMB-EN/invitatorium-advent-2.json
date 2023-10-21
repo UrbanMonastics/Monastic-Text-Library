@@ -9,7 +9,21 @@
 	},
 	"Text": "Now, the Lord is close. Come, let us adore him.",
 	"Extra": {
-		"BreviaryInstructions": "Invitatory antiphon for Advent between the 16th of December and the end of Advent."
+		"BreviaryInstructions": "Invitatory antiphon for Advent between the 16th of December and the end of Advent.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

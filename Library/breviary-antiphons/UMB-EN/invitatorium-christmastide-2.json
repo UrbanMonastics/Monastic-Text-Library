@@ -9,7 +9,21 @@
 	},
 	"Text": "Christ revealed himself to us. Come, let us adore him.",
 	"Extra": {
-		"BreviaryInstructions": "Invitatory antiphon for Christmastide after Epiphany."
+		"BreviaryInstructions": "Invitatory antiphon for Christmastide after Epiphany.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

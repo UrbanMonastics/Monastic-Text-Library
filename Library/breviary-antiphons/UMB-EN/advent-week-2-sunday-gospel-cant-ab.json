@@ -9,7 +9,18 @@
 	},
 	"Text": "One is coming [*] who is mightier than I. One whose sandals straps I am unworthy to untie.",
 	"Extra": {
-		"Reference": ["Mark 1:7", "Luke 3:16"]
+		"Reference": ["Mark 1:7", "Luke 3:16"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Updated this antiphon.",

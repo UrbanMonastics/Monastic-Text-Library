@@ -8,9 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Foxes have holes, [*] and birds of the air have nests, but the Son of Man has no place to lay his head.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
-		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
+		"2022-06-19 - Paul Prins: First Translation of this Antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

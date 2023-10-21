@@ -12,7 +12,18 @@
 		"Reference": [
 			"Mark 6:7-13",
 			"Matthew 10"
-		]
+		],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-15": ["Peer-Review"],
+				"2022-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Translated this Antiphon."

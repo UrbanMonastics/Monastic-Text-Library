@@ -9,7 +9,18 @@
 	},
 	"Text": "Behold, [*] a voice out of the cloud said, \"This is My beloved Son with whom I am well pleased. Listen to Him!\"",
 	"Extra": {
-		"Reference": ["Matthew 17:5"]
+		"Reference": ["Matthew 17:5"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-07": ["Peer-Review"],
+				"2023-08-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-08-06 - Paul Prins: First translation of this Antiphon."

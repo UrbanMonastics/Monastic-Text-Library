@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Allow the little ones [*] to come to me; for the Kingdom of Heaven belongs to those like them.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-30 - Paul Prins: First Translation of this Antiphone."
 	],

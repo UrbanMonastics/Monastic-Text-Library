@@ -9,7 +9,21 @@
 	},
 	"Text": "Christ the Lord was tempted and suffered for us. Come, let us worship Him.",
 	"Extra": {
-		"BreviaryInstructions": "Invitatory antiphon from Ash Wednesday until Saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week."
+		"BreviaryInstructions": "Invitatory antiphon from Ash Wednesday until Saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

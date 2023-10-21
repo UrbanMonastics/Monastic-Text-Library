@@ -9,7 +9,18 @@
 	},
 	"Text": "Let every creature [*] praise the Lord.  He spoke, and all things were made. He commanded, and they were created, alleluia.",
 	"Extra": {
-		"Reference": ["Revelation 5"]
+		"Reference": ["Revelation 5"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: First translation of this Antiphon."

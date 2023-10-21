@@ -9,7 +9,17 @@
 	},
 	"Text": "It's Him I seek, [*] who died for us. It's Him I desire, who has risen for us.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: First translation of this Antiphon."

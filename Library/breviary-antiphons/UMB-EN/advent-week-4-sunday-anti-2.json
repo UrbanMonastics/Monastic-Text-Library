@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "The Lord is coming! [*] Meet him saying, \"Great is Your power, and Your kingdom will have no end. Mighty God, Eternal King, Prince of Peace, Hallelujah, hallelujah!\"",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-17": ["Peer-Review"],
+				"2021-12-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-16 - Paul Prins: First translation of this antiphon."
 	],

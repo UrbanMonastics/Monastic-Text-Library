@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Christ Seigneur a été tenté et a souffert pour nous : venez, adorons-le.",
-	"Description": "Invitatory antiphon from ash wednesday until saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon from ash wednesday until saturday 5th week of Lent [Option 1/2], and Passion Sunday until thursday of Holy Week.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -9,7 +9,18 @@
 	},
 	"Text": "\"Many who are [*] first will be last, and the last will be first\", said Jesus.",
 	"Extra": {
-		"Reference": ["Matthew 19:30"]
+		"Reference": ["Matthew 19:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: First Translation of this Antiphon."

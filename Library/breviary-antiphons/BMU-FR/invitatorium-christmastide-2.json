@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Christ s'est révélé à nous : venez, adorons-le.",
-	"Description": "Invitatory antiphon for Christmastide after Epiphany.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Christmastide after Epiphany.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

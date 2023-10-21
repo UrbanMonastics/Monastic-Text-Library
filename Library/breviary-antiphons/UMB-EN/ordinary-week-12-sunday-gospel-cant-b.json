@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Lord, [*] save us, we are perishing; Give the command, God, and restore the great stillness.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: First Translation of this Antiphone."
 	],

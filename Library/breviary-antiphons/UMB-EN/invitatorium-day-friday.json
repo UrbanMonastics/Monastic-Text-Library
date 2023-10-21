@@ -9,7 +9,21 @@
 	},
 	"Text": "Come and worship the Lord, for He is our God.",
 	"Extra": {
-		"BreviaryInstructions": "Invitatory antiphon for Friday in ordinary time."
+		"BreviaryInstructions": "Invitatory antiphon for Friday in ordinary time.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2021-12-04 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

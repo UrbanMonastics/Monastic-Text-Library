@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Those evil people [*] will be expelled, and he will bring in other farmers to his vineyard who will deliver fruit to him in the coming season.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Fixed a typo.",
 		"2021-09-30 - Paul Prins: First Translation of this Antiphone."

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Truly I tell you, [*] no prophet is accepted in his own country.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-05": ["Peer-Review"],
+				"2021-07-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-07-04 - Paul Prins: Translated this Antiphon."
 	],

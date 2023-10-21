@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Christ Seigneur, nous a promis le Saint-Esprit : venez, adorons-le, alléluia.",
-	"Description": "Invitatory antiphon for Resurrection Sunday and Pentecost.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Resurrection Sunday and Pentecost.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

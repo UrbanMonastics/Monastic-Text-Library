@@ -9,7 +9,18 @@
 	},
 	"Text": "This poor widow, [*] out of her poverty, gave all that she had to live on.",
 	"Extra": {
-		"Reference": ["Mark 12:43-44"]
+		"Reference": ["Mark 12:43-44"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-06": ["Peer-Review"],
+				"2022-11-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-11-05 - Paul Prins: First Translation of this Antiphon."

@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Seigneur est vraiment ressuscité, alléluia.",
-	"Description": "Invitatory antiphon from Eastertide excluding Resurection Sunday and Pentecost.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon from Eastertide excluding Resurrection Sunday and Pentecost.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

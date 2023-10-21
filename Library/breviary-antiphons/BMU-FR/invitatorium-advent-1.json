@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Roi qui doit venir, c'est le Seigneur : venez, adorons-le.",
-	"Description": "Invitatory antiphon for the beginning of advent up to and including 16th of december.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for the beginning of advent up to and including 16th of december.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

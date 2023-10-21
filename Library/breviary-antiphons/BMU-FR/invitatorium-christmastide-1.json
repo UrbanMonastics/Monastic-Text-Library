@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Christ est né pour nous : venez, adorons-le.",
-	"Description": "Invitatory antiphon for Christmastide until and including Epiphany",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Christmastide until and including Epiphany",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

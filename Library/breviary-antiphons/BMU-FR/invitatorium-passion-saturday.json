@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le Christ Seigneur a souffert pour nous et repose dans un tombeau : venez, adorons-le.",
-	"Description": "Invitatory antiphon from Holy Saturday",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon from Holy Saturday.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

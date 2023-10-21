@@ -8,6 +8,22 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "The LORD says to my master: \"Sit at my right hand\"",
-	"Description": "Basd on the opening version of Psalm 110",
+	"Extra": {
+		"Reference": ["Psalm 110"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Added this antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

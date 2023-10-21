@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Le grand Roi, c'est le Seigneur : venez, adorons-le.",
-	"Description": "Invitatory antiphon for Tuesday in ordinary time.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Tuesday in ordinary time.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

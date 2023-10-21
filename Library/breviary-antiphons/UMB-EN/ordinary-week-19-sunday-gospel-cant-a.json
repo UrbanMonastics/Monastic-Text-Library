@@ -9,7 +9,18 @@
 	},
 	"Text": "Immediately, Jesus [*] stretched our his hand, took hold of him, and said, \"You of little faith, why did you doubt\"",
 	"Extra": {
-		"Reference": ["Matthew 14:31"]
+		"Reference": ["Matthew 14:31"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Translated this Antiphon."

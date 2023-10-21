@@ -9,7 +9,18 @@
 	},
 	"Text": "Every valley [*] will be filled, every mountain and hill will be made low, and every living thing will see the salvation of God.",
 	"Extra": {
-		"Reference": ["Luke 3:5-6", "Isaiah 40:4"]
+		"Reference": ["Luke 3:5-6", "Isaiah 40:4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: First translation of this antiphon."

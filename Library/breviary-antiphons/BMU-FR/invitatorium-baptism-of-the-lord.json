@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Venons, adorons le Christ, le Fils bien-aimé, en qui le Père est satisfait.",
-	"Description": "Invitatory antiphon from the feast - Baptism of the Lord",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon from the feast - Baptism of the Lord",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

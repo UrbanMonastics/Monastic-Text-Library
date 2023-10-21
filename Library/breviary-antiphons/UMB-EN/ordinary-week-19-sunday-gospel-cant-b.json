@@ -9,7 +9,18 @@
 	},
 	"Text": "I am the living bread [*] that came from heaven. If anyone eats of this bread, they will live forever. This bread, which I also will give for the life of the world, is my flesh.",
 	"Extra": {
-		"Reference": ["John 6:51"]
+		"Reference": ["John 6:51"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Translated this Antiphon."

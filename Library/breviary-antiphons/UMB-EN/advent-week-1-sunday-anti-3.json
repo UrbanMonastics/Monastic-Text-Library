@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Behold, I come quickly, [*] and I have My rewards with Me, says the Lord, to give graciously to all according to what they've done.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: First translation of this Antiphon."
 	],

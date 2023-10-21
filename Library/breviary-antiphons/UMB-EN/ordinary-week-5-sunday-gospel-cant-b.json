@@ -8,9 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "All that live with sick people brought them to Jesus, and He healed them.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-30": ["Peer-Review"],
+				"2022-01-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
-		"2022-01-29 - Paul Prins: First Translation of this Antiphone."
+		"2022-01-29 - Paul Prins: First Translation of this Antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

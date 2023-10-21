@@ -8,9 +8,22 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "You are the salt of the earth; [*] but if the salt has become tasteless, how can it be made salty again?",
-	"Description": "Matthew 5:13",
+	"Extra": {
+		"Reference": ["Matthew 5:13"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-30": ["Peer-Review"],
+				"2022-01-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
-		"2022-01-29 - Paul Prins: First Translation of this Antiphone."
+		"2022-01-29 - Paul Prins: First Translation of this Antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

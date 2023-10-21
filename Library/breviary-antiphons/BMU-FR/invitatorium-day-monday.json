@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Crions de joie pour Dieu notre Sauveur.",
-	"Description": "Innovatory antiphon for Monday in ordinary time.",
 	"Extra": {
+		"BreviaryInstructions": "Innovatory antiphon for Monday in ordinary time.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -9,7 +9,18 @@
 	},
 	"Text": "Jesus saw the large crowd. [*] He felt compassion for them, because they were like sheep without a shepherd.",
 	"Extra": {
-		"Reference": ["Matthew 9:36"]
+		"Reference": ["Matthew 9:36"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-17": ["Peer-Review"],
+				"2022-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-16 - Paul Prins: Translated this Antiphon."

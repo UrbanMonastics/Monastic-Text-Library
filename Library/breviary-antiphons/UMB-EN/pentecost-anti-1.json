@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "When the day [*] of Pentecost arrived, they were all together, singing: Alleluia.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-08": ["Peer-Review"],
+				"2022-05-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-05-07 - Paul Prins: First translation of this Antiphon."
 	],

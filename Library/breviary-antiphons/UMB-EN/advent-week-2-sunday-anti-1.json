@@ -8,10 +8,20 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Strengthen [*] the failing hands, take courage, and say: \"Behold our God, He comes to save us, hallelujah!\"",
-	"Description": "Maybe loosly based on Isaiah 35:3-4",
-	"Reference": [
-		"Isaiah 35:3-4"
-	],
+	"Extra": {
+		"Reference": ["Isaiah 35:3-4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: First translation of this antiphon."
 	],

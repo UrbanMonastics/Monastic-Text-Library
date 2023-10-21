@@ -9,7 +9,18 @@
 	},
 	"Text": "A man was going [*] down from Jerusalem to Jericho when he encountered robbers who stripped and beat him. They went their way and left him half dead.",
 	"Extra": {
-		"Reference": ["Luke 10:30"]
+		"Reference": ["Luke 10:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-15": ["Peer-Review"],
+				"2022-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Translated this Antiphon."

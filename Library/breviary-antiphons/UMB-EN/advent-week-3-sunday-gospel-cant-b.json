@@ -8,7 +8,20 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "I am a voice of one crying out in the wilderness. \"Make straight the way of the Lord\", as Isaiah the prophet said.",
-	"Reference": ["John 1:23"],
+	"Extra": {
+		"Reference": ["John 1:23"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-07": ["Peer-Review"],
+				"2021-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: First translation of this antiphon."
 	],

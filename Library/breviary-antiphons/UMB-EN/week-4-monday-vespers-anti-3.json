@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "He chose us in Christ [*] before the world began, that we would be holy and without blame before God, in love.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Added this Antiphon."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

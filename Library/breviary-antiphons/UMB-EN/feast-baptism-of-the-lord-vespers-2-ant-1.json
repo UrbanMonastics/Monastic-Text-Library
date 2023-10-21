@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "There came a voice [*] from heaven, and it was the Fathers voice. He was heard saying, \"This is my Son, in whom I am well pleased. Listen to Him.\"",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: First translation of this Antiphon."
 	],

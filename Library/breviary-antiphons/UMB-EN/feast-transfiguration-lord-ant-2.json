@@ -9,7 +9,18 @@
 	},
 	"Text": "His face shone [*] like the sun, and His garments became as white as pure light.",
 	"Extra": {
-		"Reference": ["Matthew 17:2"]
+		"Reference": ["Matthew 17:2"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-07": ["Peer-Review"],
+				"2023-08-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-08-06 - Paul Prins: First translation of this Antiphon."

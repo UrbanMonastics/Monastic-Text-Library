@@ -9,7 +9,18 @@
 	},
 	"Text": "\"If two [*] of you on earth agree about anything, it shall be done for them by My Father who is in heaven\", says the Lord.",
 	"Extra": {
-		"Reference": ["Matthew 18"]
+		"Reference": ["Matthew 18"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins: Add Reference to metadata.",

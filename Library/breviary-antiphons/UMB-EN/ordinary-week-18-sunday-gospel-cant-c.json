@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "My siblings, [*] if you desire to be really rich, then love what is truly rich for eternity.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-02": ["Peer-Review"],
+				"2021-08-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-07-31 - Paul Prins: Smoothed out the flow of the second half.",
 		"2021-08-01 - Paul Prins: Translated this Antiphon."

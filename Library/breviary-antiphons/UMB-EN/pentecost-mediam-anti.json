@@ -8,7 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "The Holy Spirit, [*] came from the throne of God and mysteriously penetrated the hearts of the Apostles, alleluia.",
-	"Description": "",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-19": ["Peer-Review"],
+				"2022-06-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-18 - Paul Prins: First translation of this Antiphon."
 	],

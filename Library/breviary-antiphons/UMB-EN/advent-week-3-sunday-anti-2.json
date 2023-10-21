@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Every Mountain and hill [*] will be lowered, winding rough ways made straight and smooth. Come Lord, don't delay, alleluia!",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-07": ["Peer-Review"],
+				"2021-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: First translation of this antiphon."
 	],

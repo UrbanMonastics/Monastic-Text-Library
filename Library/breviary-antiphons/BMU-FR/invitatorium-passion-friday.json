@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Christ, fils de Dieu, nous a rachetés par son sang : venez, adorons-le.",
-	"Description": "Invitatory antiphon from Good Friday.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon from Good Friday.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

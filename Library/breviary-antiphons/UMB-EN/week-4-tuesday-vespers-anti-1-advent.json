@@ -9,7 +9,17 @@
 	},
 	"Text": "The Lord will come out [*] of His holy dwelling: He will come to save His people.",
 	"Extra": {
-		"Reference": []
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-15": ["Peer-Review"],
+				"2023-10-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-10-14 - Paul Prins: First translation of this Antiphon."

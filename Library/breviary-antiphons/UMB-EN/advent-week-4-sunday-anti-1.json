@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Look! He is coming, [*] the one that all people desire! The house of the Lord will be filled with glory, hallelujah!",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-17": ["Peer-Review"],
+				"2021-12-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-16 - Paul Prins: First translation of this antiphon."
 	],

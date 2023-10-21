@@ -9,7 +9,18 @@
 	},
 	"Text": "For Mary has [*] chosen what is good, and it will not be taken away from her.",
 	"Extra": {
-		"Reference": ["Luke 10:42"]
+		"Reference": ["Luke 10:42"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-17": ["Peer-Review"],
+				"2022-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-16 - Paul Prins: Translated this Antiphon."

@@ -9,7 +9,18 @@
 	},
 	"Text": "While the Lord was passing [*] through the region of Tyre, He made the deaf hear and the mute speak.",
 	"Extra": {
-		"Reference": ["Mark 7:31-37"]
+		"Reference": ["Mark 7:31-37"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-31 - Paul Prins: Add Reference to metadata.",

@@ -9,7 +9,18 @@
 	},
 	"Text": "Jesus withdrew [*] into the region of Tyre and Sidon. There a Canaanite woman from nearby came to him, crying out, \"Lord, son of David, have mercy on me!\"",
 	"Extra": {
-		"Reference": ["Matthew 15:21-22"]
+		"Reference": ["Matthew 15:21-22"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-11": ["Peer-Review"],
+				"2022-08-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-10 - Paul Prins: Translated this Antiphon."

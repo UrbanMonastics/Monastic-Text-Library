@@ -9,7 +9,18 @@
 	},
 	"Text": "\"To you, [*] I gave the knowledge of the mysteries of the Kingdom of God. While to others I spoke in parables,\" Jesus said  to his disciples.",
 	"Extra": {
-		"Reference": ["Luke 8:10"]
+		"Reference": ["Luke 8:10"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-15": ["Peer-Review"],
+				"2022-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Translated this Antiphon."

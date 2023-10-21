@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Désormais, le Seigneur est proche : venez, adorons-le.",
-	"Description": "Invitatory antiphon for Advent between the 16th of December and the end of Advent.",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Advent between the 16th of December and the end of Advent.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

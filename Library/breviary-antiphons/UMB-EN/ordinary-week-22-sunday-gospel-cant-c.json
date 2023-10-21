@@ -9,7 +9,18 @@
 	},
 	"Text": "For everyone who exalts [*] themselves will be humbled, and those who humble themself will be exalted, says the Lord.",
 	"Extra": {
-		"Reference": ["Luke 14:11"]
+		"Reference": ["Luke 14:11"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-03": ["Peer-Review"],
+				"2023-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Translated this Antiphon."

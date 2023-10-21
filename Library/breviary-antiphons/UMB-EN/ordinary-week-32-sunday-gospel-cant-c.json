@@ -9,7 +9,18 @@
 	},
 	"Text": "For in the resurrection, [*] they'll neither marry nor be given in marriage, but they will be like the angels in heaven.",
 	"Extra": {
-		"Reference": ["Matthew 22:30"]
+		"Reference": ["Matthew 22:30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-06": ["Peer-Review"],
+				"2022-11-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-11-05 - Paul Prins: First Translation of this Antiphon."

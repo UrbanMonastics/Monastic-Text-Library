@@ -8,8 +8,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Venez, ensemble nous exulterons le Seigneur.",
-	"Description": "Invitatory antiphon for Sundays in ordinary time. [Not Repeated inside the Psalm]",
 	"Extra": {
+		"BreviaryInstructions": "Invitatory antiphon for Sundays in ordinary time. [Not Repeated inside the Psalm]",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
