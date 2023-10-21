@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Omnípotens et miséricors Deus, [t] in tui occúrsum Fílii festinántes nulla ópera terréni actus impédiant, [*] sed sapiéntiæ cæléstis erudítio nos fáciat eius esse consórtes. Qui tecum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-04 - Paul Prins: Added this prayer."
 	],

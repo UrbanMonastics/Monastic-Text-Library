@@ -18,7 +18,21 @@
 	"Extra": {
 		"Reference" : ["Tobit 13:8-11, 13-16"],
 		"LiturgiaeHorarum-Index": 6,
-		"LiturgiaeHorarum-Cantica": "VT"
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-D2": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"YYYY-MM-DD - Paul Prins: Added this text."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

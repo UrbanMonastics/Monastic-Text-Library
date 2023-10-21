@@ -4,6 +4,23 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Glória Patri,\r\n\tet Fílio,\r\n\tet Spirítui Sancto.\r\nSicut erat in princípio,\r\n\tet nunce, et semper,\r\n\tet in sǽcula sæculórum.\r\nAmen.\r\nAllelúia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-03-30": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2020-03-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2020-03-29 - Paul Prins: Added this text."
 	],

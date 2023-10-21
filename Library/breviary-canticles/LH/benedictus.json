@@ -22,7 +22,21 @@
 	"Extra": {
 		"Reference": ["Luke 1:68-79"],
 		"LiturgiaeHorarum-Index": 2,
-		"LiturgiaeHorarum-Cantica": "NT"
+		"LiturgiaeHorarum-Cantica": "NT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-02": ["Peer-Review"],
+				"2020-10-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"2020-10-01 - Paul Prins: Added this text."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Deus, qui sacraménto festivitátis hodiérnæ univérsam Ecclésiam tuam in omni gente et natióne sanctíficas, in totam mundi latitúdinem Spíritus Sancti dona defúnde, [t] et, quod inter ipsa evangélicæ prædicatiónis exórdia operáta est divína dignátio, [*] nunc quoque per credéntium corda perfúnde. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-06": ["Peer-Review"],
+				"2022-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: Added this prayer."
 	],

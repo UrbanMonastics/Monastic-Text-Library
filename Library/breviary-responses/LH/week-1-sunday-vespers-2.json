@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[V] Benedíctus es, Dómine, In firmaménto cæli.\r\n[R] Benedíctus es, Dómine, [*] In firmaménto cæli.\r\n[V] Et laubábilis et gloriósus in sæcula.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-11-17": ["Peer-Review"],
+				"2021-11-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-11-16 - Paul Prins: Added this Response."
 	],

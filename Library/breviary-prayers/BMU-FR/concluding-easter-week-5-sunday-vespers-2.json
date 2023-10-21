@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Seulement de toi, Dieu notre Père,\r\n\tla rédemption nous trouve-t-elle, vos enfants adoptés.\r\nRegarde avec faveur ta famille que tu aimes,\r\n\tdonne la vraie liberté à nous et à tous ceux qui croient au Christ,\r\n\tet voyage avec nous dans notre demeure éternelle dans votre royaume.\r\nPar notre Seigneur Jésus-Christ, votre Fils,\r\nqui vit et règne avec vous dans\r\nl'unité de l'Esprit Saint,\r\nun Dieu, pour toujours et à jamais.\r\nAmen.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: Traduit cette prière."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

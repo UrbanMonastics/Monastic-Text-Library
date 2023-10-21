@@ -3,7 +3,9 @@
 	"Title": {
 		"default": "Breviary Canticles",
 		"UMB-EN": "Canticles from the Breviary",
-		"BMU-FR": "Cantiques du Bréviaire"
+		"BMU-FR": "Cantiques du Bréviaire",
+		"eng": "Canticles",
+		"fra": "Cantiques"
 	},
 	"Description": "",
 	"Type": "Book",

@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Deus, qui cónspicis pópulum tuum nativitátis domínicæ festivitátem fidéliter exspectáre, [t] præsta, quæsumus, ut valeámus ad tantæ salútis gáudia perveníre, [*] et ea votis sollémnibus álacri semper lætítia celebráre. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Added this prayer."
 	],

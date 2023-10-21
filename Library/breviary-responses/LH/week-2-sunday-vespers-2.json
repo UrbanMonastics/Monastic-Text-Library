@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[V] Magnus Dóminus noster, et magna virtus eius.\r\n[R] Magnus Dóminus noster, [*] et magna virtus eius.\r\n[V] Et sapiéntiæ eius non est númerus.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2020-10-27 - Paul Prins: Added this Response."
 	],

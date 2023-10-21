@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, invite all who wander back to yourself by shining your light of truth. [t] To those calling themselves Christian, give wisdom to reject what is unworthy of your name, [*] and courage to pursue what honors you. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-15": ["Peer-Review"],
+				"2022-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Translated this prayer."
 	],

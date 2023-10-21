@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu tout-puissant et éternel, toi que nous connaissons comme notre Père, et par l'enseignement du Saint-Esprit. [t] Rends parfaite en nos cœurs notre adoption spirituelle comme tes enfants. [*] Afin que tous tes enfants puissent entrer dans l'héritage que tu as promis. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Traduit cette prière."
 	],

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Prions notre Rédempteur, qui a voulu être baptisé par Jean dans le Jourdain :\r\n[IR] Seigneur, envoie ton Esprit sur nous.\r\n[I1] Christ, serviteur de Dieu, en qui le Père se réjouit,\r\n[I2] envoie ton Esprit sur nous.\r\n[I1] Christ, élu de Dieu, tu n'as pas brisé le roseau écrasé, ni éteint la flamme vacillante,\r\n[I2] prends pitié de tous ceux qui te cherchent en vérité.\r\n[I1] Christ, Fils de Dieu, lumière des nations et choisi par le Père pour établir la nouvelle alliance,\r\n[I2] ouvre les yeux des aveugles dans les eaux du baptême.\r\n[I1] Christ, Sauveur de tous, le Père t'a consacré par l'Esprit Saint pour être notre Sauveur,\r\n[I2] conduis tous à toi, pour qu'ils voient et croient, afin que tous aient la vie éternelle.\r\n[I1] Christ, notre espérance, qui nous fait passer des ténèbres à la lumière du salut,\r\n[I2] accueille dans ton royaume nos fratries qui sont morts.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-10": ["Peer-Review"],
+				"2022-01-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-09 - Paul Prins: Première traduction de ces intentions."
 	],

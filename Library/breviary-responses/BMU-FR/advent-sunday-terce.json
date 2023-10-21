@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Les nations craindront le nom du Seigneur.\r\n[R] Les nations craindront [*] le nom du Seigneur.\r\n[V] Et tous les souverains et rois de la terre te glorifieront.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: Première traduction du latin."
 	],

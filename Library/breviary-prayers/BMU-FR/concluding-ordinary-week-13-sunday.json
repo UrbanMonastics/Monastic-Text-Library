@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu, qui, par ta gracieuse adoption, nous a invités à être des enfants de lumière, [t] nous t'implorons de ne pas nous laisser enfermer dans les ténèbres de nos voies, [*] mais de nous permettre de toujours voir la luminosité de la vérité. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: Traduit cette prière."
 	],

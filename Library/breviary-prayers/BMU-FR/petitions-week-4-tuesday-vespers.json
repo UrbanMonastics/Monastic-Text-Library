@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Glorifions et prions d'un cœur sincère au Christ, qui donne sa fermeté et sa force à son peuple :\r\n[IR] Seigneur, exauce-nous et nous te louerons pour toujours.\r\n[I1] Christ, notre force, tu as appelé tes fidèles à ta vérité,\r\n[I2] dans ta miséricorde, accorde-nous la foi et la persévérance.\r\n[I1] Seigneur, avec ton cœur de la paix, dirige ceux qui ont le pouvoir de gouverner,\r\n[I2] en leur inspirant le courage et la sagesse pour nous conduire dans la paix.\r\n[I1] Avec le peu que tu avais, tu as rassasié les foules en multipliant les pains,\r\n[I2] alors enseigne-nous à utiliser nos richesses pour aider les affamés et les nécessiteux.\r\n[I1] Émouvez les gouvernants à se soucier non seulement de leur peuple et de leurs terres,\r\n[I2] mais à respecter chacun, à prendre soin de tous et à protéger notre planète commune.\r\n[I1] Accorde à nos fratries en Christ qui se sont endormies la résurrection et les bénédictions\r\n[I2] lorsque tu viendras pour être glorifié en toutes choses.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Première traduction de ces intentions."
 	],

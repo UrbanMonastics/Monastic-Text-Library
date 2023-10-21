@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Omnípotens sempitérne Deus, qui paschále sacraméntum quinquagínta diérum voluísti mystério continéri, [t] præsta, ut géntium facta dispersióne, [*] divisiónes linguárum ad unam confessiónem tui nóminis cælésti múnere congregéntur. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-06": ["Peer-Review"],
+				"2022-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: Added this prayer."
 	],

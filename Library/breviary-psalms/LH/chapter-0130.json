@@ -16,6 +16,19 @@
 		"7": "\tsperet Israel in Dómino,\r\n\r\nquia apud Dóminum misericórdia, [*]\r\n\tet copiósa apud eum redémptio.\r\n",
 		"8": "Et ipse rédimet Israel [*]\r\n\tex ómnibus iniquitátibus eius."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-08-24": ["Peer-Review"],
+				"2023-08-23": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-08-23 - Paul Prins: Added this text"
 	],

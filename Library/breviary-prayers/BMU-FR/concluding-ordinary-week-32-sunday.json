@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu tout-puissant et miséricordieux, prends pitié de nous, et enlève tout ce qui nous entrave. [t] Afin que, libres d'esprit, de corps et d'âme, [*] nous soyons libres pour accomplir ta volonté. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-06": ["Peer-Review"],
+				"2022-11-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-05 - Paul Prins: Traduit cette prière."
 	],

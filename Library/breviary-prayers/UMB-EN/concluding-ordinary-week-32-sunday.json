@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Almighty and merciful God, have mercy on us, and remove all that hinders us. [t] So that, free in mind, body, and spirit, [*] we may be free to do Your will. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-06": ["Peer-Review"],
+				"2022-11-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2022-11-05 - Paul Prins: First translation of this prayer."

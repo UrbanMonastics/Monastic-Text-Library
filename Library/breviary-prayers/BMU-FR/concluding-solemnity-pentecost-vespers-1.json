@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu tout-puissant et éternel, qui a voulu que le mystère de Pâques soit complété cinquante jours plus tard par un autre mystère célébré, la Pentecôte. [t] Par ton Esprit Saint, rassemble ton peuple, qui est enclin à la division et à la haine. [*] Que chacun dans sa langue te rende louange et gloire. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-06": ["Peer-Review"],
+				"2022-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: Traduit cette prière."
 	],

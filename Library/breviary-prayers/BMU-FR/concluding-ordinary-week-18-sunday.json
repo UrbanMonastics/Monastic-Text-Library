@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Sois tendre avec tes enfants, Seigneur, et montre à ceux qui t'implorent ta bonté infinie. [t] Qu'on se vantent que tu es le Créateur, et l'auteur de la providence. [*] En pensant à eux, restaure ta création, conserve-la et protège-la. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-02": ["Peer-Review"],
+				"2021-08-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-08-01 - Paul Prins: Traduit cette prière."
 	],

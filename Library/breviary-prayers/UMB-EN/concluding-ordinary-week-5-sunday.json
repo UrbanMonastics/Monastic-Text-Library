@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "In your unfailing love, Lord, watch over your family. [t] Since your heavenly grace is our only source of hope [*] keep us forever under your protection. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-30": ["Peer-Review"],
+				"2022-01-29": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-29 - Paul Prins: First translation of this prayer."
 	],

@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Écoutez, Seigneur, et ayez pitié, car nous avons péché contre vous.\r\n[R] Écoutez, Seigneur, et ayez pitié, [*] car nous avons péché contre vous.\r\n[V] Écoutez-nous, Christ, ayez pitié et répondez à nos prières.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-03-08": ["Peer-Review"],
+				"2021-03-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-03-07 - Paul Prins: Première traduction du cette reponse."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

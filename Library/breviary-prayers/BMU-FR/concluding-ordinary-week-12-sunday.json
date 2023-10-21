@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Fais-nous vivre, Seigneur, pour toujours dans l'affection et la révérence de ton saint nom, [t] car tu n'égares jamais [*] ceux que tu as fermement établis dans ton amour. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: Traduit cette prière."
 	],

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu, la rédemption nous vient par toi, et ton adoption [t] de nous est garantie. Nous sommes tes enfants. Regarde avec tendresse tous les enfants de ton amour. [*] Donne la vraie liberté et la vie éternelle à tous ceux que nous croyons en ton Fils.  Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-31": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-31 - Paul Prins: Mise à jour cette prière.",
 		"2022-06-16 - Paul Prins: Traduit cette prière."

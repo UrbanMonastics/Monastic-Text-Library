@@ -24,6 +24,19 @@
 		"15": "Clamábit ad me, et ego exáudiam eum; [t]\r\n\tcum ipso sum in tribulatióne, [*]\r\n\terípiam eum et glorificábo eum.\r\n",
 		"16": "Longitúdine diérum replébo eum [*]\r\n\tet osténdam illi salutáre meum."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-03": ["Peer-Review"],
+				"2021-09-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-02 - Paul Prins: Added this text"
 	],

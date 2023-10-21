@@ -25,6 +25,19 @@
 		"17": "Non mórtui laudábunt te, Dómine, [*]\r\n\tneque omnes qui descéndunt in siléntium,\r\n",
 		"18": "sed nos qui vívimus, benedícimus Dómino [*]\r\n\tex hoc nunc et usque in sæculum."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-10": ["Peer-Review"],
+				"2021-04-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-10 - Paul Prins: Fix some typos in the text.",
 		"2021-04-09 - Paul Prins: Added this Text"

@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Noctem quiétam [+] et finem perféctum concédat nobis Dóminus omnípotens.\r\nAmen",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-09 - Paul Prins: Adjusted the formatting.",
 		"2020-10-27 - Paul Prins: Added this blessing."

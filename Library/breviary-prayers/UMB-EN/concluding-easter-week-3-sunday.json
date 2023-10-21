@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Protect your peoples happiness, Lord, you who restore our strength and youthfulness; [t] you have given us back our dignity as children of God, [*] strengthen in us the hope of the resurrection. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-04-30 - Paul Prins: First translation of this prayer."
 	],

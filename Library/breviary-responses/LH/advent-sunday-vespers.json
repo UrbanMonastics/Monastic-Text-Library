@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[V] Osténde nobis Dómine Misericórdiam tuam.\r\n[R] Osténde nobis Dómine [*] Misericórdiam tuam.\r\n[V] Et salutáre tuum da nobis.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-04 - Paul Prins: Added this Response."
 	],

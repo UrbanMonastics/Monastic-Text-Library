@@ -6,7 +6,18 @@
 	"Text": "Hæc dies, [*] quam fecit Dóminus: exsultémus, et lætémur in ea.",
 	"Extra": {
 		"Reference": ["Psalm 118:24"],
-		"BreviaryInstructions": "In Octava Paschae"
+		"BreviaryInstructions": "In Octava Paschae",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Added this Response."

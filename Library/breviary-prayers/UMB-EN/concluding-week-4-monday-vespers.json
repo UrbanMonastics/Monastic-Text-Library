@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Stay with us, Lord, for it is getting late and the day is almost spent. Illuminate our hearts upon our roads so that we will discover You in the Scriptures, and in the sharing of bread. May You Reign Forever.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Translated this prayer."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

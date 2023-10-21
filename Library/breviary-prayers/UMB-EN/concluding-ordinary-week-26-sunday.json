@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, we see Your power every day in Your patience and mercy. [t] Multiply Your grace upon us. [*] Draw us to the good You promise. With You, we will reach the joys of heaven. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: First translation of this prayer."
 	],

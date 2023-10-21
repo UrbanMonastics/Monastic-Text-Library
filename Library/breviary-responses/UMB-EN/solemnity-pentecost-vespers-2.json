@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] The Spirit of the Lord fills the universe, alleluia, alleluia.\r\n[R] The Spirit of the Lord fills the universe, [*] alleluia, alleluia.\r\n[V] He sustains all things, and knows every word spoken.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-06": ["Peer-Review"],
+				"2022-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: First translation."
 	],

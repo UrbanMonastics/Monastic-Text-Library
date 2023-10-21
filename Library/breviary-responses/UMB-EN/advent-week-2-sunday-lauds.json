@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Christ, Son of the living God, have mercy on us.\r\n[R] Christ, Son of the living God, [*] have mercy on us.\r\n[V] You who came into creation.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-04 - Paul Prins: Initial translation from Latin"
 	],

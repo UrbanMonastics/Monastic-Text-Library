@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Très chères fratries, implorons humblement le Christ Seigneur, né de la Vierge Marie, et appelons-le avec joie :\r\n[IR] Viens, Seigneur Jésus !\r\n[I1] Fils unique de Dieu, qui vient pour être le vrai messager de l'Alliance,\r\n[I2] accorde à la création de T'accueillir et de Te reconnaître.\r\n[I1] Toi qui as été engendré dans le sein du Père, Tu as pris chair de la Vierge Marie,\r\n[I2] purifie-nous de la corruption de notre condition humaine.\r\n[I1] Toi qui es la vie, tu es venu endurer la mort,\r\n[I2] épargne-nous les terreurs de nos morts.\r\n[I1] Et Ton don du salut nous attend au Jugement, laisse ta tendresse constante être donnée aujourd'hui,\r\n[I2] qui nous soulage pour tous les jours qui nous restent.\r\n[I1] Seigneur Christ, en mourant Tu as secouru tous les morts,\r\n[I2] nous Te prions d'accueillir les décédés avec tendresse.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Première traduction de ces intentions."
 	],

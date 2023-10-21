@@ -6,7 +6,18 @@
 	"Text": "Christus [*] factus est pro nobis oboediens usque ad mortem, mortem autem crucis. Propter quod Deus exaltàvit illum, et dedit illi nomen, quod est super omne nomen.",
 	"Extra": {
 		"Reference": ["Philippians 2:8-9"],
-		"BreviaryInstructions": "Sabbato Sancto Triduum paschalis."
+		"BreviaryInstructions": "Sabbato Sancto Triduum paschalis.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Added this Response."

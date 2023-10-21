@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Invoquons le Christ, avec la joie et l'allégresse de tous ceux qui l'attendent :\r\n[IR] Viens, Seigneur, ne tarde pas.\r\n[I1] Avec ardeur, nous attendons ton avènement,\r\n[I2] viens Seigneur Jésus.\r\n[I1] Toi qui es avant les siècles,\r\n[I2] viens sauve-nous en notre temps.\r\n[I1] Toi qui as créé le cosmos et tous ceux qui l'habitent,\r\n[I2] viens racheter l'oeuvre de tes mains.\r\n[I1] Tu n'as pas méprisé notre nature mortelle,\r\n[I2] viens nous arracher à l'empire de la mort.\r\n[I1] Tu es venu pour que nous ayons une vie au-delà de l'abondance,\r\n[I2] viens nous donner ta vie éternelle.\r\n[I1] Tu as voulu unir tous les peuples dans ton Royaume,\r\n[I2] viens rassembler tous ceux qui aspirent à te voir face à face.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-06": ["Peer-Review"],
+				"2022-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Première traduction de ces intentions."
 	],

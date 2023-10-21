@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Jésus, n'abandonne pas ceux dont l'espérance est en lui. Nous venons humblement devant toi:\r\n[IR] Notre Dieu, exauce-nous.\r\n[I1] Seigneur Jésus-Christ, notre lumière, illumine ton Église:\r\n[I2] afin qu'elle proclame à toutes les nations, le grand mystère de notre foi, qui s'est manifesté dans ta chair.\r\n[I1] Veillez sur les ministres et les dirigeants de votre Église:\r\n[I2] afin qu'ils puissent fidèlement proclamer la vérité à tous les peuples.\r\n[I1] Par ton sang, tu as donné la paix au monde:\r\n[I2] aidez-nous à abandonner le péché qui nous divise et à mettre fin au fléau de la guerre.\r\n[I1] De l'abondance de ta grâce soutiens les mariages de nos fratries en Christ:\r\n[I2] que leurs unions reflètent plus pleinement le mystère de ton Église.\r\n[I1] Accorde à tous ceux qui ont passé le pardon de leurs péchés:\r\n[I2] par ta miséricorde, puissent-ils vivre joyeusement parmi les saints.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-06-06": ["Peer-Review"],
+				"2021-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-08-04 - Paul Prins: Changez l'abréviation pour utiliser les pétitions.",
 		"2021-06-05 - Paul Prins: Première traduction de ces intentions."

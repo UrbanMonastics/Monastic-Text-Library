@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Esprit Saint, notre aide, alléluia, alléluia. \r\n[R] Esprit Saint, notre aide, [*] alléluia, alléluia.\r\n[V] Il vous enseignera tout.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-21": ["Peer-Review"],
+				"2022-06-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: Preimère traduction."
 	],

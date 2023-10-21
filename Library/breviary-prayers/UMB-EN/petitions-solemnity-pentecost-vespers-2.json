@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Through Christ, God our Father has gathered together the Church. With joy let us pray, saying:\r\n[IR] Send Your Holy Spirit onto the Church!\r\n[I1] You want to gather, through one baptism in the Spirit, all those who exalt the name of Christ,\r\n[I2] grant believers to be of one heart and one soul.\r\n[I1] You who desire the Spirit to fill the world,\r\n[I2] help all people build justice and peace within creation.\r\n[I1] Lord God, Father of all, You want to gather together all Your scattered children, in unity of faith,\r\n[I2] illuminating the universe by the grace of the Holy Spirit.\r\n[I1] By Your Spirit, You renew all things,\r\n[I2] heal the sick, comfort the afflicted, and to all, give salvation.\r\n[I1] By the Spirit, You raised Your Son from the dead,\r\n[I2] likewise, raise our bodies from dust to eternal life.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-06": ["Peer-Review"],
+				"2022-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: Initial translation of these intentions"
 	],

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, source of all good things, respond quickly to our call: inspire in us what is right, and help us to see it accomplished. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-06-06": ["Peer-Review"],
+				"2021-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-06-05 - Paul Prins: Translated this prayer."
 	],

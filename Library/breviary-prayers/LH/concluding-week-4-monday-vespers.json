@@ -4,5 +4,21 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Mane nobíscum, Dómine Iesu, quóniam advesperáscit, et nos cómitans in via, réfove corda, spem éxcite miserátus, [*] ut te in Scriptúris et in fractióne panis cum nostris frátribus agnoscámus. Qui vivis.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Added this prayer."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

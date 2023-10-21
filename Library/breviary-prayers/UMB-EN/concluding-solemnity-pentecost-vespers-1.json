@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Almighty and everlasting God, who desired the Easter mystery be completed fifty days later with another celebrated mystery, Pentecost. [t] By your Holy Spirit, bring together your people, who are prone to division and hate. [*] That everyone in their language will give you praise and glory. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-06": ["Peer-Review"],
+				"2022-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-05 - Paul Prins: First translation of this prayer."
 	],

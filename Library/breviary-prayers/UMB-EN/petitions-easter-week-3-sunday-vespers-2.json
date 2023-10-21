@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Pray in faith with joy to Christ our Lord, who was dead, has risen, and ceaselessly intercedes for us all.\r\n[IR] Victorious King, hear us.\r\n[I1] Christ, light and salvation of all peoples,\r\n[I2] pour out upon us the fire of your Spirit as we proclaim your resurrection.\r\n[I1] May Israel recognize you as the Messiah, our ultimate hope,\r\n[I2] and may the vastness of creation be filled with the knowledge of your glory.\r\n[I1] Welcome and keep us in the communion of your saints,\r\n[I2] and grant to us all rest from our labors.\r\n[I1] You who triumphed over the enemy of death, break the power of the enemy within us,\r\n[I2] that we may live for you, immortal conqueror.\r\n[I1] Christ the Savior, who, becoming obedient even unto death, was exalted to the right hand of the Father,\r\n[I2] graciously admit your siblings into the Kingdom of your glory.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-04-30 - Paul Prins: Initial translation of these intentions"
 	],

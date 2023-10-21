@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Prions avec foi et joie le Christ notre Seigneur, qui était mort, est ressuscité et intercède sans cesse pour nous tous.\r\n[IR] Roi victorieux, écoute-nous.\r\n[I1] Christ, lumière et salut de tous les peuples,\r\n[I2] répands sur nous le feu de ton Esprit alors que nous proclamons ta résurrection.\r\n[I1] Qu'Israël reconnaisse en toi le Messie, notre ultime espoir,\r\n[I2] et que toute la création soit remplie de la connaissance de ta gloire.\r\n[I1] Accueille-nous et garde-nous dans la communion de tes saints,\r\n[I2] et accorde-nous le repos de nos travaux.\r\n[I1] Toi qui as vaincu l'ennemi de la mort, brise en nous le pouvoir de l'ennemi,\r\n[I2] afin que nous vivions pour toi, vainqueur immortel.\r\n[I1] Christ Sauveur, qui, devenu obéissant jusqu'à la mort, a été exalté à la droite du Père,\r\n[I2] admets gracieusement tes fratries dans le Royaume de ta gloire.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-01": ["Peer-Review"],
+				"2021-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-30 - Paul Prins: Première traduction de ces intentions."
 	],

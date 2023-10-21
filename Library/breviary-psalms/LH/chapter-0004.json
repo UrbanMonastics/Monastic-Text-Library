@@ -17,6 +17,19 @@
 		"8": "Maiórem dedísti lætítiam in corde meo, [*]\r\n\tquam cum multiplicántur fruméntum et vinum eórum.\r\n",
 		"9": "In pace in idípsum dórmiam et requiéscam, [*]\r\n\tquóniam tu, Dómine, singuláriter in spe constituísti me."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-20": ["Peer-Review"],
+				"2021-04-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-19 - Paul Prins: Added this text"
 	],

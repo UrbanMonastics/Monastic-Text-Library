@@ -26,6 +26,19 @@
 		"17": "Circuiérunt me sicut aqua tota die, [*]\r\n\tcircumdedérunt me simul.\r\n",
 		"18": "Elongásti a me amícum et próximum, [*]\r\n\tet noti mei sunt ténebræ."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-10-27": ["Peer-Review"],
+				"2022-10-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-10-26 - Paul Prins: Added this text"
 	],

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu, source de tout bien, réponds vite à notre appel : inspire-nous ce qui est juste, et aide-nous à le faire accomplir. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-06-05": ["Peer-Review"],
+				"2021-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-06-05 - Paul Prins: Traduit cette prière."
 	],

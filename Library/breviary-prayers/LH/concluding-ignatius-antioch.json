@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Omnípotens sempitérne Deus, qui sanctórum mártyrum confessiónibus Ecclésiæ tuæ sacrum corpus exórnas, [t] concéde, quǽsumus, ut hodiérna glória passiónis, sicut beáto Ignátio magnificéntiam tríbuit sempitérnam, [*] ita nobis perpétuum munímen operétur. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Added this prayer."
 	],

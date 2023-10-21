@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Grátiam tuam, quæsumus, Dómine, méntibus nostris infúnde, [t] ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, [*] per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-18": ["Peer-Review"],
+				"2022-12-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-17 - Paul Prins: Added this prayer."
 	],

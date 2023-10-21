@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Louons Dieu notre Père, il a voulu, par sa parole éternelle, faire renaître son peuple choisi d'une semence incorruptible. Prions ensemble dans la Foi./r/n[IR] Seigneur, accorde ta faveur à ton peuple./r/n[I1] Exauce-nous, Dieu miséricordieux, les prières que nous offrons en faveur de tout ton peuple,/r/n[I2] que nous préférons la satisfaction de ta parole plutôt que le pain./r/n[I1] Enseigne-nous, à nous tous qui sommes enclins à aimer, à avoir un amour effectif et authentique pour ta création et pour tous les peuples sans exception./r/n[I2] Construire vers la bonne volonté et la paix éternelles./r/n[I1] Regarde tous ceux qui sont régénérés par le baptême,/r/n[I2] consacre-les à toi, faisant d'eux des pierres vivantes dans le temple de ton Esprit./r/n[I1] Que beaucoup, à la manière de la prédication de Jonas aux Ninivites, se repentent dans leur jeunesse./r/n[I2] Par ta parole, touche et convertis leur coeur./r/n[I1] Accorde aux mourants d'aller avec espoir à la rencontre du Christ leur juge,/r/n[I2] et de jouir de ta présence pour toujours.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-03-08": ["Peer-Review"],
+				"2021-03-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-05-01 - Paul Prins: Première traduction de cette priere",
 		"2021-08-04 - Paul Prins: Changez l'abréviation pour utiliser les pétitions.",

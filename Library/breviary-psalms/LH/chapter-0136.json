@@ -33,6 +33,19 @@
 		"25": "Qui dat escam omni carni, [*]\r\n\tquóniam in ætérnum misericórdia eius.\r\n",
 		"26": "Confitémini Deo cæli, [*]\r\n\tquóniam in ætérnum misericórdia eius."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-20": ["Peer-Review"],
+				"2021-05-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-05-19 - Paul Prins: Added this Text"
 	],

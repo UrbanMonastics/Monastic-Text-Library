@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Dieu a créé le cosmos, Il a apporté la restauration par la rédemption, et renouvelle continuellement la création par Son amour. Confiants dans Son amour éternel, nous demandons :\r\n[IR] Seigneur, renouvelle les merveilles de Ton amour.\r\n[I1] Nous te remercions Dieu car tu révèles ta puissance dans toute la création,\r\n[I2] tu révèles ta providence au cours de l'histoire.\r\n[I1] Par ton Fils, qui proclame un évangile de paix et qui a été vainqueur sur la croix,\r\n[I2] délivre-nous de la peur sans fondement et du désespoir.\r\n[I1] Accorde à tous ceux qui aiment et pratiquent la justice,\r\n[I2] une coopération fidèle à la réalisation d'un monde où règne la vraie paix.\r\n[I1] Sois présent avec les opprimés, délivre les captifs, réconforte les pauvres, nourris les affamés, donne la force aux faibles,\r\n[I2] révèle en toutes choses la victoire de la croix.\r\n[I1] Après sa mort et sa sépulture, tu as merveilleusement ressuscité ton Fils pour la gloire,\r\n[I2] accorde aux défunts de le rejoindre Lui dans la vie éternelle.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-30 - Paul Prins: Première traduction de ces intentions."
 	],

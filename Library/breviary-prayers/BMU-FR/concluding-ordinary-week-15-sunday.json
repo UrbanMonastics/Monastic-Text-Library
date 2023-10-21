@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu, invite tous ceux qui errent à revenir à toi en faisant briller ta lumière de vérité. [t] A ceux qui se déclarent chrétiens, donne la sagesse de rejeter ce qui est indigne de ton nom, [*] et le courage de suivre ce qui t'honore. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-15": ["Peer-Review"],
+				"2022-07-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-07-14 - Paul Prins: Traduit cette prière."
 	],

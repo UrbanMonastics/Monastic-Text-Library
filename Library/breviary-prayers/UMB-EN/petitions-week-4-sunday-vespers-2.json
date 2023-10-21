@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Let us rejoice in the Lord, from whom all good things flow. Pray to Him, together with sincerity:\r\n[IR] Lord, hear our prayer.\r\n[I1] Lord and Father of all, who has sent Your Son into the world, that Your name might be glorified everywhere,\r\n[I2] strengthen the testimony of Your Church among the nations.\r\n[I1] May the Apostles preaching easily instruct us,\r\n[I2] to conform our lives to the truth of our faith.\r\n[I1] You, who love the righteous,\r\n[I2] do right for those suffering injustice.\r\n[I1] Deliver the captives, give sight to the blind,\r\n[I2] rebuild the shattered, and care for the migrants.\r\n[I1] Fulfill the promise for those who now sleep in Your peace,\r\n[I2] that through Your Son they will come to the holy resurrection.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-19 - Paul Prins: Initial translation of these intentions"
 	],

@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Only from you, God our Father,\r\n\tdoes redemption find us, your adopted children.\r\nLook with favor upon your family that you love,\r\n\tgive true freedom to us, and to all who believe in Christ,\r\n\tand journey with us until we reach our eternal home in your kingdom.\r\nThrough our Lord Jesus Christ, your Son,\r\nwho lives and reigns with you in unity of the Holy Spirit,\r\none God, forever and ever.\r\nAmen.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-02 - Paul Prins: Translated this prayer."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

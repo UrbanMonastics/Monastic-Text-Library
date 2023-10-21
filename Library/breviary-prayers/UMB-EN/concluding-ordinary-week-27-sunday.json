@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Almighty and everlasting God, out of Your inexhaustible love You fulfill those who seek You in prayer. [t] You give to them beyond their merits and desires. Pour out Your mercy on us [*] by freeing our minds from what worries them, and by giving more than we dare ask. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-10-01": ["Peer-Review"],
+				"2021-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2021-09-30 - Paul Prins: First translation of this prayer."

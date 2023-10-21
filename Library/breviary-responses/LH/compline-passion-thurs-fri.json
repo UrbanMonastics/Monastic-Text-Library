@@ -6,7 +6,18 @@
 	"Text": "Christus [*] factus est pro nobis oboediens usque ad mortem.",
 	"Extra": {
 		"Reference": ["Philippians 2:8"],
-		"BreviaryInstructions": "Feria quinta et sexta Triduum paschalis."
+		"BreviaryInstructions": "Feria quinta et sexta Triduum paschalis.",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Added this Response."

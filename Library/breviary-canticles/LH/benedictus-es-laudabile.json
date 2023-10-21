@@ -21,7 +21,21 @@
 	"Extra": {
 		"Reference" : ["Daniel 3:26-27,29,34-41"],
 		"LiturgiaeHorarum-Index": 46,
-		"LiturgiaeHorarum-Cantica": "VT"
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-D2": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"YYYY-MM-DD - Paul Prins: Added this text."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

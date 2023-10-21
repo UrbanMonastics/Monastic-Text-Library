@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Blessed are You, Lord, in the expanse of Heaven.\r\n[R] Blessed are You, Lord, [*] in the expanse of Heaven.\r\n[V] You are majestic and glorious forever.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-11-18": ["Peer-Review"],
+				"2021-11-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-11-17 - Paul Prins: Translated this prayer."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

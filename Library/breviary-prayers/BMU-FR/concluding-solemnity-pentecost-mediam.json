@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Nous t'en prions, Dieu tout-puissant : que la splendeur de ta gloire resplendisse sur nous, [t] que la lumière de ta lumière fortifie les cœurs de tous ceux qui sont renés par ta grâce, [*] et que l'Esprit Saint donne de l'assurance à nos cœurs. Par le Christ notre Seigneur.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-19": ["Peer-Review"],
+				"2022-06-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-18 - Paul Prins: Traduit cette prière."
 	],

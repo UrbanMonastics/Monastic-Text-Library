@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, for those who seek You with diligence, You have prepared good things just beyond sight. Pour into our hearts fervor for Your love. [t] May we love You in all, and over all. [*] That finally, we will reach the inheritance You promised for us, that surpasses every known desire. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-11": ["Peer-Review"],
+				"2022-08-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2022-08-10 - Paul Prins: Translated this prayer."

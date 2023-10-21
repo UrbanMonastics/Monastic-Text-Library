@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "We pray to you, Almighty God: that the splendor of your glory may shine upon us, [t] may the light of your light strengthen the hearts of all who have been reborn by your grace, [*] and may the Holy Spirit give assurance to our hearts. Though Christ our Lord.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-19": ["Peer-Review"],
+				"2022-06-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-18 - Paul Prins: First translation of this prayer."
 	],

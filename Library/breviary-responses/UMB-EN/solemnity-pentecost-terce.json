@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] The Holy Spirit, the Defender, alleluia.\r\n[R] He will teach you all things, alleluia.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-21": ["Peer-Review"],
+				"2022-06-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-20 - Paul Prins: First translation."
 	],

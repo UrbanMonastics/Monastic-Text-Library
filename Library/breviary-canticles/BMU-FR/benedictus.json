@@ -30,7 +30,7 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-D2": ["Peer-Review"],
 				"YYYY-MM-DD": [
 					"Second-Pass",
 					"Initial"
@@ -39,5 +39,8 @@
 			"Reviewers": {}
 		}
 	},
+	"Changes": [
+		"YYYY-MM-DD - Paul Prins: Added this text."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

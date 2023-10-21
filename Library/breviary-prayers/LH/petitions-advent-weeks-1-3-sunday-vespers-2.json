@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II] Redemptórem nostrum Iesum Christum, qui est via, véritas et vita, supplíciter rogémus, dicéntes :\r\n[IR] Veni et mane nobíscum, Dómine.\r\n[I1] Iesu, Fili Altíssimi, qui Vírgini Maríæ per Gabriélem annuntiátus es,\r\n[I2] veni ad regnándum super plebem tuam in ætérnum.\r\n[I1] Tu, Sancte Dei, cui Præcúrsor in sinu Elísabeth exsultávit,\r\n[I2] veni ad dandum univérso mundo gáudium salútis.\r\n[I1] Iesu Salvátor, cuius nomen Ioseph viro iusto ab Angelo revelátum est,\r\n[I2] veni ad pópulum tuum salvum faciéndum a peccátis eórum.\r\n[I1] Lumen mundi, quod Símeon et omnes iusti exspectábant,\r\n[I2] veni ad consolándum nos.\r\n[I1] Oriens indefíciens, quem nos ex alto visitatúrum prædíxit Zacharías,\r\n[I2] veni ad illuminándum illos, qui in umbra mortis sedent.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: Added these intentions."
 	],

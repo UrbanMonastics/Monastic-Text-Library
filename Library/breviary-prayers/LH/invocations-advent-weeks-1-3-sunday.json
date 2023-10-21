@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II] Deum Patrem, qui nobis grátiam exspectándi revelatiónem Dómini nostri Iesu Christi benígne largítur, orémus dicéntes :\r\n[IR] Osténde nobis, Dómine, misericórdiam tuam.\r\n[I1] Spíritum nostrum, Dómine, et ánimam et corpus sanctífica,\r\n[I2] et irreprehensíbiles nos serva in Fílii tui advéntum.\r\n[I1] Fac nos hac die sancte ambuláre,\r\n[I2] atque iuste ac pie in hoc sæculo vívere.\r\n[I1] Da nobis Dóminum nostrum Iesum Christum indúere,\r\n[I2] et Spíritu Sancto impléri.\r\n[I1] Concéde ut vígiles maneámus, Dómine,\r\n[I2] usque ad Fílii tui manifestatiónem gloriósam.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-06": ["Peer-Review"],
+				"2022-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Added these intentions."
 	],

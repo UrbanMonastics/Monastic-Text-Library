@@ -15,6 +15,19 @@
 		"7": "A fácie Dómini contremísce, terra, [*]\r\n\ta fácie Dei Iacob,\r\n",
 		"8": "qui convértit petram in stagna aquárum [*]\r\n\tet sílicem in fontes aquárum."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-11": ["Peer-Review"],
+				"2021-04-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-10 - Paul Prins: Added this Text"
 	],

@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Sois gracieux, Seigneur, avec ceux qui te servent. Dans ta miséricorde, continue à multiplier en nous tes dons de grâce. [t] Que, fervents dans la foi, l'espérance et l'amour, [*] nous soyons toujours attentifs à ton doux appel et suivions ta direction. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-07-17": ["Peer-Review"],
+				"2022-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-07-16 - Paul Prins: Traduit cette prière."
 	],

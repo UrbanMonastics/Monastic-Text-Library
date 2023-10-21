@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, you see that your people faithfully prepare to celebrate the birth of your Son. [t] In waiting, focus our joy onto the everlasting salvation to come. [*] That we may celebrate our salvation with joyous new hearts. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Translated this prayer."
 	],

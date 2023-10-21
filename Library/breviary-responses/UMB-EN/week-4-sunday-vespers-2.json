@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Great is our Lord, and great is His power.\r\n[R] Great is our Lord, [*] and great is His power.\r\n[V] And his wisdom is beyond all comprehension.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-11-21": ["Peer-Review"],
+				"2021-11-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-11-20 - Paul Prins: First translation."
 	],

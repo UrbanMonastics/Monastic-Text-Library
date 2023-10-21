@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Before You, Lord, may our prayers rise.\r\n[R] Before You, Lord, [*] may our prayers rise.\r\n[V] Like incense into Your presence.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-06-07": ["Peer-Review"],
+				"2021-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-06-06 - Paul Prins: Translated this prayer."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }

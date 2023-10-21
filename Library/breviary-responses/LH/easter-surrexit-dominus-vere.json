@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[V] Surréxit Dóminus vere, Allelúia, allelúia.\r\n[R] Surréxit Dóminus vere, [*] Allelúia, allelúia.\r\n[V] Et appáruit Simóni.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-05-01 - Paul Prins: Added this Response.",
 		"2022-04-30 - Paul Prins: Reformated this response."

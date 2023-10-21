@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Protège le bonheur de tes peuples, Seigneur, toi qui nous redonnes force et jeunesse ; [t] tu nous as rendu notre dignité d'enfants de Dieu, [*] affermis en nous l'espérance de la résurrection. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-04-30 - Paul Prins: Traduit cette prière."
 	],

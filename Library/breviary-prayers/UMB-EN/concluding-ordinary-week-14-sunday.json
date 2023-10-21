@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, who elevated all of creation through the humility of your Son. [t] Give to your faithful a holy joy. [*] For you freed our lives from the slavery of sin. May you help us rejoice with everlasting joy. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-07-05": ["Peer-Review"],
+				"2021-07-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-16 - Paul Prins: Changed a pronoun to flow better.",
 		"2021-07-04 - Paul Prins: Translated this prayer."

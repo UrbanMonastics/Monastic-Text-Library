@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "God, redemption comes to us through You, and Your adoption [t] of us is guaranteed. We are Your children. Look with tenderness upon all the children of Your love. [*] Give true freedom and eternal life to all who believe in Your Son. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2022-09-04 - Paul Prins: Fixed a typo.",

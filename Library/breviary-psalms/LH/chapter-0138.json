@@ -16,6 +16,19 @@
 		"7": "Si ambulávero in médio tribulatiónis, vivificábis me ; [t]\r\n\tet contra iram inimicórum meórum exténdes manum tuam, [*]\r\n\tet salvum me fáciet déxtera tua.\r\n",
 		"8": "Dóminus perfíciet pro me ; [t]\r\n\tDómine, misericórdia tua in sǽculum : [*]\r\n\tópera mánuum tuárum ne despícias."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-16": ["Peer-Review"],
+				"2023-10-15": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-15 - Paul Prins: Added this Text"
 	],

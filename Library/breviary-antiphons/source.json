@@ -3,7 +3,9 @@
 	"Title": {
 		"default": "Breviary Antiphons",
 		"UMB-EN": "Antiphons from the Breviary",
-		"BMU-FR": "Antiphons du Bréviaire"
+		"BMU-FR": "Antiphons du Bréviaire",
+		"eng": "Antiphons",
+		"fra": "Antiphones"
 	},
 	"Description": "",
 	"Type": "Book",

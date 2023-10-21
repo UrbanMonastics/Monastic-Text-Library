@@ -15,6 +15,19 @@
 		"6": "[red][[/red]Iudicábit in natiónibus: cumulántur cadávera, [*]\r\n\tconquassábit cápita in terra spatiósa.[red]][/red]\r\n\r\n",
 		"7": "De torrénte in via bibet, [*]\r\n\tproptérea exaltábit caput."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-08": ["Peer-Review"],
+				"2021-04-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-04-10 - Paul Prins: Fix some typos in the text.",
 		"2021-04-07 - Paul Prins: Added this text"

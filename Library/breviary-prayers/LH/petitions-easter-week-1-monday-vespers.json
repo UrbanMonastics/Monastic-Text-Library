@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II]Deum Patrem qui Christum suscitávit et ad déxteram suam exaltávit, súpplice exorémus:\r\n[IR]Per glóriam Christi custódi pópulum tuum, Dómine.\r\n[I1]Christe, qui victória tua portas contrivísti infernáles, peccátum delens et mortem,r\n[I2]fac nos hódie peccáti victóres.\r\n[I1]Tu, qui mortem evacuásti, vitam nobis impértiens novam,\r\n[I2]da ut hódie in hac vitæ novitáte ambulémus.\r\n[I1]Qui vitam móruis tribuísti, totum genus humánum de morte ad vitam redúcens,\r\n[I2]ómnibus, qui nobis occúrrent, ætérnam vitam concéde.\r\n[I1]Qui, sepúlcri tui custódes confundens, discípulos tuos lætificásti,\r\n[I2]plenam tibi servéntibus largíre lætítiam.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-04-02": ["Peer-Review"],
+				"2021-04-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-08-04 - Paul Prins: Change abbreviation to use petitions.",
 		"2021-04-01 - Paul Prins: Added these intentions."

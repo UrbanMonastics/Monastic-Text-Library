@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Dearest siblings, let us pray to Christ the Redeemer. Who came to save all people. Let us say with confidence:\r\n[IR] Come, Lord Jesus!\r\n[I1] Lord Christ, You who took on our own flesh and, through some mystery, You made known to the world the glory of Your divinity,\r\n[I2] by Your advent, give us life.\r\n[I1] You who took upon Yourself our weaknesses,\r\n[I2] grant us Your mercy.\r\n[I1] You who came in humility being born a child in a manger, and redeemed the world from sin,\r\n[I2] when You come again redeem us of our faults, and restore all that is broken.\r\n[I1] You who live and Reign over all creation,\r\n[I2] out of Your goodness bring us to our eternal home.\r\n[I1] You who is seated at the right hand of the Father,\r\n[I2] with the light of Your face, give joy to the souls of the deceased.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: Initial translation of these intentions."
 	],

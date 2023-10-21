@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Deus, per quem nobis et redémptio venit et praestátur adóptio [t] filios dilectiónis tuae benígnus inténde, [*] ut in Christo credéntibus et vera tribuátur libértas, et heréditas aetérna. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-06-16 - Paul Prins: Removed incorrect description from the text file."
 	],

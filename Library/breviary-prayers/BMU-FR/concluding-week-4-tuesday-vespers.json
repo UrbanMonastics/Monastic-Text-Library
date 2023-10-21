@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "En priant en ta présence, Seigneur, nous implorons tes miséricordes. [*] Afin que nous méditions toujours en eux dans nos cœurs et que nous confessions sur nos lèvres ce que tu as fait pour nous. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Traduit cette prière."
 	],

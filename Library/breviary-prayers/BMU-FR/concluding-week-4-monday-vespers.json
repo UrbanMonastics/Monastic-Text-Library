@@ -8,5 +8,21 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Reste avec nous, Seigneur, car il se fait tard et le jour est bientôt finie. Illumine nos cœurs sur nos routes pour que nous découvrions dans les Écritures, et dans le partage du pain. Toi règnes pour toujours.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-25": ["Peer-Review"],
+				"2021-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-05-24 - Paul Prins: Traduit cette prière."
+	],
 	"License": "© 2021 Monastiques Urbain, Paris"
 }

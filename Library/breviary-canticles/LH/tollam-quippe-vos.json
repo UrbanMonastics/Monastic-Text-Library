@@ -15,7 +15,21 @@
 	"Extra": {
 		"Reference" : ["Ezekiel 36:24-28"],
 		"LiturgiaeHorarum-Index": 45,
-		"LiturgiaeHorarum-Cantica": "VT"
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-D2": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
+	"Changes": [
+		"YYYY-MM-DD - Paul Prins: Added this text."
+	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

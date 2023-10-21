@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Invitons Jésus-Christ, notre Rédempteur, qui est le chemin, la vérité et la vie, en disant :\r\n[IR] Viens, Seigneur, et reste avec nous !\r\n[I1] Jésus, Fils du Très-Haut, qui a été annoncé à la Vierge Marie par l'ange Gabriel,\r\n[I2] viens régner sur ton peuple pour l'éternité.\r\n[I1] Toi, Saint de Dieu, pour qui ton Précurseur a tressailli de joie dans le sein d'Elisabeth,\r\n[I2] viens donner la joie du salut à l'univers entier.\r\n[I1] Jésus le Sauveur, un ange a révélé ton nom à l'homme juste qu'est Joseph,\r\n[I2] viens sauver ton peuple de ses péchés.\r\n[I1] Lumière du Monde, qui était attendue par Siméon et tous les justes,\r\n[I2] viens nous consoler.\r\n[I1] Étoile d'en Haut, lumière sans déclin, Zacharie a proclamé la venue,\r\n[I2] viens illuminer tous ceux qui habitent dans les ténèbres et l'ombre de la mort.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-28": ["Peer-Review"],
+				"2022-11-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-11-27 - Paul Prins: Première traduction de ces intentions."
 	],

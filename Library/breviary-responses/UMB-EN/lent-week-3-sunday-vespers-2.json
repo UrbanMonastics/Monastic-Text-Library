@@ -8,6 +8,22 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] Listen, Lord, and have mercy, for we have sinned against You.\r\n[R] Listen, Lord, and have mercy, [*] for we have sinned against You.\r\n[V] Hear us, Christ, have mercy, and answer our prayers.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-03-06": ["Peer-Review"],
+				"2021-03-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2021-03-05 - Paul Prins: Initial Translation."
+	],
 	"License": "© 2021 Urban Monastics, Paris"
 }
 

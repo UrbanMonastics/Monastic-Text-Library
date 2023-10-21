@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Semper exsúltet pópulus tuus, Deus, renováta ánimæ iuventúte, [t] ut qui nunc lætátur in adoptiónis se glóriam restitútum, [*] resurrectiónis diem spe certæ gratulatiónis exspéctet. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-04-30 - Paul Prins: Added this prayer."
 	],

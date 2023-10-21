@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Beloved siblings, let us pled to our Lord Jesus Christ, who judges the living and the dead, saying:\r\n[IR] Come, Lord Jesus!\r\n[I1] Lord Christ, who came to save sinners,\r\n[I2] protect us from each path that lead to temptation.\r\n[I1] We believe You will return unmistakably for the Judgement,\r\n[I2] reveal in us the power of Your salvation.\r\n[I1] Grant us, by the power of the Spirit, to keep the teachings of Your law,\r\n[I2] that, in charity, we may greet Your coming.\r\n[I1] You, who are blessed forever, through Your mercy grant us that we may live faithful and somber lives in our times,\r\n[I2] anticipating the blessed hope, and the arrival of Your splendor.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-07": ["Peer-Review"],
+				"2022-12-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-06 - Paul Prins: Initial translation of these intentions."
 	],

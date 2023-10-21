@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Dieu, nous voyons ta puissance chaque jour dans ta patience et ta miséricorde. [t] Multiplie ta grâce sur nous. [*] Attire-nous vers le bien que tu promets. Avec toi, nous atteindrons les joies du ciel. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-01": ["Peer-Review"],
+				"2023-09-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-09-30 - Paul Prins: Traduit cette prière."
 	],

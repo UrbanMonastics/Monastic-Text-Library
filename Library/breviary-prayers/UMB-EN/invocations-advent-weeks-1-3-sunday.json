@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[II] Let us pray to God the Father, who out of His goodness, gives us the grace to wait for our Lord Jesus Christ to be revealed, let us say:\r\n[IR] Show us, Lord, Your mercy!\r\n[I1] Lord, sanctify us spirit, soul, and body,\r\n[I2] and keep us without blemish for the coming of Your Son.\r\n[I1] Today, make us walk in holiness,\r\n[I2] as well as pursuing justice, and devout living in this world.\r\n[I1] Allow us to cover ourselves with our Lord, Jesus Christ, \r\n[I2] and to be filled with the Holy Spirit.\r\n[I1] Grant us enduring vigilance, Lord,\r\n[I2] until the glorious manifestation of Your Son.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-06": ["Peer-Review"],
+				"2022-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-05 - Paul Prins: Initial translation of these intentions."
 	],

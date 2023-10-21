@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II] Christum redemptórem, fratres caríssimi, exorémus, qui venit ad salvándos hómines, eíque fidénter dicámus:\r\n[IR] Veni, Dómine Iesu.\r\n[I1] Christe Dómine, qui per suscéptæ mystérium carnis notam fecísti mundo glóriam tuæ divinitátis,\r\n[I2] vivífica nos advéntu tuo.\r\n[I1] Tu, qui suscepísti infirmitátem nostram,\r\n[I2] concéde nobis misericórdiam tuam.\r\n[I1] Qui, primo vénies húmilis, redemísti mundum a crímine,\r\n[I2] secúndo advéniens, iustífica nos ab omni reátu.\r\n[I1] Tu, qui vivis et ómnia regis,\r\n[I2] in bonitáte tua fac nos accédere ad ætérnam hereditátem.\r\n[I1] Qui sedes ad déxteram Patris,\r\n[I2] lúmine vultus tui ánimas defunctórum lætífica.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-12-05 - Paul Prins: Added these intentions."
 	],

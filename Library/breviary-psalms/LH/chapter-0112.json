@@ -18,6 +18,19 @@
 		"9": "Distríbuit, dedit paupéribus; [t]\r\n\tiustítia eius manet in sæculum sæculi, [*]\r\n\tcornu eius exaltábitur in glória.\r\n\r\n",
 		"10": "Peccátor vidébit et irascétur, [t]\r\n\tdénitbus suis fremet et tabéscet. [*]\r\n\tDesidérium peccatórum períbit."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-DD": ["Peer-Review"],
+				"2021-09-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-28 - Paul Prins: Added this text"
 	],

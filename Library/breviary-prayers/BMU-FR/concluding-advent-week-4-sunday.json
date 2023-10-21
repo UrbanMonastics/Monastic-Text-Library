@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Nous prions pour que ta grâce, Seigneur, soit répandue en nos cœurs. [t] Par le message de l'Ange, tu nous as fait connaître l'incarnation de ton Fils bien-aimé. [*] Guide-nous à travers sa passion, et sa croix, pour partager la gloire de la résurrection. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-12-18": ["Peer-Review"],
+				"2022-12-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-12-17 - Paul Prins: Traduit cette prière."
 	],

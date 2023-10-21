@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Almighty and eternal God, you who we know as our Father, and through the teaching of the Holy Spirit. [t] Make perfect in our hearts our spiritual adoption as your children. [*] That all your children may enter into our inheritance you promised. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-08-05 - Paul Prins: Translated this prayer."
 	],

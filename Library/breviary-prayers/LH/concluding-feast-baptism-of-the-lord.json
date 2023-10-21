@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Omnípotens sempitérne Deus, qui Christum, in Lordáne flúmine baptizátum, Spíritu Sancto super eum descendénte, diléctum Fílium tiim sollémniter declarásti, [t] concédde fíliis adoptiónis tuæ, ex aqau et Spírtu Sancto renátis, [*] ut in beneplácito tuo iúgiter persevérent. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-09": ["Peer-Review"],
+				"2022-01-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-08 - Paul Prins: Added this prayer."
 	],

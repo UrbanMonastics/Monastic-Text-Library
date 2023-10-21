@@ -4,6 +4,19 @@
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "[II] Christum, qui poténtiam et robur dat pópulo suo, exaltémus et sincéris ánimis exorémus:\r\n[IR] Exáudi nos, Dómine, et te semper laudábimus.\r\n[I1] Christe, fortitúdo nostra, fidélibus tuis, quos ad tuam veritátem vocásti,\r\n[I2] fidem et constántiam tríbue miserátus.\r\n[I1] Dírige secúndum cor tuum, Dómine, omnes, qui nos in potestáte regunt,\r\n[I2] eórum mentes dispóne, ut in pace nos ducant.\r\n[I1] Qui turbas pánibus satiásti,\r\n[I2] doce nos ópibus nostris esuriéntibus subveníre.\r\n[I1] Face ut regéntes non ad solam suam natiónem ánimos inténdant,\r\n[I2] sed cunctos revereántur ac de ómnibus sint sollíciti.\r\n[I1] Frátribus, qui dormiérunt, resurrectiónem vitámque beátam concéde,\r\n[I2] dum véneris glorificári in ómnibus, qui credidérunt.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2023-10-16 - Paul Prins: Added these intentions."
 	],

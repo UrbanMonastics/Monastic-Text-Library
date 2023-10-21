@@ -18,6 +18,19 @@
 		"9": "Redemptiónem misit pópulo sui, [*]\r\n\tmandávit in ætérnum testaméntum suum.\r\n\r\nSanctum et terríbile nomen eius. [*]\r\n",
 		"10": "\tInítium sapiéntiæ timor Dómini,\r\nintelléctus bonus ómnibus faciéntibus ea; [*]\r\n\tlaudátio eius manet in sæculum sæculi."
 	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-09-05": ["Peer-Review"],
+				"2021-09-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2021-09-04 - Paul Prins: Added this text"
 	],

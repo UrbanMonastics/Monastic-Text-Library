@@ -8,6 +8,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "[V] It is He who came by water and blood.\r\n[R] It is He who came [*] by water and blood.\r\n[V] Jesus Christ, our Lord.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-09": ["Peer-Review"],
+				"2022-01-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"2022-01-08 - Paul Prins: Initial translation from Latin"
 	],
