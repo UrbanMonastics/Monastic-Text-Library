@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Be for me, Lord, [*] a God who protects me.",
+	"Text": "For me, Lord, [*] be a God who protects me.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2023-10-26 - Paul Prins: Rephrased to flow more smoothly.",
 		"2023-08-19 - Paul Prins: First translation of this Antiphon."
 	],
 	"License": "© 2023 Urban Monastics, Paris"
