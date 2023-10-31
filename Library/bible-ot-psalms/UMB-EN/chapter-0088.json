@@ -34,18 +34,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-10-31": ["Peer-Review"],
-				"2022-10-30": [
+				"2023-10-21": [
+					"Verified",
+					"Guidelines"
+				],
+				"2022-10-29": ["Peer-Review"],
+				"2022-10-28": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
 			"Reviewers": {
-				"2023-10-20": "Jordan Prins"
+				"2023-10-21": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2023-10-21 - Jordan Prins: Verified the text.",
 		"2023-10-21 - Paul Prins: Rephrased verse 3 to rhyme more.",
 		"2022-10-30 - Paul Prins: Removed Liturgical Formatting from the version in the breviary."
 	],

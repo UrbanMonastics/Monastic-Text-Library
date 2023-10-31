@@ -21,27 +21,34 @@
 		"8": "You will only look with your eyes,\r\n\tand watch as the wicked are punished.\r\n",
 		"9": "For you have made the LORD, my refuge,\r\n\tthe most high, your fortress.\r\n",
 		"10": "No evil will touch you,\r\n\tnor plague approach your tent.\r\n\r\n",
-		"11": "For He will give his angels orders concerning you,\r\n\tto protect you in all your ways.\r\n",
+		"11": "For He will give His angels orders concerning you,\r\n\tto protect you in all your ways.\r\n",
 		"12": "On their hands they will carry you,\r\n\tso you never strike your foot against a stone.\r\n",
 		"13": "On the lion and cobra you will tread,\r\n\tand trample the young lion and the dragon.\r\n\r\n",
-		"14": "\"Since they have loved Me, I will rescue them.\r\n\tI will protect them, because they have known my name.\r\n",
+		"14": "\"Since they have loved Me, I will rescue them.\r\n\tI will protect them, because they have known My name.\r\n",
 		"15": "They will call to Me, and I will answer them;\r\n\tI will be with them in trouble,\r\n\tI will rescue and honor them.\r\n",
-		"16": "With a long life I will satisfy them,\r\n\tand I will show them my salvation.\""
+		"16": "With a long life I will satisfy them,\r\n\tand I will show them My salvation.\""
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-09-03": ["Peer-Review"],
 				"2021-09-02": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2021-09-02 - Paul Prins: Removed Liturgical Formatting from the version in the breviary."
 	],
 	"License": "© 2021 Urban Monastics, Paris"

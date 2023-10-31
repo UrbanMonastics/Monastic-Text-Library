@@ -22,22 +22,29 @@
 		"9": "Save me from my enemies, LORD,\r\n\tin You, I take refuge.\r\n",
 		"10": "Teach me to do Your will,\r\n\tfor You are my God.\r\nMay Your good spirit lead me on level ground;\r\n",
 		"11": "\tFor Your name's sake, LORD, revive me.\r\nIn Your righteousness,\r\n\tdeliver my soul from trouble.\r\n\r\n",
-		"12": "[And in Your faithfulness, put an end to my enemies,\r\n\tand ruin all who attack my soul,\r\n\tfor I am Your servant.]"
+		"12": "And in Your faithfulness, put an end to my enemies,\r\n\tand ruin all who attack my soul,\r\n\tfor I am Your servant."
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2023-08-1h3": ["Peer-Review"],
+				"2023-10-31": [
+					"Verified",
+					"Guidelines"
+				],
+				"2023-08-13": ["Peer-Review"],
 				"2023-08-12": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-08-30 - Paul Prins: Update the casing on pronouns referring to God.",
 		"2023-08-12 - Paul Prins: First translation of psalm 143 based on Greek, Latin, and some Hebrew"
 	],

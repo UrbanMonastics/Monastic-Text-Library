@@ -11,19 +11,23 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "When I cry to you, answer me, God of my justice,\r\n\tyou rescued me when I was oppressed,\r\nbe gracious with me now,\r\n\tand hear my prayer.\r\n\r\n",
+		"1": "When I cry to You, answer me, God of my justice,\r\n\tYou rescued me when I was oppressed,\r\nbe gracious with me now,\r\n\tand hear my prayer.\r\n\r\n",
 		"2": "How long will you people turn my glory into shame,\r\n\tlove what is worthless, and pursue lies?\r\nselah\r\n",
-		"3": "But know that the LORD has set apart the faithful for himself;\r\n\tthe LORD hears when I cry out to him.\r\n\r\n",
-		"4": "Tremble in your anger but do not sin;\r\n\tmeditate in your heart,\r\n\twhile on your bed, and be still.\r\nselah\r\n",
+		"3": "But know that the LORD has set apart the faithful for Himself;\r\n\tthe LORD hears when I cry out to Him.\r\n\r\n",
+		"4": "Tremble in your anger but do not sin;\r\n\tmeditate in your heart\r\n\twhile on your bed, and be still.\r\nselah\r\n",
 		"5": "Offer your righteous sacrifices,\r\n\tand trust in the LORD.\r\n\r\n",
-		"6": "Many are asking, \"Who can show us anything good?\"\r\n\tLORD, let the light of your face shine upon us!\r\n",
+		"6": "Many are asking, \"Who can show us anything good?\"\r\n\tLORD, let the light of Your face shine upon us!\r\n",
 		"7": "You put more gladness in my heart,\r\n\tthan when others overflow with grain and new wine.\r\n",
-		"8": "In peace I will lie down and find sleep,\r\n\tfor you alone, LORD, let me dwell in safety."
+		"8": "In peace I will lie down and find sleep,\r\n\tfor You alone, LORD, let me dwell in safety."
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-21": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-04-23": ["Peer-Review"],
 				"2021-04-22": [
 					"Second-Pass",
@@ -36,6 +40,8 @@
 		}
 	},
 	"Changes": [
+		"2023-10-21 - Jordan Prins: Verified the text.",
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2021-04-22 - Paul Prins: First translation of Psalm 4 based on Greek, Latin, and some Hebrew"
 	],
 	"License": "© 2021 Urban Monastics, Paris"
