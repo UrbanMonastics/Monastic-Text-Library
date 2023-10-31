@@ -11,28 +11,28 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "In you, LORD, I have taken refuge,\r\n\tnever let me be ashamed,\r\n\tin your righteousness, rescue me.\r\n",
-		"2": "Incline your ear towards me,\r\n\tand rescue me quickly.\r\nBe my rock of strength,\r\n\ta strong fortress to save me.\r\n\r\n",
-		"3": "Since you are my rock and fortress,\r\n\tlead and guide me for the sake of your name.\r\n",
-		"4": "Spare me from the trap they laid for me in secret,\r\n\tfor you are my protector.\r\n\r\n",
-		"5": "Into your hands I entrust my spirit,\r\n\tfor you have redeemed me, LORD, God of truth.\r\n\r\n",
+		"1": "In You, LORD, I have taken refuge,\r\n\tnever let me be ashamed,\r\n\tin Your righteousness, rescue me.\r\n",
+		"2": "Incline Your ear towards me,\r\n\tand rescue me quickly.\r\nBe my rock of strength,\r\n\ta strong fortress to save me.\r\n\r\n",
+		"3": "Since You are my rock and fortress,\r\n\tlead and guide me for the sake of Your name.\r\n",
+		"4": "Spare me from the trap they laid for me in secret,\r\n\tfor You are my protector.\r\n\r\n",
+		"5": "Into Your hands I entrust my spirit,\r\n\tfor You have redeemed me, LORD, God of truth.\r\n\r\n",
 		"6": "I hate those clinging to worthless idols,\r\n\tfor me, I trust in the LORD.\r\n",
-		"7": "In your faithfulness, I will rejoice and be glad,\r\n\tbecause you saw me afflicted.\r\n\tYou know the anguish of my soul.\r\n",
-		"8": "And you have not handed me over to my enemy,\r\n\tbut set my feet in a large place.\r\n\r\n",
+		"7": "In Your faithfulness, I will rejoice and be glad,\r\n\tbecause You saw me afflicted.\r\n\tYou know the anguish of my soul.\r\n",
+		"8": "And You have not handed me over to my enemy,\r\n\tbut set my feet in a large place.\r\n\r\n",
 		"9": "Have mercy on me, LORD, for I am in distress,\r\n\tmy eye is wasting away in grief,\r\n\tmy soul and my body too.\r\n",
 		"10": "I spend my life consumed in sorrow,\r\n\tand my years groaning.\r\nMy strength fails under my guilt,\r\n\tand my bones are crumbling away.\r\n\r\n",
 		"11": "Due to my enemies, I have become despised,\r\n\tan object of dread to my neighbors and friends,\r\n\tthose who see me on the street flee from me.\r\n",
 		"12": "I have been forgotten like the dead and cast out of mind,\r\n\tI am like broken pottery.\r\n",
 		"13": "For I have heard many people's slander, and their terror surrounds me,\r\n\twhile they conspire against me,\r\n\tand plot to take my life.\r\n\r\n",
-		"14": "But as for me, I trust in you, LORD!\r\n\tI say, \"you are my God!\r\n",
-		"15": "\tMy days are in your hands.\"\r\nRescue me from the hands of my enemies,\r\n\tand from those who pursue me.\r\n\r\n",
-		"16": "Shine your face upon your servant,\r\n\tsave me through your unfailing love.\r\n",
-		"17": "Let me not be put to shame, LORD, for I call upon you,\r\n\tbut let the wicked be ashamed and fall quiet in Sheol.\r\n",
+		"14": "But as for me, I trust in You, LORD!\r\n\tI say, \"You are my God!\r\n",
+		"15": "\tMy days are in Your hands.\"\r\nRescue me from the hands of my enemies,\r\n\tand from those who pursue me.\r\n\r\n",
+		"16": "Shine Your face upon Your servant,\r\n\tsave me through Your unfailing love.\r\n",
+		"17": "Let me not be put to shame, LORD, for I call upon You,\r\n\tbut let the wicked be ashamed and fall quiet in Sheol.\r\n",
 		"18": "Put to silence their lying lips,\r\n\tfor the vile and contemptuous things they speak\r\n\tin arrogance against the righteous.\r\n\r\n",
-		"19": "How great is your goodness!\r\n\tWhich you stored up for those who fear you.\r\nIn the sight of everyone, you have acted\r\n\tfor those who take refuge in you.\r\n",
-		"20": "You shelter them in your presence,\r\n\thiding them from all human conspiracies.\r\nYou keep them sheltered in secret,\r\n\tsafe from accusing tongues.\r\n\r\n",
-		"21": "Blessed is the LORD,\r\n\twhile in a city under siege, he showed me his marvelous faithfulness.\r\n",
-		"22": "In my alarm I said,\r\n\t\"I am cut off from your eyes.\"\r\nYet you still heard my pleas\r\n\twhen I cried out to you for help.\r\n\r\n",
+		"19": "How great is Your goodness!\r\n\tWhich You stored up for those who fear You.\r\nIn the sight of everyone, You have acted\r\n\tfor those who take refuge in You.\r\n",
+		"20": "You shelter them in Your presence,\r\n\thiding them from all human conspiracies.\r\nYou keep them sheltered in secret,\r\n\tsafe from accusing tongues.\r\n\r\n",
+		"21": "Blessed is the LORD,\r\n\twhile in a city under siege, He showed me His marvelous faithfulness.\r\n",
+		"22": "In my alarm I said,\r\n\t\"I am cut off from Your eyes.\"\r\nYet You still heard my pleas\r\n\twhen I cried out to You for help.\r\n\r\n",
 		"23": "Love the LORD, all his holy people!\r\n\tThe LORD preserves the faithful,\r\n\tbut rewards the proud in full.\r\n",
 		"24": "Be strong and let your heart be courageous,\r\n\tall you who wait for the LORD."
 	},
@@ -40,16 +40,25 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-15": ["Peer-Review"],
 				"2023-08-14": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Jordan Prins: Verified verses this text.",
+		"2023-10-31 - Jordan Prins: Fixed casing on two pronouns.",
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2023-08-14 - Paul Prins: First translation of psalm 31 based on Greek, Latin, and some Hebrew"
 	],
 	"License": "© 2023 Urban Monastics, Paris"

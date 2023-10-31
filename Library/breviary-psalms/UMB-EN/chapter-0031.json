@@ -31,7 +31,7 @@
 		"18": "Put to silence their lying lips, [t]\r\n\tfor the vile and contemptuous things they speak [*]\r\n\tin arrogance against the righteous.\r\n\r\n",
 		"19": "How great is Your goodness! [*]\r\n\tWhich You stored up for those who fear You.\r\nIn the sight of everyone, You have acted [*]\r\n\tfor those who take refuge in You.\r\n",
 		"20": "You shelter them in Your presence, [*]\r\n\thiding them from all human conspiracies.\r\nYou keep them sheltered in secret, [*]\r\n\tsafe from accusing tongues.\r\n\r\n",
-		"21": "Blessed is the LORD, [*]\r\n\twhile in a city under siege, he showed me his marvelous faithfulness.\r\n",
+		"21": "Blessed is the LORD, [*]\r\n\twhile in a city under siege, He showed me His marvelous faithfulness.\r\n",
 		"22": "In my alarm I said, [*]\r\n\t\"I am cut off from Your eyes.\"\r\nYet You still heard my pleas [*]\r\n\twhen I cried out to You for help.\r\n\r\n",
 		"23": "Love the LORD, all his holy people! [t]\r\n\tThe LORD preserves the faithful, [*]\r\n\tbut rewards the proud in full.\r\n",
 		"24": "Be strong and let your heart be courageous, [*]\r\n\tall you who wait for the LORD."
@@ -56,7 +56,8 @@
 		}
 	},
 	"Changes": [
-		"2023-10-31 - Jordan Prins: Verified verses 1-5.",
+		"2023-10-31 - Jordan Prins: Verified verses this text.",
+		"2023-10-31 - Jordan Prins: Fixed casing on two pronouns.",
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2023-08-14 - Paul Prins: First translation of psalm 31 based on Greek, Latin, and some Hebrew"
 	],
