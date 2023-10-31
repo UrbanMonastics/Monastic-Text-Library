@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "ordinary-week-31-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Qui major est vestrum [*] erit miníster vester, quia omnis qui se exáltat humiliábitur, dicit Dóminus",
+	"Extra": {
+		"Reference": ["Matthew 23:11-12"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": ["Peer-Review"],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

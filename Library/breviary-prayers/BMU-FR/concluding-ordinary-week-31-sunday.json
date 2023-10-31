@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-31-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu de puissance et de miséricorde. C'est ta grâce qui invite tes fidèles à te servir avec dignité et louange. [t] Fais que le chemin soit clair pour tous [*] ceux qui cherchent les bonnes choses que tu promets. Par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": ["Peer-Review"],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

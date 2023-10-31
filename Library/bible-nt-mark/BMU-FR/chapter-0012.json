@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0012",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "12",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"28": "\tL'un des scribes s'approcha. Il les entendit discuter et reconnut qu'il avait bien répondu. Il lui demanda : « Quel est le plus important commandement de tous ? »\r\n",
+		"29": "\tJésus lui répondit : « Voici le plus important : Écoute, Israël ! Le Seigneur est notre Dieu, le Seigneur est unique. ",
+		"30": "Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, de tout ton esprit et de toute ta force.  ",
+		"31": "Voici la seconde : tu aimeras ton prochain comme toi-même. Il n'y a pas de commandement plus grand que ceux-là. » "
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-30": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 - Paul Prins: Première traduction du versets 28-30."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

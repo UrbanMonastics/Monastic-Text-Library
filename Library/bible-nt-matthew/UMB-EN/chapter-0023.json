@@ -1,0 +1,34 @@
+{
+	"TextAbbreviation": "chapter-0023",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "23",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "The greatest among you [*] will be your servant. ",
+		"12": "Whoever exalts themself will be humbled, and whoever humbles themself will be exalted. "
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-30": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 - Paul Prins: First translation of verses 11-12."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

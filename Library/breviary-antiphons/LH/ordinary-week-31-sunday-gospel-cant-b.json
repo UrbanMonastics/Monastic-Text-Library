@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "ordinary-week-31-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Magíster, [*] quod est mandátum magnum in lege ? Ait illi Iesus: Díliges Dóminum Deum tuum ex toto corde tuo, allelúia.",
+	"Extra": {
+		"Reference": ["Mark 12:28-30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": ["Peer-Review"],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

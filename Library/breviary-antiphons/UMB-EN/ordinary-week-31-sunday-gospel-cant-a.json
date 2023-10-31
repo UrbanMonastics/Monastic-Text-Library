@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "ordinary-week-31-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "\"The greatest among you [*] will be your servant. Whoever exalts themself will be humbled,\" says the Lord.",
+	"Extra": {
+		"Reference": ["Matthew 23:11-12"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2023-10-31 - Jordan Prins: Reviewed and Verified the text",
+		"2023-10-30 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

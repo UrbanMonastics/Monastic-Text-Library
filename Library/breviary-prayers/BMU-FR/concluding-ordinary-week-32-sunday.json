@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant et miséricordieux, prends pitié de nous, et enlève tout ce qui nous entrave. [t] Afin que, libres d'esprit, de corps et d'âme, [*] nous soyons libres pour accomplir ta volonté. Par Jésus-Christ.",
+	"Text": "Dieu de puissance et de miséricorde, prends pitié de nous, et enlève tout ce qui nous entrave. [t] Afin que, libres d'esprit, de corps et d'âme, [*] nous soyons libres pour accomplir ta volonté. Par Jésus-Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Paul Prins: Fixez le discours d'ouverture à Dieu.",
 		"2022-11-05 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

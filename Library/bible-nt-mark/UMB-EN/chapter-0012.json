@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0012",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "12",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"28": "\tAnd one of the scribes came up. He heard them arguing and recognized that He had answered well. He asked Him, \"What is the most important commandment of all?\"\r\n ",
+		"29": "\tJesus answered him, \"The most important is: Hear, Israel! The Lord is our God, the Lord is one.  ",
+		"30": "Love the Lord, your God, with all your heart, with all your soul, with all your mind, and with all your strength. ",
+		"31": "The second is this: Love your neighbor as yourself. There is no commandment greater than these.\" "
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-30": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 - Paul Prins: First translation of verses 28-30."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "ordinary-week-31-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Venit [*] Fílius hómini quǽrere et salvum fácere quod períerat.",
+	"Extra": {
+		"Reference": ["Luke 19:10"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": ["Peer-Review"],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

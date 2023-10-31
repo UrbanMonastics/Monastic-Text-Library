@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-31-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "« Maître, [*] quel est le plus important commandement de tous ? » Jésus lui répondit : «Tu aimeras le Seigneur, ton Dieu, de tout ton cœur. » Alléluia.",
+	"Extra": {
+		"Reference": ["Marc 12:28-30"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": ["Peer-Review"],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

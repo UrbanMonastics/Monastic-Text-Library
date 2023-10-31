@@ -1,0 +1,34 @@
+{
+	"TextAbbreviation": "chapter-0019",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "19",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"9": "\tAlors Jésus lui dit : « Aujourd'hui, le salut est entré dans cette maison. Parce que lui aussi est fils d'Abraham. ",
+		"10": "Car le Fils de l'homme est venu chercher et sauver ce qui était perdu. »\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-30": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-10-30 - Paul Prins: Premier traduction du versets 9-10."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

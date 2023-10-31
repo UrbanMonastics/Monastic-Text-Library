@@ -1,0 +1,35 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-31-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and merciful God. It is Your grace that invites Your faithful to serve You with dignity and praise. [t] Make a clear path for all [*] who seek the good things You promise. Through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2023-10-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2023-10-31 - Jordan Prins: Reviewed and Verified the text",
+		"2023-10-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
