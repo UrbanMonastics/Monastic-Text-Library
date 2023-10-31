@@ -9,19 +9,27 @@
 	},
 	"Text": "For me, Lord, [*] be a God who protects me.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-20": ["Peer-Review"],
 				"2023-08-19": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-10-26 - Paul Prins: Rephrased to flow more smoothly.",
 		"2023-08-19 - Paul Prins: First translation of this Antiphon."
 	],

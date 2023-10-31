@@ -34,6 +34,10 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-21": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-10-29": ["Peer-Review"],
 				"2022-10-28": [
 					"Second-Pass",
@@ -41,11 +45,12 @@
 				]
 			},
 			"Reviewers": {
-				"2023-10-20": "Jordan Prins"
+				"2023-10-21": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2023-10-21 - Jordan Prins: Verified the text.",
 		"2023-10-21 - Paul Prins: Rephrased verse 3 to rhyme more.",
 		"2022-10-29 - Paul Prins: Updated verse 4 to fix awkward flow and confusion.",
 		"2022-10-28 - Paul Prins: First translation of psalm 88 based on Greek, Latin, and some Hebrew"

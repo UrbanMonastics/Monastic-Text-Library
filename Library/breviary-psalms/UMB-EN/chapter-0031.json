@@ -40,16 +40,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-15": ["Peer-Review"],
 				"2023-08-14": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Jordan Prins: Verified verses 1-5.",
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2023-08-14 - Paul Prins: First translation of psalm 31 based on Greek, Latin, and some Hebrew"
 	],

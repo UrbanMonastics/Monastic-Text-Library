@@ -27,6 +27,10 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2023-10-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-27": ["Peer-Review"],
 				"2023-08-26": [
 					"Second-Pass",
@@ -34,11 +38,13 @@
 				]
 			},
 			"Reviewers": {
+				"2023-10-31": "Jordan Prins",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-10-19 - Jordan Prins: Fix punctuation in verse 4.",
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2023-08-26 - Paul Prins: First translation of psalm 16 based on Greek, Latin, and some Hebrew"
