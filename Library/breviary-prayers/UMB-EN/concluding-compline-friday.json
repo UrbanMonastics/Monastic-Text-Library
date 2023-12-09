@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nForgive us God Almighty. [t] So that we can faithfully follow Your only begotten Son down into the grave. [*] Following Him through death, and rising again into newness of life with Him. You who lives and reigns forever.\r\nAmen.",
+	"Text": "Let us pray.\r\nForgive us God Almighty. [t] So that we can faithfully follow Your only begotten Son down into the grave. [*] To follow Him through death, and to rise again with Him into newness of life. You who lives and reigns forever.\r\nAmen.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -19,11 +19,13 @@
 				]
 			},
 			"Reviewers": {
+				"2023-12-09": "Jordan Prins",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2023-12-09 - Paul Prins: Fix grammar after the mid-point",
 		"2023-08-30 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2023 Urban Monastics, Paris"

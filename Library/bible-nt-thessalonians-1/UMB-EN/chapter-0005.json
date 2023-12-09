@@ -11,9 +11,9 @@
 	"Verses": {
 		"4": "My siblings, you are not in darkness. The day of the Lord will not surprise you like a thief. ",
 		"5": "All of you are children of light, and children of the day. We do not belong to the night, nor to darkness. ",
-		"9": "There won't be wrath for us. Instead, God has destined us to receive salvation through our Lord Jesus Christ, ",
-		"10": "who died for us. Together we will live with Him. No matter if we are awake or asleep. ",
-		"23": "May the God of peace Himself, wholly sanctify you. That your spirit, soul, and body be completely preserved, and without blemish at the coming of our Lord Jesus Christ. ",
+		"9": "For God has not destined us for wrath. Instead, we receive salvation through our Lord Jesus Christ, ",
+		"10": "who died for us. We will live together with Him. No matter if we are awake or asleep. ",
+		"23": "May the God of peace Himself sanctify you completely. May your whole spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ. ",
 		"24": "Faithful is He who calls you, and He will also see it through to the end. "
 	},
 	"Extra": {
@@ -37,6 +37,7 @@
 		}
 	},
 	"Changes": [
+		"2023-12-09 - Paul Prins: Reworked verses 9-10, 23",
 		"2023-10-31 - Jordan Prins: Verified verses 9-10.",
 		"2023-10-19 - Jordan Prins: Verified verses 23-24.",
 		"2023-08-30 - Paul Prins: Smooth out the language in verses 4-5, 9, 23-24",

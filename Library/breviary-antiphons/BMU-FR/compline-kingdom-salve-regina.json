@@ -7,9 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Salut, [*] saint Royaume, maison de miséricorde,\r\n\tsource de vie, de douceur et d'espérance.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très gracieuse avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle roi béni sur ton trône.\r\n\tMiséricordieux, aimant et doux Seigneur Christ.",
+	"Text": "Salut, [*] saint Royaume, maison de miséricorde,\r\n\tune de vie, de douceur et d'espérance.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très gracieuse avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle roi béni sur ton trône.\r\n\tMiséricordieux, aimant et doux Seigneur Christ.",
 	"Extra": {
-		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte.",
+		"BreviaryInstructions": "Pendant le temps Ordinaire après la Pentecôte.",
 		"Writing":{
 			"Authors": ["Paul Prins", "Jordan Prins"],
 			"Step": {
@@ -21,6 +21,7 @@
 		}
 	},
 	"Changes": [
+		"2023-12-09 - Paul Prins: Mise à jour pour correspondre à l'anglais",
 		"2023-04-06 - Paul Prins: Raffiné pour mieux correspondre à son antienne mariale.",
 		"2022-08-31 - Paul Prins, Jordan Prins : Ont créé cette antienne."
 	],

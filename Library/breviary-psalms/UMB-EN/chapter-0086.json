@@ -14,7 +14,7 @@
 		"1": "Bring low Your ear, LORD, and answer me, [*]\r\n\tfor I am poor and needy.\r\n",
 		"2": "Preserve my soul, for I am faithful, [*]\r\n\tmy God, save Your servant who trusts in You.\r\n\r\n",
 		"3": "Be gracious to me, Lord, [*]\r\n\tfor I cry to You all day long.\r\n",
-		"4": "Fill Your servants soul with rejoicing, [*]\r\n\tfor I lift my soul, Lord, to You.\r\n",
+		"4": "Fill Your servant's soul with rejoicing, [*]\r\n\tfor I lift my soul, Lord, to You.\r\n",
 		"5": "For You, Lord, are good and ready to forgive, [*]\r\n\twith abundant mercy for all who call upon You.\r\n\r\n",
 		"6": "Turn Your ear, LORD, to my prayer, [*]\r\n\tand listen to my pleading voice.\r\n",
 		"7": "On the day of trouble, I will call on You, [*]\r\n\tfor You will answer me.\r\n\r\n",
@@ -44,11 +44,13 @@
 				]
 			},
 			"Reviewers": {
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-31": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2023-12-09 - Sheila Whittenberg: Grammar correction & Verified the text.",
 		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-08-30 - Paul Prins: Update the casing on pronouns referring to God.",
 		"2023-08-10 - Paul Prins: First translation of psalm 86 based on Greek, Latin, and some Hebrew"

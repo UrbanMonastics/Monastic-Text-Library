@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Hail, [*] holy Kingdom, home of mercy,\r\n\tsource of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards You we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tYour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed King on Your throne.\r\n\tMerciful, loving, and sweet Lord Christ.",
+	"Text": "Hail, [*] holy Kingdom, home of mercy,\r\n\tone of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards You we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tYour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed King on Your throne.\r\n\tMerciful, loving, and sweet Lord Christ.",
 	"Extra": {
 		"BreviaryInstructions": "During Ordinary time after Pentecost",
 		"Writing":{
@@ -25,6 +25,7 @@
 		}
 	},
 	"Changes": [
+		"2023-12-09 - Paul Prins: Adjusted the second line based on feedback from Sheila.",
 		"2023-10-19 - Jordan Prins: Fixed casing on 'King' in second to last line.",
 		"2023-08-30 - Paul Prins: Update the casing of Gods pronouns.",
 		"2023-04-06 - Paul Prins: Refined to more closely align with its Marian antiphon.",

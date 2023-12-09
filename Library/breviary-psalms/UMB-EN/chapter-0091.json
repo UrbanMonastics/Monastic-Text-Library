@@ -13,7 +13,7 @@
 	"Verses": {
 		"1": "Whoever lives in the shelter of the Most High, [*]\r\n\twill find rest in the shadow of the Almighty.\r\n",
 		"2": "I will say of the LORD, \"My refuge and my fortress, [*]\r\n\tmy God, my trust is in Him.\"\r\n\r\n",
-		"3": "For it is He who rescues you from the fowlers snare, [*]\r\n\tand from the deadly plague.\r\n",
+		"3": "For it is He who rescues you from the fowler's snare, [*]\r\n\tand from the deadly plague.\r\n",
 		"4": "He will cover you with His feathers, [t]\r\n\tand under His wings you will take refuge, [*]\r\n\tHis faithfulness is a shield and wall.\r\n",
 		"5": "You will not fear the terror by night, or the arrow that flies by day, [t]\r\n",
 		"6": "\tor the plague that stalks in darkness, [*]\r\n\tor the destruction that strikes at noon.\r\n\r\n",
@@ -23,7 +23,7 @@
 		"10": "No evil will touch you, [*]\r\n\tnor plague approach your tent.\r\n\r\n",
 		"11": "For He will give His angels orders concerning you, [*]\r\n\tto protect you in all your ways.\r\n",
 		"12": "On their hands they will carry you, [*]\r\n\tso you never strike your foot against a stone.\r\n",
-		"13": "On the lion and cobra you will tread, [*]\r\n\tand trample the young lion and the dragon.\r\n\r\n",
+		"13": "On the lion and cobra you will tread, [*]\r\n\tand trample the young lion and the cobra.\r\n\r\n",
 		"14": "\"Since they have loved Me, I will rescue them. [*]\r\n\tI will protect them, because they have known My name.\r\n",
 		"15": "They will call to Me, and I will answer them; [t]\r\n\tI will be with them in trouble, [*]\r\n\tI will rescue and honor them.\r\n",
 		"16": "With a long life I will satisfy them, [*]\r\n\tand I will show them My salvation.\""
@@ -43,11 +43,13 @@
 				]
 			},
 			"Reviewers": {
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-31": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2023-12-09 - Sheila Whittenberg: Grammar correction & Verified the text.",
 		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2021-09-02 - Paul Prins: First translation of Psalm 91 based on Greek, Latin, and some Hebrew"
 	],
