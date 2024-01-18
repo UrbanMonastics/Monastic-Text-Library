@@ -7,12 +7,16 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us Pray.\r\nVisit this home, Lord. We pray You will make this place safe from every snare of the enemy. [t] That Your peace would dwell here and protect us through the holy power of Your Kingdom. [*] Let Your blessing be upon us forever. Through Jesus Christ, our Lord.\r\nAmen.",
+	"Text": "Let us Pray.\r\nVisit this home, Lord. We pray that You will make this place safe from every snare of the enemy. [t] Let Your peace dwell here and protect us through the holy power of Your Kingdom. [*] Let Your blessing be upon us forever, through Jesus Christ, our Lord.\r\nAmen.",
 	"Extra": {
 		"BreviaryInstructions": "For the Easter Triduum, and Solemnities occurring during the week.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-11": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-10-28": ["Peer-Review"],
 				"2020-10-27": [
 					"Second-Pass",
@@ -20,6 +24,8 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
