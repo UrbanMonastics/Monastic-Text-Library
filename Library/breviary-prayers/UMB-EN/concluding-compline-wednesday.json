@@ -7,12 +7,16 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nLord Jesus Christ, You are meek and humble of heart. You make pleasant the yoke and light the burden for those who follow You. [t] Worthy are You to receive our prayers and our devotion. [*] Grant us Your peace so that we might arise ready to serve You. You who lives and reigns forever.\r\nAmen.",
+	"Text": "Let us pray.\r\nLord Jesus Christ, You are meek and humble of heart. You make pleasant the yoke and light the burden for those who follow You. [t] Worthy are You to receive our prayers and our devotion. [*] Grant us Your peace so that we might arise ready to serve You; You who live and reign forever.\r\nAmen.",
 	"Extra": {
 		"Reference" : ["Matthew 11:28-30"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-11": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-31": ["Peer-Review"],
 				"2023-08-30": [
 					"Second-Pass",
@@ -20,11 +24,14 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2023-08-30 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2023 Urban Monastics, Paris"

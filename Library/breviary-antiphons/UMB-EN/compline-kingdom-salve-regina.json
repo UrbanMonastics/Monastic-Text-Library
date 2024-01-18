@@ -7,12 +7,16 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Hail, [*] holy Kingdom, home of mercy,\r\n\tone of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards You we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tYour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed King on Your throne.\r\n\tMerciful, loving, and sweet Lord Christ.",
+	"Text": "Hail, [*] holy Kingdom, home of mercy,\r\n\tone of life, gentleness, and hope.\r\nWe cry in our exile as children of Eve.\r\n\tTowards You we sigh, mourn, and weep\r\n\tin this valley of tears.\r\n\r\nTurn, most gracious advocate,\r\n\tyour eyes of mercy towards us.\r\nAs we end our exile, show us Jesus,\r\n\tthe blessed King on Your throne.\r\n\tMerciful, loving, and sweet Lord Christ.",
 	"Extra": {
 		"BreviaryInstructions": "During Ordinary time after Pentecost",
 		"Writing":{
 			"Authors": ["Paul Prins", "Jordan Prins"],
 			"Step": {
+				"2023-12-09": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-09-01": ["Peer-Review"],
 				"2022-08-31": [
 					"Second-Pass",
@@ -20,6 +24,8 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
 			}
 		}

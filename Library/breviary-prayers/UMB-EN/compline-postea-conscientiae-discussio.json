@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "\tI confess to Almighty God, and to all whose hope is in Christ. I have sinned in thought, word, and deed. In what I have done and left undone. I have sinned, and continue to sin again and again. This is why I plead that you pray to the Lord our God for me. Pray for me along with all the saints.\r\n\r\n\tAlmighty Father, have mercy on us. Continue to forgive us our sins, and lead us on the narrow path to eternal life.\r\n\r\nAmen",
+	"Text": "\tI confess to Almighty God, and to all whose hope is in Christ. I have sinned in thought, word, and deed; in what I have done and left undone. I have sinned, and continue to sin again and again. This is why I plead that you pray to the Lord our God for me. Pray for me along with all the saints.\r\n\r\n\tAlmighty Father, have mercy on us. Continue to forgive us our sins, and lead us on the narrow path to eternal life.\r\n\r\nAmen",
 	"Description": "Said after the examination of conscience during Compline",
 	"Extra": {
 		"Writing":{
@@ -24,11 +24,14 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2023-10-19 - Jordan Prins: Caught a missing comma.",
 		"2022-07-04 - Paul Prins: Moved to the Prayers section",
 		"2020-10-27 - Paul Prins: Translated this prayer."

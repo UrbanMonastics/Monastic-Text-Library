@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Entre tes mains, SEIGNEUR, je confie mon esprit à toi.\r\n[R] Entre tes mains, SEIGNEUR, [*] je confie mon esprit à toi.\r\n[V] Car tu nous as rachetés, SEIGNEUR, Dieu de vérité.",
+	"Text": "[V] Entre tes mains, SEIGNEUR, je te confie mon esprit.\r\n[R] Entre tes mains, SEIGNEUR, [*] je te confie mon esprit.\r\n[V] Car tu nous as rachetés, SEIGNEUR, Dieu de vérité.",
 	"Extra": {
 		"Reference": ["Psalm 31:5"],
 		"Writing":{
@@ -25,6 +25,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-11 - Paul Prins: ",
 		"2023-10-29 - Paul Prins: Reformulation pour être moins bizarre",
 		"2023-10-20 - Paul Prins, Jordan Prins: Reformuler le verscical pour qu'il s'articule mieux avec la réponse",
 		"2023-10-16 - Paul Prins: Lisser la phrase raccourcie.",

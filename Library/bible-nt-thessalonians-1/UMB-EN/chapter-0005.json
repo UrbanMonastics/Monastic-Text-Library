@@ -12,7 +12,7 @@
 		"4": "My siblings, you are not in darkness. The day of the Lord will not surprise you like a thief. ",
 		"5": "All of you are children of light, and children of the day. We do not belong to the night, nor to darkness. ",
 		"9": "For God has not destined us for wrath. Instead, we receive salvation through our Lord Jesus Christ, ",
-		"10": "who died for us. We will live together with Him. No matter if we are awake or asleep. ",
+		"10": "who died for us. We will live together with Him, no matter if we are awake or asleep. ",
 		"23": "May the God of peace Himself sanctify you completely. May your whole spirit, soul, and body be kept blameless at the coming of our Lord Jesus Christ. ",
 		"24": "Faithful is He who calls you, and He will also see it through to the end. "
 	},
@@ -31,12 +31,15 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-31": "Jordan Prins",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2023-12-09 - Paul Prins: Reworked verses 9-10, 23",
 		"2023-10-31 - Jordan Prins: Verified verses 9-10.",
 		"2023-10-19 - Jordan Prins: Verified verses 23-24.",

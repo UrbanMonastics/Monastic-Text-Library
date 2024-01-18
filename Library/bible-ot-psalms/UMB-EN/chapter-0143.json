@@ -12,7 +12,7 @@
 	},
 	"Verses": {
 		"1": "LORD, hear my prayer,\r\n\tturn Your ear toward my plea,\r\n\tin Your faithfulness and righteousness, answer me.\r\n",
-		"2": "And do not place judgement against Your servant,\r\n\tfor no one living is righteous before You.\r\n\r\n",
+		"2": "And do not place judgment against Your servant,\r\n\tfor no one living is righteous before You.\r\n\r\n",
 		"3": "For the enemy pursues my soul,\r\n\tthey crush my life into the ground,\r\n\tmaking me dwell in the darkness, with those long dead.\r\n",
 		"4": "So my spirit is weakening within me,\r\n\twithin me, my heart is in desolation.\r\n\r\n",
 		"5": "I remember the days of old,\r\n\tmeditate on all that You have done,\r\n\tand reflect on the works of Your hands.\r\n",
@@ -39,11 +39,14 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-31": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-08-30 - Paul Prins: Update the casing on pronouns referring to God.",
 		"2023-08-12 - Paul Prins: First translation of psalm 143 based on Greek, Latin, and some Hebrew"

@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Christ [*] became obedient unto death for us. Death upon a cross. Therefore, God exalted Him, and gave Him the Name above all names.",
+	"Text": "Christ [*] became obedient unto death for us–death upon a cross. Therefore, God exalted Him, and gave Him the Name above all names.",
 	"Extra": {
 		"Reference": ["Philippians 2:8-9"],
 		"BreviaryInstructions": "Holy Saturday of the Easter Passion.",
@@ -25,11 +25,13 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-18": "Constance McIntosh Smith",
 				"2023-10-20": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-18 - Paul Prins: Fix grammar after feedback from Constance.",
 		"2022-08-05 - Paul Prins: First translation."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
