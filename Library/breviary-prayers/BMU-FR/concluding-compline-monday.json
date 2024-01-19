@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nDonne la paix, Seigneur, à nos corps pendant que nous dormons. [t] Les graines semées pour ton Royaume, par notre travail, sont maintenant entre tes mains. [*] Nourris-les jusqu'à la saison de leur récolte éternelle. Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nRemplis-nous avec ta paix, Seigneur. Recouvre nos corps de ta paix pendant notre sommeil. [t] Les graines semées pour ton Royaume, par notre travail, nous les confions maintenant à tes mains. [*] Prends soin d'elles et cultive-les. Prends soin d'elles maintenant jusqu'à ce qu'elles soient prêtes. Fais-les passer de la semence de ta Parole à leur récolte éternelle, par Jésus-Christ, notre Seigneur.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"

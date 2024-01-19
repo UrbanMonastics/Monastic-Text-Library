@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us Pray.\r\nForgive us God Almighty. [t] Through your forgiveness, may we faithfully follow Your only begotten Son down into the grave. [*] May we follow Him through death, and rise again with Him in newness of life, with You who live and reign forever.\r\nAmen.",
+	"Text": "Let us pray.\r\nForgive us, God Almighty. Only through Your forgiveness do we find the courage to follow Your only begotten Son. [t] To journey step after step, from life down into the darkness of the grave. [*] Give us the faith needed to follow Him through death, and to rise again with Jesus, into the newness of life with Him, who lives and reigns forever.\r\nAmen.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -23,6 +23,7 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-19": ["Constance McIntosh Smith", "Jordan Prins"],
 				"2024-01-18": "Constance McIntosh Smith",
 				"2023-12-09": "Sheila Whittenberg",
 				"2023-12-08": "Jordan Prins",
@@ -31,6 +32,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2024-01-18 - Constance McIntosh Smith: Changes to fix grammar issues.",
 		"2023-12-09 - Paul Prins: Fix grammar after the mid-point",
 		"2023-08-30 - Paul Prins: Translated this prayer."

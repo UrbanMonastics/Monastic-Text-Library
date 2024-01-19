@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nSeigneur Jésus-Christ, tu es doux et humble de cœur. Tu rends agréable le joug et tu allèges le fardeau de ceux qui te suivent. [t] Tu es digne de recevoir nos prières et notre dévotion. [*] Donne-nous ta paix pour que nous nous levions prêts à te servir. Toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nSeigneur Jésus-Christ, tu es doux avec un cœur humble. Ton joug est agréable et ton fardeau est allégé pour ceux qui te suivent. [t] Toi seul es digne de nos prières et de notre dévotion. [*] Accorde-nous ta paix pendant que nous nous reposons, afin que nous nous levions prêts à te servir, toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
 	"Extra": {
 		"Reference" : ["Matthew 11:28-30"],
 		"Writing":{
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"

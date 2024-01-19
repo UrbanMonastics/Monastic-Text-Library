@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nPardonne-nous, Dieu tout-puissant. [t] Afin que nous puissions suivre fidèlement ton Fils unique dans la tombe. [*] Le suivre dans la mort et ressusciter avec lui dans une vie nouvelle. Toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nPardonne-nous, Dieu tout-puissant. Ce n'est que par ton pardon que nous trouvons le courage de suivre ton Fils unique. [t] Pour cheminer pas à pas, de la vie jusqu'aux ténèbres de la tombe. [*] Donne-nous la foi nécessaire pour le suivre dans la mort, et pour ressusciter avec Jésus, dans la nouveauté de la vie avec Lui, qui vit et règne pour les siècles des siècles.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-12-09 - Paul Prins: Mise à jour pour correspondre à l'anglais",
 		"2023-08-30 - Paul Prins: Traduit cette prière."
 	],

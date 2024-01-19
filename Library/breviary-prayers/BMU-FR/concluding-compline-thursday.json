@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nSeigneur notre Dieu, donne-nous un sommeil reposant et réparateur après la fatigue de notre travail du jour. [t] Car tu nous ranimes toujours, [*] et nous te servirons d'esprit, d'âme et de corps. Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nSeigneur notre Dieu, donne-nous un sommeil reposant et réparateur cette nuit. [t] Donne à tes enfants la paix après l'effort de notre travail quotidien. [*] Par ton abondante fidélité, tu nous fais toujours revivre. Avec joie, nous te servirons en esprit, en âme et en corps, par Jésus-Christ, notre Seigneur.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-31 - Paul Prins: Fixe l'order des mots.",
 		"2023-08-30 - Paul Prins: Traduit cette prière."
 	],

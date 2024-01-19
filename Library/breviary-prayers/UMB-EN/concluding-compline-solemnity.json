@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us Pray.\r\nVisit this home, Lord. We pray that You will make this place safe from every snare of the enemy. [t] Let Your peace dwell here and protect us through the holy power of Your Kingdom. [*] Let Your blessing be upon us forever, through Jesus Christ, our Lord.\r\nAmen.",
+	"Text": "Let us pray.\r\nDwell with us in this place, Lord. Make this home a safe refuge from every snare and scheme of the enemy. [t] Fill this place with Your peace and love. Let the holy power of Your Kingdom protect us. [*] Place Your blessing upon and within us, now and forever, through Jesus Christ, our Lord.\r\nAmen.",
 	"Extra": {
 		"BreviaryInstructions": "For the Easter Triduum, and Solemnities occurring during the week.",
 		"Writing":{
@@ -24,6 +24,7 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-19": ["Constance McIntosh Smith", "Jordan Prins"],
 				"2024-01-11": "Constance McIntosh Smith",
 				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
@@ -31,6 +32,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-08-30 - Paul Prins: Retranslated this prayer to fit with other compline concluding prayers",
 		"2022-08-01 - Paul Prins: Change abbreviation and add instructions.",
 		"2020-10-27 - Paul Prins: Translated this prayer."

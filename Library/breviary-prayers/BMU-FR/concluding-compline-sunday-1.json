@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nSois avec nous, Seigneur, durant toute cette nuit. [t] Accorde-nous un sommeil réparateur et un petit matin. [*] Aide-nous à nous réveiller demain, prêts et aptes à nous réjouir de la résurrection de ton Christ. Toi qui vis et règnes pour les siècles des siècles.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nReste près de nous, Seigneur, à travers les ténèbres de cette nuit. [t] Que chaque heure passe dans la paix. Accorde-nous un sommeil réparateur et un petit matin. [*] Aide-nous à nous réveiller demain, prêts et aptes à nous réjouir de la résurrection de ton Christ, qui vit et règne pour les siècles des siècles.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Retraduisez cette prière pour accompagner les autres prières des Complies.",
 		"2022-08-09 - Paul Prins: Alignez l'ouverture avec les autres jours de la semaine.",
 		"2020-10-27 - Paul Prins: Traduit cette prière."

@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nVisite cette maison, Seigneur. Nous prions que tu mettes ce lieu à l'abri de tous les pièges de l'ennemi. [t] Que ta paix habite ici et nous protège par la puissance sainte de ton Royaume. [*] Que ta bénédiction soit sur nous pour toujours. Par Jésus-Christ notre Seigneur.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nDemeure avec nous dans ce lieu, Seigneur.  Fais de cette maison un refuge sûr, à l'abri de tous les pièges et de toutes les manœuvres de l'ennemi. [t] Remplis ce lieu de ta paix et de ton amour. Que la sainte puissance de ton royaume nous protège . [*]  Place ta bénédiction sur nous et en nous, maintenant et pour toujours, par Jésus-Christ, notre Seigneur.\r\nAmen.",
 	"Extra": {
 		"BreviaryInstructions": "Pour le triduum pascal, et les solennités, en semaine.",
 		"Writing":{
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Retraduisez cette prière pour accompagner les autres prières des Complies.",
 		"2023-08-29 - Paul Prins: Mettez en correspondance la ligne d'ouverture avec les autres prières de conclusion.",
 		"2022-08-01 - Paul Prins: Modifier l'abréviation et ajouter des instructions.",

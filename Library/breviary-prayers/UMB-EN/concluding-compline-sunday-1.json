@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nBe with us, Lord, throughout this night. [t] Give us restful sleep and an early morning. [*] Help us wake up tomorrow ready and able to rejoice in the resurrection of Your Christ. You who lives and reigns forever.\r\nAmen.",
+	"Text": "Let us pray.\r\nStay close to us, Lord, through the darkness of this night. [t] Let each hour pass in peace. Give us restful sleep and an early morning. [*] Help us rise tomorrow, ready and able to rejoice in the resurrection of your Christ, who lives and reigns forever.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -23,13 +23,14 @@
 				]
 			},
 			"Reviewers": {
-				"2024-01-11": "Constance McIntosh Smith",
+				"2024-01-19": ["Constance McIntosh Smith", "Jordan Prins"],
 				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-12-09 - Paul Prins: Updated after the midpoint to fix a grammar issue.",
 		"2023-08-30 - Paul Prins: Retranslated this prayer to fit with other compline concluding prayers",
 		"2020-10-27 - Paul Prins: Translated this prayer."

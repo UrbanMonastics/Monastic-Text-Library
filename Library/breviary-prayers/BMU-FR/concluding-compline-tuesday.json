@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nÉclaire ta lumière avec bonté, Seigneur, en cette nuit qui est la nôtre. [t] Donne-nous, tes serviteurs, de dormir dans ta paix. [*] Afin que nous nous levions dans la clarté d'un jour nouveau, avec la joie de ton Nom. Par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Text": "Prions le Seigneur.\r\nDans ta bonté, Seigneur, fait briller ta lumière sur notre nuit. [t] Illumine le sommeil de tes serviteurs par la présence de ta paix. [*] Que l'éclat du jour nouveau nous tire de notre repos. Réveille-nous avec joie pour ton Nom, par Jésus-Christ, notre Seigneur.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"
