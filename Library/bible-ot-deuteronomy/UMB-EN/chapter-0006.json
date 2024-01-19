@@ -15,13 +15,17 @@
 		"3": "Now listen Israel, you shall listen and be careful to follow them. So that it may go well for you and that you may increase greatly, just as the Lord, the God of your ancestors, has promised you, in a land flowing with milk and honey.\r\n",
 		"4": "\tHear, Israel! The Lord our God, the Lord is One! ",
 		"5": "And you shall love the Lord your God with all your heart, with all your soul, and with all your strength. ",
-		"6": "These words, which I am commanding you this day, shall be on your heart. ",
-		"7": "And you should repeat them regularly to your children. Talk of them when you rest in your home, and when you walk on the road, when you lie down, and when you get up."
+		"6": "These words, which I am commanding you this day, shall be on your heart, ",
+		"7": "and you should repeat them regularly to your children. Talk of them when you rest in your home, and when you walk on the road; when you lie down, and when you get up."
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-19": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-08-06": ["Peer-Review"],
 				"2021-08-05": [
 					"Second-Pass",
@@ -29,13 +33,14 @@
 				]
 			},
 			"Reviewers": {
-				"2024-01-11": "Constance McIntosh Smith",
+				"2024-01-19": "Constance McIntosh Smith",
 				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-21": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Constance McIntosh Smith: Grammatical corrections",
 		"2023-10-21 - Jordan Prins: Verified verses 4-7.",
 		"2021-08-05 - Paul Prins: First translation of chapter 6:1-7"
 	],

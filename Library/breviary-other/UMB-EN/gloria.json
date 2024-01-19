@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Glory to the Father, to the Son,\r\n\tand to the Holy Spirit.\r\nAs it was in the beginning, is now,\r\n\tand will be forever.\r\n*Amen*\r\nAlleluia",
+	"Text": "Glory to the Father, to the Son,\r\n\tand to the Holy Spirit,\r\nAs it was in the beginning, is now,\r\n\tand will be forever.\r\n*Amen*\r\nAlleluia",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -23,6 +23,7 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-19": "Constance McIntosh Smith",
 				"2024-01-11": "Constance McIntosh Smith",
 				"2023-12-09": "Sheila Whittenberg",
 				"2023-10-19": "Jordan Prins"
@@ -30,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-19 - Constance McIntosh Smith: Grammatical corrections",
 		"2022-05-01 - Paul Prins: Update language.",
 		"2020-03-29 - Paul Prins: First translation."
 	],
