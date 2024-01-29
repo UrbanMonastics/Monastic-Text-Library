@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "ordinary-week-2-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Deficiénte vino [*] jussit Iésus implére hýdrias aqua; quæ in vinum convérsæ sunt, allelúja.",
+	"Extra": {
+		"Reference": ["John 2:1-11"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-28 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

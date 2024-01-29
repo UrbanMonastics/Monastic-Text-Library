@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-1-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Quand les prières de ton peuple se lèvent vers toi, exauce-les, Seigneur, en ta bonté. [t] Avec la douceur de ton esprit, laisse chacun voir ce qu'il doit faire. [*] Donne-nous la foi et la force de le voir s'accomplir, par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-29 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

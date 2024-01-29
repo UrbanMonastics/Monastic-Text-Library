@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-2-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Quand le vin [*] vint à manquer, Jésus ordonna de remplir les vases avec de l'eau. L'eau fut changée en vin, alléluia.",
+	"Extra": {
+		"Reference": ["John 2:1-11"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-29 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

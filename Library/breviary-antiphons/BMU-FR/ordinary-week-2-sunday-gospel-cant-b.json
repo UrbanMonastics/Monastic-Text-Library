@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-2-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": " André dit [*] à Simon, son frère : « Nous avons trouvé le Messie », c'est-à-dire le Christ.",
+	"Extra": {
+		"Reference": ["John 1:41"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-29 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

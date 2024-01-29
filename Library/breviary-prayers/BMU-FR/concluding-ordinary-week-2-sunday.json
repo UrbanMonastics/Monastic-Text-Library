@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-2-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant, tu règnes éternellement sur les cieux et la terre. [t] Par ta bonté, écoute et exauce les prières de ton peuple. [*] Grâce les moments de nos jours avec ta paix parfaite, par Jésus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-29 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
