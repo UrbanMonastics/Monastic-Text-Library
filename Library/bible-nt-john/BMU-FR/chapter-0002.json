@@ -1,0 +1,45 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tLe troisième jour, il y eut des noces à Cana en Galilée. La mère de Jésus était là. ",
+		"2": "Jésus fut aussi invité aux noces avec ses disciples. ",
+		"3": "Quand le vin vint à manquer, la mère de Jésus lui dit : « Ils n'ont plus de vin. » ",
+		"4": "Jésus lui répondit : « Femme, qu'est-ce que cela a à voir avec moi ? Mon heure n'est pas encore venue. » ",
+		"5": "Sa mère dit aux serviteurs : « Faites ce qu'il vous dira. » ",
+		"6": "Or, il y avait six vases d'eau en pierre. Elles étaient placées là selon la coutume juive de purification et pouvaient contenir chacune cent litres d'eau. ",
+		"7": "Jésus dit aux serviteurs : « Remplissez d'eau ces vases. » Et ils les remplirent jusqu'au bord. ",
+		"8": "Puis il leur dit : « Maintenant, puisez-en et portez-en au maître de la fête. » Et ils en portèrent.\r\n",
+		"9": "\tQuand le maître de la fête goûta l'eau (devenue vin), il ne sut pas d'où elle venait. Pourtant, les serviteurs qui avaient puisé l'eau le savaient. Il appela alors l'époux à part. Il appela alors le marié à part. ",
+		"10": "Il lui dit : « Tout le monde sert d'abord le meilleur vin. Puis, on sert le vin moins cher quand les invités ont trop bu. Mais toi, tu as gardé le meilleur jusqu'à présent. »\r\n",
+		"11": "\tTel fut, Jésus a fait le premier de ses signes miraculeux à Cana en Galilée. Il a ainsi révélé sa gloire et ses disciples ont cru en lui. ",
+		"12": "Après cela, il descendit à Capharnaüm avec sa mère, ses frères et ses disciples. Ils n'y restèrent que quelques jours."
+	},
+	"InlineTitles": {
+		"1": "Noces avec un Miracle à Cana"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-28 - Paul Prins: Premier traduction du versets 1-12"
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

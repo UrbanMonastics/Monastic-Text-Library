@@ -21,17 +21,62 @@
 		"10": "He was in the world, and creation was made through Him, yet creation did not know Him.\r\n",
 		"11": "\tHe came to His own people, and they rejected Him. ",
 		"12": "But to all who accept Him, to those who believed in His name, He gave them the right to become children of God. ",
-		"13": "Children who were not born of blood, nor the will of the flesh, nor of a person's will, but of God. ",
-		"14": "And the Word became flesh and lived among us, and we saw His glory. The glory of the only Son from the Father, full of grace and truth.\r\n",
-		"23": "He said, \"I am a voice of one crying out in the wilderness. 'Make straight the way of the Lord', as Isaiah the prophet said.\" "
+		"13": "Children who were not born of blood, nor the will of the flesh, nor of a person's will, but of God.\r\n",
+		"14": "\tAnd the Word became flesh and lived among us. We saw His glory. The glory of the only Son from the Father, full of grace and truth ",
+		"15": "John testified about Him. He cried out, saying, \"This is the one I spoke of when I said, 'He, who is coming after me, far surpasses me because he existed before me.'\" ",
+		"16": "We have all received from His abundance. Grace upon grace. ",
+		"17": "For the Law was given through Moses; grace and truth came through Jesus Christ. ",
+		"18": "No one has ever seen God. God's only Son, who is in the arms of the Father, has revealed Him.\r\n",
+		"19": "\tNow this was the testimony John gave when Jewish leaders sent priests and Levites from Jerusalem to ask him, \"Who are you?\" ",
+		"20": "He declared, did not deny, and freely confessed, \"I am not the Christ.\"\r\n",
+		"21": "\tThen they asked him, \"What then? Are you Elijah?\" And he said, \"I am not.\" \"Are you the Prophet?\" And he answered, \"No.\" ",
+		"22": "Then they said to him, \"Who are you? Give us an answer for those who sent us. What do you say about yourself?\" ",
+		"23": "He said, \"I am a voice of one crying out in the wilderness. 'Make straight the way of the Lord,' as the prophet Isaiah said.\"\r\n",
+		"24": "\tNow they had been sent from the Pharisees.",
+		"25": "They questioned him, \"Why then do you baptize if you are not the Christ, nor Elijah, nor the Prophet?\" ",
+		"26": "John answered them, saying, \"I baptize in water. Yet, among you stands One you do not know. ",
+		"27": "He is the One who comes after me; whose sandal strap I am unworthy to even untie.\" ",
+		"28": "These things took place in Bethany across the Jordan, where John was baptizing.\r\n",
+		"29": "\tThe next day, he saw Jesus coming to him and said, \"Behold! The Lamb of God who takes away the sins of the world! ",
+		"30": "This is the One I spoke of when I said, 'After me is coming a Man who far surpasses me, because He existed before me.' ",
+		"31": "I didn't recognize Him. I came, baptizing in water, so that He would be revealed to Israel.\"\r\n",
+		"32": "\tThen John testified, saying, \"I saw the Spirit descending from heaven as a dove and it remained upon Him. ",
+		"33": "I did not recognize Him. He who sent me to baptize in water told me, 'You see the one who the Spirit is descending upon and remains. This is the One who baptizes with the Holy Spirit.' ",
+		"34": "I have seen and testified that this is the Son of God.\"\r\n",
+		"35": "\tThe next day, John was standing there again with two of his disciples. ",
+		"36": "When Jesus walked by, John looked at Him and said, \"Behold! The Lamb of God!\" ",
+		"37": "The two disciples heard him speak, and they followed Jesus. ",
+		"38": "And Jesus turned and saw them following Him. He asked them, \"What are you seeking?\" They said, \"Rabbi (which means 'Teacher'), where are you staying?\" ",
+		"39": "He replied, \"Come, and you will see.\" So they went and saw where He was staying. They stayed with Him that day; it was about the tenth hour.\r\n",
+		"40": "\tAndrew, Simon Peter's brother, was one of the two who heard John speak, and followed Jesus. ",
+		"41": "The first thing he did was find his brother Simon and tell him, \"We have found the Messiah\" (which means 'Christ'). ",
+		"42": " He brought him to Jesus. Jesus looked at him and said, \"You are Simon the son of John. You shall be called Cephas\" (which translates to Peter).\r\n",
+		"43": "\tThe next day, Jesus decided to go to Galilee. He found Philip, and said to him, \"Follow Me.\" ",
+		"44": "Philip was from Bethsaida, the city of Andrew and Peter.\r\n",
+		"45": "\tPhilip found Nathanael and told him, \"We have found the one Moses wrote about in the Law, and who the prophets also spoke of: Jesus the son of Joseph, from Nazareth!\" ",
+		"46": "Nathanael asked him, \"Can anything good come from Nazareth?\" Philip said, \"Come and see!\" ",
+		"47": "Jesus saw Nathanael approaching Him, and said of him, \"Here truly is an Israelite who has no deceit in him.\" ",
+		"48": "\"How do You know me?\" Nathanael asked. Jesus answered, \"I saw you before Philip called you. While you were still under the fig tree.\" ",
+		"49": "Nathanael answered Him, \"Rabbi, You are the Son of God! You are the King of Israel!\" ",
+		"50": "Jesus answered him, saying, \"Do you believe because I told you, 'I saw you under the fig tree'? You will see greater things than these.\" ",
+		"51": "And He added, \"Truly, truly, I tell you that you will see heaven opened and the angels of God ascending and descending on the Son of Man.\""
 	},
 	"InlineTitles": {
-		"1": "The Word became Flesh"
+		"1": "In the Beginning",
+		"6": "The Witness of John the Baptist",
+		"14": "The Word became Flesh",
+		"19": "John the Baptist's Testimony of Jesus",
+		"35": "People begin to follow Jesus"
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				],
 				"2022-12-07": ["Peer-Review"],
 				"2022-12-06": [
 					"Second-Pass",
@@ -42,8 +87,9 @@
 		}
 	},
 	"Changes": [
+		"2024-01-28 - Paul Prins: First translation of verses 14-51.",
 		"2022-12-16 - Paul Prins: First translation of chapter 1:1-14.",
 		"2022-12-06 - Paul Prins: First translation of chapter 1:23."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }

@@ -1,0 +1,45 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tOn the third day there was a wedding in Cana of Galilee. Jesus' mother was there. ",
+		"2": "Jesus was also invited to the wedding with his disciples. ",
+		"3": "When the wine had run out, Jesus' mother said to him, \"They have no more wine.\" ",
+		"4": "Jesus replied to her, \"Woman, what does that have to do with me? My hour has not yet come.\" ",
+		"5": "His mother said to the servants, \"Do whatever He says.\" ",
+		"6": "Now there were six stone water jars. They were set there for the Jewish custom of purification, and each could hold twenty or thirty gallons of water. ",
+		"7": "Jesus said to the servants, \"Fill the jars with water.\" So they filled them to the brim. ",
+		"8": "Then He told them, \"Now draw some out and take it to the master of the feast.\" So they took it.\r\n",
+		"9": "When the master of the feast tasted the water (that had become wine), he did not know where it came from. Even though the servants who had drawn the water knew. He then called the groom aside. ",
+		"10": "He said to him, \"Everyone serves the finest wine first. Then they serve the cheaper wine when the guests have had too much to drink. But you have kept the best until now.\"\r\n",
+		"11": "\tThus, Jesus did the first of His miraculous signs in Cana of Galilee. Through which He revealed His glory, and His disciples believed in Him. ",
+		"12": "After this, He went down to Capernaum with His mother, brothers, and His disciples. They stayed there for a few days.\r\n"
+	},
+	"InlineTitles": {
+		"1": "Wedding Miracle in Cana"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-28 - Paul Prins: First translation of verses 1-12."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
