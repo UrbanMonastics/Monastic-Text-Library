@@ -1,0 +1,18 @@
+{
+	"Abbreviation": "bible-ot-isaiah",
+	"Title": {
+		"default": "יְשַׁעְיָהוּ",
+		"UMB-EN": "The Book of Isaiah",
+		"BMU-FR": "Le livre de Ésaïe",
+		"eng": "Isaiah",
+		"fra": "Ésaïe"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "hbo",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"SegmentTitles": false,
+	"Verses": true,
+	"Notes": ""
+}

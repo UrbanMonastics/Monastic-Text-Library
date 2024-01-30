@@ -1,0 +1,41 @@
+{
+	"TextAbbreviation": "chapter-0040",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Description": "",
+	"Chapter": "40",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\"Comfort, comfort My people,\" says your God.\r\n",
+		"2": "\"Speak tenderly to Jerusalem,\r\nand call out to her. Tell her that hardship is over,\r\nthat her guilt has been pardoned,\r\nand she has received from the LORD's hand \r\ndouble for all her sins.\"",
+		"3": "A voice cries out:\r\n\"In the wilderness, prepare the way for the LORD.\r\nMake straight a path in the desert for our God.\"\r\n",
+		"4": "Let every valley be listed up,\r\nand every mountain and hill brought low.\r\nLet uneven ground be made level,\r\nand the rugged places a wide plain.\r\n",
+		"5": "Then the glory of the LORD will be revealed,\r\nand all people will see it together,\r\nfor the mouth of the LORD has spoken.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-01-11": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
+				"2023-10-20": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-01-30 - Paul Prins: Initial translation of verses 1-5."
+	],
+	"FootNotes": { },
+	"License": "© 2024 Urban Monastics, Paris"
+}
