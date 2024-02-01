@@ -1,0 +1,50 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "4",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"14": "\tJésus retourna en Galilée dans la puissance de l'Esprit. La nouvelle de lui s'est répandue dans toute la campagne. ",
+		"15": "Il enseignait dans les synagogues, et il était loué de tous.\r\n",
+		"16": "\tIl vint à Nazareth, où il avait grandi. Comme il en avait l'habitude, il entra dans la synagogue le jour du sabbat et se leva pour lire. ",
+		"17": "On lui remit le livre du prophète Isaïe. Il déroula le livre et trouva l'endroit où il était écrit :\r\n\r\n",
+		"18": "L'esprit du Seigneur est sur moi,\r\nparce qu'il m'a oint\r\npour proclamer la bonne nouvelle aux pauvres.\r\nIl m'a envoyé proclamer la liberté aux captifs,\r\net de recouvrer la vue aux aveugles,\r\net de renvoyer en liberté les opprimés.\r\n",
+		"19": "Pour proclamer l'année de la faveur du Seigneur.\r\n\r\n",
+		"20": "\tEnsuite, il roula le rouleau, le rendit à l'assistant et s'assit. Les yeux de tous ceux qui se trouvaient dans la synagogue étaient fixés sur lui. ",
+		"21": "Et il commença à leur dire : « Aujourd'hui, cette parole de l'Écriture, que vous venez d'entendre, est accomplie. » ",
+		"22": "Et tous disaient du bien de lui. Ils admiraient les paroles de grâce qui sortaient de ses lèvres.  Pourtant, ils disaient : « N'est-ce pas le fils de Joseph ? » ",
+		"23": "Il leur dit : « Vous allez sans doute me citer ce proverbe : 'Médecin, guéris-toi toi-même' ! Tout ce que nous avons appris que tu as fait à Capharnaüm, fais-le ici, dans ta patrie. » ",
+		"24": "Il poursuivit : « Vraiment, je vous le dis, aucun prophète n'est accueilli dans sa patrie. ",
+		"25": "Mais je vous dis la vérité. Il y avait de nombreuses veuves en Israël à l'époque d'Elie.  Lorsque le ciel a été fermé pendant trois ans et demi. Lorsqu'une grande famine s'est abattue sur tous ces pays. Lorsqu'une grande famine s'est abattue sur tout ce pays. ",
+		"26": "Or, Élie n'a été envoyé à aucune d'elles, mais seulement vers une femme veuve, à Sarepta, dans le pays de Sidon. ",
+		"27": "Et il y avait de nombreux lépreux en Israël à l'époque d'Elisée, le prophète. Pourtant, aucun d'entre eux n'a été purifié, seul Naaman le Syrien. »\r\n",
+		"28": "\tTous ceux dans la synagogue furent remplis de rage en entendant cela. ",
+		"29": "Ils se levèrent, le chassèrent de la ville et le menèrent au sommet de la colline sur laquelle leur ville était construite. Ils voulaient le jeter du haut de cette falaise. ",
+		"30": "Mais il passa au milieu de la foule et s'en alla en son chemin."	
+	},
+	"InlineTitles": {
+		"14": "Jésus Commence à Nazareth"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: Premier traduction des versets 14-30."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

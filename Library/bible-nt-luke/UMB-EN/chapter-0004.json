@@ -1,0 +1,50 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "4",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"14": "\tJesus returned to Galilee in the power of the Spirit. News about Him spread through the whole countryside. ",
+		"15": "He began to teach in their synagogues, and everyone praised Him.\r\n",
+		"16": "\tHe came to Nazareth, where he grew up. As he had been doing, He entered the synagogue on the Sabbath, and stood up to read.",
+		"17": "He was handed the book of the prophet Isaiah. He unrolled the book and found the place where it was written:\r\n\r\n",
+		"18": "\"The spirit of the Lord is upon me,\r\nbecause he has anointed me\r\nto proclaim good news to the poor.\r\nHe has sent me to proclaim liberty for the captives,\r\nand recovery of sight for the blind,\r\nand to set the oppressed free.\r\n",
+		"19": "To proclaim the year of the LORD's favor.\"\r\n\r\n",
+		"20": "\tThen He rolled up the scroll, gave it back to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on Him. ",
+		"21": "And He began to say to them, \"Today this scripture, that you have just heard, is fulfilled.\" ",
+		"22": "And all spoke well of Him. They admired the gracious words that came from his lips. Yet, they were saying, \"Isn't this Joseph's son?\" ",
+		"23": "He said to them, \"No doubt you will quote this proverb to Me: 'Physician, heal yourself!' All we heard you did in Capernaum, do here in your hometown.\" ",
+		"24": "He continued, \"Truly, I tell you that no prophet is welcome in his hometown. ",
+		"25": "But I tell you the truth. There were many widows in Israel during the days of Elijah. When the sky was shut for three and a half years. When a severe famine struck all the lands. ",
+		"26": "Yet, Elijah was sent to none of them, but only to a woman who was a widow in Zarephath, in the land of Sidon. ",
+		"27": "And there were many with leprosy in Israel during the time of Elisha the prophet. Yet, not one of them was cleansed, only Naaman the Syrian.\"\r\n",
+		"28": "\tAll those in the synagogue were filled with rage when they heard this. ",
+		"29": "They got up, and drove Him out of the city, and brought Him to the crest of the hill their town was built on. They intended to throw Him off that cliff. ",
+		"30": "But He passed right through the midst of the crowd, and went on His way."
+	},
+	"InlineTitles": {
+		"14": "Jesus Starts in Nazareth"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: First translation of verses 14-30."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
