@@ -9,14 +9,41 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"7": "Et il prêchait en disant : « Après moi, il en vient un qui est plus puissant que moi, et je suis indigne de me baisser pour délier la courroie de ses sandales. » "	
+		"1": "\tLe commencement de l'Évangile de Jésus-Christ, le Fils de Dieu, ",
+		"2": "comme il est écrit dans Ésaïe, le prophète :\r\n« Voici ! J'envoie mon messager devant toi,\r\nqui préparera ton chemin.\r\n",
+		"3": "La voix de celui qui crie dans le désert,\r\n'Préparez le chemin du SEIGNEUR.\r\nAplanissez ses sentiers !' »\r\n",
+		"4": "\tJean-Baptiste est apparu dans le désert, prêchant le baptême de repentance pour le pardon des péchés. ",
+		"5": "Toute la campagne de Judée et tous les habitants de Jérusalem se rendaient vers lui. Ils se faisaient baptiser par lui dans le fleuve Jourdain et confessaient leurs péchés.\r\n",
+		"6": "\tJean portait des vêtements en poils de chameau et une ceinture de cuir autour de la taille. Il se nourrissait de sauterelles et de miel sauvage. ",
+		"7": "Il prêchait, disant : « Après moi, quelqu'un vient qui est plus puissant que moi. Je ne suis pas digne de me baisser pour délier la courroie de ses sandales. ",
+		"8": "Je vous baptise dans l'eau, mais Lui vous baptisera dans le Saint Esprit. »\r\n",
+		"9": "\tEn ce temps-là, Jésus vint de Nazareth en Galilée et il fut baptisé par Jean dans le Jourdain. ",
+		"10": "Dès que Jésus sortit de l'eau, il vit les cieux se fendre et l'Esprit-Saint, comme une colombe, descendre sur lui. ",
+		"11": "Alors une voix se fit entendre des cieux : « Tu es mon Fils bien-aimé, en toi, j'ai mis toute mon affection. »\r\n",
+		"12": "\t Aussitôt, l'Esprit l'a emmené dans le désert. ",
+		"13": "Pendant quarante jours, il a été tenté par Satan dans le désert. Il était avec les animaux sauvages, et les anges ont soutenu sa vie.\r\n",
+		"14": "\tAprès que Jean a été arrêté, Jésus alla en Galilée. Il proclamait la bonne nouvelle de Dieu. ",
+		"15": "Il dit : « Le temps est arrivé. Le royaume de Dieu s'est approché. Repentez-vous et croyez à la bonne nouvelle ! »\r\n",
+		"16": "\tComme Jésus marchait le long de la mer de Galilée, il vit Simon et André, le frère de Simon. Ils jetaient un filet dans la mer, car ils étaient pêcheurs. ",
+		"17": "Jésus leur dit : « Suivez-moi, et je vous ferai pêcheurs de personnes. » ",
+		"18": "Aussitôt, ils laissèrent leurs filets et le suivirent. ",
+		"19": "Après être allé un peu plus loin,  il vit Jacques, fils de Zébédée, et son frère Jean. Ils étaient dans une barque et réparaient leurs filets. ",
+		"20": "Aussitôt, il les appela.  Les frères laissèrent leur père Zébédée dans la barque avec les ouvriers et le suivirent."
 	},
 	"InlineTitles": {
+		"1": "Prêche de Jean-Baptiste",
+		"9": "Le Baptême de Jésus",
+		"14": "Premiers Disciples de Jésus"
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				],
 				"2022-12-07": ["Peer-Review"],
 				"2022-12-06": [
 					"Second-Pass",
@@ -27,7 +54,8 @@
 		}
 	},
 	"Changes": [
+		"2024-01-30 - Paul Prins: Première traduction des versets 1-20.",
 		"2022-12-06 - Paul Prins: Première traduction du chapitre 1:7."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }

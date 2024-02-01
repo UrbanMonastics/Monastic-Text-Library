@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "4",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tNow as Jesus was walking by the Sea of Galilee, He saw two brothers: Simon, called Peter, and his brother Andrew. They were fishermen, casting a net into the sea. ",
+		"19": "He said to them, \"Follow me, and I will make you fishers of people.\" ",
+		"20": "Immediately, they left their nets and followed Him. ",
+		"21": "Going on from there, He saw another two brothers: James, son of Zebedee, and his brother John. They were in a boat with their father, Zebedee, mending their nets. He called to them. ",
+		"22": "They immediately left the boat, and their father, and followed Him.\r\n"
+	},
+	"InlineTitles": {
+		"18": "First Disciples of Jesus"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-30 - Paul Prins: First translation of verses 18-22."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

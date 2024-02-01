@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "One is coming [*] who is mightier than I. One whose sandals straps I am unworthy to untie.",
+	"Text": "One is coming [*] who is mightier than me, whose sandal strap I am unworthy to untie.",
 	"Extra": {
 		"Reference": ["Mark 1:7", "Luke 3:16"],
 		"Writing":{
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2024-01-30 - Paul Prins: Updated this Antiphon",
 		"2022-12-05 - Paul Prins: Updated this antiphon.",
 		"2021-12-05 - Paul Prins: First translation of this antiphon."
 	],

@@ -9,14 +9,41 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"7": "And he was preaching, saying, \"After me One is coming who is mightier than I, and I'm unworthy to bend down and untie the straps of His sandals.\" "
+		"1": "\tThe beginning of the gospel of Jesus Christ, the Son of God, ",
+		"2": "as it is written in Isaiah the prophet:\r\n\"Behold! I am sending my messenger ahead of you,\r\nWho will prepare your way.",
+		"3": "The voice of one crying out in the wilderness,\r\n'Prepare the way of the LORD.\r\nMake His paths straight!'\"\r\n",
+		"4": "\tJohn the Baptist appeared in the wilderness preaching baptism of repentance for the forgiveness of sins. ",
+		"5": "And all of the Judean countryside and all the inhabitants of Jerusalem went out to him. They were being baptized by Him in the Jordan river, and confessing their sins.\r\n",
+		"6": "\tJohn wore clothing made of camels hair with a leather belt around his waist. His diet was locusts and wild honey. ",
+		"7": "He was preaching, saying, \"After me, One is coming who is mightier than me. I am unworthy to bend down and untie the strap of His sandals. ",
+		"8": "I baptize you in water, but He will baptize you in the Holy Spirit.\"\r\n",
+		"9": "In those days, Jesus came from Nazareth in Galilee and was baptized by John in the Jordan. ",
+		"10": "As soon as Jesus came up out of the water, he saw the heavens splitting apart and the Holy Spirit, like a dove, descending upon Him. ",
+		"11": "Then a voice came from the heavens, \"You are My beloved Son, in you I am well pleased.\"\r\n",
+		"12": "\tImmediately, the Spirit brought Him out into the wilderness. ",
+		"13": "For forty days, He was in the wilderness being tempted by Satan. He was with the wild animals, and the angels sustained his life.\r\n",
+		"14": "\tAfter John was taken into custody, Jesus went into Galilee. He was proclaiming the gospel of God. ",
+		"15": "He said, \"The time has come. The kingdom of God has drawn near. Repent and believe in the gospel!\"\r\n",
+		"16": "\tAs Jesus was going along the Sea of Galilee, He saw Simon and Andrew, the brother of Simon. They were casting a net into the sea, for they were fishermen. ",
+		"17": "Jesus called out to them, \"Follow me, and I will make you fishers of people.\" ",
+		"18": "Immediately, they left their nets and followed Him. ",
+		"19": "After going a little further, He saw James, the son of Zebedee, and his brother John. They were in a boat, mending their nets. ",
+		"20": "Immediately, He called them. The brothers left their father, Zebedee, in the boat with the hired workers, and followed him."
 	},
 	"InlineTitles": {
+		"1": "Preaching of John the Baptist",
+		"9": "The Baptism of Jesus",
+		"14": "First Disciples of Jesus"
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				],
 				"2022-12-07": ["Peer-Review"],
 				"2022-12-06": [
 					"Second-Pass",
@@ -27,7 +54,8 @@
 		}
 	},
 	"Changes": [
+		"2024-01-30 - Paul Prins: First translation of verses 1-20.",
 		"2022-12-06 - Paul Prins: First translation of chapter 1:7."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }

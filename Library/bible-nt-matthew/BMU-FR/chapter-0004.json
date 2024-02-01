@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "4",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tComme Jésus marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et son frère André. Ils étaient pêcheurs et jetaient un filet dans la mer. ",
+		"19": "Il leur dit : « Suivez-moi, et je vous ferai pêcheurs de personnes. » ",
+		"20": "Aussitôt, ils laissèrent leurs filets et le suivirent. ",
+		"21": "En continuant par là,  il a vu deux autres frères : Jacques, fils de Zébédée, et son frère Jean.  Ils étaient dans une barque avec leur père Zébédée, en train de réparer leurs filets. Il les appela. ",
+		"22": "Aussitôt, ils laissèrent la barque et leur père, et le suivirent."
+	},
+	"InlineTitles": {
+		"18": "Premiers Disciples de Jésus"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-30 - Paul Prins: Premier traduction des versets 18-22."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
