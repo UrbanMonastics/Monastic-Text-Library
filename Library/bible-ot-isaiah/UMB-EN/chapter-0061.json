@@ -1,0 +1,46 @@
+{
+	"TextAbbreviation": "chapter-0061",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Title": "Lifting up the Afflicted",
+	"Description": "",
+	"Chapter": "61",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "The spirit of the Lord, GOD, is upon me,\r\nbecause the LORD has anointed me\r\nto proclaim good news to the poor.\r\nHe has sent me to heal the brokenhearted,\r\nto proclaim liberty for the captives,\r\nand freedom for the prisoners.\r\n",
+		"2": "To proclaim the year of the LORD's favor,\r\nand the day of vengeance of our God.\r\nTo comfort all who mourn.\r\n",
+		"3": "To grant to those mourning in Zion:\r\nto give them a beautiful crown instead of ashes,\r\nthe oil of gladness instead of mourning,\r\nthe garment of praise instead of a despairing spirit.\r\nSo that they will be called oaks of righteousness.\r\nPlantings of the LORD,\r\ndestined to display His splendor.\r\n",
+		"4": "They will rebuild the ancient ruins.\r\nThey will restore places long devastated.\r\nThey will revive the ruined cities,\r\nlost to desolation for many generations.\r\n\r\n",
+		"5": "Strangers will stand and tend your flocks.\r\nForeigners will work your fields and vineyards.\r\n",
+		"6": "But you will be called priests of the LORD.\r\nThey will speak of you as ministers of our God.\r\nYou will eat the wealth of nations,\r\nand you will boast of their riches.\r\n",
+		"7": "Instead of shame, you will have a double portion.\r\nInstead of humiliation, you will rejoice in your portion.\r\nSo you will inherit a double portion in your land,\r\nand everlasting joy will be yours.\r\n\r\n",
+		"8": "For I, the LORD, love justice.\r\nI hate robbery and wrongdoing.\r\nI will faithfully give them their reward,\r\nand make an everlasting covenant with them.\r\n",
+		"9": "Their descendants will be known among the nations,\r\nand their offspring in the midst of the peoples.\r\nAll who see them will acknowledge\r\nthat they are the people the LORD has blessed.\r\n\r\n",
+		"10": "I will rejoice greatly in the LORD;\r\nmy soul will be joyful in my God.\r\nFor he has clothed me with garments of salvation,\r\nand wrapped me in a robe of His righteousness.\r\nAs a groom adorns a turban.\r\nAs a bride adorns herself with jewels.\r\n",
+		"11": "For as the earth produces its sprouts,\r\nand a garden causes seeds to grow,\r\nthe Lord GOD will cause righteousness and praise\r\nto spring up before all nations."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: Initial translation of verses 4-11.",
+		"2024-01-30 - Paul Prins: Initial translation of verses 1-3."
+	],
+	"FootNotes": { },
+	"License": "© 2024 Urban Monastics, Paris"
+}

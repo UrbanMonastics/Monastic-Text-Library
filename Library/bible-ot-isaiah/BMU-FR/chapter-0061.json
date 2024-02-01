@@ -1,0 +1,45 @@
+{
+	"TextAbbreviation": "chapter-0061",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Title": "Relever les Affligés",
+	"Description": "",
+	"Chapter": "61",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "L'esprit du Seigneur, DIEU, est sur moi,\r\nparce que le SEIGNEUR m'a oint,\r\npour proclamer la bonne nouvelle aux pauvres.\r\nIl m'a envoyé pour guérir ceux qui ont le cœur brisé,\r\npour proclamer la liberté aux captifs,\r\net la délivrance aux prisonniers.\r\n",
+		"2": "Pour proclamer l'année de la faveur du SEIGNEUR,\r\net le jour de la vengeance de notre Dieu.\r\nPour consoler tous ceux qui sont dans le deuil.\r\n",
+		"3": "Pour accorder aux personnes endeuillées de Sion :\r\nde leur donner une belle couronne au lieu de la cendre,\r\nl'huile de la joie au lieu du deuil,\r\nle vêtement de la louange au lieu de l'esprit abattu.\r\nOn les appellera des chênes de la justice.\r\nPlantations du SEIGNEUR,\r\ndestinées à manifester sa splendeur.\r\n",
+		"4": "Ils reconstruiront les ruines anciennes.\r\nIls restaureront les lieux longtemps dévastés.\r\nIls ranimeront les villes en ruine,\r\nperdues à la désolation depuis de nombreuses générations.\r\n\r\n",
+		"5": "Des inconnus protégeront et s'occuperont de vos troupeaux.\r\nDes étrangers travailleront vos champs et vos vignes.\r\n",
+		"6": "Mais vous serez appelés prêtres du SEIGNEUR,\r\non vous nommera serviteurs de notre Dieu.\r\nVous mangerez les ressources des nations,\r\net vous vous glorifierez de leurs richesses.\r\n",
+		"7": "Au lieu de la honte, vous aurez une double portion.\r\nAu lieu de l'humiliation, vous aurez la joie de votre portion.\r\nVous hériterez d'une double part dans votre pays,\r\net vous aurez une joie éternelle.\r\n\r\n",
+		"8": "En effet, moi, le SEIGNEUR, j'aime la justice.\r\nJe hais le vol et l'injustice.\r\nJe leur donnerai fidèlement leur récompense,\r\net je conclurai avec eux une alliance éternelle.\r\n",
+		"9": "Leurs descendants seront connus parmi les nations\r\net leurs progénitures au milieu des peuples.\r\nTous ceux qui les verront reconnaîtront\r\nqu'ils sont le peuple que le SEIGNEUR a béni.\r\n\r\n",
+		"10": "Je me réjouirai en le SEIGNEUR ;\r\nmon âme sera joyeuse en mon Dieu.\r\nCar il m'a revêtu d'habits de salut,\r\net il m'a enveloppé d'un manteau de la justice.\r\nComme le marié se pare d'un turban.\r\nComme la mariée se pare des bijoux.\r\n",
+		"11": "En effet, comme la terre fait éclore son germe,\r\net comme un jardin fait pousser des semences,\r\nle Seigneur, DIEU, fera germer la justice et la louange\r\ndevant toutes les nations." 
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-31": ["Peer-Review"],
+				"2024-01-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: Première traduction des versets 4-11.",
+		"2024-01-30 - Paul Prins: Première traduction des versets 1-3."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
