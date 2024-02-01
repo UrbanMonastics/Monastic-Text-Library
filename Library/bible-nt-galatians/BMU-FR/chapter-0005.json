@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-galatians",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "Si vous êtes conduits par l'Esprit, vous n'êtes point sous la loi. ",
+		"19": "Or, les œuvres de la chair sont évidentes. Elles incluent l'immoralité sexuelle, l'impureté, l'indécence, ",
+		"20": "l'idolâtrie, la magie, les hostilités, les querelles, les jalousies, les explosions de colère, l'ambition égoïste, les dissensions, les sects, ",
+		"21": "l'envie, l'ivrognerie, les excès de table, et les choses semblables.  Je vous préviens, comme je l'ai déjà fait, que ceux qui pratiquent de telles choses n'hériteront pas du royaume de Dieu.\r\n",
+		"22": "Mais le fruit de l'Esprit, c'est l'amour, la joie, la paix, la patience, la bonté, la bienveillance, la fidélité, la douceur et la maîtrise de soi. ",
+		"23": "Car il n'y a pas de loi contre de telles choses.\r\n",
+		"24": "Ceux qui appartiennent au Jésus-Christ ont maintenant crucifié la chair avec ses passions et ses désirs. ",
+		"25": "Si nous vivons par l'Esprit, marchons au pas de l'Esprit. 26) Ne soyons pas vantards, provocateurs et envieux les uns des autres."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2023-10-31": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-01-06 - Paul Prins: Première traduction des versets 18-25 basée sur le grec."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

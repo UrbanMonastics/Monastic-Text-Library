@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-galatians",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "But if you are led by the Spirit, you are not under the Law. ",
+		"19": "Now, the works of the flesh are obvious. They include sexual immorality, impurity, indecent behavior, ",
+		"20": "idolatry, witchcraft, hostilities, discord, jealousy, outbursts of anger, selfish ambition, dissensions, factions, ",
+		"21": "envy, drunkenness, carousing, and things like these. I warn you, like I did before, that those who practice such things will not inherit the kingdom of God.\r\n",
+		"22": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, ",
+		"23": "gentleness, and self-control. For there is no law against such things.\r\n",
+		"24": "Those who belong to Christ Jesus have now crucified the flesh with its passions and desires. ",
+		"25": "If we live by the Spirit, let us keep in step with the Spirit. 26) Let us not become boastful, provoking, and envying one another."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2024-01-06 - Paul Prins: First translation of verses 18-25 based on Greek."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
