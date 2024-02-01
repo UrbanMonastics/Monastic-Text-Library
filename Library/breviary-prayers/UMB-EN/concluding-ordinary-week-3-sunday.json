@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and Everlasting God, bring our lives into resonance with your love. [t] Let our ways be the same as your beloved Son. [*] So our eyes might see your abundant fruits, through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-02-01": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

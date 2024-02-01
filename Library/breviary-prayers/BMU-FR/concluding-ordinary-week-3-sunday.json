@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et éternel, mène nos vies en résonance avec ton amour. [t] Que nos chemins soient les mêmes que ceux de ton Fils bien-aimé. [*] Afin que nos yeux puissent voir tes fruits abondants, par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

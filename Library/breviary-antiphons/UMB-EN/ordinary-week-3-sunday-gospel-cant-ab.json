@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "ordinary-week-3-sunday-gospel-cant-ab",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "As Jesus walked [*] by the Sea of Galilee, He saw two brothers, Peter and Andrew. He said to them, \"Follow me, and I will make you fishers of people.\" Immediately, they left their nets and followed Him.",
+	"Extra": {
+		"Reference": ["Matthew 4:19", "Mark 1:17"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-02-01": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

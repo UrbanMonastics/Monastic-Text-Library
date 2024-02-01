@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-3-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Omnípotens sempitérne Deus, dírige actus nostros in beneplácito tuo, [t] ut in nómine dilécti Fílii tui [*] mereámur bonis opéribus abundáre. Per Dóminum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

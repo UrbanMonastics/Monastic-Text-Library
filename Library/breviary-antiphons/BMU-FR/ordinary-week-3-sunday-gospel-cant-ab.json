@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-3-sunday-gospel-cant-ab",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Comme Jésus marchait [*] au bord de la mer de Galilée, il vit deux frères, Pierre et André. Il leur dit : « Suivez-moi, et je vous ferai pêcheurs de personnes. » Aussitôt, ils laissent leurs filets et le suivent.",
+	"Extra": {
+		"Reference": ["Matthew 4:19", "Mark 1:17"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-02-01": ["Peer-Review"],
+				"2024-01-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-01-31 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
