@@ -7,22 +7,25 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "In your unfailing love, Lord, watch over your family. [t] Since your heavenly grace is our only source of hope [*] keep us forever under your protection. Through Jesus Christ.",
+	"Text": "Lord of unfailing love, Your beloved children ask that You keep us in Your heart and pour out Your mercy. [t] For all our hope rests in Your heavenly grace. [*] That You will keep us under your constant protection, now and forever, through Jesus Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-01-30": ["Peer-Review"],
-				"2022-01-29": [
+				"2024-02-04": ["Peer-Review"],
+				"2024-02-03": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-02-03": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2024-02-03 - Paul Prins: Updated this prayer to stylistically align.",
 		"2022-01-29 - Paul Prins: First translation of this prayer."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }

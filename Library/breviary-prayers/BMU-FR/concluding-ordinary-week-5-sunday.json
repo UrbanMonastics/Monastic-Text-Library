@@ -7,13 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dans ton amour infaillible, Seigneur, veille sur ta famille. [t] Puisque ta grâce divine est notre seule source d'espoir [*] garde-nous pour toujours sous ta protection. Par Jésus-Christ.",
+	"Text": "Seigneur de l'amour indéfectible, tes enfants bien-aimés te demandent de nous garder dans ton cœur et de verser ta miséricorde. [t] Car toute notre espérance repose sur ta grâce céleste. [*] Que tu nous gardes sous ta protection constante, maintenant et pour toujours, par Jésus-Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-01-30": ["Peer-Review"],
-				"2022-01-29": [
+				"2024-02-04": ["Peer-Review"],
+				"2024-02-03": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -22,7 +22,8 @@
 		}
 	},
 	"Changes": [
+		"2024-02-03 - Paul Prins : Mise à jour de cette prière pour l'aligner stylistiquement",
 		"2022-01-29 - Paul Prins: Traduit cette prière."
 	],
-	"License": "© 2022 Monastiques Urbain, Paris"
+	"License": "© 2024 Monastiques Urbain, Paris"
 }
