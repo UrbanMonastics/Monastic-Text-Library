@@ -13,27 +13,34 @@
 	"Verses": {
 		"1": "When Israel came out of Egypt, [*]\r\n\tJacob's children from a foreign people,\r\n",
 		"2": "Judah became God's sanctuary, [*]\r\n\tand Israel became his dominion.\r\n\r\n",
-		"3": "The sea flees at their sight, [*]\r\n\tthe Jordan turns back to its source.\r\n",
+		"3": "The sea flees at their sight; [*]\r\n\tthe Jordan turns back to its source.\r\n",
 		"4": "The mountains leap like rams, [*]\r\n\tand the hills like lambs.\r\n\r\n",
 		"5": "Why was it, sea, that you fled, [*]\r\n\tJordan, that you returned to your source,\r\n",
 		"6": "the mountains, that you leaped like rams, [*]\r\n\tand the hills like lambs?\r\n\r\n",
-		"7": "Tremble, earth, before the Lord, [*]\r\n\tbefore the God of Jacob.\r\n",
-		"8": "Who turned the rock into pools of water, [*]\r\n\tand made waters spring forth from flint."
+		"7": "Tremble, earth, before the Lord, [*]\r\n\tbefore the God of Jacob,\r\n",
+		"8": "who turned the rock into pools of water, [*]\r\n\tand made waters spring forth from flint."
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-04-12": ["Peer-Review"],
 				"2021-04-11": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-01-31": "Constance McIntosh Smith"
+			}
 		}
 	},
 	"Changes": [
+		"2024-01-31 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2021-04-19 - Paul Prins: Cleaned up verse 8. It was feeling very stiff and mechanical. Couldn't stop thinking about it.",
 		"2021-04-11 - Paul Prins: First translation of psalm 114 based on Greek, Latin, and some Hebrew."
 	],

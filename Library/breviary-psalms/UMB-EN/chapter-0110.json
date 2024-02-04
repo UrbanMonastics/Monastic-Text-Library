@@ -11,8 +11,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "The LORD says to my master: [*]\r\n\t\"Sit at my right hand,\r\nand I will make your enemies [*]\r\n\tinto a footstool for your feet.\"\r\n\r\n",
-		"2": "From Zion, the LORD will extend your mighty scepters reach, saying, [*]\r\n\t\"Rule in the midst of your enemies.\"\r\n\r\n",
+		"1": "The LORD says to my master, [*]\r\n\t\"Sit at my right hand,\r\nand I will make your enemies [*]\r\n\tinto a footstool for your feet.\"\r\n\r\n",
+		"2": "From Zion, the LORD will extend your mighty scepter's reach, saying, [*]\r\n\t\"Rule in the midst of your enemies.\"\r\n\r\n",
 		"3": "On the day of your power, your people will follow you, [t]\r\n\tin your holy splendor, [*]\r\n\t\"With the breaking of dawn, your youth comes to you like the dew.\"\r\n\r\n",
 		"4": "The LORD swore an irrevocable oath,[*]\r\n\t\"You are a priest always, in the order of King Melchizedek.\"\r\n\r\n",
 		"5": "On your right is my master, [*]\r\n\twho will crush rulers on the day of his wrath.\r\n\r\n",
@@ -22,16 +22,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-04-08": ["Peer-Review"],
 				"2021-04-07": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-01-25": "Constance McIntosh Smith"
+			}
 		}
 	},
 	"Changes": [
+		"2024-01-25 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2023-09-30 - Paul Prins: Fixed casings on divine name.",
 		"2021-04-07 - Paul Prins: First translation of psalm 110 based on Greek, Latin, and some Hebrew"
 	],

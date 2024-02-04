@@ -9,14 +9,19 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"3": "Béni soit le Dieu et Père de notre Seigneur Jésus-Christ. Le Père des miséricordes et le Dieu de tout réconfort. ",
+		"1": "\tCette lettre est de Paul, apôtre du Christ Jésus par la volonté de Dieu, et de notre frère Timothée.\r\n\tJe l'adresse à l'Église de Dieu à Corinthe et à tous les saints de l'Achaïe.\r\n",
+		"2": "\tQue la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ.\r\n",
+		"3": "\tBéni soit le Dieu et Père de notre Seigneur Jésus-Christ. Le Père des miséricordes et le Dieu de tout réconfort. ",
 		"4": "Qui nous réconforte quelle que soient nos détresses. Pouvons-nous ainsi réconforter ceux qui sont dans la détresse avec le même réconfort que nous recevons nous-mêmes de Dieu. "
+	},
+	"InlineTitles": {
+		"1": ""
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2021-11-08": ["Peer-Review"],
+				"2024-02-04": ["Peer-Review"],
 				"2021-11-07": [
 					"Second-Pass",
 					"Initial"
@@ -26,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2024-02-04 - Paul Prins: Première traduction des versets 1-4 basée sur le grec.",
 		"2021-11-07 - Paul Prins: Première traduction des versets 3-4 basée sur le grec."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

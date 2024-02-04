@@ -10,12 +10,12 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"46": "My soul [+] magnifies the greatness of the Lord, [*]\r\n\t",
-		"47": "my spirit bursts rejoicing in God my Savior.\r\n",
+		"46": "My soul [+] magnifies the greatness of the Lord; [*]\r\n\t",
+		"47": "my spirit bursts, rejoicing in God my Savior.\r\n",
 		"48": "For He knew the humility of His servant. [*]\r\n\tFrom today all generations will call me blessed.\r\n\r\n",
 		"49": "The Almighty has done great things for me, [*]\r\n\tand holy is His name.\r\n\r\n",
 		"50": "He has mercy for those who fear Him, [*]\r\n\tfrom generation to generation.\r\n",
-		"51": "He has shown the strength of His arm, [*]\r\n\tand scattered the proud for the thoughts of their heart.\r\n\r\n",
+		"51": "He has shown the strength of His arm, [*]\r\n\tand scattered the proud for the thoughts of their hearts.\r\n\r\n",
 		"52": "He has torn the mighty from their thrones, [*]\r\n\tand lifted up the lowly.\r\n",
 		"53": "He has filled the hungry with good things, [*]\r\n\tand sent the rich away empty.\r\n\r\n",
 		"54": "He has given help to His servant Israel,[*]\r\n\tand remembered His promise of mercy.\r\n",
@@ -28,16 +28,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-03-30": ["Peer-Review"],
 				"2020-03-29": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-01-31": "Constance McIntosh Smith"
+			}
 		}
 	},
 	"Changes": [
+		"2024-01-31 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2020-03-29 - Paul Prins : Added this Canticle."
 	],
 	"License": "© 2021 Urban Monastics, Paris"

@@ -11,7 +11,7 @@
 	},
 	"Verses": {
 		"3": "Great and marvelous are your works,[*]\r\n\tLord God Almighty.\r\nYour ways are righteous and true,[*]\r\n\tKing of the Nations.\r\n\r\n",
-		"4": "Lord, who will not fear you and bring glory to your name?[*]\r\n\tFor holy are you alone.\r\nBefore you all nations will come and worship.[*]\r\n\tFor your righteous works have been revealed to all."
+		"4": "Lord, who will not fear you and bring glory to your name?[*]\r\n\tFor holy are you alone.\r\nBefore you all nations will come and worship,[*]\r\n\tfor your righteous works have been revealed to all."
 	},
 	"Extra": {
 		"Reference": ["Revelation 15:3-4"],
@@ -20,16 +20,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-01-13": ["Peer-Review"],
 				"2021-01-12": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-01-31": "Constance McIntosh Smith"
+			}
 		}
 	},
 	"Changes": [
+		"2024-01-31 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2021-01-12 - Paul Prins : Added this Canticle."
 	],
 	"License": "© 2021 Urban Monastics, Paris"

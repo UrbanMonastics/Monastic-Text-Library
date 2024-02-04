@@ -13,7 +13,7 @@
 		"1": "Alleluia\r\nSalvation and glory and power belong to our God,[*]\r\n\twhose judgments are true and just.\r\nAlleluia\r\n\r\n",
 		"2": "Alleluia\r\nPraise our God, all servants of the Lord,[*]\r\n\tyou who fear him, both small and great.\r\nAlleluia\r\n\r\n",
 		"5": "Alleluia\r\nThe Lord our God, the Almighty, reigns:[*]\r\n\tlet us rejoice and exult and give glory and homage.\r\nAlleluia\r\n\r\n",
-		"6": "Alleluia\r\nThe marriage of the Lamb has come[*]\r\n\tand his bride has made herself ready.\r\nAlleluia\r\n\r\n",
+		"6": "Alleluia\r\nThe marriage of the Lamb has come[*]\r\n\tand His bride has made herself ready.\r\nAlleluia\r\n\r\n",
 		"7": "Alleluia\r\nHappy are those who are invited[*]\r\n\tto the wedding banquet of the Lamb.\r\nAlleluia"
 	},
 	"Extra": {
@@ -23,16 +23,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-01-31": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-03-30": ["Peer-Review"],
 				"2020-03-29": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-01-31": "Constance McIntosh Smith"
+			}
 		}
 	},
 	"Changes": [
+		"2024-01-31 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2020-03-29 - Paul Prins : Added this Canticle."
 	],
 	"License": "© 2021 Urban Monastics, Paris"

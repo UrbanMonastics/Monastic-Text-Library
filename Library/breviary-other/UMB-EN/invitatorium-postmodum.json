@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God, [+] come to my assistance,[*]\r\nLord, make haste to help me.",
+	"Text": "God, [+] come to my assistance;[*]\r\nLord, make haste to help me.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -23,11 +23,13 @@
 				]
 			},
 			"Reviewers": {
+				"2024-01-25": "Constance McIntosh Smith",
 				"2023-10-20": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2024-01-25 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2020-10-01 - Paul Prins: Added this text."
 	],
 	"License": "© 2021 Urban Monastics, Paris"
