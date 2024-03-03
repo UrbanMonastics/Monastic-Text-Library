@@ -7,12 +7,12 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Great is our Lord, and great is His power.\r\n[R] Great is our Lord, [*] and great is His power.\r\n[V] And His wisdom is endless.",
+	"Text": "[V] Great is our Lord, and great is His power.\r\n[R] Great is our Lord, [*] and great is His power.\r\n[V] His wisdom is endless.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2021-06-06": ["Peer-Review"],
+				"2024-02-04": ["Peer-Review"],
 				"2021-06-05": [
 					"Second-Pass",
 					"Initial"
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-02-04 - Paul Prins: Updated the second versical so it flows better.",
 		"2021-06-05 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2021 Urban Monastics, Paris"
