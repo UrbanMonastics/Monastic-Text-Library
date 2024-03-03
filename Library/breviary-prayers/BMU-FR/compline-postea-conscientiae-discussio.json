@@ -7,12 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "\tJe confesse à Dieu tout-puissant et à tous ceux dont l'espérance est en Christ. J'ai péché en pensée, en parole et en acte. Dans ce que j'ai fait et ce que je n'ai pas fait. J'ai péché et je continue à pécher encore et encore. C'est pourquoi je vous demande de prier le Seigneur notre Dieu pour moi. Priez pour moi avec tous les saints. \r\n\r\n\tPère tout-puissant, aie pitié de nous. Continuez à nous pardonner nos péchés et conduisez-nous sur le chemin étroit de la vie éternelle. \r\n\r\nAmen",
+	"Text": "\tJe confesse à Dieu tout-puissant et à tous ceux dont l'espérance est en Christ. J'ai péché en pensée, en parole et en acte. Dans ce que j'ai fait et ce que je n'ai pas fait. J'ai péché et je continue à pécher encore et encore. J'ai lutté pour chérir et me reposer dans la présence de Dieu, pour embrasser profondément l'amour tendre de notre Père, pour prendre ma croix et suivre Jésus, pour sentir et laisser l'Esprit Saint me guider. C'est pourquoi je vous demande de prier le Seigneur notre Dieu pour moi. Priez pour moi avec tous les saints. \r\n\r\n\tPère tout-puissant, aie pitié de nous. Continuez à nous pardonner nos péchés et conduisez-nous sur le chemin étroit, avec Toi, de la vie éternelle. \r\n\r\nAmen",
 	"Description": "Said after the examination of concience during Compline",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-03-03": ["Peer-Review"],
 				"2020-10-28": ["Peer-Review"],
 				"2020-10-27": [
 					"Second-Pass",
@@ -25,6 +26,7 @@
 		}
 	},
 	"Changes": [
+		"2024-03-03 - Paul Prins : Ajout d'une section méditative et basée sur présence",
 		"2022-07-04 - Paul Prins: Transféré dans la section Prières.",
 		"2020-10-27 - Paul Prins: Traduit cette prière."
 	],

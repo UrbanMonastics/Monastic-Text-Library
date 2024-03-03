@@ -7,12 +7,13 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "\tI confess to Almighty God, and to all whose hope is in Christ. I have sinned in thought, word, and deed; in what I have done and left undone. I have sinned, and continue to sin again and again. This is why I plead that you pray to the Lord our God for me. Pray for me along with all the saints.\r\n\r\n\tAlmighty Father, have mercy on us. Continue to forgive us our sins, and lead us on the narrow path to eternal life.\r\n\r\nAmen",
+	"Text": "\tI confess to Almighty God, and to all whose hope is in Christ. I have sinned in thought, word, and deed; in what I have done and left undone; I have sinned, and continue to sin again and again. I have struggled; to treasure and rest in God's presence; to deeply embrace our Father's tender love; to take up my cross and follow Jesus; to sense and let the Holy Spirit guide me. This is why I plead that you pray to the Lord, our God, for me. Pray for me, along with all the saints.\r\n\r\n\tAlmighty Father, have mercy on us. Continue to forgive us our sins, and lead us on the narrow path, with You, to eternal life.\r\n\r\nAmen",
 	"Description": "Said after the examination of conscience during Compline",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-03-03": ["Peer-Review"],
 				"2023-10-20": [
 					"Verified",
 					"Guidelines"
@@ -31,6 +32,7 @@
 		}
 	},
 	"Changes": [
+		"2024-03-03 - Paul Prins: Added a meditative and presence based section.",
 		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2023-10-19 - Jordan Prins: Caught a missing comma.",
 		"2022-07-04 - Paul Prins: Moved to the Prayers section",
