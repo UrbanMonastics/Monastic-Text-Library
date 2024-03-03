@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "9",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"24": "\tNe sais-tu pas que dans une course, tous les coureurs courent, mais qu'un seul reçoit le prix ? Courez de manière à le remporter. ",
+		"25": "Tous ceux qui participent aux jeux se maîtrisent de soi en toutes choses. Ils le font pour recevoir une couronne qui va périr. Nous le faisons pour une récompense impérissable. ",
+		"26": "Moi, donc, je ne cours pas comme celui qui court sans but. Je ne boxe pas comme celui qui bat l'air. ",
+		"27": "Au contraire, je discipline mon corps et le soumets à mon contrôle. Afin qu'après avoir prêché aux autres, je ne me sois pas disqualifié moi-même."
+	},
+	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-03-04": ["Peer-Review"],
+				"2024-03-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-03-03 - Paul Prins: Premier traduction des versets 24-27."
+	],
+	"FootNotes": {
+	},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
