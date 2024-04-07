@@ -7,22 +7,29 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God of endless mercy, you revive the faith of your people through the celebrations of Easter. Increase in us your grace, so that we may always understand that you have purified us, by the Holy Spirit have made us reborn, and that your holy blood was spilt while redeeming us. In the name of Jesus. Amen.",
+	"Text": "God of endless mercy. You revive the faith of your people through every celebration of Easter. [t] God, lavish Your grace abundantly upon us. [*] Let understanding take root in the hearts of all, that You have washed us clean from the stain of sin. By Your Spirit, we are reborn. By Your blood, we are redeemed, through Jesus Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-04-07": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-04-12": ["Peer-Review"],
 				"2021-04-11": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-04-07": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
+		"2024-04-05 - Paul Prins: Fresh Translation of this prayer",
 		"2021-04-11 - Paul Prins: Translated this prayer."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }

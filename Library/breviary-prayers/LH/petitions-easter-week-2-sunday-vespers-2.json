@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "petitions-easter-week-32-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Deum Patrem, qui Christum suscitávit et ad déxteram suam exaltávit, súpplices exorémus :\r\n[IR] Per glóriam Christi custódi pópulum tuum, Dómine.\r\n[I1] Pater iuste, qui Iesum a terra per victóriam crucis exaltásti,\r\n[I2] fac ut ómnia ad eum trahántur.\r\n[I1] Per Fílium a te exaltátum emítte Spíritum sanctum in Ecclésiam,\r\n[I2] ut in ea sit unitátis totíus humáni géneris sacraméntum.\r\n[I1] Novam prolem, quam per aquam et Spíritum sanctum genuísti,\r\n[I2] fidélem serva suo baptísmati in vitam ætérnam.\r\n[I1] Per Fílium tuum exaltátum míseros súbleva, cárcere deténtos líbera, sana ægrótos,\r\n[I2] tuísque benefíciis mundum lætífica.\r\n[I1] Fratres defúnctos, quibus corpus et sánguinem Christi gloriósi præstitísti,\r\n[I2] fac novíssimo resurrectiónis die partícipes.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-01": ["Peer-Review"],
+				"2022-04-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-04-05 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
