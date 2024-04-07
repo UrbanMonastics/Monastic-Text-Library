@@ -1,10 +1,11 @@
 {
-	"TextAbbreviation": "easter-week-1-sunday-vespers",
+	"TextAbbreviation": "easter-octave",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "[V] Hæc dies, quam fecit Dóminus\r\n[R] Hæc dies, [*] quam fecit Dóminus.\r\n[V] Exsultémus, et lætémur in ea.",
+	"Text": "Hæc dies, [*] quam fecit Dóminus : exsulté mus et lætémur in ea.",
 	"Extra": {
+		"Reference": ["Psalm 118:24"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -18,6 +19,7 @@
 		}
 	},
 	"Changes": [
+		"2024-04-06 - Paul Prins: Retranscribe this response and add reference.",
 		"2021-04-10 - Paul Prins: Added this Response."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"

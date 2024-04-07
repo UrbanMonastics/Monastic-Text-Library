@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-1-sunday-vespers",
+	"TextAbbreviation": "easter-octave",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V]This is the day, the Lord has made.\r\n[R]This is the day, [*] the Lord has made.\r\n[V]Let us rejoice and be glad in it.",
+	"Text": "This is the day [*] the Lord has made; Let us rejoice and be glad in it.",
 	"Extra": {
+		"Reference": ["Psalm 118:24"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -22,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2024-04-06 - Paul Prins: Retranslate this response and add reference.",
 		"2022-04-15 - Paul Prins: Update structure to match responses",
 		"2021-04-10 - Paul Prins: Initial translation from Latin"
 	],
