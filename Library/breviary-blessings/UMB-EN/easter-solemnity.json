@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "easter-solemnity",
+	"SourceAbbreviation": "breviary-blessings",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Lord be with you,\r\nand with your spirit.\r\nMay Almighty God bless you, Father, Son, [+] and Holy Spirit.\r\n**Amen.**\r\nLet us bless the Lord.\r\nAlleluia. Alleluia.\r\nThanks be to God.\r\nAlleluia. Alleluia.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-04-07": ["Peer-Review"],
+				"2024-04-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-04-06 - Paul Prins: First translation of this blessing."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

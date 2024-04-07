@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "easter-solemnity",
+	"SourceAbbreviation": "breviary-blessings",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dóminus vobíscum.\r\nEt cum spíritu tuo.\r\nBenedícat vos omnípotens Deus, Pater, et Fílius, [+] et Spíritus Sanctus.\r\n**Amen.**\r\nBenedicámus Dómino, allelúia, alléluia.\r\nDeo grátias, allelúia, allelúia.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-04-06": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-04-06 - Paul Prins: Added this blessing."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
