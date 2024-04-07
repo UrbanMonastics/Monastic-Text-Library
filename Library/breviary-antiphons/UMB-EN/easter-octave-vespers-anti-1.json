@@ -1,9 +1,13 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-anti-3",
+	"TextAbbreviation": "easter-octave-anti-1",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "LH",
-	"Text": "Ite, [*] nuntiáte frátribus meis, allelúia, ut eant in Galilæam : ibi me vidébunt, allelúia allelúia allelúia.",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "They came, [*] Mary Magdalene and the other Mary, to make their visit to the tomb, alleluia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -20,5 +24,5 @@
 	"Changes": [
 		"2021-04-11 - Paul Prins: Added this text."
 	],
-	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+	"License": "© 2021 Urban Monastics, Paris"
 }

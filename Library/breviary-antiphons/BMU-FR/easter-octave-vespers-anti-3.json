@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-anti-2",
+	"TextAbbreviation": "easter-octave-vespers-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Venez, [*] et voir l’endroit où nous avons posé notre Seigneur, allelúlia allelúlia.",
+	"Text": "Vite, [*] allez dites à les autres, alléluia, ils doivent aller en Galilée; ils me verront là, alléluia alléluia alléluia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-gospel-cant",
+	"TextAbbreviation": "easter-octave-vespers-anti-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "It was evening of the first day of the week. The disciples had locked themselves in the room where they were. Jesus stood in their midst. He said to them, \"Peace be with you!\" Alleluia.",
+	"Text": "Come, [*] and see the place we laid our Lord, alleluia alleluia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

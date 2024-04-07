@@ -1,9 +1,13 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-anti-1",
+	"TextAbbreviation": "easter-octave-vespers-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "LH",
-	"Text": "Venérunt ad monuméntum [*] Maria Magdaléne et áltera Maria vidére sepúlcrum, allelúia.",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Quickly, [*] go tell the others, alleluia, they must go to Galilee; they shall see me there, alleluia alleluia alleluia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -20,5 +24,5 @@
 	"Changes": [
 		"2021-04-11 - Paul Prins: Added this text."
 	],
-	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+	"License": "© 2021 Urban Monastics, Paris"
 }

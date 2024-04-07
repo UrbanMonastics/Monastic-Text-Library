@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-2-gospel-cant",
+	"TextAbbreviation": "easter-octave-vespers-gospel-cant",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "You have seen me, [*] Thomas, and believed. Blessed are those that have not seen and yet believe, alleluia.",
+	"Text": "It was evening of the first day of the week. The disciples had locked themselves in the room where they were. Jesus stood in their midst. He said to them, \"Peace be with you!\" Alleluia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

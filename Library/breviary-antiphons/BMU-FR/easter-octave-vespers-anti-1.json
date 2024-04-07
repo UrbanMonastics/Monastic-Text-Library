@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-anti-3",
+	"TextAbbreviation": "easter-octave-vespers-anti-1",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Vite, [*] allez dites à les autres, alléluia, ils doivent aller en Galilée; ils me verront là, alléluia alléluia alléluia.",
+	"Text": "Elles sont venus, [*] Mary Magdaline et l’autre Marie, pour faire leur vistte à la tombe, alléulia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

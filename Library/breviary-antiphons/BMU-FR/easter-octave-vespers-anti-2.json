@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-gospel-cant",
+	"TextAbbreviation": "easter-octave-vespers-anti-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "C'était le soir du premier jour de la semaine. Les disciples s'étaient enfermés dans la pièce où ils se trouvaient. Jésus se tenait au milieu d’eux. Il leur dit: « La paix soit avec vous »! Alléluia",
+	"Text": "Venez, [*] et voir l’endroit où nous avons posé notre Seigneur, allelúlia allelúlia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

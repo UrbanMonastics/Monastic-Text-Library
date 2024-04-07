@@ -1,13 +1,9 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-anti-3",
+	"TextAbbreviation": "easter-octave-vespers-gospel-cant",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "UMB-EN",
-	"Translation":{
-		"Versions": ["LH"],
-		"People": ["Paul Prins"]
-	},
-	"Text": "Quickly, [*] go tell the others, alleluia, they must go to Galilee; they shall see me there, alleluia alleluia alleluia.",
+	"Version": "LH",
+	"Text": "Cum esset sero die illo [*] una sabbatórum, et fores essent clausæ, ubi erant discípuli congregáti, stetit Iesus in médio et dixit eis : Pax vobis, allelúia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -24,5 +20,5 @@
 	"Changes": [
 		"2021-04-11 - Paul Prins: Added this text."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

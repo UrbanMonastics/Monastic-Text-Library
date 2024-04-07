@@ -1,9 +1,9 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-2-gospel-cant",
+	"TextAbbreviation": "easter-octave-vespers-anti-1",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Quia vidísti me, [*] Thoma, credidísti ; beáti qui non vidérunt et credidérunt allelúia.",
+	"Text": "Venérunt ad monuméntum [*] Maria Magdaléne et áltera Maria vidére sepúlcrum, allelúia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

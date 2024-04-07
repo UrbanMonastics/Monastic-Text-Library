@@ -1,9 +1,9 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-gospel-cant",
+	"TextAbbreviation": "easter-octave-vespers-anti-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Cum esset sero die illo [*] una sabbatórum, et fores essent clausæ, ubi erant discípuli congregáti, stetit Iesus in médio et dixit eis : Pax vobis, allelúia.",
+	"Text": "Veníte, [*] et vidéte locum ubi pósitus erat Dóminus, allelúlia allelúlia.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],

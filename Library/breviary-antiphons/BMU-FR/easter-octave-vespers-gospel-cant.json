@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "sunday-vespers-easter-week-1-anti-1",
+	"TextAbbreviation": "easter-octave-vespers-gospel-cant",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Elles sont venus, [*] Mary Magdaline et l’autre Marie, pour faire leur vistte à la tombe, alléulia.",
+	"Text": "C'était le soir du premier jour de la semaine. Les disciples s'étaient enfermés dans la pièce où ils se trouvaient. Jésus se tenait au milieu d’eux. Il leur dit: « La paix soit avec vous »! Alléluia",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
