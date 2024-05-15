@@ -1,0 +1,47 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "13",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "If I speak in human and angelic tongues but do not have love, I am only a noisy gong or clanging cymbal. ",
+		"2": "If I have the gift of prophecy that grasps all mysteries and knowledge, without love, I am nothing. If I have faith that can move mountains but do not have love, I am nothing. ",
+		"3": "And if I give all I possess to charity and sacrifice my body, but do not have love, it does me no good.\r\n",
+		"4": "Love is patient. Love is kind. Love does not envy or boast. It is not arrogant. ",
+		"5": "It does not act disgracefully. It is not self-seeking. Love is not provoked. It keeps no record of wrongs. ",
+		"6": "Love takes no delight in evil, but rejoices with the truth. ",
+		"7": "Love forgives all things and believes all things. Love hopes all things and endures all things. ",
+		"8": "Love never fails. But where there are prophecies, they will cease. Where there are tongues, they will be silenced. Where there is knowledge, it will disappear. ",
+		"9": "Now we know in part, and we prophesy in part. ",
+		"10": "When the perfect comes, what is partial will disappear.\r\n",
+		"11": "When I was a child I spoke like a child, thought like a child, and reasoned like a child. When I became an adult, I stopped doing these childish things. ",
+		"12": "For now we see a dim reflection in a mirror, but then we will see face to face. Now I know in part, but then I will fully know,  as I have been known fully. ",
+		"13": "Now these three remain: faith, hope and love; but the greatest of these is love."
+	},
+	"InlineTitles": {
+		"1": "Love"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-05-05": ["Peer-Review"],
+				"2024-05-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-04 - Paul Prins: First translation of Chapter 13."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Urban Monastics, Paris"
+}

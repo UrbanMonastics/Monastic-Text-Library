@@ -1,0 +1,47 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-corinthians-1",
+	"Chapter": "13",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Si je parle en langues humaines et angéliques mais que je n'ai pas l'amour, je suis seulement un gong retentissant ou une cymbale qui retentit. ",
+		"2": "Si j'ai le don de prophétie qui saisit tous les mystères et les connaissances, sans l'amour, je ne suis rien. Si j'ai une foi qui peut transporter des montagnes mais que je n'ai pas d'amour, je ne suis rien. ",
+		"3": "Et si je distribue tout ce que je possède à la charité et que je sacrifie mon corps, mais que je n'ai pas d'amour, cela ne me sert à rien.\r\n\r\n",
+		"4": "L'amour est patient. L'amour est plein de bonté. L'amour n'envie pas et ne se vante pas. Il n'est pas arrogant. ",
+		"5": "Il n'agit pas de manière honteuse. Il ne cherche pas son intérêt. L'amour n'est pas provoqué. Il ne tient pas de registre du mal. ",
+		"6": "L'amour ne prend pas plaisir au mal, mais il se réjouit de la vérité. ",
+		"7": "L'amour pardonne tout et croit tout. L'amour espère tout et supporte tout. ",
+		"8": "L'amour ne passera jamais. Mais où il y a des prophéties, elles cesseront. Où il y a des langues, elles se tairont. Où il y a des connaissances, elles disparaîtront. ",
+		"9": "Maintenant nous connaissons partiellement, et nous prophétisons partiellement. ",
+		"10": "Mais quand ce qui est parfait sera venu, ce qui est partiel disparaîtra.\r\n\r\n",
+		"11": "Lorsque j'étais enfant, je parlais comme un enfant, je pensais comme un enfant, je raisonnais comme un enfant. Lorsque je suis devenu un adulte, j'ai cessé de faire ces choses enfantines. ",
+		"12": "Aujourd'hui, nous voyons un faible reflet dans un miroir, mais ensuite nous verrons face à face. Aujourd'hui, je connais partiellement, mais alors je connaîtrai complètement, comme j'ai été connu complètement. ",
+		"13": "Maintenant, donc, ces trois choses restent : la foi, l'espérance et l'amour ; mais le plus grand de ces trois, c'est l'amour."
+	},
+	"InlineTitles": {
+		"1": "L'amour"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-13": ["Peer-Review"],
+				"2022-08-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-04 - Paul Prins : Première traduction du chapitre 13."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
