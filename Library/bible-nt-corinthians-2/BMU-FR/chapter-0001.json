@@ -12,10 +12,17 @@
 		"1": "\tCette lettre est de Paul, apôtre du Christ Jésus par la volonté de Dieu, et de notre frère Timothée.\r\n\tJe l'adresse à l'Église de Dieu à Corinthe et à tous les saints de l'Achaïe.\r\n",
 		"2": "\tQue la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ.\r\n",
 		"3": "\tBéni soit le Dieu et Père de notre Seigneur Jésus-Christ. Le Père des miséricordes et le Dieu de tout réconfort. ",
-		"4": "Qui nous réconforte quelle que soient nos détresses. Pouvons-nous ainsi réconforter ceux qui sont dans la détresse avec le même réconfort que nous recevons nous-mêmes de Dieu. "
+		"4": "Qui nous réconforte quelle que soient nos détresses. Pouvons-nous ainsi réconforter ceux qui sont dans la détresse avec le même réconfort que nous recevons nous-mêmes de Dieu. ",
+		"5": "En effet, nous participons abondamment aux souffrances du Christ. De même, nous avons une abondance de réconfort par Christ.",
+		"6": "Si nous sommes affligés, c'est pour votre réconfort et votre salut. Si nous sommes réconfortés, c'est pour votre réconfort. Un réconfort dont nous faisons l'expérience ensemble, car vous endurez patiemment les mêmes souffrances que nous. ",
+		"7": "C'est pourquoi notre espérance à votre égard est fermement fondée. Nous savons que, parce que vous partagez nos souffrances, vous partagerez aussi notre réconfort.\r\n",
+		"8": "\tNous ne voulons pas, chères fratries, que vous ignoriez les afflictions que nous avons vécues en Asie. Là, nous avons été excessivement accablés, au-delà de nos forces. C'était tellement excessif que nous avons désespéré de la vie elle-même.",
+		"9": "En effet, nous avions l'impression d'avoir reçu notre arrêt de mort. Mais cela signifiait que nous ne devions pas compter sur nous-mêmes, mais sur Dieu, qui ressuscite les morts. ",
+		"10": "C'est lui qui nous a sauvés d'un danger mortel et qui nous sauvera encore. Nous avons mis notre espérance en Lui. Et il nous délivrera encore, ",
+		"11": "comme vous nous aidez par vos prières. Alors, beaucoup rendront grâce, en notre nom, pour la faveur obtenue pour nous par les prières de plusieurs."
 	},
 	"InlineTitles": {
-		"1": ""
+		"3": "Le Dieu de Tout Réconfort"
 	},
 	"Extra": {
 		"Writing":{
@@ -31,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2024-02-05 - Paul Prins: Première traduction des versets 5-11 basée sur le grec.",
 		"2024-02-04 - Paul Prins: Première traduction des versets 1-4 basée sur le grec.",
 		"2021-11-07 - Paul Prins: Première traduction des versets 3-4 basée sur le grec."
 	],

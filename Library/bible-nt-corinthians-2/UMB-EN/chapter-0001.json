@@ -12,10 +12,17 @@
 		"1": "\tThis letter is from Paul, an apostle of Christ Jesus by the will of God, and our brother Timothy.\r\n\tI write this to the church of God in Corinth, and for all the saints throughout Achaia. ",
 		"2": "May you have grace and peace from God our Father and the Lord Jesus Christ.\r\n",
 		"3": "\tBlessed be the God and Father of our Lord Jesus Christ. Blessed be the Father of compassion and the God of all comfort. ",
-		"4": "Our Father comforts us amidst our every trouble. We can then give others, amidst any trouble, the same comfort we have received from God. "
+		"4": "Our Father comforts us amidst our every trouble. We can then give others, amidst any trouble, the same comfort we have received from God. ",
+		"5": "For we share abundantly in the sufferings of Christ. In the same way, we also have an abundance of comfort through Christ. ",
+		"6": "If we are afflicted, it is for your comfort and salvation. If we are comforted, it is for your comfort. A comfort we experience together, as you patiently endure the same sufferings as us. ",
+		"7": "And so our hope for you is firmly grounded. We know that, because you share in our sufferings, you will also share in our comfort.\r\n",
+		"8": "\tWe do not want you, dear siblings, to be unaware of the afflictions we experienced in Asia. There, we were excessively burdened, far beyond what we could endure. It was so excessive that we despaired of life itself. ",
+		"9": "Indeed, we felt we had received the sentence of death. But that meant we would not rely on ourselves, but on God, who raises the dead. ",
+		"10": "He rescued us from mortal danger, and will rescue us again. We have set our hope on Him. And He will yet deliver us, ",
+		"11": "as you help us through your prayers. Then many will give thanks, on our behalf, for the favor granted us through the prayers of many."
 	},
 	"InlineTitles": {
-		"1": ""
+		"3": "The God of All Comfort"
 	},
 	"Extra": {
 		"Writing":{
@@ -31,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2024-02-05 - Paul Prins: First translation of verses 5-11 based on Greek.",
 		"2024-02-04 - Paul Prins: First translation of verses 1-4 based on Greek.",
 		"2021-11-07 - Paul Prins: First translation of verses 3-4 based on Greek."
 	],
