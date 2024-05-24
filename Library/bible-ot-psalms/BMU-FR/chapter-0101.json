@@ -1,0 +1,40 @@
+{
+	"TextAbbreviation": "chapter-0101",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Pour un Règne Fidèle",
+	"Description": "Psaume de David",
+	"Chapter": "101",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Je chanterai la bonté et la justice ;\r\n\tà toi, Seigneur, que je chanterai.\r\n",
+		"2": "J'envisagerai avec soin la voie sans reproche.\r\n\tQuand viendras-tu vers moi ?\r\n\r\nJe marcherai d'un cœur sans reproche\r\n\tau milieu de ma maison.",
+		"3": "Je ne mettrai rien de mauvais devant mes yeux.\r\n\tJe hais l'œuvre de ceux qui tombent,\r\n\telle ne s'accrochera pas à moi.\r\n\r\n",
+		"4": "Un cœur pervers s'éloignera de moi ;\r\n\tje ne connaîtrai pas le mal.\r\n",
+		"5": "Celui qui dénigre en secret son prochain,\r\n\tje le réduirai au silence.\r\nCelui qui a un regard hautain et un cœur arrogant,\r\n\tje ne le supporterai pas.\r\n\r\n",
+		"6": "Mes yeux seront sur les fidèles du pays,\r\n\tpour qu'ils habitent avec moi.\r\n\tCelui qui marche sans reproche me servira.\r\n",
+		"7": "Aucun de ceux qui se livrent à la tromperie n'habitera dans ma maison.\r\n\tAucun de ceux qui disent des mensonges ne se tiendra devant moi.\r\n",
+		"8": "Chaque matin, je réduirai au silence tous les méchants du pays,\r\n\tpour retrancher de la ville du SEIGNEUR tous ceux qui commettent l'injustice."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-25": ["Peer-Review"],
+				"2024-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-24 - Paul Prins: Première traduction du psaume 101 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

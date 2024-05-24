@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0101",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Iusti Principis Confessio",
+	"Description": "David. PSALMUS.",
+	"Chapter": "101",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Misericórdiam et iudícium cantábo; [*]\r\n\ttibi, Dómine, psallam.\r\n",
+		"2": "Intéllegam in via immaculáta; [*]\r\n\tquando vénies ad me?\r\n\r\nPerambulábo in innocéntia cordis mei, [*]\r\n\tin médio domus meæ.\r\n",
+		"3": "Non propónam ante óculos meos rem iniústam, [t]\r\n\tfaciéntem prævaricatiónes ódio habébo, [*]\r\n\tnon adhærébit mihi.\r\n\r\n",
+		"4": "Cor pravum recédet a me, [*]\r\n\tmalígnum non cognóscam.\r\n",
+		"5": "Detrahéntem secréto próximo suo, [*]\r\n\thunc cessáre fáciam ;\r\nsupérbum óculo et inflátum corde, [*]\r\n\thunc non sustinébo.\r\n\r\n",
+		"6": "Óculi mei ad fidéles terræ, ut sédeant mecum; [*]\r\n\tqui ámbulat in via immaculáta, hic mihi ministrábit.\r\n",
+		"7": "Non habitábit in médio domus meæ, qui facit supérbiam; [*]\r\n\tqui lóquitur iníqua non stabit in conspéctu oculórum meórum.\r\n",
+		"8": "In matutíno cessáre fáciam omen peccatóres terræ, [*]\r\n\tut dispérdam de civitáte Dómini omnes operántes iniquitátem." 
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-25": ["Peer-Review"],
+				"2024-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-24 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

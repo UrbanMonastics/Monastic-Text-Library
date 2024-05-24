@@ -1,0 +1,41 @@
+{
+	"TextAbbreviation": "chapter-0101",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "To Faithfully Reign",
+	"Description": "A Psalm of David",
+	"Chapter": "101",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "I will sing of mercy and justice; [*]\r\n\tto you, LORD, I will sing.\r\n",
+		"2": " I will carefully consider the blameless way. [*]\r\n\tWhen will you come to me?\r\n\r\nI will walk with a blameless heart [*]\r\n\tin the midst of my house.\r\n",
+		"3": "I will not set anything worthless before my eyes. [t]\r\n\tI hate the work of those who fall away; [*]\r\n\tit will not cling to me.\r\n\r\n",
+		"4": "A perverse heart shall leave me; [*]\r\n\tI will not know evil.\r\n",
+		"5": "Whoever secretly slanders their neighbor, [*]\r\n\tI will silence them.\r\nWhoever has a haughty look and an arrogant heart, [*]\r\n\tI will not endure them.\r\n\r\n",
+		"6": "My eyes will be on the faithful of the land, [t]\r\n\tthat they may dwell with me. [*]\r\n\tThe one whose walk is blameless will serve me.\r\n",
+		"7": "No one who practices deceit will dwell within my house. [*]\r\n\tNo one who speaks lies will stand before me.\r\n",
+		"8": "Every morning I will silence all the wicked in the land, [*]\r\n\tto cut off all from the city of the LORD who do injustice."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-25": ["Peer-Review"],
+				"2024-05-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2024-05-24 - Paul Prins: First translation of psalm 101 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
