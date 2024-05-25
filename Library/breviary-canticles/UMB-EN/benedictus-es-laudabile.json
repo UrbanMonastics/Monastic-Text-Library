@@ -1,0 +1,48 @@
+{
+	"TextAbbreviation": "benedictus-es-laudabile",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Prayer of Azariah in the Furnace",
+	"Description": "From Azariah 3-4, 6, 11-18",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH", "LXX"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"3": "Blessed are You, Lord, God of our ancestors! [*]\r\n\tYour name is worthy of praise and glory forever!\r\n",
+		"4": "For You are just in all You have done. [t]\r\n\tAll Your works are true, and Your ways right, [*]\r\n\tand all Your judgements are true.\r\n\r\n",
+		"6": "For we have sinned and, in our disobedience, turned away from You. [*]\r\n\tIn all things we have failed.\r\n",
+		"11": "For Your name's sake, do not abandon us forever [*]\r\n\tor break Your covenant with us.\r\n",
+		"12": "Do not withhold Your mercy from us, [t]\r\n\tfor the sake of Abraham Your friend, [*]\r\n\tIsaac Your servant, and Israel Your holy one.\r\n",
+		"13": "You promised them as many descendants as stars in the heavens [*]\r\n\tor the grains of sand on the seashore.\r\n",
+		"14": "But now, Lord, we are fewer than any nation, [*]\r\n\tand are the most humiliated in all the world because of our sins.\r\n",
+		"15": "We are left without a ruler, prophet, or leader. [t]\r\n\tNo place for burnt offerings, or sacrifices. [*]\r\n\tNo place for gifts or incense.\r\nThere is no place to make an offering before You, [*]\r\n\tso we may find Your mercy.\r\n",
+		"16": "But welcome us with our broken hearts and humbled spirits. [*]\r\n\tWe beg You to accept us as if every burnt offering were made.\r\nAs if thousands of burnt offerings were made, [*]\r\n",
+		"17": "\taccept our repentance as a sacrifice in Your presence today.\r\nMay we follow You without reservation. [*]\r\n\tFor those who trust in You will never be put to shame.\r\n",
+		"18": "And now, with our whole hearts, we follow You, [*]\r\n\twe fear You, and we seek Your presence."
+	},
+	"Extra": {
+		"Reference" : [
+			"Azariah 3-4, 6, 11-18",
+			"Daniel 3:26-27,29,34-41"
+		],
+		"LiturgiaeHorarum-Index": 46,
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-26": ["Peer-Review"],
+				"2024-05-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-25 - Paul Prins: First translation based on Greek, and Latin."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

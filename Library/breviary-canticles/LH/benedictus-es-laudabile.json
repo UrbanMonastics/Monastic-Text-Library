@@ -2,31 +2,34 @@
 	"TextAbbreviation": "benedictus-es-laudabile",
 	"SourceAbbreviation": "breviary-canticles",
 	"Title": "Oratio Azaræ in Fornace",
-	"Description": "From Daniel 3:26-27,29,34-41",
+	"Description": "From Azariah 3-4, 6, 11-18",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses": {
-		"26": "",
-		"27": "",
-		"29": "",
-		"34": "",
-		"35": "",
-		"36": "",
-		"37": "",
-		"38": "",
-		"39": "",
-		"40": "",
-		"41": ""
+		"3": "Benedíctus es, Dómine Deus patrum nostrórum, [*]\r\n\tet laudábile et gloriósum nomen tuum in sæcula,\r\n",
+		"4": "quia iustus es in ómnibus quæ fecísti nobis, [t]\r\n\tet univérsa ópera tua, vera, et viæ tuæ rectæ, [*]\r\n\tet ómnia iudícia tua véritas.\r\n\r\n",
+		"6": "Peccávimus enim et iníque égimus recedéntes a te [*]\r\n\tet delíquimus in ómnibus.\r\n",
+		"11": "Ne, quæsumus, tradas nos in perpétuum propter nomen tuum [*]\r\n\tet ne díssipes testaméntum tuum,\r\n",
+		"12": "neque aúferas misericórdiam tuam a nobis [t]\r\n\tpropter Abraham diléctum tuum [*]\r\n\tet Isaac servum tuum et Israel sanctum tuum,\r\n",
+		"13": "quibus dixísti quod multiplicáres semen eórum [*]\r\n\tsicut stellas cæli et sicut arénam, quæ est in lítore maris ;\r\n",
+		"14": "quia, Dómine, imminúti sumus plus quam omnes gentes [*]\r\n\tsumúsque húmiles in univérsa terra hódie propter peccáta nostra ;\r\n\r\n",
+		"15": "et non est in témpore hoc princeps et prophéta et dux, [t]\r\n\tneque holocáustum neque sacrifícium, [*]\r\n\tneque oblátio neque incénsum,\r\nneque locus primitiárum coram te, [*]\r\n\tut possímus inveníre misericórdiam ;\r\n",
+		"16": "sed in ánima contríta et spíritu humilitátis suscipiámur [*]\r\n\tsicut in holocáusto aríetum et taurórum\r\net sicut in mílibus agnórum pínguium, [*]\r\n",
+		"17": "\tsic fiat sacrifícium nostrum in conspéctu tuo hódie,\r\net pérfice subsequéntes te, [*]\r\n\tquóniam non est confúsio confidéntibus in te.\r\n",
+		"18": "Et nunc séquimur te in toto corde [*]\r\n\tet timémus te et quærimus fáciem tuam." 
 	},
 	"Extra": {
-		"Reference" : ["Daniel 3:26-27,29,34-41"],
+		"Reference" : [
+			"Azariah 3-4, 6, 11-18",
+			"Daniel 3:26-27,29,34-41"
+		],
 		"LiturgiaeHorarum-Index": 46,
 		"LiturgiaeHorarum-Cantica": "VT",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"YYYY-MM-D2": ["Peer-Review"],
-				"YYYY-MM-DD": [
+				"2024-05-26": ["Peer-Review"],
+				"2024-05-25": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -35,7 +38,7 @@
 		}
 	},
 	"Changes": [
-		"YYYY-MM-DD - Paul Prins: Added this text."
+		"2024-05-25 - Paul Prins: Added this text."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

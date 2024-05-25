@@ -6,7 +6,7 @@
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{
-		"Versions": ["LH", "SBLGNT"],
+		"Versions": ["LH", "LXX"],
 		"People": ["Paul Prins"]
 	},
 	"Verses": {

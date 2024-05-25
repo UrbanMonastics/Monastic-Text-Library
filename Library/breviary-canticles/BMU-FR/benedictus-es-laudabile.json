@@ -1,0 +1,48 @@
+{
+	"TextAbbreviation": "benedictus-es-laudabile",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Prière d'Azaria dans la Fournaise",
+	"Description": "De Azariah 3-4, 6, 11-18",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH", "LXX"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"3": "Béni sois-tu, Seigneur, Dieu de nos ancêtres ! [*]\r\n\tTon nom est digne de louange et de gloire pour toujours !\r\n",
+		"4": "Car tu es juste dans tout ce que tu as fait. [t]\r\n\tToutes tes oeuvres sont vraies, et tes voies sont droites, [*]\r\n\tet tous tes jugements sont vrais.\r\n\r\n",
+		"6": "Car nous avons péché, et par notre désobéissance, nous nous sommes détournés de to. [*]\r\n\tEn toutes choses, nous avons failli.\r\n",
+		"11": "À cause de ton nom, ne nous abandonne pas pour toujours [*]\r\n\tet ne romps pas ton alliance avec nous.\r\n",
+		"12": "Ne nous refuse pas ta miséricorde, [t]\r\n\tà cause d'Abraham, ton ami, d'Isaac, ton serviteur, [*]\r\n\tet d'Israël, qui est ton saint.\r\n",
+		"13": "Tu leur avais promis des descendants aussi nombreux que les étoiles dans les cieux [*]\r\n\tou les grains de sable sur le bord de la mer.\r\n",
+		"14": "Mais à présent, Seigneur, nous sommes la plus petite de tous les pays [*]\r\n\tet la plus humiliée dans toute la terre à cause de nos péchés.\r\n\r\n",
+		"15": "Nous sommes, en ce temps, privés de chef, de prophète, de dirigeant. [t]\r\n\tPas de place pour les holocaustes ou les sacrifices. [*]\r\n\tPas de place pour les offrandes ou les encens.\r\nIl n'y a pas de place pour faire une offrande devant toi, [*]\r\n\tafin que nous puissions trouver ta miséricorde.\r\n",
+		"16": "Pourtant, accueille-nous avec nos cœurs brisés et nos esprits humiliés. [*]\r\n\tNous te supplions de nous accepter comme si chaque holocauste avait été offert.\r\nComme si des milliers d'holocaustes avaient été offerts, [*]\r\n",
+		"17": "\taccepte notre repentir comme un sacrifice en ta présence aujourd'hui.\r\nPuissions-nous te suivre sans réserve, [*]\r\n\tcar ceux qui se confient en toi ne seront jamais couverts de honte.\r\n",
+		"18": "Et maintenant, de tout nos cœurs, nous te suivons, [*]\r\n\tnous te craignons et nous recherchons ta présence."
+	},
+	"Extra": {
+		"Reference" : [
+			"Azariah 3-4, 6, 11-18",
+			"Daniel 3:26-27,29,34-41"
+		],
+		"LiturgiaeHorarum-Index": 46,
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-26": ["Peer-Review"],
+				"2024-05-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-25 - Paul Prins: Première traduction basée sur le grec, et le latin."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
