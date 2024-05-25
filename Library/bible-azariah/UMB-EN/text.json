@@ -1,0 +1,54 @@
+{
+    "SourceAbbreviation": "bible-azariah",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LXX"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "They walked around in the midst of the flames, singing hymns to God, and blessing the Lord. ",
+		"2": "Then Azariah (Abednego) stood still in the fire and prayed aloud:\r\n\r\n",
+		"3": "Blessed are You, Lord, God of our ancestors!\r\n\tYour name is worthy of praise and glory forever!\r\n",
+		"4": "For You are just in all You have done.\r\n\tAll Your works are true, and Your ways right,\r\n\tand all Your judgments are true.\r\n",
+		"5": "You are truly just! All that you have brought upon us\r\n\tand on Jerusalem, the holy city of our ancestors,\r\n\tare a fair judgment because of our sins.\r\n",
+		"6": "For we have sinned and, in our disobedience, turned away from You.\r\n\tIn all things, we have failed.\r\n",
+		"7": "We did not obey Your commandments. We ignored them.\r\n\tWe did not do what you gave us for our own good.\r\n",
+		"8": "All that You have brought upon us, and all You have done to us,\r\n\thas been a deserved judgment.\r\n",
+		"9": "You have given us over to our enemies, to hateful people who reject your commandments,\r\n\tand to an unjust king. The most wicked king the world has known.\r\n\r\n",
+		"10": "Now we cannot open our mouths. All of Your servants who worship You\r\n\tare living buried in their own shamed and disgrace.\r\n",
+		"11": "For Your name's sake, do not abandon us forever\r\n\tor break Your covenant with us.\r\n",
+		"12": "Do not withhold Your mercy from us,\r\n\tfor the sake of Abraham Your friend,\r\n\tIsaac Your servant, and Israel Your holy one.\r\n",
+		"13": "You promised them as many descendants as stars in the heavens\r\n\tor as grains of sand on the seashore.\r\n",
+		"14": "But now, Lord, we are fewer than any nation,\r\n\tand are the most humiliated in all the world because of our sins.\r\n",
+		"15": "We are left without a ruler, prophet, or leader.\r\n\tNo place for burnt offerings, or sacrifices.\r\n\tNo place for gifts or incense.\r\nThere is no place to make an offering before You,\r\n\tso we may find Your mercy.\r\n",
+		"16": "But welcome us with our broken hearts and humbled spirits.\r\n\tWe beg You to accept us as if every burnt offering were made.\r\nAs if thousands of burnt offerings were made,\r\n",
+		"17": "\taccept our repentance as a sacrifice in your presence today.\r\nMay we follow you without reservation.\r\n\tFor those who trust in you will never be put to shame.\r\n",
+		"18": " And now, with our whole hearts, we follow you,\r\n\twe fear you, and we seek your face.\r\n",
+		"19": "Do not leave us in shame! Deal patiently with us\r\n\tand in the abundance of your mercy.\r\n",
+		"20": "Rescue us through your marvelous works,\r\n\tand bring glory to your name, Lord!\r\n\r\n",
+		"21": "Bring shame and disgrace upon all who have harmed your servants,\r\n\ttake away their might and power,\r\n\tand destroy their strength.\r\n",
+		"22": "Show them you alone are the Lord God,\r\n\twho reigns in majesty over the whole world.\r\n\r\n"
+	},
+	"InlineTitles": {
+		"23": "Song of Daniel's Three Friends"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-26": ["Peer-Review"],
+				"2024-05-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-25 - Paul Prins: First translation of verses 1-22."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Urban Monastics, Paris"
+}

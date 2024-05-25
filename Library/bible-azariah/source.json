@@ -1,0 +1,18 @@
+{
+	"Abbreviation": "bible-azariah",
+	"Title": {
+		"default": "Αζαριας",
+		"UMB-EN": "The Prayer of Azariah",
+		"BMU-FR": "La Prière d'Azaria",
+		"eng": "Azariah",
+		"fra": "Azaria"
+	},
+	"Description": "This is a extra canonical text.",
+	"Type": "Book",
+	"Language": "grc-koi",
+	"Version": "grc-koi",
+	"Date": "1 - 2 Century BCE",
+	"Segments": "None",
+	"Verses": true,
+	"Notes": "There is not a known Hebrew or Aramaic text for Azariah. It exists in Daniel chapter 3 of the LXX. It was, much later, determined to be a later addition. It is used for canticles."
+}

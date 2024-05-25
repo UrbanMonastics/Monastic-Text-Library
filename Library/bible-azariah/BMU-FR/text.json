@@ -1,0 +1,54 @@
+{
+    "SourceAbbreviation": "bible-azariah",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LXX"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Ils se mirent à marcher au milieu des flammes, chantant des hymnes à Dieu et béni sois-tu le Seigneur. ",
+		"2": "Azaria (Abednego) s'arrêta dans le feu et pria à haute voix :\r\n\r\n",
+		"3": "Béni sois-tu, Seigneur, Dieu de nos ancêtres !\r\n\tTon nom est digne de louange et de gloire pour toujours !\r\n",
+		"4": "Car tu es juste dans tout ce que tu as fait.\r\n\tToutes tes oeuvres sont vraies, et tes voies sont droites,\r\n\tet tous tes jugements sont vrais.\r\n",
+		"5": "Tu es vraiment juste ! Tout ce que tu as fait tomber sur nous\r\n\tet sur Jérusalem, la ville sainte de nos ancêtres,\r\n\test un juste jugement à cause de nos péchés.\r\n",
+		"6": "Car nous avons péché et, par notre désobéissance, nous nous sommes détournés de to.\r\n\tEn toutes choses, nous avons failli.\r\n",
+		"7": "Nous n'avons pas obéi à tes commandements. Nous les avons ignorés.\r\n\tNous n'avons pas fait ce que tu nous as donné pour notre bien.\r\n",
+		"8": "Tout ce que tu as fait tomber sur nous et tout ce que tu nous as fait,\r\n\tc'est un jugement mérité.\r\n",
+		"9": "Tu nous as livrés au pouvoir de nos ennemis, de gens haineux qui rejettent tes commandements,\r\n\tet d'un roi injuste. Le roi le plus méchant que le monde ait connu.\r\n\r\n",
+		"10": "Maintenant, nous ne pouvons plus ouvrir la bouche. Tous tes serviteurs qui t'adorent\r\n\tvivent enfouis dans la honte et la disgrâce.\r\n",
+		"11": "À cause de ton nom, ne nous abandonne pas pour toujours\r\n\tet ne romps pas ton alliance avec nous.\r\n",
+		"12": "Ne nous refuse pas ta miséricorde,\r\n\tà cause d'Abraham, ton ami, d'Isaac, ton serviteur,\r\n\tet d'Israël, qui est ton saint.\r\n",
+		"13": "Tu leur avais promis des descendants aussi nombreux que les étoiles dans les cieux\r\n\tou les grains de sable sur le bord de la mer.\r\n",
+		"14": "Mais à présent, Seigneur, nous sommes la plus petite de tous les pays\r\n\tet la plus humiliée dans toute la terre à cause de nos péchés.\r\n",
+		"15": "Nous sommes, en ce temps, privés de chef, de prophète, de dirigeant.\r\n\tPas de place pour les holocaustes ou les sacrifices.\r\n\tPas de place pour les offrandes ou les encens.\r\nIl n'y a pas de place pour faire une offrande devant toi,\r\n\tafin que nous puissions trouver ta miséricorde.\r\n",
+		"16": "Pourtant, accueille-nous avec nos cœurs brisés et nos esprits humiliés.\r\n\tNous te supplions de nous accepter comme si chaque holocauste avait été offert.\r\nComme si des milliers d'holocaustes avaient été offerts,\r\n",
+		"17": "\taccepte notre repentir comme un sacrifice en ta présence aujourd'hui.\r\nPuissions-nous te suivre sans réserve,\r\n\tcar ceux qui se confient en toi ne seront jamais couverts de honte.",
+		"18": "Et maintenant, de tout nos cœurs, nous te suivons,\r\n\tnous te craignons et nous recherchons ta présence.\r\n",
+		"19": "Ne nous laisse pas dans la honte ! Traite-nous avec ta patience\r\n\tet dans l'abondance de ta miséricorde.\r\n",
+		"20": "Sauve-nous par tes merveilleuses œuvres,\r\n\tet rends gloire à ton nom, Seigneur!\r\n\r\n",
+		"21": "Apporte la honte et la disgrâce à tous ceux qui ont fait du mal à tes serviteurs,\r\n\tenlève leur puissance et leur pouvoir,\r\n\tet détruis leur force.\r\n",
+		"22": "Fais-leur voir que toi seul es le Seigneur Dieu,\r\n\tqui règne par ta majesté sur le monde entier.\r\n\r\n"
+	},
+	"InlineTitles": {
+		"23": "Cantique des Trois Amis de Daniel"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-26": ["Peer-Review"],
+				"2024-05-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-25 - Paul Prins: Premier traduction des versets 1-22."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
