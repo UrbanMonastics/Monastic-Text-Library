@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0026",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Description": "",
+	"Chapter": "26",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "In that day, this song shall be sung in the land of Judah:\r\nWe have a strong city.\r\n\tHe makes salvation its walls and ramparts.\r\n",
+		"2": "Open the gates so that the righteous nation may enter,\r\n\tthe one that keeps faithful.\r\n",
+		"3": "You will keep in perfect peace\r\n\tthose whose minds are steadfast\r\n\tbecause they trust in You.\r\n",
+		"4": "Trust in the LORD forever,\r\n\tfor in the LORD GOD we have an everlasting rock!"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-27": ["Peer-Review"],
+				"2024-05-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-26 - Paul Prins: Initial translation of verses 1-4."
+	],
+	"FootNotes": { },
+	"License": "© 2024 Urban Monastics, Paris"
+}
