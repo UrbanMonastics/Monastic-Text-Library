@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-tuesday-mediam-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "You are righteous, LORD, [*] and Your judgements are fair.",
+	"Extra": {
+		"Reference": ["Psalm 119:137"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

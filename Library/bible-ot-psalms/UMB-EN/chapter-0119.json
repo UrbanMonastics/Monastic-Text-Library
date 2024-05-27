@@ -1,0 +1,44 @@
+{
+	"TextAbbreviation": "chapter-0119",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "",
+	"Description": "",
+	"Chapter": "119",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"137": "You are righteous, LORD,\r\n\tand Your judgements are fair.\r\n",
+		"138": "You have given Your laws in righteousness\r\n\tand great faithfulness.\r\n",
+		"139": "I am consumed by my zeal\r\n\twhen my enemies forget Your words.\r\n",
+		"140": "Your word is perfectly pure,\r\n\tand Your servant loves it.\r\n\r\n",
+		"141": " Though I am lowly and despised,\r\n\tI do not forget Your precepts.\r\n",
+		"142": "Your righteousness is everlasting,\r\n\tand Your law is truth.\r\n",
+		"143": "Trouble and anguish have seized me,\r\n\tyet Your commandments are my delight.\r\n",
+		"144": "Your laws are forever righteous;\r\n\tgive me understanding that I may live.\r\n\r\n"
+	},
+	"InlineTitles": {
+		"137": "Tsadhe • 18"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: First translation of psalm 119:137-144 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

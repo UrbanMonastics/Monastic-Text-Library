@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0119",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "",
+	"Description": "",
+	"Chapter": "119",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"137": "Tu es juste, SEIGNEUR, [*]\r\n\tet tes décisions sont équitables.\r\n",
+		"138": "Tu as donné tes lois en toute justice [*]\r\n\tet avec une grande fidélité.\r\n",
+		"139": "Je suis consumé par mon zèle, [*]\r\n\tquand mes ennemis oublient tes paroles.\r\n",
+		"140": "Ta parole est parfaitement pure, [*]\r\n\tet ton serviteur l'aime.\r\n\r\n",
+		"141": "Je suis insignifiant et méprisé, [*]\r\n\tmais je n'oublie pas tes préceptes.\r\n",
+		"142": "Ta justice est éternelle, [*]\r\n\tet ta loi est la vérité.\r\n",
+		"143": "La détresse et l'angoisse m'ont saisi, [*]\r\n\tpourtant tes commandements font mon plaisir.\r\n",
+		"144": "Tes lois sont éternellement justes ; [*]\r\n\tdonne-moi la compréhension, afin que je vive.\r\n\r\n"
+	},
+	"InlineTitles": {
+		"137": "Tsadi • 18"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Première traduction du psaume 119:137-144 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

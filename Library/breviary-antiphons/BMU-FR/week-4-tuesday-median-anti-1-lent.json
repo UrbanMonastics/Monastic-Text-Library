@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-tuesday-median-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Par ma vie, [*] dit le Seigneur, je ne prends pas plaisir à la mort des pécheurs. Je veux qu'ils changent de conduite et vivent.",
+	"Extra": {
+		"Reference": ["Ezekiel 33:11"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

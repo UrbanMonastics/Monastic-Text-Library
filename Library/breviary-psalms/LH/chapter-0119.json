@@ -1,0 +1,40 @@
+{
+	"TextAbbreviation": "chapter-0119",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "",
+	"Description": "",
+	"Chapter": "119",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"137": "Iustus es, Dómine, [*]\r\n\tet rectum iudíctium tuum.\r\n",
+		"138": "Mandásti in iustítia testimónia tua [*]\r\n\tet in veritáte nimis.\r\n",
+		"139": "Consúmpsit me zelus meus, [*]\r\n\tquia oblíti sunt verba tua inimíci mei.\r\n",
+		"140": "Ignítum elóquium tuum veheménter, [*]\r\n\tet servus tuus diléxit illud.\r\n\r\n",
+		"141": "Adulescéntulus sum ego et contémptus ; [*]\r\n\tmandáta tua non sum oblítus.\r\n",
+		"142": "Iustítia tua iustítia in ætérnum, [*]\r\n\tet lex tua véritas.\r\n",
+		"143": "Tribulátio et angústia invernérunt me ; [*]\r\n\tpræcépta tua delectátio mea est.\r\n",
+		"144": "Iustíta testimónia tua in ætérnum ; [*]\r\n\tintelléctum da mihi et vivam.\r\n\r\n"
+
+	},
+	"InlineTitles": {
+		"137": "Sade • 18"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Added verses 137-144"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
