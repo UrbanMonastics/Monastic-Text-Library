@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-thursday-vespers-anti-2-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Reward those, Lord,[*] who wait for you, so that your prophets may be found trustworthy.",
+	"Extra": {
+		"Reference": ["Sirach 36:15-16"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

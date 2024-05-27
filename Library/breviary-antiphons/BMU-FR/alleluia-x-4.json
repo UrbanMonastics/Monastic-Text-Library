@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "alleluia-x-4",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Alléluia, Alléluia, Alléluia, Alléluia.",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-27": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

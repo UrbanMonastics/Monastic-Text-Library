@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-4-tuesday-lauds-anti-3-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ut cognoscámus, Dómine, [*] in terra viam tuam in ómnibus géntibus salutáre tuum.",
+	"Extra": {
+		"Reference": ["Psalm 67:2"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

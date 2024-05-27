@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-thursday-vespers-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Reach down [*] Your hand from on high, and rescue me, Lord.",
+	"Extra": {
+		"Reference": ["Psalm 144:7"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

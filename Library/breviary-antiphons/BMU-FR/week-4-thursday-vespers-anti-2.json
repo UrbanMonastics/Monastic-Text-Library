@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-thursday-vespers-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Heureux le peuple [*] dont Dieu est le SEIGNEUR !",
+	"Extra": {
+		"Reference": ["Psalm 144:15"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
