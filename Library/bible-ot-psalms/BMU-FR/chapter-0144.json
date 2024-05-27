@@ -1,0 +1,47 @@
+{
+	"TextAbbreviation": "chapter-0144",
+	"SourceAbbreviation": "bible-ot-psalms",
+	"Title": "Pour la Victoire et la Paix",
+	"Description": "Psaume de David",
+	"Chapter": "144",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Béni soit le SEIGNEUR, mon rocher,\r\n\tqui exerce mes mains pour le combat\r\n\tet mes doigts pour la bataille.\r\n",
+		"2": "Il est mon allié, ma forteresse,\r\n\tmon refuge et mon libérateur.\r\nIl est mon bouclier, en qui je me réfugie,\r\n\tIl me donne le pouvoir sur mon peuple.\r\n\r\n",
+		"3": "SEIGNEUR, que sont les personnes pour que tu t'occupes d'elles,\r\n\tou les simples mortels pour que tu penses à eux ?\r\n",
+		"4": "Leur vie est comme un souffle,\r\n\tses jours sont comme une ombre qui passe.\r\n\r\n",
+		"5": "SEIGNEUR, incline les cieux et descends,\r\n\ttouche les montagnes et qu'elles brûlent !\r\n",
+		"6": "Fais briller tes éclairs et disperse-les ;\r\n\ttire tes flèches et confonds-les.\r\n",
+		"7": "Descends ta main d'en haut,\r\n\tsauve-moi et délivre-moi des grandes eaux,\r\nde la main de l'étranger,\r\n",
+		"8": "\tdont la bouche profère des mensonges\r\n\tet parjure le serment de leur main droite.\r\n\r\n",
+		"9": "Mon Dieu, je te chanterai un cantique nouveau,\r\n\tsur une harpe à dix cordes, je te célébrerai.\r\n",
+		"10": "Toi qui donnes la victoire aux rois,\r\n\tqui sauves son serviteur David de l'épée meurtrière.\r\n",
+		"11": "Délivre-moi de l'épée meurtrière, sauve-moi\r\n\tde la main de l'étranger,\r\ndont la bouche profère des mensonges\r\n\tet parjure le serment de leur main droite.\r\n\r\n",
+		"12": "Que nos fils s'épanouissent dans leur jeunesse\r\n\tcomme des plantes adultes.\r\nQue nos filles soient comme de fortes colonnes\r\n\tsculptées pour les angles d'un palais.\r\n",
+		"13": "Que nos greniers soient remplis\r\n\tde toutes sortes de produits.\r\nQue nos troupeaux se multiplient par milliers,\r\n\tpar dizaines de milliers, empliront nos campagnes,\r\n",
+		"14": "\tet que notre bétail soit fécond.\r\nQu'il n'y ait pas de brèche dans nos murs et pas d'exil.\r\n\tQu'il n'y ait pas de cris de détresse dans nos rues.\r\n",
+		"15": "Heureux le peuple qui est ainsi favorisé !\r\n\tHeureux le peuple dont Dieu est le SEIGNEUR !"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Première traduction du psaume 144 basée sur le grec, le latin et un peu d'hébreu."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

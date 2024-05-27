@@ -1,0 +1,48 @@
+{
+	"TextAbbreviation": "chapter-0144",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "For Victory and Peace",
+	"Description": "A Psalm of David",
+	"Chapter": "144",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Blessed be the LORD, my rock, [t]\r\n\twho trains my hands for combat, [*]\r\n\tand my fingers for battle.\r\n",
+		"2": "He is my ally, and my fortress, [*]\r\n\tmy stronghold, and my deliverer.\r\nHe is my shield, in whom I take refuge, [*]\r\n\twho gives me power over my people.\r\n\r\n",
+		"3": "LORD, what are people that You care for them, [*]\r\n\tor mere mortals that You think of them?\r\n",
+		"4": "Their life is like a breath, [*]\r\n\ttheir days are like a passing shadow.\r\n\r\n",
+		"5": "LORD, bend down the heavens and come down; [*]\r\n\ttouch the mountains so that they smoke.\r\n",
+		"6": "Flash your lightening and scatter them, [*]\r\n\tshoot your arrows and confuse them.\r\n",
+		"7": " Reach down your hand from on high, [*]\r\n\trescue and deliver me from great waters,\r\nfrom the hand of foreigners, [t]\r\n",
+		"8": "\twhose mouths speak lies, [*]\r\n\tand perjures the oath of their right hand.\r\n\r\n",
+		"9": "My God, a new song I will sing to you, [*]\r\n\ton a ten-string harp, I will sing praises to you.\r\n",
+		"10": "You, who gives victory to kings, [*]\r\n\twho rescues his servant David.\r\n",
+		"11": "Rescue me from the evil sword and set me free [*]\r\n\tfrom the hand of foreigners,\r\nwhose mouths speak lies, [*]\r\n\tand perjures the oath of their right hand.\r\n\r\n",
+		"12": "May our sons flourish in their youth [*]\r\n\tlike full-grown plants.\r\nMay our daughters be like strong pillars [*]\r\n\tsculpted for the corners of a palace.\r\n",
+		"13": "May our granaries be filled [*]\r\n\twith every kind of produce.\r\nMay our flocks increase by thousands, [t]\r\n\tby tens of thousands, filling our countryside, [*]\r\n",
+		"14": "\tand our cattle be fertile.\r\nMay there be no breach in our walls and no exile. [*]\r\n\tMay there be no cry of distress in our streets.\r\n",
+		"15": "Blessed are the people who are so favored! [*]\r\n\tBlessed are the people whose God is the LORD!"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: First translation of psalm 144 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

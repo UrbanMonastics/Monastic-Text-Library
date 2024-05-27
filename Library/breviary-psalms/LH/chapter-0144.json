@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0144",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Pro Victória et Pace",
+	"Description": "David.",
+	"Chapter": "144",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Benedíctus Dóminus, adiútor meus, [t]\r\n\tqui docet manus meas ad prœ́lium [*]\r\n\tet dígitos meos ad bellum.\r\n",
+		"2": "Misericórdia mea et fortitúdo mea, [*]\r\n\trefúgium meum et liberátor meus;\r\n\tsuctum meum, et in ipso sperávi, [*]\r\n\tqui subdit pópulum meum sub me.\r\n\r\n",
+		"3": "Dómine, quid est homo, quod agnóscis eum, [*]\r\n\taut fílius hóminis, quod réputas eum?\r\n",
+		"4": "Homo vanitáti símilis factus est, [*]\r\n\tdies eius sicut umbra prætériens.\r\n\r\n",
+		"5": "Dómine, inclína cælos tuos et descénde; [*]\r\n\ttange montes, et fumigábunt.\r\n",
+		"6": "Fúlgura coruscatiónem et díssipa eos; [*]\r\n\temítte sagíttas tuas et contúrba eos.\r\n",
+		"7": "Emítte manum tuam de alto; [*]\r\n\téripe me et líbera me de aquis multis,\r\nde manu filiórum alienigenárum, [t]\r\n",
+		"8": "\tquorum os locútum est vanitátem, [*]\r\n\tet déxtera eórum déxtera mendácii.\r\n\r\n",
+		"9": "Deus, cánticum novum cantábo tibi, [*]\r\n\tin psaltério decachórdo psallam tibi,\r\n",
+		"10": "qui das salútem régibus, [*]\r\n\tqui rédimis David servum tuum de gládio malígno.\r\n",
+		"11": "Éripe me et líbera me [*]\r\n\tde manu filiórum alienigenárum,\r\nquorum os locútum est vanitátem, [*]\r\n\tet déxtera eórum déxtera mendácii.\r\n\r\n",
+		"12": "Fílii nostri sicut novéllæ crescéntes [*]\r\n\tin iuventúte sua;\r\nfíliæ nostræ sicut colúmnæ anguláres, [*]\r\n\tsculptæ ut structúra templi.\r\n",
+		"13": "Promptuária nostra plena, [*]\r\n\tredundántia ómnibus bonis;\r\noves nostræ in mílibus [t]\r\n\tinnumerábiles in campis nostris, [*]\r\n",
+		"14": "\tboves nostræ crassæ.\r\nNon est ruína macériæ neque egréssus, [*]\r\n\tneque clamor in platéis nostris.\r\n",
+		"15": "Beátus pópulus cui hæc sunt; [*]\r\n\tbeátus pópulus cuius Dóminus Deus euis."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-27 - Paul Prins: Added this text"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
