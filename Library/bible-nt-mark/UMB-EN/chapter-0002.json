@@ -1,0 +1,45 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "The disciples of John and the Pharisees were fasting. Some people came and asked Jesus, \"Why do the disciples of John and of the Pharisees fast, but Your disciples do not fast?\"\r\n",
+		"19": "And Jesus said to them, \"Can the guests of the groom fast while the groom is with them? No. They cannot fast as long as the groom is there with them. ",
+		"20": " But the time will come when the groom is taken away from them. They will fast on that day.\"\r\n",
+		"21": "\"No one sews a patch of new cloth they did not preshrink onto an old garment. If they do, the new patch will shrink and pull on the old fabric. This will make the tear even worse. ",
+		"22": "Likewise, no one pours new wine into old wineskins. If they did, the wine would burst the skins and ruin both the wine and the skins. Instead, one pours new wine into fresh wineskins.\"\r\n",
+		"23": "One Sabbath, Jesus and His disciples were passing through the grain fields. As His disciples began to make their way through the fields, they picked some heads of grain. ",
+		"24": "The Pharisees said to Him, \"Look! Why are they doing what is unlawful on the Sabbath?\"\r\n",
+		"25": "And Jesus said to them, \"Have you never read what David did when he was and his companions were in need and hungry? ",
+		"26": "In the days of the high priest Abiathar, he entered the house of God and ate the consecrated bread of the Presence. This bread is only lawful for priests to eat. And David also gave some to his companions.\"\r\n",
+		"27": "Then He said to them, \"The Sabbath was made for man, not man for the Sabbath. ",
+		"28": "So, the Son of Man is Lord, even over the Sabbath.\""
+	},
+	"InlineTitles": {
+		"18": "Jesus Speaks on Fasting",
+		"23": "Lord of the Sabbath"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: First translation of verses 18-28."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

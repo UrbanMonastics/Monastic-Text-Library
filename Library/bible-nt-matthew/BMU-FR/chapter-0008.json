@@ -1,0 +1,47 @@
+{
+	"TextAbbreviation": "chapter-0008",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "8",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Lorsque Jésus est descendu de la montagne, de grandes foules l'ont suivi. ",
+		"2": "Un lépreux s'approcha de lui et se prosterna devant lui. Il lui dit : « Seigneur, si tu le veux, tu peux me rendre pur. »\r\n",
+		"3": "Jésus tendit la main et toucha l'homme en disant : « Je le veux. Sois pur ! »  Et aussitôt, il fut purifié de sa lèpre. ",
+		"4": "Puis Jésus lui dit : « Garde-toi d'en parler à personne. Mais va te montrer au prêtre. Présente-leur l'offrande que Moïse a prescrite, afin que tu leur serves de témoignage. »\r\n\r\n",
+		"5": "Quand Jésus entrait dans Capharnaüm, un centurion s'approchait de lui pour lui demander de l'aide. ",
+		"6": " Il lui dit : « Seigneur, mon serviteur est couché paralysé à la maison et souffre terriblement. »\r\n",
+		"7": "Jésus lui dit : « J'irai et je le guérirai. »\r\n",
+		"8": "Le centurion répondit : « Seigneur, je ne suis pas digne que tu entres sous mon toit. Dis seulement une mot, et mon serviteur sera guéri. ",
+		"9": "Car moi aussi, je suis un homme soumis à une autorité, et j'ai des soldats sous mes ordres.   Je dis à l'un : 'Pars!', et il part. À l'autre : 'Viens!' et ils viennent. Je dis à mon serviteur : 'Fais ceci!' et c'est fait. »\r\n",
+		"10": "Lorsque Jésus entendit cela, il fut étonné. Il dit à ceux qui le suivaient : « Je vous le dis en vérité, je n'ai trouvé une aussi grande foi dans personne en Israël. ",
+		"11": "Or, je vous le déclare, beaucoup viendront de l'est et de l'ouest. Ils s'assiéront à la table du festin avec Abraham, Isaac et Jacob dans le royaume des cieux. ",
+		"12": "Mais ceux pour qui le royaume a été préparé seront jetés dans les ténèbres extérieures. Là, il y aura des pleurs et des grincements de dents. »\r\n",
+		"13": "Puis Jésus dit au centurion : « Va, cela se fera juste comme tu l'as cru. » Et son serviteur fut guéri à l'instant même.\r\n"
+	},
+	"InlineTitles": {
+		"1": "Guérison d'un Lépreux",
+		"5": "La Foi du Centurion"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: Premier traduction du versets 1-13."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

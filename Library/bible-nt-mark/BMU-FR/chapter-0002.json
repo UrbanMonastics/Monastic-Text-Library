@@ -1,0 +1,45 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-mark",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "Les disciples de Jean et les pharisiens jeûnaient. Des gens vinrent dire à Jésus : « Pourquoi les disciples de Jean et ceux des pharisiens jeûnent-ils, et que tes disciples ne jeûnent pas ? »\r\n",
+		"19": "Jésus leur dit : « Les invités du marié peuvent-ils jeûner pendant que le marié est avec eux ? Non. Ils ne peuvent pas jeûner tant que le marié est là avec eux. ",
+		"20": "Mais le temps viendra où le marié leur sera enlevé. Ils jeûneront ce jour-là. »\r\n",
+		"21": "« Personne ne coud un morceau de tissu neuf qu'il n'a pas pré-rétréci sur un vieux vêtement. Si c'est le cas, le nouveau morceau rétrécira et tirera sur le vieux tissu. La déchirure n'en sera que plus grave. ",
+		"22": "De même, personne ne verse du vin nouveau dans de vieilles outres. Si on le faisait, le vin ferait éclater les outres et ruinerait à la fois le vin et les outres. Non, on verse du vin nouveau dans des outres neuves. »\r\n",
+		"23": "Un jour de sabbat, Jésus et ses disciples traversaient des champs de blé. Ses disciples commencent à se frayer un chemin à travers les champs, arrachant quelques têtes de grain. ",
+		"24": "Les pharisiens lui dirent : « Regarde ! Pourquoi font-ils ce qui n'est pas permis pendant le sabbat ? »\r\n",
+		"25": "Jésus leur répondit : « N'avez-vous jamais lu ce que David a fait lorsque lui et ses compagnons étaient dans le besoin et avaient faim ? ",
+		"26": "Au temps du grand prêtre Abiathar, il entra dans la maison de Dieu et mangea le pain consacré de la Présence. Ce pain n'est permis qu'aux prêtres. David en donna aussi à ses compagnons. »\r\n",
+		"27": "Puis il leur dit : « Le sabbat a été fait pour l'homme, et non l'homme pour le sabbat. ",
+		"28": "Ainsi, le Fils de l'homme est le Seigneur, même du sabbat. »"
+	},
+	"InlineTitles": {
+		"18": "Jésus Parle du Jeûne",
+		"23": "Seigneur du Sabbat"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: Première traduction des versets 18-28."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

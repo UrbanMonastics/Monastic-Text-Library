@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0007",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "7",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"24": "\"Therefore, everyone who hears these words of Mine and puts them into practice will be like a wise person. They are like the wise person who built their house upon the rock. ",
+		"25": "The rain came down, the floods came, and the winds howled and slammed against that house. Yet, it did not collapse because its foundation was on the rock. ",
+		"26": "But everyone who hears these words of Mine and does not put them into practice is like a fool. They are like a fool who built their house on sand. ",
+		"27": "The rain came down, the floods came, and the winds howled and slammed against that house, and it fell. It collapsed with a great crash.\"\r\n",
+		"28": "When Jesus had finished saying these things, the crowds were amazed at his teaching. ",
+		"29": "He taught as one who had authority, and not as their scribes."
+	},
+	"InlineTitles": {
+		"24": "Wise and Foolish Builders"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: First translation of verses 24-29."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0007",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "7",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"24": "« C'est pourquoi quiconque entend mes paroles et les met en pratique sera comme un sage. Il est comme le sage qui a bâti sa maison sur le roc. ",
+		"25": "La pluie est tombée, les inondations sont arrivées, les vents ont hurlé et se sont déchaînés contre cette maison. Pourtant, elle ne s'est pas effondrée parce qu'elle était fondée sur le roc. ",
+		"26": "Mais toute personne qui entend mes paroles et qui ne les met pas en pratique est comme un fou. Il est comme un fou qui a bâti sa maison sur le sable. ",
+		"27": "La pluie est tombée, les inondations sont arrivées, les vents ont hurlé et se sont déchaînés contre cette maison, et elle est tombée. Elle s'est effondrée avec un grand fracas. »",
+		"28": "Quand Jésus eut fini de dire ces choses, les foules furent frappées par son enseignement. ",
+		"29": "Il enseignait comme ayant autorité, et non comme leurs scribes."
+	},
+	"InlineTitles": {
+		"24": "Les Bâtisseurs Sages et Fous"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: Premier traduction du versets 24-29."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

@@ -1,0 +1,47 @@
+{
+	"TextAbbreviation": "chapter-0007",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "7",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "When Jesus came down from the mountain, large crowds followed Him. ",
+		"2": "A man with leprosy came to Him and bowed down before Him. He said, \"Lord, if You are willing, You can make me clean.\"\r\n",
+		"3": "Jesus reached out His hand and touched the man, saying, \"I am willing. Be clean!\" And immediately he was cleaned of leprosy. ",
+		"4": "Then Jesus said to him, \"See that you don't tell anyone. But go and show yourself to the priest. Present to them the offering Moses commanded, so that you may serve as a testimony to them.\"\r\n\r\n",
+		"5": "When Jesus had entered Capernaum, a centurion came to Him begging for help. ",
+		"6": "\"Lord,\" he said, \"my servant is lying paralyzed at home and is suffering terribly.\"\r\n",
+		"7": "Jesus said to him, \"I will come and heal him.\"\r\n",
+		"8": "The centurion replied, \"Lord, I am not worthy for You to come under my roof. Just say the word, and my servant will be healed. ",
+		"9": "For I am also one under authority, with soldiers under me. I tell this one, 'Go!' and they go. That one, 'Come!' and they come. I say to my servant, 'Do this!' and it is done.\"\r\n",
+		"10": "Now when Jesus heard this, He was amazed. He said to those who were following, \"Truly I tell you, I have not found such great faith with anyone in Israel. ",
+		"11": "And I say to you that many will come from the east and the west. They will recline at the banquet table with Abraham, Isaac, and Jacob in the kingdom of heaven. ",
+		"12": "But those, for who the kingdom was prepared, will be thrown out into the outer darkness. In that place, there will be weeping and gnashing of teeth.\"\r\n",
+		"13": "Then Jesus said to the centurion, \"Go! It shall be done just as you believed it would.\" And his servant was healed that very moment.\r\n"
+	},
+	"InlineTitles": {
+		"1": "Healing One with Leprosy",
+		"5": "Faith of the Centurion"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: First translation of verses 1-13."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
