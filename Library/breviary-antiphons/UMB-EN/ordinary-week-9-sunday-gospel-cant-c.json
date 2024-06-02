@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-9-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord, [*] I am not worthy for You to come under my roof. Just say the word, and my servant will be healed.",
+	"Extra": {
+		"Reference": ["Matthew 8:8"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

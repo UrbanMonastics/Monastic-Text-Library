@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-9-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le sabbat [*] a été fait pour les personnes, et non les personnes pour le sabbat.",
+	"Extra": {
+		"Reference": ["Mark 2:27"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

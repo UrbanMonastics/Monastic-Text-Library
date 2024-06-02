@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "ordinary-week-9-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Sabbath [*] was made for people, and not people for the Sabbath.",
+	"Extra": {
+		"Reference": ["Mark 2:27"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

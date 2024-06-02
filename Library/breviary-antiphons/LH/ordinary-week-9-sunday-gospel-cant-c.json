@@ -1,16 +1,16 @@
 {
-	"TextAbbreviation": "ordinary-week-5-sunday-gospel-cant-b",
+	"TextAbbreviation": "ordinary-week-9-sunday-gospel-cant-c",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Omnes [*] qui habébant infírmos ducébant illos ad Iesum, et sanabántur.",
+	"Text": "Domine, [*] non sum dignus, ut intres sub tectum meum, sed tantum dic verbo, et sanábitur puer meus.",
 	"Extra": {
-		"Reference": [],
+		"Reference": ["Matthew 8:8"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-01-30": ["Peer-Review"],
-				"2022-01-29": [
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -19,7 +19,7 @@
 		}
 	},
 	"Changes": [
-		"2022-01-29 - Paul Prins: Added this Antiphone."
+		"2024-06-02 - Paul Prins: Added this Antiphone."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

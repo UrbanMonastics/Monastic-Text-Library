@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-9-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord, we appeal to you and your unfailing providence, [t] that fulfills its purpose. [*] Drive away all that causes harm, and grant that all things may bless us through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-02 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
