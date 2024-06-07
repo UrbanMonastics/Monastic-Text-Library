@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "petitions-week-4-tuesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Glorify and pray with sincere hearts to Christ, who gives His firmness and strength to His people:\r\n[IR] Lord hear us and we will praise You forever.\r\n[I1] Christ, our strength, You have called Your faithful to Your truth,\r\n[I2] in Your mercy, give us faith and perseverance.\r\n[I1] Lord, with Your heart of peace, direct those with power to govern\r\n[I2] inspiring in them courage and wisdom to lead us into peace.\r\n[I1] With the little You had, You satisfied the crowds by multiplying the bread,\r\n[I2] so teach us to use our riches to help the hungry and needy.\r\n[I1] Move those wielding power to not only care for their own people and lands,\r\n[I2] but to respect everyone, care for all people, and protect our shared planet.\r\n[I1] Grant our siblings in Christ who have fallen asleep the resurrection and blessings\r\n[I2] when You come to be glorified in all things.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": [
+					"Verified",
+					"Guidelines"
+				],
+				"2023-10-17": ["Peer-Review"],
+				"2023-10-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-06": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-07 - Paul Prins: Change Abbreviation",
+		"2024-06-06 - Paul Prins: Fix divine pronoun casing.",
+		"2023-10-16 - Paul Prins: Initial translation of these intentions"
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

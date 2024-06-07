@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "petitions-feast-transfiguration-lord-vespers",
+	"TextAbbreviation": "petitions-feast-transfiguration-lord",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-06-07 - Paul Prins: Change Abbreviation",
 		"2023-08-06 - Paul Prins: Initial translation of these intentions."
 	],
 	"License": "© 2023 Urban Monastics, Paris"
