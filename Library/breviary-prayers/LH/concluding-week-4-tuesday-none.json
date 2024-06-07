@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "concluding-week-4-monday-none",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, qui Cornélio centurióni ángelum tuum misísti, ut viam ei salútis osténderet, [t] da nobis, quæumus, in salvatiónem ómnium libéntius operári, [*] ut una cum eis, in Ecclésia tua, ad te perveníre possímus. Per Christum Dóminum nostrum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-06-07": ["Peer-Review"],
+				"2023-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-06-06 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
