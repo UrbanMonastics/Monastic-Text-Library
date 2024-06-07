@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "invocations-week-4-tuesday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Dieu, tu fortifies notre espérance et tu nous donnes la joie chaque matin que nous te louons. C'est pourquoi nous prions avec confiance :\r\n[IR] Pour la gloire de ton Nom, écoute-nous, Seigneur.\r\n[I1] Nous te rendons grâce, Dieu et Père de notre Sauveur Jésus,\r\n[I2] par lui, tu nous as donné la connaissance et le salut éternel.\r\n[I1] Accorde-nous des cœurs humbles,\r\n[I2] afin que nous nous dévouions les uns aux autres dans l'imitation joyeuse du Christ.\r\n[I1] Infuse-nous avec ton Esprit Saint,\r\n[I2] afin que l'amour de tes serviteurs soit sans prétention ni hypocrisie.\r\n[I1] Tu nous as confié le soin de la création par notre travail :\r\n[I2] que le nôtre te glorifie et contribue à sanctifier tes enfants.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
