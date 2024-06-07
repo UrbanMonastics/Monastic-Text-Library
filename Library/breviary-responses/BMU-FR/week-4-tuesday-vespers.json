@@ -7,11 +7,16 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Tu me combleras de joie devant ta face, Seigneur.\r\n[R] Tu me combleras de joie [*] devant ta face, Seigneur.\r\n[V] Avec des délices éternels à ta droite.",
+	"Text": "[V] Quand je serai devant ta face, Seigneur, Tu me combleras de joie !\r\n[R] Quand je serai devant ta face, Seigneur, [*] Tu me combleras de joie !\r\n[V] Avec la paix et les plaisirs sans fin à ta droite,",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				],
 				"2023-10-17": ["Peer-Review"],
 				"2023-10-16": [
 					"Second-Pass",
@@ -22,6 +27,7 @@
 		}
 	},
 	"Changes": [
+		"2024-06-05 - Paul Prins : Révision de la traduction pour une meilleure fluidité",
 		"2023-10-16 - Paul Prins: Preimère traduction."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"

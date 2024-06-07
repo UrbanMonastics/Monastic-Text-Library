@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "week-4-tuesday-sext",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Ta parole, Seigneur, est une lampe à mes pieds.\r\n[R] Et une lumière sur mon sentier.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "week-4-tuesday-terce",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Une bonne personne a pitié et donne du réconfort.\r\n[R] On aime en actions et en vérité.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

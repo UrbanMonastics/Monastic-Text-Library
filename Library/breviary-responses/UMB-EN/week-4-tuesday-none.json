@@ -1,0 +1,35 @@
+{
+	"TextAbbreviation": "week-4-tuesday-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] The Lord sends His word into the earth.\r\n[R] Quickly, His word fulfills its purpose.",
+	"Extra": {
+		"Reference": ["Psalm 119:105"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-06": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: First translation."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "week-4-tuesday-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Le Seigneur envoie sa parole sur la terre.\r\n[R] Rapidement, sa parole remplit son objectif.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
