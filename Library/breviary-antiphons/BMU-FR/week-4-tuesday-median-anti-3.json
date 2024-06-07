@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-4-tuesday-lauds-anti-2-advent",
+	"TextAbbreviation": "week-4-tuesday-median-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,14 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous avons [*] une ville forte en Sion. Le Seigneur fait du salut ses murs et ses remparts. Ouvrez les portes, car Dieu est avec nous, Alléluia !",
+	"Text": "Tu as [*] éloigné de moi tous ceux que je connaissais. Je suis trahi et je n'ai pas d'issue.",
 	"Extra": {
-		"Reference": ["Isaiah 26:1-4"],
+		"Reference": ["Psalm 88:9"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-05-27": ["Peer-Review"],
-				"2024-05-26": [
+				"2024-06-07": ["Peer-Review"],
+				"2024-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -23,7 +23,7 @@
 		}
 	},
 	"Changes": [
-		"2024-05-26 - Paul Prins: Traduit cette Antiphone."
+		"2024-06-06 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"
 }

@@ -7,12 +7,16 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "You are righteous, LORD, [*] and Your judgements are fair.",
+	"Text": "You are righteous, LORD, [*] and Your judgments are fair.",
 	"Extra": {
 		"Reference": ["Psalm 119:137"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-06-06": [
+					"Verified",
+					"Guidelines"
+				],
 				"2024-05-28": ["Peer-Review"],
 				"2024-05-27": [
 					"Second-Pass",

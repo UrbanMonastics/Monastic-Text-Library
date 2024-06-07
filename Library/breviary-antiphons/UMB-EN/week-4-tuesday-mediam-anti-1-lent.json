@@ -7,19 +7,25 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "As I live, [*] says the Lord, I take no pleasure in the death of the wicket. I want them to turn from their way and live.",
+	"Text": "As I live, [*] says the Lord, I take no pleasure in the death of the wicked. I want them to turn from their way and live.",
 	"Extra": {
 		"Reference": ["Ezekiel 33:11"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-06-06": [
+					"Verified",
+					"Guidelines"
+				],
 				"2024-05-28": ["Peer-Review"],
 				"2024-05-27": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [

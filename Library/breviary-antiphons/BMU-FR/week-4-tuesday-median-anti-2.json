@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-4-tuesday-lauds-anti-2-eastertide",
+	"TextAbbreviation": "week-4-tuesday-median-anti-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,9 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Jérusalem, [*] tu brilleras d'une lumière éclatante devant le Seigneur Dieu, alléluia.",
+	"Text": "Que ma [*] prière parvienne jusqu'à Toi, Seigneur.",
 	"Extra": {
-		"Reference": [],
+		"Reference": ["Psalm 88:3"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

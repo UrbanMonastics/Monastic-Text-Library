@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-4-tuesday-lauds-anti-2-eastertide",
+	"TextAbbreviation": "week-4-tuesday-lauds-gospel-cant",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,18 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Jerusalem, [*] you will shine with splendid light before the Lord God, alleluia.",
+	"Text": "From the hands [*] of all who hate us, deliver us, Lord.",
 	"Extra": {
-		"Reference": [],
+		"Reference": ["Luke 1:71"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
 				"2024-06-06": [
 					"Verified",
-					"Guidelines"
+					"Guidelines",
+					"Peer-Review"
 				],
-				"2024-05-27": ["Peer-Review"],
-				"2024-05-26": [
+				"2024-06-05": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -29,7 +29,7 @@
 		}
 	},
 	"Changes": [
-		"2024-05-26 - Paul Prins: First translation of this Antiphon."
+		"2024-06-05 - Paul Prins: First translation of this Antiphon."
 	],
 	"License": "© 2024 Urban Monastics, Paris"
 }

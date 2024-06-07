@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-4-tuesday-vespers-anti-2-advent",
+	"TextAbbreviation": "week-4-tuesday-anti-2-advent",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -9,16 +9,23 @@
 	},
 	"Text": "The city [*] of our strength is Zion. The Savior has built a wall and fortifications. Open the gates, for God is with us! Alleluia!",
 	"Extra": {
+		"Reference": ["Isaiah 26:1-4"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-06-07": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-10-16": ["Peer-Review"],
 				"2023-10-15": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [

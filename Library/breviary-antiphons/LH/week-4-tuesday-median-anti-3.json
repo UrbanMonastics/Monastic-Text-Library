@@ -1,15 +1,16 @@
 {
-	"TextAbbreviation": "week-4-tuesday-vespers-anti-2-advent",
+	"TextAbbreviation": "week-4-tuesday-median-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Urbs [*] fortitúdinis nostræ Sion, Salvátor ponétur in ea murus et antemurále. Aperíte portas, quia nobíscum Deus, allelúia.",
+	"Text": "Longe fecísti [*] notos meos a me; tráditus sum, et non egrediébar.",
 	"Extra": {
+		"Reference": ["Psalm 88:9"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2023-10-16": ["Peer-Review"],
-				"2023-10-15": [
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -18,7 +19,7 @@
 		}
 	},
 	"Changes": [
-		"2023-10-15 - Paul Prins: Added this Antiphon."
+		"2024-06-06 - Paul Prins: Added this Antiphon."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

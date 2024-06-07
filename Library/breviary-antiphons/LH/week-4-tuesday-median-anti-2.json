@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-4-tuesday-median-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Intret [*] orátio mea in conspéctu tuo, Dómine.",
+	"Extra": {
+		"Reference": ["Psalm 88:3"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-28": ["Peer-Review"],
+				"2024-05-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

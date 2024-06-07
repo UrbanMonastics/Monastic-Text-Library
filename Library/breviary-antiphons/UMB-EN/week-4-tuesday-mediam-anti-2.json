@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "week-4-tuesday-lauds-anti-3",
+	"TextAbbreviation": "week-4-tuesday-mediam-anti-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,29 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Blessed be [*] the Lord, my God.",
+	"Text": "Let my [*] prayer come before You, Lord.",
 	"Extra": {
-		"Reference": [],
+		"Reference": ["Psalm 88:3"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-06-06": [
+				"2024-06-07": [
 					"Verified",
-					"Guidelines"
+					"Guidelines",
+					"Peer-Review"
 				],
-				"2024-05-28": ["Peer-Review"],
-				"2024-05-27": [
+				"2024-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {
-				"2024-06-06": "Jordan Prins"
-			}
+			"Reviewers": {}
 		}
 	},
 	"Changes": [
-		"2024-05-27 - Paul Prins: First translation of this Antiphon."
+		"2024-06-06 - Paul Prins: First translation of this Antiphon."
 	],
 	"License": "© 2024 Urban Monastics, Paris"
 }
