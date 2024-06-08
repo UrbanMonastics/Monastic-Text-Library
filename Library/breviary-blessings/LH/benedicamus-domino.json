@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "benedicamus-domino",
+	"SourceAbbreviation": "breviary-blessings",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Benedicámus Dómino.\r\n\tDeo grátias.\r\n*Amen*",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-08": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-08 - Paul Prins: Added this blessing."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

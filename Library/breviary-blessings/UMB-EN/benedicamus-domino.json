@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "benedicamus-domino",
+	"SourceAbbreviation": "breviary-blessings",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Let us bless the Lord,\r\n\tand give thanks to God.\r\n*Amen*",
+	"Extra":{
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-09": ["Peer-Review"],
+				"2024-06-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-08 - Paul Prins: First translation of this blessing."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
