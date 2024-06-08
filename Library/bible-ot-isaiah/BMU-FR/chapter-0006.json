@@ -1,0 +1,34 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Description": "",
+	"Chapter": "6",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"9": "Et il dit : « Va et dis à ce peuple :\r\n\tVous écoutez toujours, mais vous ne comprenez jamais.\r\n\tVous regardez toujours, mais vous ne percevez jamais.\r\n",
+		"10": "\tRendez insensibles les cœur de ce peuple,\r\n\t\témousse ses oreilles\r\n\t\tet aveugle ses yeux.\r\n\tAfin qu'ils ne voient pas de leurs yeux,\r\n\t\tn'entendent pas de ses oreilles,\r\n\t\tne comprennent pas de son cœur,\r\n\tet se convertissent et soient guéris. »\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-05-24": ["Peer-Review"],
+				"2024-05-23": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-05-23 - Paul Prins: Première traduction des versets 9-10."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

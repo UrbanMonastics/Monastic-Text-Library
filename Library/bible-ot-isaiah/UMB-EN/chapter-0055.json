@@ -1,0 +1,54 @@
+{
+	"TextAbbreviation": "chapter-0055",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Description": "",
+	"Chapter": "55",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Come, everyone who is thirsty,\r\n\tcome to the waters!\r\nYou who have no money,\r\n\tcome, buy and eat!\r\nCome, buy wine and milk\r\n\twithout money and without cost!\r\n",
+		"2": "Why spend money on what is not bread,\r\n\tand your wages on what does not satisfy?\r\nListen to me carefully, and eat what is good,\r\n\tand delight yourself in the richest food.\r\n",
+		"3": "Incline your ear and come to Me.\r\n\tListen, that your soul may live;\r\nI will make an everlasting covenant with you,\r\n\tmy faithful and sure love promised to David.\r\n",
+		"4": " Behold, I have made him a witness to the peoples,\r\n\ta leader and commander for the peoples.\r\n",
+		"5": "Behold, you will summon a nation you do not know,\r\n\tand a nation you do not know will run to you.\r\nAll because of the LORD your God, the Holy One of Israel,\r\n\tfor He has adorned you with splendor.\r\n\r\n",
+		"6": "Seek the LORD while He may be found!\r\n\tCall upon Him while He is near!\r\n",
+		"7": "Let the wicked abandon their way,\r\n\tand the unrighteous one their thoughts.\r\nLet them return to the LORD,\r\n\tand He will have compassion on them,\r\nand to our God,\r\n\tfor He will abundantly pardon.\r\n\r\n",
+		"8": "\"For My thoughts are not your thoughts,\r\n\tneither are your ways My ways,\" declares the LORD.\r\n",
+		"9": "\"For the heavens are higher than the earth.\r\n\tso are My ways higher than your ways,\r\n\tand My thoughts higher than your thoughts.\r\n",
+		"10": "For the rains and snows fall from heaven,\r\n\tand do not return without watering the earth.\r\nThey make the earth sprout, flourish,\r\n\tand bring forth seed for the sower, and bread to eat.\r\n",
+		"11": "It is the same when My word goes forth from My mouth.\r\n\tIt will not return to Me empty.\r\nMy word will accomplish what I desire,\r\n\tand fulfill the purpose I sent it for.\r\n",
+		"12": "For you will go out in joy\r\n\tand be led in peace!\r\nThe mountains and hills will burst into song before you,\r\n\tand all the trees in the countryside will clap their hands.\r\n",
+		"13": "Instead of the thorn bush, the juniper will grow,\r\n\tand instead of briers, the myrtle will grow.\r\nIt will be for the LORD's renown,\r\n\tan everlasting sign which will endure forever.\""
+	},
+	"InlineTitles": {
+		"1": "Higher are the Heavens"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-07":[
+					"Verified",
+					"Guidelines"
+				],
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Initial translation of verses 1-13."
+	],
+	"FootNotes": { },
+	"License": "© 2024 Urban Monastics, Paris"
+}

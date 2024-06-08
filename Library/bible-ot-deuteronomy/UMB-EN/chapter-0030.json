@@ -1,0 +1,50 @@
+{
+	"TextAbbreviation": "chapter-0030",
+	"SourceAbbreviation": "bible-ot-deuteronomy",
+	"Description": "",
+	"Chapter": "30",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["WLC", "CODEX-SINAITICUS"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "For this day I command you this commandment, that is not too hard for you, or beyond your reach. ",
+		"12": "It is not in heaven. You do not have to ask, \"Who will go up to heaven for us, get it for us, and proclaim it to us so we may follow it?\" ",
+		"13": "Nor is it beyond the sea. You do not have to ask, \"Who will cross the sea for us, get it for us, and proclaim it to us so we may follow it?\" ",
+		"14": "The word, on the contrary, is very near you. It is in your mouth and in your heart, that you may follow it.\r\n",
+		"15": "See, today, I have set before you life and goodness, death and evil. ",
+		"16": "For I am commanding you today to love the LORD, your God. Walk in His ways and keep His commandments, His statues, and His judgements. Then you may live and increase, and the Lord your God will bless you in the land you are entering to possess. ",
+		"17": "Yet, not if your hearts turn away, and you do not obey. Not if you are drawn away to worship other gods and serve them. ",
+		"18": "Then I declare to you today that you will certainly perish. You will not live long in the land you are crossing the river Jordan to enter and possess.",
+		"19": "Today, I call heaven and earth to witness against you. I have placed before you life and death, blessing and curse. Now choose life, so that you and your descendants may live. ",
+		"20": "You live by loving the LORD, your God, by obeying His voice, and by holding close to Him. For this is your life, and He will give you many years in the lands. The lands the LORD swore to give to your ancestors, Abraham, Isaac, and Jacob.\r\n"
+	},
+	"InlineTitles": {
+		"11": "Choose Life or Death"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-07": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2024-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-06 - Paul Prins: First translation of verses 11-20"
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

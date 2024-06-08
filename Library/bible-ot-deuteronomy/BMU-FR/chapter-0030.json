@@ -1,0 +1,44 @@
+{
+	"TextAbbreviation": "chapter-0030",
+	"SourceAbbreviation": "bible-ot-deuteronomy",
+	"Description": "",
+	"Chapter": "30",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["WLC", "CODEX-SINAITICUS"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"11": "Ce commandement que je te prescris aujourd'hui n'est pas trop dur pour toi, ni hors de ta portée. ",
+		"12": "Il n'est pas dans le ciel. Tu n'as pas à te demander : « Qui montera au ciel pour nous, ira le chercher pour nous et nous le proclamera afin que nous le mettions en pratique ? » ",
+		"13": "Ni au-delà de la mer. Tu n'as pas à demander : « Qui traversera la mer pour nous, ira le chercher pour nous et nous le proclamera afin que nous le mettions en pratique ? » ",
+		"14": "La parole, au contraire, est tout près de toi. Elle est dans ta bouche et dans ton cœur, afin que tu la mettes en pratique.\r\n",
+		"15": "Vois, aujourd'hui, j'ai mis devant toi la vie et le bien, la mort et le mal.\r\n",
+		"16": "Car je te commande aujourd'hui d'aimer le SEIGNEUR, ton Dieu. Marche dans ses voies, observe ses commandements, ses lois et ses ordonnances. Alors, tu vivras et tu te multiplieras, et le SEIGNEUR, ton Dieu, te bénira dans le pays dont tu vas entrer en possession. ",
+		"17": "Mais pas si ton cœur se détourne et que tu n'obéis pas. Pas si vous vous laissez entraîner à adorer d'autres dieux et à les servir. ",
+		"18": "Alors je vous déclare aujourd'hui que vous périrez. Vous ne vivrez pas longtemps dans le pays où vous allez passer le Jourdain pour y entrer et en prendre possession.\r\n",
+		"19": "Aujourd'hui, j'appelle le ciel et la terre à témoigner contre vous. J'ai placé devant vous la vie et la mort, la bénédiction et la malédiction. Maintenant, choisis la vie, afin que toi et ta descendance viviez. ",
+		"20": "Tu vivras en aimant le SEIGNEUR, ton Dieu, en obéissant à sa voix et en t'attachant à lui. Car c'est là ta vie, et il te donnera de longues années dans les pays. Les pays que le SEIGNEUR a juré de donner à tes ancêtres, Abraham, Isaac et Jacob."
+	},
+	"InlineTitles": {
+		"11": "Choisir la Vie ou la Mort"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-07": ["Peer-Review"],
+				"2024-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-06 - Paul Prins: Première traduction du versets 11-20"
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

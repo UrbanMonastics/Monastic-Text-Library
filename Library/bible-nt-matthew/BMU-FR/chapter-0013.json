@@ -9,16 +9,37 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
+		"1": "Ce jour-là, Jésus sortit de la maison et s'assit au bord de la mer. ",
+		"2": "Une grande foule s'étant rassemblée autour de lui, il monta dans une barque et s'assit. Toute la foule se tenait sur le rivage. ",
+		"3": "Il leur parla de beaucoup de choses en paraboles.\r\nJésus dit : « Voici ! Un semeur sortit pour semer sa semence. ",
+		"4": "Comme il semait, une partie de la semence tomba le long du chemin ; les oiseaux vinrent et la mangèrent. ",
+		"5": "Une autre partie de la semence tomba dans des endroits pierreux, où elle n'avait pas beaucoup de terre. Elle leva aussitôt, parce que le sol manquait de profondeur. ",
+		"6": "Puis, quand le soleil parut, elle fut brûlée. Elle s'est séchée parce qu'elle n'avait pas de racines profondes. ",
+		"7": "Une autre partie de la semence tomba parmi les épines. Les épines poussèrent et l'étouffèrent. ",
+		"8": "Maintenant, une autre partie de la semence tomba dans la bonne terre. Elle donna du fruit cent, soixante ou trente fois plus que ce qu'elle avait semé. ",
+		"9": "Que celui qui a des oreilles entende. »\r\n",
+		"10": "Les disciples s'approchèrent et lui dirent : « Pourquoi leur parles-tu en paraboles ? »\r\n",
+		"11": "Jésus leur répondit : « La connaissance des mystères du Royaume des Cieux vous a été donnée, mais pas pour eux. ",
+		"12": "Car à celui qui a, on donnera davantage, et il sera dans l'abondance. Celui qui n'a pas, on lui enlèvera même ce qu'il a. ",
+		"13": "C'est pourquoi je leur parle en paraboles ;\r\n\tAfin qu'en voyant, ils ne voient pas.\r\n\tAfin qu'en entendant, ils n'entendent ni ne comprennent.\r\n",
+		"14": "La prophétie d'Isaïe s'accomplit en eux :\r\n\r\n\tVous écouterez toujours, mais vous ne comprendrez jamais.\r\n\tVous regardez toujours, mais vous ne percevez jamais.",
+		"15": "\tCar le cœur de ce peuple est devenu insensible,\r\n\t\tavec leurs oreilles, ils entendent à peine\r\n\t\tet ils ont fermé les yeux.\r\n\tSinon, ils pourraient voir de leurs yeux,\r\n\t\tentendre de leurs oreilles,\r\n\t\tcomprendre avec leur cœur et se convertissent\r\n\tet je les guérirais.\r\n\r\n",
+		"16": "Mais heureux vos yeux, parce qu'ils voient et vos oreilles, parce qu'elles entendent! ",
+		"17": "Car je vous le dis en vérité, beaucoup de prophètes et de justes ont désiré voir ce que vous voyez, et ne l'ont pas vu. Ils ont désiré entendre ce que vous entendez, et ne l'ont pas entendu.\r\n",
 		"45": "\tEncore, le Royaume des Cieux est semblable à un marchand qui cherche des belles perles. ",
-		"46": "Après avoir trouvé une perle de prix exceptionnel, il est parti vendre tout ce qu'il possédait, et l'a achetée.\r\n"
+		"46": "Après avoir trouvé une perle de prix exceptionnel, il est parti vendre tout ce qu'il possédait, et l'a achetée.\r\n" 
 	},
 	"InlineTitles": {
+		"1": "La Parabole du Semeur"
+	},
+	"FootNotes": {
+		"14-15": "Isaïe 6:9-10"
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-12-12": ["Peer-Review"],
+				"2022-12-13": ["Peer-Review"],
 				"2022-12-12": [
 					"Second-Pass",
 					"Initial"
@@ -28,7 +49,8 @@
 		}
 	},
 	"Changes": [
-		"2022-12-12 - Paul Prins: Premier traduction du chapitre 13:45-46."
+		"2024-05-23 - Paul Prins: Premier traduction du versets 1-17.",
+		"2022-12-12 - Paul Prins: Premier traduction du versets 45-46."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

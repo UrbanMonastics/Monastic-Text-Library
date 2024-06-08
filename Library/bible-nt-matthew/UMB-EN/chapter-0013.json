@@ -9,26 +9,54 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
+		"1": "On that day, Jesus left the house and was sitting by the sea. ",
+		"2": "Such large crowds gathered around Him, so He got into a boat and sat down. The whole crowd stood on the shore. ",
+		"3": "Then He told them many things in parables.\r\nJesus said, \"Behold! A sower went out to sow their seed. ",
+		"4": "As they sowed, some of the seeds fell beside the road, and the birds came and ate them up. ",
+		"5": "Other seeds fell to rocky places without much soil for them. They sprang up quickly because the soil lacked depth.  ",
+		"6": "Then, when the sun rose, they were scorched. They withered away since they lacked deep roots. ",
+		"7": "Other seeds fell among the thorns. The thorns grew and choked them. ",
+		"8": "Now, other seeds fell on good soil. They produced a crop a hundred, sixty, or thirty times what was sown. ",
+		"9": "Whoever has ears, let them hear. \"\r\n",
+		"10": "Then the disciples came to Him and asked, \"Why do You speak to them in parables?\"\r\n",
+		"11": "And Jesus answered them, \"The knowledge of the Kingdom of Heaven's mysteries has been given to you, but not to them. ",
+		"12": "Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have, will be taken away from them. ",
+		"13": "Therefore, I speak to them in parables;\r\n\t'Though seeing, they do not see.\r\n\tThough hearing, they do not hear or understand.'\r\n",
+		"14": "The prophecy of Isaiah is fulfilled in them:\r\n\r\n\t'You will be ever listening, but never understanding.\r\n\tYou will be ever looking, but never perceiving.\r\n",
+		"15": "\tFor the heart of this people has grown insensitive,\r\n\t\twith their ears, they hardly hear,\r\n\t\tand they have closed their eyes.\r\n\tOtherwise, they might see with their eyes,\r\n\t\thear with their ears,\r\n\t\tunderstand with their hearts, and return,\r\n\tand I would heal them.'\r\n\r\n",
+		"16": "But blessed are your eyes because they see and your ears because they hear. ",
+		"17": "For truly I say to you, that many prophets and righteous people longed to see what you see, and did not see it. They longed to hear what you hear, and did not hear it.",
 		"45": "\tAgain, the Kingdom of Heaven is like a merchant seeking beautiful pearls. ",
 		"46": "Upon finding one pearl of exceptional worth, they left to sell everything they owned, and bought it.\r\n"
 	},
 	"InlineTitles": {
+		"1": "Parable of the Sower"
+	},
+	"FootNotes": {
+		"14-15": "Isaiah 6:9-10"
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-12-12": ["Peer-Review"],
+				"2024-06-07":[
+					"Verified",
+					"Guidelines"
+				],
+				"2022-12-13": ["Peer-Review"],
 				"2022-12-12": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
-		"2022-12-12 - Paul Prins: First translation of chapter 13:45-46."
+		"2024-05-23 - Paul Prins: First translation of verses 1-17.",
+		"2022-12-12 - Paul Prins: First translation of verses 45-46."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
 }

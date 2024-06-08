@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-john-1",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"16": "We know what love is because He laid down His life for us. And we ought to lay down our lives for one another. ",
+		"17": "But whoever has worldly goods and sees a child of God in need, and closes their heart to them, how does the love of God remain in them? ",
+		"18": "Dear children, let us not love in words or speech, but with actions and in truth. ",
+		"19": "In this way we know that we are of the truth, and will set our hearts at ease before Him. ",
+		"20": "If our hearts condemn us, we know that God is greater than our hearts, and He knows all things."
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: First translation of verses 16-20."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

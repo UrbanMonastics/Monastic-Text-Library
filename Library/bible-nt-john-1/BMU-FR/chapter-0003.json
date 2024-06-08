@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-john-1",
+	"Chapter": "3",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"16": "Nous savons ce qu'est l'amour parce qu'il a donné sa vie pour nous. Et nous devrions donner notre vie les uns pour les autres. ",
+		"17": "Mais si quelqu'un possède des biens de ce monde et voit un enfant de Dieu dans le besoin et lui ferme son cœur, comment l'amour de Dieu demeure en lui ? ",
+		"18": "Chers enfants, n'aimons pas en paroles ou en langage, mais en actions et en vérité. ",
+		"19": "Par là, nous connaîtrons que nous sommes dans la vérité, et nous mettrons notre cœur à l'aise devant lui. ",
+		"20": "Si notre cœur nous condamne, nous savons que Dieu est plus grand que notre cœur et qu'il connaît toutes choses.\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Premier traduction du versets 16-20."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

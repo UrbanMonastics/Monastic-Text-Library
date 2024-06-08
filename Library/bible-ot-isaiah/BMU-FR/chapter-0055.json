@@ -1,0 +1,48 @@
+{
+	"TextAbbreviation": "chapter-0055",
+	"SourceAbbreviation": "bible-ot-isaiah",
+	"Description": "",
+	"Chapter": "55",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Venez, tous ceux qui ont soif,\r\n\tvenez aux eaux !\r\nVous qui n'avez pas d'argent,\r\n\tvenez, achetez et mangez !\r\nVenez, achetez du vin et du lait\r\n\tsans argent et sans payer !\r\n",
+		"2": "Pourquoi dépensez-vous de l'argent pour ce qui n'est pas du pain,\r\n\tet votre salaire pour ce qui ne rassasie pas ?\r\nÉcoutez-moi bien, et mangez ce qui est bon,\r\n\tet vous vous délecterez des mets les plus riches.\r\n",
+		"3": "Tendez l'oreille et venez à moi.\r\n\tÉcoute, afin que ton âme vive :\r\nJe conclurai avec toi une alliance éternelle,\r\n\tmon amour fidèle et sûr, promis à David.\r\n",
+		"4": "Voici, j'ai fait de lui un témoin pour les peuples,\r\n\tun chef et un commandant pour les peuples.\r\n",
+		"5": "Voici, tu appelleras une nation que tu ne connais pas,\r\n\tet une nation que tu ne connais pas accourra vers toi.\r\nTout cela à cause de le SEIGNEUR, ton Dieu, le Saint d'Israël,\r\n\tqui t'a couvert de gloire.\r\n\r\n",
+		"6": "Recherchez le SEIGNEUR pendant qu'il se trouve !\r\n\tAppelez-le tant qu'il est près !\r\n",
+		"7": "Que le méchant abandonne sa voie\r\n\tet l'injuste ses pensées.\r\nQu'il revienne au SEIGNEUR,\r\n\tet il aura pitié de lui ;\r\nqu'il revienne à notre Dieu,\r\n\tcar il pardonnera abondamment.\r\n\r\n",
+		"8": "« Car mes pensées ne sont pas vos pensées,\r\n\tet mes voies ne sont pas vos voies, déclare le SEIGNEUR.\r\n",
+		"9": "Car, comme les cieux sont plus élevés que la terre,\r\n\tde même mes voies sont plus élevées que vos voies,\r\n\tet mes pensées plus élevées que vos pensées.\r\n",
+		"10": "Car les pluies et les neiges tombent du ciel\r\n\tet ne retournent pas sans avoir arrosé la terre.\r\nElles font germer la terre, la rendent florissante\r\n\tet produisent de la semence pour le semeur et du pain à manger.\r\n",
+		"11": "Il en va de même lorsque ma parole sort de ma bouche.\r\n\tElle ne me reviendra pas sans effet.\r\nMa parole accomplira ce que je désire\r\n\tet remplira l'objectif pour lequel je l'ai envoyée.\r\n",
+		"12": "Oui, vous sortirez dans la joie\r\n\tet serez conduits dans la paix !\r\nLes montagnes et les collines éclateront en cris de joie devant vous,\r\n\tet tous les arbres de la campagne battront des mains.\r\n",
+		"13": "Au lieu du buisson d'épines poussera le genévrier\r\n\tet au lieu des ronces poussera le myrte.\r\nCe sera, pour la renommée du SEIGNEUR,\r\n\tun signe éternel, qui durera toujours. »"
+	},
+	"InlineTitles": {
+		"1": "Plus Élevés sont les Cieux"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Première traduction des versets 1-13."
+	],
+	"FootNotes": {},
+	"License": "© 2024 Monastiques Urbain, Paris"
+}
