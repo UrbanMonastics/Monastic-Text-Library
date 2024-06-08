@@ -1,7 +1,7 @@
 {
 	"TextAbbreviation": "easter-solemnity",
 	"SourceAbbreviation": "breviary-blessings",
-	"FormatAs": "book",
+	"FormatAs": "poetry",
 	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["LH"],

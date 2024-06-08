@@ -1,7 +1,7 @@
 {
 	"TextAbbreviation": "compline-noctem-quietam",
 	"SourceAbbreviation": "breviary-blessings",
-	"FormatAs": "book",
+	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "Noctem quiétam [+] et finem perféctum concédat nobis Dóminus omnípotens.\r\nAmen",
 	"Extra": {
