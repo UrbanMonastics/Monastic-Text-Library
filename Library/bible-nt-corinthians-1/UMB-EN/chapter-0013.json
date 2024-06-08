@@ -20,7 +20,7 @@
 		"9": "Now we know in part, and we prophesy in part. ",
 		"10": "When the perfect comes, what is partial will disappear.\r\n",
 		"11": "When I was a child I spoke like a child, thought like a child, and reasoned like a child. When I became an adult, I stopped doing these childish things. ",
-		"12": "For now we see a dim reflection in a mirror, but then we will see face to face. Now I know in part, but then I will fully know,  as I have been known fully. ",
+		"12": "For now we see a dim reflection in a mirror, but then we will see face to face. Now I know in part, but then I will fully know, as I have been known fully. ",
 		"13": "Now these three remain: faith, hope and love; but the greatest of these is love."
 	},
 	"InlineTitles": {
@@ -30,13 +30,19 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-06-08":[
+					"Verified",
+					"Guidelines"
+				],
 				"2024-05-05": ["Peer-Review"],
 				"2024-05-04": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-06-08": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [

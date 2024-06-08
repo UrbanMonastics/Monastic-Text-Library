@@ -29,13 +29,19 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-06-07":[
+					"Verified",
+					"Guidelines"
+				],
 				"2024-06-03": ["Peer-Review"],
 				"2024-06-02": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-06-07": "Jordan Prins"
+			}
 		}
 	},
 	"Changes": [
