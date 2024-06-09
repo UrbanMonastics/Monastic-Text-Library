@@ -12,15 +12,15 @@
 	"Verses": {
 		"1": "Come, let us sing praise to the LORD. [*]\r\n\tShout with joy to the Rock of our salvation.\r\n",
 		"2": "Let us enter His presence with a song of thanksgiving, [*]\r\n\tsinging joyful songs to Him.\r\n\r\n[ANT]\r\n\r\n",
-		"3": "For the LORD is a great God, [*]\r\n\tand the great king above all gods.\r\n",
-		"4": "In His hand are the depths of the earth, [*]\r\n\tand the mountain peaks are His also.\r\n",
-		"5": "The sea is His for He made it, [*]\r\n\tthe dry land His hands formed.\r\n\r\n[ANT]\r\n\r\n",
+		"3": "For the LORD is a great God, [*]\r\n\tand the great King above all gods.\r\n",
+		"4": "In His hand are the depths of the earth, [*]\r\n\tand the mountain peaks are His as well.\r\n",
+		"5": "The sea is His for He made it, [*]\r\n\tHis hands formed the dry land.\r\n\r\n[ANT]\r\n\r\n",
 		"6": "Come, let us bow down and worship. [*]\r\n\tLet us kneel before the LORD our maker,\r\n",
-		"7": "for He is our God, and we are the people of his pasture, [*]\r\n\tand the flock of His hand.\r\n\r\n[ANT]\r\n\r\nToday, will you hear His voice? [t]\r\n",
+		"7": "for He is our God, and we are the people of His pasture, [*]\r\n\tand the flock of His hand.\r\n\r\n[ANT]\r\n\r\nToday, will you hear His voice? [t]\r\n",
 		"8": "\t\"Do not harden your hearts, [*]\r\n\tas at Meribah and during the temptation in the wilderness,\r\n",
 		"9": "where your ancestors tested and provoked Me, [*]\r\n\talthough they were witness to My work.\"\r\n\r\n[ANT]\r\n\r\n",
-		"10": "\"Forty years that generation disgusted me\", [t]\r\n\tand I said, \"They are a people whose hearts go astray, [*]\r\n\tand they do not know my ways.\"\r\n",
-		"11": "So I swore in my anger, [*]\r\n\t\"Never shall they enter into My rest.\"\r\n\r\n[ANT]"
+		"10": "\"Forty years that generation disgusted Me\", [t]\r\n\tand I said, \"They are a people whose hearts go astray, [*]\r\n\tand they do not know My ways.\"\r\n",
+		"11": "So I swore in My anger, [*]\r\n\t\"Never shall they enter into My rest.\"\r\n\r\n[ANT]"
 	},
 	"Extra": {
 		"Writing":{
@@ -42,6 +42,7 @@
 		}
 	},
 	"Changes": [
+		"2024-06-09 - Paul Prins: Fixed divine pronouns and improved some sentence flow.",
 		"2024-01-25 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2022-10-26 - Paul Prins: First translation of psalm 95 based on Greek, Latin, and some Hebrew"
 	],
