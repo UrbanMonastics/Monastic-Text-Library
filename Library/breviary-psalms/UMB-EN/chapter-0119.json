@@ -11,7 +11,7 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"137": "You are righteous, LORD, [*]\r\n\tand Your judgements are fair.\r\n",
+		"137": "You are righteous, LORD, [*]\r\n\tand Your judgments are fair.\r\n",
 		"138": "You have given Your laws in righteousness [*]\r\n\tand great faithfulness.\r\n",
 		"139": "My zeal consumes me [*]\r\n\twhen my enemies forget Your words.\r\n",
 		"140": "Your word is very pure, [*]\r\n\tand Your servant loves it.\r\n\r\n",
@@ -38,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2024-06-09 - Paul Prins: Use american english word judgment",
 		"2024-05-27 - Paul Prins: First translation of psalm 119:137-144 based on Greek, Latin, and some Hebrew"
 	],
 	"License": "© 2024 Urban Monastics, Paris"

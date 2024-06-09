@@ -11,7 +11,7 @@
 	},
 	"Verses": {
 		"3": "Blessed are You, Lord, God of our ancestors! [*]\r\n\tYour name is worthy of praise and glory forever!\r\n",
-		"4": "For You are just in all You have done. [t]\r\n\tAll Your works are true, and Your ways right, [*]\r\n\tand all Your judgements are true.\r\n\r\n",
+		"4": "For You are just in all You have done. [t]\r\n\tAll Your works are true, and Your ways right, [*]\r\n\tand all Your judgments are true.\r\n\r\n",
 		"6": "For we have sinned and, in our disobedience, turned away from You. [*]\r\n\tIn all things we have failed.\r\n",
 		"11": "For Your name's sake, do not abandon us forever [*]\r\n\tor break Your covenant with us.\r\n",
 		"12": "Do not withhold Your mercy from us, [t]\r\n\tfor the sake of Abraham Your friend, [*]\r\n\tIsaac Your servant, and Israel Your holy one.\r\n",
@@ -42,6 +42,7 @@
 		}
 	},
 	"Changes": [
+		"2024-06-09 - Paul Prins: Use american english word judgment",
 		"2024-05-25 - Paul Prins: First translation based on Greek, and Latin."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
