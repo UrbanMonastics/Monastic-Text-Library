@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, qui a élevé toute la création par l'humilité de ton Fils. [t] Donne à tes fidèles une joie sainte. [*] Car tu as libéré nos vies de l'esclavage du péché. Puisses-tu nous aider à nous réjouir d'une joie éternelle. Par Jésus-Christ.",
+	"Text": "Dieu, par l'humilité de ton Fils, tu as élevé toute la création. [t] Prodigue une sainte joie à tes fidèles. [*] Car tu as libéré nos vies de l'esclavage du péché. Laissez-nous nous réjouir d'une joie qui n'a pas de fin, par Jésus-Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,7 +22,8 @@
 		}
 	},
 	"Changes": [
+		"2024-07-07 - Paul Prins : Révisé pour s'adapter au style actuel de la prière de clôture",
 		"2021-07-04 - Paul Prins: Traduit cette prière."
 	],
-	"License": "© 2021 Monastiques Urbain, Paris"
+	"License": "© 2024 Monastiques Urbain, Paris"
 }
