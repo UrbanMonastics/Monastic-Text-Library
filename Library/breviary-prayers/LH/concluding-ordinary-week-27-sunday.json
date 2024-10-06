@@ -3,13 +3,13 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Omnípotens sempitérne Des, qui abundántia pietátis tuœ et mérite súpplicum excédis et vota, [t] effúnde super nos misericórdiam tuam, [*] ut dimíttas quœ consciéntia métuit, et adícias quod orátio non prœsúmit. Per Dóminum.",
+	"Text": "Omnípotens sempitérne Des, qui abundántia pietátis tuæ et mérite súpplicum excédis et vota, [t] effúnde super nos misericórdiam tuam, [*] ut dimíttas quae consciéntia métuit, et adícias quod orátio non præsúmit. Per Dóminum.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2021-10-01": ["Peer-Review"],
-				"2021-09-30": [
+				"2024-10-07": ["Peer-Review"],
+				"2024-10-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -18,6 +18,7 @@
 		}
 	},
 	"Changes": [
+		"2024-10-06 - Paul Prins: Updated some typos.",
 		"2021-09-30 - Paul Prins: Added this prayer."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
