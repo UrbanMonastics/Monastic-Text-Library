@@ -7,11 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty and merciful God. It is Your grace that invites Your faithful to serve You with dignity and praise. [t] Make a clear path for all [*] who seek the good things You promise. Through Jesus Christ.",
+	"Text": "Almighty and merciful God, Your grace sustains Your faithful. It alone makes us worthy to serve You with praise. [t] We ask that You help us [*] as we pursue every good thing you have promised through Jesus Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2024-11-04": [
+					"Peer-Review"
+				],
+				"2024-11-03": [
+					"Second-Pass",
+					"Initial"
+				],
 				"2023-10-31": [
 					"Verified",
 					"Guidelines",
@@ -28,8 +35,9 @@
 		}
 	},
 	"Changes": [
+		"2024-11-03 - Paul Prins: Updated the translation of this prayer.",
 		"2023-10-31 - Jordan Prins: Reviewed and Verified the text",
 		"2023-10-30 - Paul Prins: First translation of this prayer."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }
