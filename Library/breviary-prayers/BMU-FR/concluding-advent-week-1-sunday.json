@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Donne à tous les fidèles, Dieu tout-puissant, ta volonté durable. [t] Que nous puissions rencontrer le Christ qui vient avec des vies de justice. [*] Pour que chacun d'entre nous soit accueilli, lors de Son jugement, dans le Royaume des Cieux. Par Jésus-Christ.",
+	"Text": "Donne ta volonté durable, Dieu tout-puissant, à tous les fidèles. [t] Que nous puissions rencontrer le Christ qui vient avec des œuvres de justice. [*] Pour que, lors de son jugement, chacun de nous soit accueilli dans le Royaume des Cieux par Jésus-Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-11-29 - Paul Prins: Révision de cette traduction pour qu'elle soit plus fluide.",
 		"2022-11-26 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

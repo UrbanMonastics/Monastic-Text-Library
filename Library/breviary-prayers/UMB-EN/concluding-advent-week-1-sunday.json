@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Give to all the faithful, almighty God, your enduring will. [t] That we may meet the coming Christ with works of Justice. [*] So that each of us will be welcomed, at his judgment, into the Kingdom of Heaven. Through Jesus Christ.",
+	"Text": "Give Your enduring will, Almighty God, to all the faithful. [t] That we may meet the coming of Christ with works of Justice. [*] So that, at His judgement, each of us will be welcomed into the Kingdom of Heaven through Jesus Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2024-11-29 - Paul Prins: Revised this translation to flow better.",
 		"2024-06-09 - Paul Prins: Use american english word judgment",
 		"2022-11-26 - Paul Prins: Translated this prayer."
 	],
