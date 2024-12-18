@@ -9,10 +9,10 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"26": "\tPendant qu'ils mangeaient, Jésus prit du pain. Après l'avoir béni, Il le rompit et le donna aux disciples, en disant ,\r\n\t« Prenez, mangez. Ceci est Mon corps. »\r\n",
-		"27": "\tIl prit ensuite une coupe, et, après avoir remercié Dieu, Il la leur donna, en disant,\r\n\t« Buvez-en tous. ",
-		"28": "Car ceci est mon sang, le sang de l'alliance, qui est versé pour beaucoup, pour la rémission des péchés. »\r\n",
-		"29": "\t« Je vous le dis, Je ne boirai plus le fruit de la vigne, jusqu'au jour où Je le boirai de nouveau avec vous, dans le royaume de mon Père. »\r\n"
+		"26": "\tPendant qu'ils mangeaient, Jésus prit du pain. Après l'avoir béni, il le rompit, le donna aux disciples et dit : « Prenez, mangez. Ceci est mon corps. »\r\n",
+		"27": "\tIl prit ensuite une coupe et, après avoir rendu grâces, il la leur donna en disant : « Buvez-en tous. ",
+		"28": "Buvez, car ceci est mon sang, le sang de l'alliance, qui est versé pour beaucoup en vue de la pardon des péchés. ",
+		"29": "Je vous le dis, je ne boirai plus désormais du fruit de la vigne, jusqu'au jour où je le boirai avec vous, à nouveau, dans le royaume de mon Père. »\r\n"
 	},
 	"InlineTitles": {
 	},
@@ -30,6 +30,7 @@
 		}
 	},
 	"Changes": [
+		"2024-12-18 - Paul Prins: Mise à jour de la traduction pour suivre les changements en anglais.",
 		"2022-08-12 - Paul Prins: Premier traduction du chapitre 26:26-29."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

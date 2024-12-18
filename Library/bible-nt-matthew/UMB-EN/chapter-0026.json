@@ -9,10 +9,10 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"26": "\tWhile they were eating, Jesus took some bread. After blessing it, He broke it, and gave it to the disciples, and said,\r\n\t\"Take, eat. This is My body.\"\r\n",
-		"27": "\tThen he took a cup, and when he had given thanks, He gave it to them, saying,\r\n\t\"Drink from it, all of you. ",
-		"28": "For this is my blood of the covenant, which is being poured out for many for the forgiveness of sins.\"\r\n",
-		"29": "\t\"I tell you, I will not drink again the fruit of the vine until that day when I drink it with you, anew, in my Father's kingdom.\"\r\n"
+		"26": "\tWhile they were eating, Jesus took some bread. After blessing it, He broke it, and gave it to the disciples, and said, \"Take, eat. This is My body.\"\r\n",
+		"27": "\tThen He took a cup, and when He had given thanks, He gave it to them, saying, \"Drink from it, all of you. ",
+		"28": "Drink, for this is My blood of the covenant, which is being poured out for many for the forgiveness of sins. ",
+		"29": "I tell you, I will not drink of the fruit of the vine again, until that day when I drink it with you, afresh, in My Father's kingdom.\"\r\n"
 	},
 	"InlineTitles": {
 	},
@@ -26,10 +26,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-12-17": ["Constance McIntosh Smith"]
+			}
 		}
 	},
 	"Changes": [
+		"2024-12-15 - Paul Prins: Revised verses 26-29 to alight with our guidelines.",
 		"2022-08-12 - Paul Prins: First translation of chapter 11:26-29."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

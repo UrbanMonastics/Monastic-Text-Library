@@ -9,12 +9,12 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"14": "\tWhen the hour came, Jesus, with his apostles, reclined at the table. ",
-		"15": "Then He said to them, \"I have eagerly desired to eat this Passover with you before I suffer; ",
-		"16": "for I say to you that I shall not eat it again until it is fulfilled in the kingdom of God.\"\r\n",
+		"14": "\tWhen the hour came, Jesus reclined at the table with His apostles. ",
+		"15": "Then He said to them, \"I have eagerly desired to eat this Passover with you before I suffer. ",
+		"16": "Eat, for I say to you that I shall not eat it again until it is fulfilled in the Kingdom of God.\"\r\n",
 		"17": "\tAnd when He had taken a cup and given thanks, He said, \"Take this cup, and share it among yourselves. ",
-		"18": "For I say to you that I will no longer drink the fruit of the vine until the kingdom of God has come.\"\r\n",
-		"19": "\tAnd when He had taken some bread and given thanks, He broke it. Then gave it to them, saying, \"This is my body, which is being given for you; do this in remembrance of Me.\" ",
+		"18": "Drink, for I say to you that I will no longer drink of the fruit of the vine until the Kingdom of God has come.\"\r\n",
+		"19": "\tAnd when He had taken some bread and given thanks, He broke it. Then He gave it to them, saying, \"This is My body, which is being given for you; do this in remembrance of Me.\" ",
 		"20": "\tAnd in the same way, after they had eaten, He took the cup, saying, \"This cup, which is poured out for you, is the new covenant in My blood.\""
 	},
 	"InlineTitles": {
@@ -30,10 +30,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-12-17": ["Constance McIntosh Smith"]
+			}
 		}
 	},
 	"Changes": [
+		"2024-12-15 - Paul Prins: Revised verses 14-20 to alight with our guidelines.",
 		"2022-08-07 - Paul Prins: First translation of chapter 22:14-20 used during the Eucharist."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

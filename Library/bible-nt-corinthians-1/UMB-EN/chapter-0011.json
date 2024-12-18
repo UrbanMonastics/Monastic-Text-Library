@@ -9,9 +9,9 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"23": "\tThat on the night when the Lord Jesus was betrayed, He took bread. ",
-		"24": "After He had given thanks, He broke it, and said,\r\n\t\"This is my body, which is for you. Do this in remembrance of Me.\"\r\n",
-		"25": "\tIn the same way, Jesus took the cup after supper, saying,\r\n\t\"This cup is the new covenant in My blood. Do this, as often as you drink it, in remembrance of me.\"\r\n",
+		"23": "\tThe Lord Jesus, on the night when He was betrayed, took bread. ",
+		"24": "After He had given thanks, He broke it, and said, \"This is My body, which is for you. Do this in remembrance of Me.\"\r\n",
+		"25": "\tIn the same way, Jesus took the cup after supper, saying, \"This cup is the new covenant in My blood. Do this, as often as you drink it, in remembrance of Me.\"\r\n",
 		"26": "\tFor as often as you eat this bread, and drink the cup, you proclaim the Lord's death until He comes. "
 	},
 	"InlineTitles": {},
@@ -25,10 +25,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2024-12-17": ["Constance McIntosh Smith"]
+			}
 		}
 	},
 	"Changes": [
+		"2024-12-15 - Paul Prins: Revised verses 23b-26 to alight with our guidelines.",
 		"2022-08-12 - Paul Prins: First translation of verses 23-26."
 	],
 	"FootNotes": {

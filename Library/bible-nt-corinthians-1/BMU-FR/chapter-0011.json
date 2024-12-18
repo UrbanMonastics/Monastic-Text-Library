@@ -9,9 +9,9 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"23": "\tLa nuit où le Seigneur Jésus fut trahi, il prit du pain. ",
-		"24": "Après avoir remercié, il le rompit, et dit :\r\n\t« Ceci est mon corps, qui est pour vous. Faites ceci en mémoire de moi. »\r\n",
-		"25": "\tDe même, après le repas, Jésus prit la coupe, et dit :\r\n\t« Cette coupe est la nouvelle alliance en mon sang. Faites ceci, chaque fois que vous en boirez, en mémoire de moi. »\r\n",
+		"23": "\tLe Seigneur Jésus, dans la nuit où il a été livré, a pris du pain. ",
+		"24": "Après avoir rendu grâces, il le rompit et dit :\r\n\t« Ceci est mon corps, qui est pour vous. Faites ceci en souvenir de moi. »\r\n",
+		"25": "\tDe même, Jésus a pris la coupe après le repas, en disant :\r\n\t« Cette coupe est la nouvelle alliance en mon sang. Faites ceci, toutes les fois que vous en boirez, en souvenir de moi. »\r\n",
 		"26": "\tEn effet, toutes les fois que vous mangez ce pain et que vous buvez cette coupe, vous annoncez la mort du Seigneur jusqu'à ce qu'il vienne. "
 	},
 	"InlineTitles": {},
@@ -29,6 +29,7 @@
 		}
 	},
 	"Changes": [
+		"2024-12-18 - Paul Prins: Mise à jour de la traduction pour suivre les changements en anglais.",
 		"2022-08-12 - Paul Prins: Premier traduction des versets 23-26."
 	],
 	"FootNotes": {
