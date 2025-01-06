@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0117",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Everyone Praise the Lord",
+	"Description": "",
+	"Chapter": "117",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Praise the LORD, all nations! [*]\r\n\tGive Him Praise, all peoples!\r\n",
+		"2": "For His love towards us is great, [*]\r\n\tand the LORD's truth is everlasting."
+	},
+	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-01-07": ["Peer-Review"],
+				"2025-01-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-01-06 - Paul Prins: First translation of psalm 117 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
