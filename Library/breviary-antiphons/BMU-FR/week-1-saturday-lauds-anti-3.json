@@ -7,9 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "La vérité [*] du Seigneur est éternelle.",
+	"Text": "Praise the Lord, [*] all nations!",
 	"Extra": {
-		"Reference": ["Psalm 117:2"],
+		"Reference": ["Psalm 117:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

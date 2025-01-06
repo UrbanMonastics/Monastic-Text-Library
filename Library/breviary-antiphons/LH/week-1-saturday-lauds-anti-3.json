@@ -1,11 +1,11 @@
 {
-	"TextAbbreviation": "week-3-saturday-lauds-anti-3-advent",
+	"TextAbbreviation": "week-1-saturday-lauds-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Parátus esto, Israel, [*] in occúrsum Dómini, quóniam venit.",
+	"Text": "Laudáte Dóminum, [*] omen gentes.",
 	"Extra": {
-		"Reference": ["Amos 4:12"],
+		"Reference": ["Psalm 117:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

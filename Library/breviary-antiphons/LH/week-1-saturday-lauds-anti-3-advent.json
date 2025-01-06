@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-1-saturday-lauds-anti-3-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Parátus esto, Israel, [*] in occúrsum Dómini, quóniam venit.",
+	"Extra": {
+		"Reference": ["Amos 4:12"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-01-07": ["Peer-Review"],
+				"2025-01-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-01-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

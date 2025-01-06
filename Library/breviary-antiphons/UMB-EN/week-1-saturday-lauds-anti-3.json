@@ -2,14 +2,14 @@
 	"TextAbbreviation": "week-1-saturday-lauds-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "BMU-FR",
+	"Version": "UMB-EN",
 	"Translation":{
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "La vérité [*] du Seigneur est éternelle.",
+	"Text": "Praise the Lord, [*] all nations!",
 	"Extra": {
-		"Reference": ["Psalm 117:2"],
+		"Reference": ["Psalm 117:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -19,11 +19,12 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+			}
 		}
 	},
 	"Changes": [
-		"2025-01-06 - Paul Prins: Traduit cette Antiphone."
+		"2025-01-06 - Paul Prins: First translation of this Antiphon."
 	],
-	"License": "© 2025 Monastiques Urbain, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }
