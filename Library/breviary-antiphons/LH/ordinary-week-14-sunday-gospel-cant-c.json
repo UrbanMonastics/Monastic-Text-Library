@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Gaudéte [*] et exsultáte, quia nómina vestra scripta sunt in cælis, dicit Dóminus.",
 	"Extra": {
+		"Reference": ["Luke 10:20"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

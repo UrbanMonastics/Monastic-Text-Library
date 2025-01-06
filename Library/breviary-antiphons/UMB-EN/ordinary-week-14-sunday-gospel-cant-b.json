@@ -10,6 +10,7 @@
 	"Text": "Truly I tell you, [*] no prophet is accepted in his own country.",
 	"Extra": {
 		"Writing":{
+			"Reference": ["Luke 4:24"],
 			"Authors": ["Paul Prins"],
 			"Step": {
 				"2021-07-05": ["Peer-Review"],
@@ -22,7 +23,8 @@
 		}
 	},
 	"Changes": [
+		"2024-07-07 - Paul Prins: Updating translation and added reference",
 		"2021-07-04 - Paul Prins: Translated this Antiphon."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2024 Urban Monastics, Paris"
 }

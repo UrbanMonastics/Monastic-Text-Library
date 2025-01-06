@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Amen dico vobis, [*] quia nemo prophéta accéptus est in pátria sua.",
 	"Extra": {
+		"Reference": ["Luke 4:24"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

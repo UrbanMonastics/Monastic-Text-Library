@@ -9,6 +9,7 @@
 	},
 	"Text": "Nous soyons ravis, [*] réjouissons-nous, car le Seigneur dit que nos noms sont inscrits dans le ciel.",
 	"Extra": {
+		"Reference": ["Luke 10:20"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

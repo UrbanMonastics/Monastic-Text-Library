@@ -9,6 +9,7 @@
 	},
 	"Text": "En vérité, je vous le dis, [*] aucun prophète n'est accepté dans sa patrie.",
 	"Extra": {
+		"Reference": ["Luke 4:24"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
