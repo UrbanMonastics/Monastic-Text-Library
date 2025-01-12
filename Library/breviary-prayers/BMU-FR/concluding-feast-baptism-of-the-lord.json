@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant et éternel, quand le Christ a été baptisé dans le Jourdain et que l'Esprit Saint est reposa sur lui, tu l'as solennellement proclamé ton Fils bien-aimé. [t] Accorde à tous tes enfants adoptifs, qui sont aussi nés de l'eau et de l'Esprit, [*] que tu nous aides toujours à nous maintenir dans ta sainte volonté. Par Jésus-Christ.",
+	"Text": "Dieu éternel et tout-puissant, lors du baptême du Christ dans le Jourdain, l'Esprit Saint a reposé sur lui. Tu as alors proclamé que Jésus était ton Fils bien-aimé. [t] Comme lui, chacun de tes enfants adoptifs est né à la fois de l'eau et de l'Esprit. [*] Aide à garder tous tes enfants dans ta sainte volonté, chaque jour, par Jésus-Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-12 - Paul Prins : Retraduit pour correspondre à l'anglais ",
 		"2022-01-08 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

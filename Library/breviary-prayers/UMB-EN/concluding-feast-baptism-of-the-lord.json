@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty and everlasting God, when Christ was baptized in the Jordan river, the Holy Spirit rested upon him, you solemnly proclaimed Him as your beloved Son. [t] Grant to all your adopted children, who are likewise born of both the water and Spirit, [*] that you may always help keep us in your Holy will. Through Jesus Christ.",
+	"Text": "Almighty and everlasting God, during the baptism of Christ in the River Jordan, the Holy Spirit rested upon Him. You then  proclaimed that Jesus was your beloved Son. [t] Like Him, each of your adopted children are born of both water and Spirit. [*] Help keep all your children within your holy will, every day, through Jesus Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-12 - Paul Prins: Retranslated to follow content guidelines.",
 		"2022-01-08 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
