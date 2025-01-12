@@ -9,6 +9,7 @@
 	},
 	"Text": "God, [+] come to my assistance;[*]\r\nLord, make haste to help me.",
 	"Extra":{
+		"Reference": ["Psalm 70:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

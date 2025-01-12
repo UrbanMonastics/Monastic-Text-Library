@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Dómine, [+] lábia mea apéries. [*]\r\nEt os meum annuntiábit laudem tuam.",
 	"Extra":{
+		"Reference": ["Psalm 51:15"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

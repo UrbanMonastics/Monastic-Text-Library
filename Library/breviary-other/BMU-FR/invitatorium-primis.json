@@ -9,6 +9,7 @@
 	},
 	"Text": "Seigneur, [+] ouvre mes lèvres, [*]\r\net ma bouche publiera ta louange.",
 	"Extra":{
+		"Reference": ["Psalm 51:15"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

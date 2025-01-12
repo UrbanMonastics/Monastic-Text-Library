@@ -9,6 +9,7 @@
 	},
 	"Text": "Lord, [+] open my lips, [*]\r\nand my mouth will proclaim Your praise.",
 	"Extra":{
+		"Reference": ["Psalm 51:15"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

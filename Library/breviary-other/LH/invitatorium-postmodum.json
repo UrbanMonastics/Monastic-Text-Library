@@ -6,6 +6,7 @@
 	"Text": "Deus, [+] in adiutórium meum inténde. [*]\r\nDómine, ad adiuvándum me festína.",
 	"Extra":{
 		"Writing":{
+			"Reference": ["Psalm 70:1"],
 			"Authors": ["Paul Prins"],
 			"Step": {
 				"2023-10-20": [

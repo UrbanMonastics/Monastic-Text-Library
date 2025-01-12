@@ -9,6 +9,7 @@
 	},
 	"Text": "Dieu, [+] viens à mon aide.[*]\r\nSeigneur, hâtez-vous de me secourir.",
 	"Extra":{
+		"Reference": ["Psalm 70:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
