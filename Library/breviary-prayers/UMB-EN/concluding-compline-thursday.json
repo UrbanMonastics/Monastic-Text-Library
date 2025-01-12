@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nLord our God, give us restful and restoring sleep tonight. [t] Give Your children peace after the exertion of our daily work. [*] Out of Your abundant faithfulness, You always revive us. With joy, we will serve You in spirit, soul, and body, through Jesus Christ, our Lord.\r\nAmen.",
+	"Text": "Lord our God, give us restful and restoring sleep tonight. [t] Give Your children peace after the exertion of our daily work. [*] Out of Your abundant faithfulness, You always revive us. With joy, we will serve You in spirit, soul, and body, through Jesus Christ, our Lord.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -31,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-08-31 - Paul Prins: Fix the order of the words",
 		"2023-08-30 - Paul Prins: Translated this prayer."

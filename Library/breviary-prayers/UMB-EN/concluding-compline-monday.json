@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Let us pray.\r\nFill us with your peace, Lord. Cover our bodies with Your peace while we sleep. [t] The seeds sown for Your Kingdom, by our labor, we now trust to Your hands. [*] Tend and nurture them. Care for them now until they are ready. Bring them from the seed of your Word to their eternal harvest, through Jesus Christ, our Lord.\r\nAmen.",
+	"Text": "Fill us with your peace, Lord. Cover our bodies with Your peace while we sleep. [t] The seeds sown for Your Kingdom, by our labor, we now trust to Your hands. [*] Tend and nurture them. Care for them now until they are ready. Bring them from the seed of your Word to their eternal harvest, through Jesus Christ, our Lord.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -31,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-08-30 - Paul Prins: Translated this prayer."
 	],

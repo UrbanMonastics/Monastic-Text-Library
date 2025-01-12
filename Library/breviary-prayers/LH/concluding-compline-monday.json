@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Orémus.\r\nQuiétem, Dómine, corpóribus nostris tríbue salutárem, [t] et quæ fúdimus hódie sémina per labórem, [*] fac ut messem gérminent sempitérnam. Per Christum Dóminum nostrum.\r\nAmen.",
+	"Text": "Quiétem, Dómine, corpóribus nostris tríbue salutárem, [t] et quæ fúdimus hódie sémina per labórem, [*] fac ut messem gérminent sempitérnam. Per Christum Dóminum nostrum.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -18,6 +18,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2023-08-30 - Paul Prins: Added this prayer."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"

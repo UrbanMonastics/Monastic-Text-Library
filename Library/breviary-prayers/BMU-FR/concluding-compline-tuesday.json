@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Prions le Seigneur.\r\nDans ta bonté, Seigneur, fait briller ta lumière sur notre nuit. [t] Illumine le sommeil de tes serviteurs par la présence de ta paix. [*] Que l'éclat du jour nouveau nous tire de notre repos. Réveille-nous avec joie pour ton Nom, par Jésus-Christ, notre Seigneur.\r\nAmen.",
+	"Text": "Dans ta bonté, Seigneur, fait briller ta lumière sur notre nuit. [t] Illumine le sommeil de tes serviteurs par la présence de ta paix. [*] Que l'éclat du jour nouveau nous tire de notre repos. Réveille-nous avec joie pour ton Nom, par Jésus-Christ, notre Seigneur.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Traduit cette prière."
 	],
