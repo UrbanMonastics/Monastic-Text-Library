@@ -18,7 +18,15 @@
 		"141": "Je suis insignifiant et méprisé,\r\n\tmais je n'oublie pas tes préceptes.\r\n",
 		"142": "Ta justice est éternelle,\r\n\tet ta loi est la vérité.\r\n",
 		"143": "La détresse et l'angoisse m'ont saisi,\r\n\tpourtant tes commandements font mon plaisir.\r\n",
-		"144": "Tes lois sont éternellement justes ;\r\n\tdonne-moi la compréhension, afin que je vive.\r\n\r\n"
+		"144": "Tes lois sont éternellement justes ;\r\n\tdonne-moi la compréhension, afin que je vive.\r\n\r\n",
+		"145": "J'ai appelé de tout mon cœur : réponds-moi, SEIGNEUR !\r\n\tJe garderai tes statues.\r\n",
+		"146": "J'ai appelé à toi, sauve-moi\r\n\tet je garderai tes statues.\r\n\r\n",
+		"147": "Avant l'aube, je me lève et implore de l'aide.\r\n\tJ'espère en tes paroles.\r\n",
+		"148": " Mes yeux anticipent les veilles de la nuit\r\n\tpour méditer ta promesse.\r\n\r\n",
+		"149": "Écoute ma voix dans ta fidélité.\r\n\tRanime-moi, SEIGNEUR, conformément à tes jugements.\r\n",
+		"150": "Ceux qui courent après le mal s'approchent ;\r\n\tils s'éloignent de ta loi.\r\n\r\n",
+		"151": " Pourtant, tu es plus proche, SEIGNEUR,\r\n\tet tous tes commandements sont vrais.\r\n",
+		"152": "Il y a longtemps que j'ai appris par tes témoignages.\r\n\tJe sais que tu les as établis pour durer toujours.\r\n\r\n"
 	},
 	"InlineTitles": {
 		"137": "Tsadi • 18"
@@ -37,7 +45,8 @@
 		}
 	},
 	"Changes": [
-		"2024-05-27 - Paul Prins: Première traduction du psaume 119:137-144 basée sur le grec, le latin et un peu d'hébreu."
+		"2025-01-18 - Paul Prins: Première traduction des versets 145-152 basée sur le grec, le latin et un peu d'hébreu.",
+		"2024-05-27 - Paul Prins: Première traduction des versets 137-144 basée sur le grec, le latin et un peu d'hébreu."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"
 }

@@ -14,8 +14,15 @@
 		"141": "Adulescéntulus sum ego et contémptus ; [*]\r\n\tmandáta tua non sum oblítus.\r\n",
 		"142": "Iustítia tua iustítia in ætérnum, [*]\r\n\tet lex tua véritas.\r\n",
 		"143": "Tribulátio et angústia invernérunt me ; [*]\r\n\tpræcépta tua delectátio mea est.\r\n",
-		"144": "Iustíta testimónia tua in ætérnum ; [*]\r\n\tintelléctum da mihi et vivam.\r\n\r\n"
-
+		"144": "Iustíta testimónia tua in ætérnum ; [*]\r\n\tintelléctum da mihi et vivam.\r\n\r\n",
+		"145": "Clamávi in toto corde, exáudi me, Dómine; [*]\r\n\tiustificatiónes tuas servábo.\r\n",
+		"146": "Clamávi ad te, salvum me fac, [*]\r\n\tut custódiam testimónia tua.\r\n\r\n",
+		"147": "Prævéni dilúculo et clamávi, [*]\r\n\tin verba tua supersperávi.\r\n",
+		"148": "Prævenérunt óculi mei vigílias, [*]\r\n\tut meditárer elóquia tua.\r\n\r\n",
+		"149": "Vocem meam audi secúndum misericórdiam tuam, Dómine, [*]\r\n\tsecúndum iudícium tuum vivífica me.\r\n",
+		"150": "Appropinquavérunt persequéntes me in malítia, [*]\r\n\ta lege autem tua longe facti sunt.\r\n\r\n",
+		"151": "Prope es tu, Dómine, [*]\r\n\tet ómnia præcépta tua véritas.\r\n",
+		"152": "Ab inítio cognóvi de testimóniis tuis, [*]\r\n\tquia in ætérnum fundásti ea.\r\n\r\n"
 	},
 	"InlineTitles": {
 		"1": "Aleph • I • א",
@@ -55,6 +62,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-18 - Paul Prins: Added verses 145-152",
 		"2024-05-27 - Paul Prins: Added verses 137-144"
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"

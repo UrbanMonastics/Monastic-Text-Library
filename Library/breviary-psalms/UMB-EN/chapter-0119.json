@@ -18,7 +18,15 @@
 		"141": " Though I am lowly and despised, [*]\r\n\tI do not forget Your precepts.\r\n",
 		"142": "Your righteousness is everlasting, [*]\r\n\tand Your law is truth.\r\n",
 		"143": "Trouble and anguish have seized me, [*]\r\n\tyet Your commandments are my delight.\r\n",
-		"144": "Your laws are righteous forever; [*]\r\n\tgive me understanding so that I may live.\r\n\r\n"
+		"144": "Your laws are righteous forever; [*]\r\n\tgive me understanding so that I may live.\r\n\r\n",
+		"145": "I called out with all my heart; answer me, LORD! [*]\r\n\tI will keep your statues.\r\n",
+		"146": "I called out to You, save me [*]\r\n\tand I will keep Your statues.\r\n\r\n",
+		"147": "Before dawn, I rise and cry for help. [*]\r\n\tI hope in Your words.\r\n",
+		"148": "My eyes anticipate the night watches, [*]\r\n\tthat I may meditate on Your promise.\r\n\r\n",
+		"149": "Hear my voice in Your faithfulness. [*]\r\n\tRevive me, LORD, according to Your judgments.\r\n",
+		"150": "Those who chase after wickedness are drawing near; [*]\r\n\tthey are far from Your law.\r\n\r\n",
+		"151": "Yet, You are nearer, LORD, [*]\r\n\tand all Your commandments are true.\r\n",
+		"152": "Long ago, I learned from Your testimonies. [*]\r\n\tI know You established them to endure forever.\r\n\r\n"
 	},
 	"InlineTitles": {
 		"1": "Alef • 1 • א",
@@ -59,6 +67,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-18 - Paul Prins: First translation of verses 145-152 based on Greek, Latin, and some Hebrew",
 		"2024-06-09 - Paul Prins: Use american english word judgment",
 		"2024-05-27 - Paul Prins: First translation of psalm 119:137-144 based on Greek, Latin, and some Hebrew"
 	],
