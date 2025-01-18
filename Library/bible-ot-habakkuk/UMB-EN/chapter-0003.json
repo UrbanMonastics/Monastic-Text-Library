@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-ot-habakkuk",
+	"Description": "",
+	"Chapter": "3",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "A prayer of Habakkuk the prophet, according to Shigionoth.\r\n\r\n",
+		"2": "LORD, I have heard what You proclaimed, and was seized by fear.\r\nLORD, revive Your work in our years.\r\nMake it known in the midst of years.\r\nIn wrath, remember mercy.",
+		"3": "God comes from Teman.\r\nThe Holy One from Mount Paran.\r\nselah\r\nHis splendor covers the heavens,\r\nand His praise fills the earth.\r\n",
+		"4": "His splendor is like sunlight.\r\nLight rays flashes from His hand;\r\nthere His power is hidden.\r\n",
+		"5": "Plague goes before Him.\r\nPestilence follows His footsteps.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-01-19": ["Peer-Review"],
+				"2025-01-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-01-18 - Paul Prins: Initial translation of verses 1-5."
+	],
+	"FootNotes": {
+	},
+	"License": "© 2025 Urban Monastics, Paris"
+}

@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-ot-habakkuk",
+	"Description": "",
+	"Chapter": "3",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Prière d'Habakuk, le prophète, selon Shigionoth.\r\n\r\n",
+		"2": "SEIGNEUR, j'ai entendu ce que tu as annoncé et j'ai été saisi de crainte.\r\nSEIGNEUR, ravive ton oeuvre dans nos années.\r\nFais-la connaître dans le cours des années.\r\nDans ta colère, souviens-toi de la compassion.\r\n",
+		"3": "Dieu vient de Théman.\r\nLe Saint vient du mont de Paran.\r\nselah\r\nSa splendeur couvre les cieux\r\net sa gloire remplit la terre.\r\n",
+		"4": "Sa splendeur est comme la lumière du soleil.\r\nDes rayons de lumière partent de sa main,\r\nlà se cache sa force.\r\n",
+		"5": "La peste avance devant lui.\r\nLa pestilence suit ses pas.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-01-19": ["Peer-Review"],
+				"2025-01-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-01-18 - Paul Prins: Première traduction des versets 1-5."
+	],
+	"FootNotes": {
+	},
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
