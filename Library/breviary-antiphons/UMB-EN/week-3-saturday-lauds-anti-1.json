@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "In the morning, [*] Lord, I meditate on You.",
+	"Extra": {
+		"Reference": ["Psalm 63:6"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-01-19": ["Peer-Review"],
+				"2025-01-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-01-18 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
