@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty God, you who forever reign over the heavens and the earth. [t] In your kindness, hear and answer the prayers of your people. [*] Grace the moments of our days with your perfect peace, through Jesus Christ.",
+	"Text": "Almighty God, it is You who reign forever over the heavens and the earth. [t] In Your kindness, hear and answer the prayers of Your people. [*] Grace the moments of our days with Your perfect peace, through Jesus Christ.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2025-01-19 - Paul Prins: Update this prayer and fix divine pronouns.",
 		"2024-01-29 - Paul Prins: First translation of this prayer."
 	],
 	"License": "© 2024 Urban Monastics, Paris"
