@@ -1,0 +1,18 @@
+{
+	"Abbreviation": "bible-ot-wisdom",
+	"Title": {
+		"default": "חֲבַקּוּקַ",
+		"UMB-EN": "The Wisdom of Solomon",
+		"BMU-FR": "La Sagesse de Salomon",
+		"eng": "Wisdom",
+		"fra": "Sagesse"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"SegmentTitles": false,
+	"Verses": true,
+	"Notes": ""
+}
