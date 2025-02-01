@@ -1,0 +1,51 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-ot-wisdom",
+	"Description": "",
+	"Chapter": "9",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LXX", "LH"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "God of my ancestors and Lord of mercy,\r\n\tby Your Word You made all things.\r\n",
+		"2": "In Your wisdom, Your Word formed humankind\r\n\tto rule over the creatures You have made.\r\n",
+		"3": "Your Word governs the world in holiness and righteousness,\r\n\tand, from your uprightness, You render your judgement.\r\n",
+		"4": "Give me the Wisdom that sits beside Your throne.\r\n\tDo not cast me out from among Your children.\r\n",
+		"5": "I am your servant, the child of Your female servant.\r\n\tI am one who is weak and short-lived\r\n\twho is lacking in understand of judgement and laws.\r\n\r\n",
+		"6": "For anyone who is perfect among mortals\r\n\twill be regarded as nothing\r\n\twithout the Wisdom that comes from You.\r\n",
+		"7": "You have chosen me to be king over Your people\r\n\tand to be the judge over Your children.\r\n",
+		"8": "You have spoken that a temple be built on Your holy mountain\r\n\tand an alter in the city where You dwell.\r\nIt shall be a copy of the holy tabernacle\r\n\tYou had established from the beginning.\r\n\r\n",
+		"9": "Now with You is Wisdom. She who knows Your works\r\n\tand was with You when You made the cosmos.\r\nShe understands what is pleasing in Your eyes\r\n\tand what is right according to Your commands.\r\n\r\n",
+		"10": "Send Her from Your most Holy heavens.\r\n\tFrom Your glorious throne, send Her.\r\nLet Her work with me, by my side,\r\n\tthat She may teach me what is pleasing to You.\r\n",
+		"11": "For She knows and understands all things,\r\n\tHer wisdom will guide my actions,\r\n\tand in Her glory, She will keep me.\r\n",
+		"12": "Then my works will be acceptable,\r\n\tand I shall judge Your people justly,\r\n\tand be worthy of my father's throne.\r\n\r\n",
+		"13": "What person can discover God's purpose?\r\n\tWho can understand the Lord's will?\r\n",
+		"14": "For the reasoning of mortals is worthless\r\n\tand unstable are our plans.\r\n",
+		"15": "The perishable body weighs down the soul,\r\n\tand this earthly corpse burdens the thoughtful mind.\r\n",
+		"16": "We can hardly imagine what is on the earth,\r\n\tand, with difficulty, we grasp what is at hand.\r\n\tWho then has discovered what is in heaven?\r\n",
+		"17": "Who would have known Your will,\r\n\tif You had not given your Wisdom\r\n\tand sent Your Holy Spirit from on high?\r\n",
+		"18": "And this is how the paths of those on earth were made straight,\r\n\tand people learned what pleases You,\r\n\tand, by Wisdom, they were saved." 
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-01-19": ["Peer-Review"],
+				"2025-01-18": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-01- Paul Prins: Initial translation of verses 1-18 from greek."
+	],
+	"FootNotes": {
+	},
+	"License": "© 2025 Urban Monastics, Paris"
+}

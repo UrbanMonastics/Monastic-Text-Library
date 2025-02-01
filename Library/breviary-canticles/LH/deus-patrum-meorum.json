@@ -1,20 +1,20 @@
 {
 	"TextAbbreviation": "deus-patrum-meorum",
 	"SourceAbbreviation": "breviary-canticles",
-	"Title": "Domine, de mihi Sapientiam",
+	"Title": "Dómine, da mihi Sapientiam",
 	"Description": "From Wisdom 9:1-6,9-11",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": "",
-		"6": "",
-		"9": "",
-		"10": "",
-		"11": ""
+		"1": "Deus patrum meórum et Dómine misericórdiæ, [*]\r\n\tqui fecísti ómnia verbo tuo\r\n",
+		"2": "et sapiéntia tua constituísti hóminem, [*]\r\n\tut dominarétur creatúris quæ a te factæ sunt,\r\n",
+		"3": "et dispóneret orbem terrárum in sanctitáte et iustítia [*]\r\n\tet in directióne cordis iudícium iudicáret,\r\n",
+		"4": "da mihi sédium tuárum assistrícem sapiéntiam [*]\r\n\tet noli me reprobáre a púeris tuis,\r\n",
+		"5": "quóniam servus tuus sum ego et fílius ancíllæ tuæ, [t]\r\n\thomo infírmus et exígui témporis [*]\r\n\tet minor ad intelléctum iudícii et legum.\r\n\r\n",
+		"6": "Nam, et si quis erit consummátus inter fílios hóminum, [t]\r\n\tsi ab illo abfúerit sapiéntia tua, [*]\r\n\tin níhilum computábitur.\r\n\r\n",
+		"9": "Et tecum sapiéntia, quæ novit ópera tua, [*]\r\n\tquæ et áffuit tunc, cum orbem terrárum fáceres,\r\net sciébat quid esset plácitum in óculis tuis [*]\r\n\tet quid diréctum in præcéptis tuis.\r\n",
+		"10": "Emítte illam de cælis sanctis tuis [*]\r\n\tet a sede magnitúdinis tuæ mitte illam,\r\nut mecum sit et mecum labóret, [*]\r\n\tut sciam quid accéptum sit apud te.\r\n",
+		"11": "Scit enim illa ómnia et intéllegit [t]\r\n\tet dedúcet me in opéribus meis sóbrie [*]\r\n\tet custódiet me in sua glória."
 	},
 	"Extra": {
 		"Reference" : ["Wisdom 9:1-6,9-11"],
@@ -23,8 +23,8 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"YYYY-MM-D2": ["Peer-Review"],
-				"YYYY-MM-DD": [
+				"2025-01-19": ["Peer-Review"],
+				"2025-01-18": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -33,7 +33,7 @@
 		}
 	},
 	"Changes": [
-		"YYYY-MM-DD - Paul Prins: Added this text."
+		"2025-01-18 - Paul Prins: Added this text."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

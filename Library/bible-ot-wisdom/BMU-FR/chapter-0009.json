@@ -1,0 +1,51 @@
+{
+	"TextAbbreviation": "chapter-0009",
+	"SourceAbbreviation": "bible-ot-wisdom",
+	"Description": "",
+	"Chapter": "9",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LXX", "LH"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "Dieu de mes ancêtres et Seigneur de miséricorde,\r\n\tpar ta Parole, tu as créé toutes choses.\r\n",
+		"2": "Dans ta sagesse, ta Parole a formé l'humanité\r\n\tpour qu'elle règne sur les créatures que tu as créées.\r\n",
+		"3": "Ta Parole gouverne le monde dans la sainteté et la justice,\r\n\tet c'est de votre droiture que vous rendez votre jugement.\r\n",
+		"4": "Donne-moi la Sagesse, qui est assise près de ton trône.\r\n\tNe me chasse pas du milieu de tes enfants.\r\n",
+		"5": "Je suis ton serviteur, l'enfant de ta servante.\r\n\tJe suis quelqu'un de frêle et qui dure peu,\r\n\tqui a manqué de compréhension du jugement et des lois.\r\n\r\n",
+		"6": "Car quiconque est parfait parmi les mortels\r\n\tsera considéré comme rien\r\n\tsans la Sagesse qui vient de toi.\r\n",
+		"7": "Tu m'as choisi pour être le roi sur ton peuple\r\n\tet pour être le juge de tes enfants.\r\n",
+		"8": "Tu as ordonné de bâtir un temple sur ta montagne sacrée\r\n\tet d'en faire un autel dans la ville où tu demeures.\r\nCe sera une imitation du saint tabernacle\r\n\tque tu as fondé dès l'origine.\r\n\r\n",
+		"9": "Or, la Sagesse est avec Toi. Elle qui sait tes œuvres\r\n\tet qui était avec toi quand tu fis le cosmos.\r\nElle connaît ce qui plaît à tes yeux\r\n\tet ce qui est conforme à tes commandements.\r\n",
+		"10": "Envoie-La de tes cieux très saints\r\n\tet de ton trône glorieux, envoie-La.\r\nQu'elle travaille avec moi, à mes côtés,\r\n\tafin qu'elle apprenne ce qui te plaît.\r\n",
+		"11": "Car elle sait tout et comprend tout,\r\n\tsa sagesse guidera mes actions\r\n\tet, dans sa gloire, elle me gardera.\r\n",
+		"12": "Alors mes œuvres seront agréables,\r\n\tet je jugerai ton peuple avec justice, \r\n\tet serai digne du trône de mon père.\r\n\r\n",
+		"13": "Quelle personne peut découvrir le dessein de Dieu ?\r\n\tQui peut comprendre la volonté du Seigneur ?\r\n",
+		"14": "Car les raisonnements des mortels sont sans valeur,\r\n\tet nos plans sont instables.\r\n",
+		"15": " Le corps périssable appesantit l'âme,\r\n\tet ce cadavre terrestre alourdit l'esprit réfléchi.\r\n",
+		"16": "Nous avons peine à imaginer ce qui est sur la terre\r\n\tet nous appréhendons difficilement ce qui est à portée de main.\r\n\tQui donc a découvert ce qu'il y a au ciel ?\r\n",
+		"17": "Qui aurait connu ta volonté,\r\n\tsi tu n'avais pas donné ta Sagesse\r\n\tet envoyé d'en haut ton Esprit Saint ?\r\n",
+		"18": "C'est ainsi que les sentiers des habitants de la terre ont été aplanis,\r\n\tet les peuples ont appris ce qui te plaît,\r\n\tet, par la Sagesse, ils ont été sauvés."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-02": ["Peer-Review"],
+				"2025-02-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-01 - Paul Prins: Première traduction des versets 1-18."
+	],
+	"FootNotes": {
+	},
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

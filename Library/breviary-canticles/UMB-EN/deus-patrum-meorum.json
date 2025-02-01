@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "deus-patrum-meorum",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Lord, Give me Wisdom",
+	"Description": "From Wisdom 9:1-6,9-11",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Verses": {
+		"1": "God of my ancestors and Lord of mercy, [*]\r\n\tby Your Word You made all things.\r\n",
+		"2": "In Your wisdom, Your Word formed humankind [*]\r\n\tto rule over the creatures You have made.\r\n",
+		"3": "Your Word governs the world in holiness and righteousness, [*]\r\n\tand, from your uprightness, You render your judgement.\r\n",
+		"4": "Give me the Wisdom that sits beside Your throne. [*]\r\n\tDo not cast me out from among Your children.\r\n",
+		"5": "I am your servant, the child of Your female servant. [t]\r\n\tI am one who is weak and short-lived [*]\r\n\twho is lacking in understand of judgement and laws.\r\n\r\n",
+		"6": "For anyone who is perfect among mortals [t]\r\n\twill be regarded as nothing [*]\r\n\twithout the Wisdom that comes from You.\r\n\r\n",
+		"9": "Now with You is Wisdom. She who knows Your works [*]\r\n\tand was with You when You made the cosmos.\r\nShe understands what is pleasing in Your eyes [*]\r\n\tand what is right according to Your commands.\r\n",
+		"10": "Send Her from Your most Holy heavens. [*]\r\n\tFrom Your glorious throne, send Her.\r\nLet Her work with me, by my side, [*]\r\n\tthat She may teach me what is pleasing to You.\r\n",
+		"11": "For She knows and understands all things, [t]\r\n\tHer wisdom will guide my actions, [*]\r\n\tand in Her glory, She will keep me."
+	},
+	"Extra": {
+		"Reference" : ["Wisdom 9:1-6,9-11"],
+		"LiturgiaeHorarum-Index": 11,
+		"LiturgiaeHorarum-Cantica": "VT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-02": ["Peer-Review"],
+				"2025-02-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-01 - Paul Prins: First translation based on Greek, and Latin."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
