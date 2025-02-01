@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-feast-presentation-of-jesus",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et éternel, nous t'adressons cette humble prière. [t] Aujourd'hui, nous nous souvenons de ton Fils unique.  Qu'il ait revêtu notre chair et qu'il ait été présenté au Temple. [*] Laisse-nous, de même, nous présenter devant toi avec des âmes purifiées par Jésus-Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-02": ["Peer-Review"],
+				"2025-02-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-01 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

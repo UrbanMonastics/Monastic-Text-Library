@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "concluding-feast-presentation-of-jesus",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, we address this humble prayer to You. [t] Today, we remember Your only begotten Son. That He took on our flesh and was presented in the Temple. [*] Let us, likewise, present ourselves before You with souls purified through Jesus Christ.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-02": ["Peer-Review"],
+				"2025-02-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-01 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
