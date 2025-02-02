@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-gospel-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Lumen [*] ad revelatiónem géntium, et glóriam plebis tuæ Israel.",
+	"Extra": {
+		"Reference": ["Luke 2:32"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

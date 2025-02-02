@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Simeon, righteous [*] and devout, looked forward to the consolation of Israel and the Holy Spirit was upon him.",
+	"Extra": {
+		"Reference": ["Luke 2:25"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

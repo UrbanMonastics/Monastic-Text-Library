@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-gospel-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Simeon iustus [*] et timorátus expectábat redemptiónem Israel, et Spíritus Sanctus erat in eo.",
+	"Extra": {
+		"Reference": ["Luke 2:25"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

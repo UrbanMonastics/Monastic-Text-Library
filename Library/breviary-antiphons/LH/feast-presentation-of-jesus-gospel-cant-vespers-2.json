@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-gospel-cant-vespers-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Hodie [*] beáta Virgo María púerum Iesum præsentávit in templo; et Símeon, replétus Spíritu Sancto, accépit eum in ulnas suas et benedíxit Deum, allelúia.",
+	"Extra": {
+		"Reference": ["Luke 2:27-28"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
