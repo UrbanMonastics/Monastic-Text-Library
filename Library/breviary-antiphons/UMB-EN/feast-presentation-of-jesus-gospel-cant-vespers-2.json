@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-gospel-cant-vespers-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Today, [*] the blessed Virgin Mary presented the infant Jesus in the Temple. Simeon, filled with the Holy Spirit, took the Christ into his arms and blessed God. Alleluia.",
+	"Extra": {
+		"Reference": ["Luke 2:27-28"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

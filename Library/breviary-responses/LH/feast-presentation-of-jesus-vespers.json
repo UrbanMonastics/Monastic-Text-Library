@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-vespers",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Notum fecit Dómninus Salutáre suum.\r\n[R] Notum fecit Dómninus [*] Salutáre suum.\r\n[V] Quod parávit ante fáciem ómnium populó rum.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

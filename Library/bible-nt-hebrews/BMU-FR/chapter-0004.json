@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0004",
+	"SourceAbbreviation": "bible-nt-hebrews",
+	"Chapter": "4",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"12": "\tCar la Parole de Dieu est vivante et efficace. Plus tranchante qu'une épée à double tranchant, elle pénètre jusqu'à la séparation de l'âme et de l'esprit, des jointures et des moelles. Elle juge les pensées et les sentiments du cœur. ",
+		"13": "Aucune créature n'est cachée à sa vue. Tout est nu et ouvert aux yeux de celui à qui nous devons rendre compte.\r\n",
+		"14": "\tNous avons un grand prêtre qui est monté au ciel, Jésus, le Fils de Dieu. Ainsi, restons fermement attachés à la foi que nous professons. ",
+		"15": "Car nous n'avons pas un grand prêtre qui ne puisse compatir à nos faiblesses. Au contraire, nous avons quelqu'un qui a été tenté de toutes les manières que nous pourrions l'être, mais qui est sans péché. ",
+		"16": "Approchons-nous donc avec confiance du trône de la grâce. Nous pourrons alors recevoir la miséricorde et trouver la grâce de nous aider dans nos moments de besoin."
+	},
+	"InlineTitles": {
+		"14": "Jésus, notre Grand Prêtre"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-02": ["Peer-Review"],
+				"2021-05-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: Première traduction des versets 12-16 basée sur le grec."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

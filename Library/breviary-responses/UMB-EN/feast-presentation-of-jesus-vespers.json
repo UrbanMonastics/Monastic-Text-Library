@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "feast-presentation-of-jesus-vespers",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] The Lord has made known His salvation.\r\n[R] The Lord has made known [*] His salvation.\r\n[V] He has prepared it before the eyes of all people.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-03": ["Peer-Review"],
+				"2025-02-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-02 - Paul Prins: Initial translation from Latin"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
