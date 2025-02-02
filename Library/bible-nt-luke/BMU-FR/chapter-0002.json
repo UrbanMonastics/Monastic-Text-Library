@@ -13,9 +13,21 @@
 		"11": "Car aujourd'hui, dans la ville de David, un sauveur est né pour tous. Il est le Christ, le Seigneur. ",
 		"12": "Et ceci sera un signe pour vous : vous trouverez un bébé emmailloté et couché dans une crèche. »\r\n",
 		"13": "\tEt soudain, une multitude d'anges célestes apparurent avec l'ange, louant Dieu et disant : ",
-		"14": "« Gloire à Dieu dans les lieux très hauts ! Et paix sur la terre ! Le désir de Dieu pour tous les peuples ! »\r\n"
+		"14": "« Gloire à Dieu dans les lieux très hauts ! Et paix sur la terre ! Le désir de Dieu pour tous les peuples ! »\r\n",
+		"25": "\tOr, il y avait à Jérusalem un homme appelé Siméon. Il était juste et pieux, et il attendait la consolation d'Israël. L'Esprit Saint était sur lui. ",
+		"26": "Le Saint-Esprit lui avait révélé qu'il ne voyait pas sa mort avant d'avoir vu le Christ du Seigneur. ",
+		"27": "Poussé par l'Esprit, il se rendit au temple. Les parents apportèrent l'enfant Jésus pour accomplir à son sujet ce que la Loi prescrivait. ",
+		"28": "Siméon prit l'enfant dans ses bras et bénit Dieu. Il dit ,\r\n",
+		"29": "« Seigneur, maintenant laisse partir ton serviteur en paix.\r\n\tTu as tenu ta promesse.\r\n",
+		"30": "Car mes yeux ont vu ton salut,\r\n",
+		"31": "\tque tu as préparé à la vue de tous les personnes.\r\n",
+		"32": "Une lumière de révélation pour les nations,\r\n\tet la gloire de ton peuple d'Israël. »\r\n",
+		"33": "\tLe père et la mère de l'enfant étaient émerveillés de ce qu'on disait de lui. ",
+		"34": "Alors Siméon les bénit, et il dit à Marie, sa mère : « Voici, cet enfant est destiné à amener la chute et le relèvement de beaucoup en Israël. Il est un signe auquel on s'opposera, ",
+		"35": "car, en fin de compte, c'est par lui que seront révélées les pensées d'un grand nombre. Cela vous transpercera même l'âme avec une épée. »\r\n"
 	},
 	"InlineTitles": {
+		"22": "Jésus présenté au Temple"
 	},
 	"Extra": {
 		"Writing":{
@@ -31,7 +43,8 @@
 		}
 	},
 	"Changes": [
+		"2025-02-02 - Paul Prins: Premier traduction du chapitre 2:25-35.",
 		"2022-12-22 - Paul Prins: Premier traduction du chapitre 2:10-14."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }

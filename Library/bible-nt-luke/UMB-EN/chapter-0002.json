@@ -13,9 +13,21 @@
 		"11": "For today, in the city of David, a savior was born for all. He is Christ the Lord. ",
 		"12": "And this will be a sign for you: you will find a baby wrapped in cloth, and lying in a manger.\"\r\n",
 		"13": "\tThen suddenly a multitude of heavenly angels appeared with the angel, praising God, and saying, ",
-		"14": "\"Glory to God in the highest! And peace on earth! God's desire for all peoples!\"\r\n"
+		"14": "\"Glory to God in the highest! And peace on earth! God's desire for all peoples!\"\r\n",
+		"25": "\tAnd there was a man in Jerusalem called Simeon. He was righteous and devout, and was looking forward to the consolation of Israel. The Holy Spirit was upon him. ",
+		"26": "It has been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. ",
+		"27": "Moved by the Spirit, he went into the temple. The parents brought the child Jesus brought in to carry out the custom of the Law. ",
+		"28": "Then Simeon took the Child into his arms and blessed God. He said,\r\n",
+		"29": "\"Lord, now let Your servant go in peace.\r\n\tYou have kept Your promise.\r\n",
+		"30": "For my eyes have seen Your salvation,\r\n",
+		"31": "\twhich You prepared in the sight of all people.\r\n",
+		"32": "A light of revelation for the nations,\r\n\tand the glory of Your people Israel.\"\r\n",
+		"33": "\tThe Child's father and mother marveled at what was said about Him. ",
+		"34": "Then Simeon blessed them and said to His mother Mary, \"Behold, this Child is destined to cause the fall and rise of many in Israel. He is a sign that will be opposed, ",
+		"35": "for in the end through Him the thoughts of many will be revealed. This will even pierce your own soul with a sword.\"\r\n"
 	},
 	"InlineTitles": {
+		"22": "Jesus Presented in the Temple"
 	},
 	"Extra": {
 		"Writing":{
@@ -31,7 +43,8 @@
 		}
 	},
 	"Changes": [
+		"2025-02-02 - Paul Prins: First translation of chapter 2:25-35.",
 		"2022-12-22 - Paul Prins: First translation of chapter 2:10-14."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }
