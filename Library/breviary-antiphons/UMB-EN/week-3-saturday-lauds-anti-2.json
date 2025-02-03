@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "May your Wisdom, Lord, [*] be with me.",
+	"Extra": {
+		"Reference": ["Wisdom 9:10"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

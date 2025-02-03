@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds-anti-2-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Roráte, cæli, désuper [*] et nubes pluant Iustum; aperiátur terra et gérminet Salvatórem.",
+	"Extra": {
+		"Reference": ["Isaiah 45:8"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

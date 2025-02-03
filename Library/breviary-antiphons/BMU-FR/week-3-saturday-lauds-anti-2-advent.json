@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds-anti-2-advent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Pleuvoir, les cieux, [*] d'en haut, et que les nuages déversent la justice. Que la terre s'entrouvre et qu'elle produise le salut ",
+	"Extra": {
+		"Reference": ["Isaiah 45:8"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

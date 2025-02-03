@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds-anti-2-eastertide",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Iterum [*] vidébo vox, allelúia, et gaudébit cor vestrum, allelúia allelúia.",
+	"Extra": {
+		"Reference": ["John 16:22"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
