@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "16",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"19": "\tJésus savait qu'ils voulaient l'interroger. Il leur dit : « Vous vous interrogez les uns les autres sur ce que j'ai dit : Encore un peu de temps, et vous ne me verrez pas, et un peu plus tard, et vous me reverrez. ",
+		"20": "En vérité, en vérité, je vous le dis, vous pleurerez et vous vous lamenterez, tandis que le monde se réjouira. Vous serez dans la tristesse, mais votre tristesse se changera en joie ! ",
+		"21": "Une femme qui accouche souffre, car son heure est venue. Puis, lorsqu'elle donne naissance à son enfant, elle ne se souvient plus de l'angoisse à cause de sa joie de voir son enfant venir au monde. ",
+		"22": "Vous avez donc maintenant de la tristesse, mais je vous reverrai et votre cœur se réjouira. Alors, personne ne t'enlèvera ta joie. ",
+		"23": "Ce jour-là, vous ne m'interrogerez sur rien. En vérité, en vérité, je vous le dis, si vous demandez quelque chose au Père en mon nom, il vous le donnera. ",
+		"24": "Jusqu'à présent, vous n'avez rien demandé en mon nom. Demandez et vous recevrez, afin que votre joie soit complète. »"
+	},
+	"InlineTitles": {
+		"17": "Leur Tristesse se Changera en Joie"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: Premier traduction du versets 19-24"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

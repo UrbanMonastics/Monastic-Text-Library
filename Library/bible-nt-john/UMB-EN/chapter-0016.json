@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0016",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "16",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"19": "\tJesus knew that they wanted to question Him. He said to them, \"Are you asking one another what I meant when I said, 'In a little while, and you will not see Me, and then a little while later, and you will see Me?' ",
+		"20": "Truly, truly, I tell you that you will weep and mourn while the world rejoices. You will grieve, but your grief will be turned into joy! ",
+		"21": "A woman in labor has pain, because her time has come. Then, when she gives birth to her child, she no longer remembers the anguish because of the joy that her child is born into the world. ",
+		"22": "So you now have grief, but I will see you again and your heart will rejoice. Then, no one is going to take away your joy. ",
+		"23": "On that day, you will not question Me about anything. Truly, truly, I tell you if you ask the Father for anything in My name, He will give it to you. ",
+		"24": "Until now, you have not asked for anything in My name. Ask and you will receive, so that your joy may be complete.\"\r\n"
+	},
+	"InlineTitles": {
+		"17": "Their Grief will Turn to Joy"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: First translation of verses 19-24."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
