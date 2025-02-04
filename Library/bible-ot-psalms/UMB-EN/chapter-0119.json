@@ -29,8 +29,28 @@
 		"152": "Long ago, I learned from Your testimonies.\r\n\tI know You established them to endure forever.\r\n\r\n"
 	},
 	"InlineTitles": {
-		"137": "Tsadhe • 18",
-		"145": " • 19"
+		"1": "Aleph • I • א",
+		"9": "Beth • II • ב",
+		"17": "Ghimel • III • ג",
+		"25": "Daleth • IV • ד",
+		"33": "He • V • ה",
+		"41": "Vau • VI • ו",
+		"49": "Zain • VII • ז",
+		"57": "Heth • VIII • ח",
+		"65": "Teth • IX • ט",
+		"73": "Iod • X • י",
+		"81": "Caph • XI • כ",
+		"89": "Lamed • XII • ל",
+		"97": "Mem • XIII • מ",
+		"105": "Nun • XIV • נ",
+		"113": "Samech • XV • ס",
+		"121": "Ain • XVI • ע",
+		"129": "Phe • XVII • פ",
+		"137": "Sade • XVIII • צ",
+		"145": "Coph • XIX • ק",
+		"153": "Res • XX • ר",
+		"161": "Sin • XXI • ש",
+		"169": "Tau • XXII • ת"
 	},
 	"Extra": {
 		"Writing":{

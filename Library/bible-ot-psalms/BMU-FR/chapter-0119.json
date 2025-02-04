@@ -29,7 +29,28 @@
 		"152": "Il y a longtemps que j'ai appris par tes témoignages.\r\n\tJe sais que tu les as établis pour durer toujours.\r\n\r\n"
 	},
 	"InlineTitles": {
-		"137": "Tsadi • 18"
+		"1": "Aleph • 1 • א",
+		"9": "Beth • 2 • ב",
+		"17": "Gimel • 3 • ג",
+		"25": "Dalet • 4 • ד",
+		"33": "He • 5 • ה",
+		"41": "Vav • 6 • ו",
+		"49": "Zayin • 7 • ז",
+		"57": "Het • 8 • ח",
+		"65": "Tet • 9 • ט",
+		"73": "Yod • 10 • י",
+		"81": "Kaf • 11 • כ",
+		"89": "Lamed • 12 • ל",
+		"97": "Mem • 13 • מ",
+		"105": "Nun • 14 • נ",
+		"113": "Samech • 15 • ס",
+		"121": "Ayin • 16 • ע",
+		"129": "Pe • 17 • פ",
+		"137": "Tsadi • 18 • צ",
+		"145": "Qof • 19 • ק",
+		"153": "Resh • 20 • ר",
+		"161": "Shin • 21 • ש",
+		"169": "Tau • 22 • ת"
 	},
 	"Extra": {
 		"Writing":{
