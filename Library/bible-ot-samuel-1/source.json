@@ -1,0 +1,18 @@
+{
+	"Abbreviation": "bible-ot-samuel-1",
+	"Title": {
+		"default": "א שְׁמוּאֵל",
+		"UMB-EN": "The Book of First Samuel",
+		"BMU-FR": "Le Livre du Premier Samuel",
+		"eng": "1 Samuel",
+		"fra": "1 Samuel"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "hbo",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"SegmentTitles": false,
+	"Verses": true,
+	"Notes": ""
+}

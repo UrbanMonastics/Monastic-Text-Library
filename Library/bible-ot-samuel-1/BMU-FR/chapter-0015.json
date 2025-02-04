@@ -1,0 +1,34 @@
+{
+	"TextAbbreviation": "chapter-0015",
+	"SourceAbbreviation": "bible-ot-samuel-1",
+	"Description": "",
+	"Chapter": "15",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"22": "Samuel dit :\r\n« Le SEIGNEUR trouve-t-il autant de plaisir dans les holocaustes et les sacrifices\r\n\tqu'à l'obéissance à la voix du SEIGNEUR ?\r\nL'obéissance vaut mieux que les sacrifices\r\n\tet l'attention vaut mieux que la graisse des béliers.",
+		"23": "Car la rébellion est comme le péché de divination,\r\n\tet la résistance comme le mal de l'idolâtrie.\r\nPuisque tu as rejeté la parole de le SEIGNEUR,\r\n\til te rejette aussi comme roi. »\r\n" 
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Première traduction des versets 22-23."
+	],
+	"FootNotes": {},
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
