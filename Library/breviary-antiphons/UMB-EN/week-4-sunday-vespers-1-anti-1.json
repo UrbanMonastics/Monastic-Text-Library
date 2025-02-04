@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "May peace reign [*] within your walls.",
+	"Extra": {
+		"Reference": ["Psalm 122:7"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-03-05": ["Peer-Review"],
+				"2025-03-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-03-04 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

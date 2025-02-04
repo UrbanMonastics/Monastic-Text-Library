@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0122",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Cívitas Sancta Jerúsalem",
+	"Description": "Canticum ascensionum. David.",
+	"Chapter": "122",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Verses": {
+		"1": "Lætátus sum in eo quod dixérunt mihi: [*]\r\n\t\"In domum Dómini íbimus.\"\r\n",
+		"2": "Stantes iam sunt pedes nostri [*]\r\n\tin portis tuis, Ierúsalem.\r\n\r\n",
+		"3": "Ierúsalem, quæ ædificáta est ut cívitas. [*]\r\n\tsibi compácta in idípsum.\r\n",
+		"4": "Illuc enim  ascendérunt tribus, tribus Dómini, [*]\r\n\ttestimónium Israel, ad confiténdum nómini Dómini.\r\n",
+		"5": "Quia illic sedérunt sedes ad iudícium, [*]\r\n\tsedes domus David.\r\n\r\n",
+		"6": "Rogáte quæ ad pacem sunt Ierúsalem: [*]\r\n\t\"Secúri sint diligéntes te!\r\n",
+		"7": "Fiat pax in muris tuis, [*]\r\n\tet secúritas in túrribus tuis!\"\r\n\r\n",
+		"8": "Propter fratres meos et próximos meos [*]\r\n\tloquar: \"Pax in te!\"\r\n",
+		"9": "Propter domum Dómini Dei nostri [*]\r\n\texquíram bona tibi."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Added chapter 126"
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

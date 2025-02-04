@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-1-eastertide",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Vidi supra montem [*] Agnum stantem, de sub cuius pede fons vivus emánat, allelúia.",
+	"Extra": {
+		"Reference": ["Revelation 14:1, 22:1"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

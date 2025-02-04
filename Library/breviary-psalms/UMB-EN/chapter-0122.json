@@ -1,0 +1,42 @@
+{
+	"TextAbbreviation": "chapter-0122",
+	"SourceAbbreviation": "breviary-psalms",
+	"Title": "Jerusalem, The Holy City",
+	"Description": "A Song of Ascent. Of David.",
+	"Chapter": "122",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "I was glad when they said to me, [*]\r\n\t\"Let us go to the house of the LORD.\"\r\n",
+		"2": "Our feet are standing [*]\r\n\twithin your gates, Jerusalem.\r\n\r\n",
+		"3": "Jerusalem, you are built as a city [*]\r\n\tthat is firmly bound together.\r\n",
+		"4": "The tribes go up to you, the tribes of the LORD, [*]\r\n\tas was decreed for Israel, to give thanks to the name of the LORD.\r\n",
+		"5": "For there the thrones of judgement were set, [*]\r\n\tthe thrones of the house of David.\r\n\r\n",
+		"6": "Pray for the peace of Jerusalem, [*]\r\n\t\"May those who love you prosper.\r\n",
+		"7": "May peace reign within your walls, [*]\r\n\tand prosperity within your palaces.\"\r\n\r\n",
+		"8": "For the sake of my family and friends, [*]\r\n\tI will say, \"May peace reign within you.\"\r\n",
+		"9": "For the sake of the House of the LORD our God, [*]\r\n\tI will seek your good."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: First translation of psalm 117 based on Greek, Latin, and some Hebrew"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

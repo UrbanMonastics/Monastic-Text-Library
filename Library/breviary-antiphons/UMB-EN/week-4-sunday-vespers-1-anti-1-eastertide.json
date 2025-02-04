@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-1-eastertide",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "I saw the Lamb [*] standing on the mountain with a living spring flowing from it, alleluia.",
+	"Extra": {
+		"Reference": ["Revelation 14:1, 22:1"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-03-05": ["Peer-Review"],
+				"2025-03-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-03-04 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

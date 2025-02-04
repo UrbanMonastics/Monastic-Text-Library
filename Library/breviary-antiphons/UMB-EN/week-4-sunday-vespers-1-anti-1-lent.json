@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-1-lent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Let us go with joy [*] to the house of the LORD.",
+	"Extra": {
+		"Reference": ["Psalm 122:1"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-03-05": ["Peer-Review"],
+				"2025-03-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-03-04 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
