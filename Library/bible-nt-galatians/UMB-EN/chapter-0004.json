@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-galatians",
+	"Chapter": "3",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tNow I say, as long as an heir is a minor, they are no different from a slave. Even though the heir is the master of all. ",
+		"2": "The heir is subject to guardians and managers until the date set by the father. ",
+		"3": "We also, when we were children, were enslaved under the elementary principles of the world. ",
+		"4": "Then, when the fullness of time came, God sent His Son. He was born by a woman, born under the law ",
+		"5": "to redeem those who were under the law. All that so we might receive adoption as children. ",
+		"6": "Because you are children, God sent the Spirit of His Son into our hearts, crying out, \"Abba! Father!\" ",
+		"7": "Therefore, you are no longer a slave but God's child. If you are a child, you are also an heir by the grace of God.\r\n"
+	},
+	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: First translation of verses 1-7 based on Greek."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

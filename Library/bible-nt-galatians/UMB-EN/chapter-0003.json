@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0003",
+	"SourceAbbreviation": "bible-nt-galatians",
+	"Chapter": "3",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"26": "\tFor you are all children of God through faith in Christ Jesus. ",
+		"27": "For all of you who were baptized into Christ, you have clothed yourselves with Christ. ",
+		"28": "There is neither Jew nor Greek, there is neither slave nor free, this is neither male nor female, for you are all one in Christ Jesus. ",
+		"29": "If you belong to Christ, then you are Abraham's descendants. Then you are heirs according to the promise."
+	},
+	"InlineTitles": {
+		"26": "Children of God"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: First translation of verses 26-29 based on Greek."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

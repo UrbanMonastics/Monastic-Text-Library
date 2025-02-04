@@ -9,6 +9,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
+		"16": "So I say, walk by the Spirit, and you will not fulfill the desire of the flesh. ",
+		"17": "For the desire of the flesh is contrary to the Spirit, and the Spirit is contrary to the flesh. They are in opposition to one another, so that you do not do whatever you want. ",
 		"18": "But if you are led by the Spirit, you are not under the Law. ",
 		"19": "Now, the works of the flesh are obvious. They include sexual immorality, impurity, indecent behavior, ",
 		"20": "idolatry, witchcraft, hostilities, discord, jealousy, outbursts of anger, selfish ambition, dissensions, factions, ",
@@ -17,7 +19,10 @@
 		"23": "gentleness, and self-control. For there is no law against such things.\r\n",
 		"24": "Those who belong to Christ Jesus have now crucified the flesh with its passions and desires. ",
 		"25": "If we live by the Spirit, let us keep in step with the Spirit. ",
-		"26": "Let us not become boastful, provoking, and envying one another. "
+		"26": "Let us not become boastful, provoking, and envying one another. " 
+	},
+	"InlineTitles": {
+		"16": "Life by the Spirit"
 	},
 	"Extra": {
 		"Writing":{
@@ -33,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-03 - Paul Prins: First translation of verses 16-17 based on Greek.",
 		"2024-01-06 - Paul Prins: First translation of verses 18-26 based on Greek."
 	],
 	"License": "© 2024 Urban Monastics, Paris"

@@ -9,6 +9,8 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
+		"16": "Je dis donc : marchez par l'Esprit, et vous n'accomplirez pas le désir de la chair. ",
+		"17": "Car le désir de la chair est contraire à l'Esprit, et l'Esprit est contraire à la chair. chair. Ils s'opposent l'un à l'autre, afin que vous ne fassiez pas ce que vous voulez. ",
 		"18": "Si vous êtes conduits par l'Esprit, vous n'êtes point sous la loi. ",
 		"19": "Or, les œuvres de la chair sont évidentes. Elles incluent l'immoralité sexuelle, l'impureté, l'indécence, ",
 		"20": "l'idolâtrie, la magie, les hostilités, les querelles, les jalousies, les explosions de colère, l'ambition égoïste, les dissensions, les sects, ",
@@ -18,6 +20,9 @@
 		"24": "Ceux qui appartiennent au Jésus-Christ ont maintenant crucifié la chair avec ses passions et ses désirs. ",
 		"25": "Si nous vivons par l'Esprit, marchons au pas de l'Esprit. ",
 		"26": "Ne soyons pas vantards, provocateurs et envieux les uns des autres."
+	},
+	"InlineTitles": {
+		"16": "Vie par l'Esprit"
 	},
 	"Extra": {
 		"Writing":{
@@ -34,6 +39,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-03 - Paul Prins: Première traduction des versets 16-17 basée sur le grec.",
 		"2024-01-06 - Paul Prins: Première traduction des versets 18-26 basée sur le grec."
 	],
 	"License": "© 2023 Urban Monastics, Paris"

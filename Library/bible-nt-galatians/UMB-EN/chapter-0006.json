@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-nt-galatians",
+	"Chapter": "6",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tMy siblings, who are spiritual, listen. Even if someone is caught in any wrongdoing, you should restore that person with a gentle spirit. Watch out for yourselves, so that you are not also tempted. ",
+		"2": "Carry one another's burdens, and so fulfill the law of Christ. ",
+		"3": "For if anyone thinks they are something when they are nothing, they deceive themselves. ",
+		"4": "But each one must examine their own actions. Then they can find pride within themselves, without comparison to someone else. ",
+		"5": "For each one will have to carry their own load.\r\n"
+	},
+	"InlineTitles": {},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-04": ["Peer-Review"],
+				"2025-02-03": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+			}
+		}
+	},
+	"Changes": [
+		"2025-02-03 - Paul Prins: First translation of verses 1-5 based on Greek."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
