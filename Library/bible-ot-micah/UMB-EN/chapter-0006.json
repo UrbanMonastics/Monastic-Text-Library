@@ -1,0 +1,33 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-ot-micah",
+	"Description": "",
+	"Chapter": "6",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"8": "He has shown you, mortal one, what is good.\r\n\tAnd what does the LORD require of you?\r\nThat you do justice, love mercy,\r\n\tand to walk humbly with your God.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Initial translation of verse 9."
+	],
+	"FootNotes": {},
+	"License": "© 2025 Urban Monastics, Paris"
+}

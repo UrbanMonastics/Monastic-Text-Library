@@ -1,0 +1,33 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-ot-micah",
+	"Description": "",
+	"Chapter": "6",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["CODEX-SINAITICUS", "LH", "WLC"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"8": "Il te fait connaître, mortel, ce qui est bien.\r\n\tQu'est-ce que le SEIGNEUR demande de toi ?\r\nQue tu pratiques la justice, que tu aimes la miséricorde\r\n\tet que tu marches humblement avec ton Dieu.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Première traduction de verset 8."
+	],
+	"FootNotes": {},
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
