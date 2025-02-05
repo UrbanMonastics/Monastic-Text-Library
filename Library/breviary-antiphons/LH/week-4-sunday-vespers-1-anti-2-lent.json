@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-2-lent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Surge, qui dormis, [*] et exsúrge a mórtuis, et illuminábit te Christus.",
+	"Extra": {
+		"Reference": ["Ephesians 5:14"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
