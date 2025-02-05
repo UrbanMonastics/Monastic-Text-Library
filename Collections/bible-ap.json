@@ -1,0 +1,21 @@
+{	"Abbreviation": "bible-ap",
+	"Title": {
+		"default": "Apocrypha",
+		"eng": "The Apocryphal Texts",
+		"fra-sta": "Les Textes Apocryphes"
+	},
+	"Description": "The Apocryphal Texts beyond the Deuterocanonical texts which are also Pseudepigrapha ealier included in the Bible",
+	"Collection": [],
+	"Order": [
+		"bible-ap-daniel-azariah",
+		"bible-ap-daniel-susanna",
+		"bible-ap-daniel-bel-dragon",
+		"bible-ap-psalm-151",
+		"bible-ap-manasseh",
+		"bible-ap-maccabees-3",
+		"bible-ap-maccabees-4",
+		"bible-ap-solomon-prayer",
+		"bible-ap-esdras-1",
+		"bible-ap-esdras-2"
+	]
+}
