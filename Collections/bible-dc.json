@@ -1,0 +1,20 @@
+{	"Abbreviation": "bible-dc",
+	"Title": {
+		"default": "Deuterocanonical",
+		"eng": "The Deuterocanonical",
+		"fra-sta": "Livres Deutérocanoniques"
+	},
+	"Description": "The Deuterocanonical Texts of the Bible",
+	"Collection": ["bible"],
+	"Order": [
+		"bible-dc-tobit",
+		"bible-dc-judith",
+		"bible-dc-baruch",
+		"bible-dc-sirach",
+		"bible-dc-maccabees-1",
+		"bible-dc-maccabees-2",
+		"bible-dc-Wisdom",
+		"bible-dc-esther",
+		"bible-dc-daniel"
+	]
+}

@@ -8,6 +8,7 @@
 	"Description": "The Bible",
 	"Order": [
 		"bible-ot",
+		"bible-dc",
 		"bible-nt"
 	]
 }
