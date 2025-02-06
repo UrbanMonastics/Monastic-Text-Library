@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-ephesians",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tSoyez donc les imitateurs de Dieu, comme des enfants bien-aimés, ",
+		"2": "comme des enfants bien-aimés, et marchez dans le chemin de l'amour. Car le Christ aussi nous a aimés et s'est livré comme une offrande de parfum et un sacrifice à Dieu.\r\n",
+		"11": "\tNe prenez pas part aux actions stériles des ténèbres, mais plutôt démasquez-les. ",
+		"12": "Car il est honteux de mentionner même ce qu'ils font en secret. ",
+		"13": "Or, toutes les choses deviennent visibles lorsqu'elles sont exposées à la lumière. Car tout ce qui est éclairé devient lumière. ",
+		"14": "C'est pourquoi il est dit,\r\n« Réveille-toi, dormeur,\r\nrelève-toi d'entre les morts,\r\net Christ t'éclairera. »"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: Première traduction des versets 1-2, 11-14 basée sur le grec."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-ephesians",
+	"Chapter": "5",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "/tTherefore, be imitators of God, as beloved children, ",
+		"2": "and walk in the way of love. For Christ also loved us and gave Himself up for us as a fragrant offering and sacrifice to God.\r\n",
+		"11": "/tTake no part in the fruitless deeds of darkness, but instead expose them. ",
+		"12": "For it is disgraceful to even mention the things done by them in secret. ",
+		"13": "Yet, all things become visible when they are exposed by the light. For everything that is illuminated becomes a light. ",
+		"14": "Therefore it is said,\r\n\"Awake, sleeper,\r\nrise from the dead,\r\nand Christ will shine on you.\"\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-05": ["Peer-Review"],
+				"2025-02-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-04 - Paul Prins: First translation of verses 1-2, 11-14 based on Greek."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
