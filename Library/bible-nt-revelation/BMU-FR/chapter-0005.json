@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "chapter-0005",
+	"SourceAbbreviation": "bible-nt-revelation",
+	"Chapter": "5",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"8": "Quand il eut pris le rouleau, les quatre êtres vivants et les vingt-quatre vieillards se prosternèrent tous devant l'agneau. Chacun tenait une harpe et des coupes d'or remplies de parfums, qui sont les prières des saints. ",
+		"9": "Et ils chantèrent un cantique nouveau.\r\n« Tu es digne de prendre le rouleau\r\n\tet d'en rompre les sceaux.\r\nCar tu as été abattu,\r\n\tet tu as racheté des peuples pour Dieu\r\n\tpar ton sang, de toute tribu, de toute langue, de tout peuple, et de toute nation.\r\n",
+		"10": "Tu as fait d'eux un royaume\r\n\tet des prêtres pour notre Dieu,\r\n\tet ils régneront sur la terre. »\r\n",
+		"12": "Ils disaient d'une voix forte :\r\n« Digne est l'agneau qui a été abattu de recevoir la puissance, la richesse, la sagesse, la puissance, la gloire, l'honneur et la bénédiction. »"		
+	},
+	"InlineTitles": {
+		"1": "Le rouleau et l'agneau"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-03-05": ["Peer-Review"],
+				"2025-03-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-03-04 - Paul Prins: Premier traduction des versets 8-10, 12."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
