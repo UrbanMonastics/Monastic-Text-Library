@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-peter-1",
+	"Chapter": "2",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tServiteurs, soyez soumis à vos maîtres avec respect, non seulement à ceux qui sont bons et doux, mais aussi à ceux qui sont durs. ",
+		"19": "Ceux-ci trouvent grâce si, conscients de Dieu, tu endures la douleur lorsqu'ils souffrent injustement. ",
+		"20": "En effet, quelle gloire y a-t-il à endurer des traitements sévères pour avoir commis des fautes ? Mais si vous endurez patiemment des souffrances pour avoir fait le bien, cela trouve grâce devant Dieu. ",
+		"21": "De fait, vous avez été appelés à cela parce que le Christ aussi a souffert pour vous. Il vous a laissé un exemple afin que vous suiviez ses traces.\r\n",
+		"22": "Il n'a point commis de péché,\r\n\tet dans sa bouche, on n'a pas trouvé de tromperie.\r\n",
+		"23": "\tLorsqu'il a été insulté, il n'a pas riposté. Pendant qu'il souffrait, il n'a pas proféré de menaces, mais il a continué à s'en remettre à celui qui juge avec justice. ",
+		"24": "Il a lui-même porté nos péchés dans son corps sur la croix. Afin que morts aux péchés nous vivions pour la justice ; car c'est par ses blessures que vous avez été guéris. ",
+		"25": "Car vous étiez égarés comme des brebis, mais vous êtes retournés vers le berger et le gardien de vos âmes."
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-06": ["Peer-Review"],
+				"2025-02-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-05 - Paul Prins: Première traduction des versets 18-25 basée sur le grec."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-peter-1",
+	"Chapter": "2",
+	"FormatAs": "Letter",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"18": "\tServants, be submissive to your masters with all respect, not only to those who are  good and gentle, but also to those who are harsh. ",
+		"19": "For this finds favor if, mindful of God, you endure pain when suffering unjustly. ",
+		"20": "For how is it to your credit if you endure harsh treatment for your wrong doing? But if you patiently endure suffering for doing good, this finds favor with God. ",
+		"21": "For you have been called to this because Christ also suffered for you. He left you an example so that you would follow in His steps.\r\n",
+		"22": "He committed no sin,\r\n\tnor was any deceit found in his mouth.\r\n",
+		"23": "\tWhen being reviled, He did not retaliate. While suffering, He made no threats but kept entrusting Himself to Him who judges righteously. ",
+		"24": "He Himself bore our sins in His body on the cross. In order that we might die to sins and live for righteousness; for by His wounds you were healed. ",
+		"25": "For you were straying like sheep, but now you have returned to the Shepherd and Guardian of your souls.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-06": ["Peer-Review"],
+				"2025-02-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-05 - Paul Prins: First translation of verses 1-9 based on Greek."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
