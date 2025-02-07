@@ -19,9 +19,18 @@
 		"8": "Étant trouvé en forme humaine, il s'est humilié en devenant obéissant jusqu'à la mort, même la mort sur la croix. ",
 		"9": "C'est pourquoi Dieu l'a exalté au plus haut place et lui a donné le nom au-dessus de tout nom. ",
 		"10": "Afin qu'au nom de Jésus chaque genou fléchisse, dans le ciel, sur la terre et sous la terre. ",
-		"11": "Et toute langue proclamera que « Jésus-Christ est Seigneur ! » à la gloire de Dieu le Père.\r\n"
+		"11": "Et toute langue proclamera que « Jésus-Christ est Seigneur ! » à la gloire de Dieu le Père.\r\n",
+		"12": "\tAinsi, mes bien-aimés, vous avez toujours obéi. Non seulement tu as obéi en ma présence, mais bien plus encore maintenant en mon absence. De même, travaillez à votre propre salut avec crainte et tremblement. ",
+		"13": "C'est Dieu qui produit en vous le désir et l'œuvre selon son bon plaisir.\r\n",
+		"14": "\tFaites toutes choses sans murmures ni disputes. ",
+		"15": "Faites cela pour devenir irréprochables et purs, « des enfants de Dieu irréprochables au milieu d'une génération corrompue et perverse. » Alors, dans le monde, vous brillerez comme des lumières, en portant fermement la parole de vie. ",
+		"16": "Je pourrai alors me glorifier, au jour du Christ, de n'avoir pas couru ni travaillé en vain. ",
+		"17": "Mais même si je suis versé comme une offrande, comme un sacrifice, alors c'est au service de votre foi. Alors je me réjouirai et je partagerai ma joie avec vous tous. ",
+		"18": "Vous aussi, réjouissez-vous comme moi et réjouissez-vous avec moi."
 	},
 	"InlineTitles": {
+		"1": "Imiter le Christ",
+		"12": "Briller dans le Monde"
 	},
 	"Extra": {
 		"Writing":{
@@ -37,6 +46,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-07 - Paul Prins: Première traduction des versets 12-18.",
 		"2025-02-05 - Paul Prins: Première traduction des versets 1-11."
 	],
 	"License": "© 2025 Urban Monastics, Paris"

@@ -19,9 +19,18 @@
 		"8": "Being found in human form, He humbled Himself by becoming obedient to death, even death on a cross. ",
 		"9": "For this reason, God exalted Him to the highest place and gave Him the name above every name. ",
 		"10": "So that at the name of Jesus every knee will bow, in heaven, on the earth, and under the earth. ",
-		"11": "And every tongue will confess that \"Jesus Christ is Lord!\" to the glory of God the Father.\r\n"
+		"11": "And every tongue will confess that \"Jesus Christ is Lord!\" to the glory of God the Father.\r\n",
+		"12": "\tTherefore, my beloved, you have always obeyed. Not only did you obey in my presence, but much more now in my absence. Likewise, work out your own salvation with fear and trembling. ",
+		"13": "It is God who works in you to desire and work for His good pleasure.\r\n",
+		"14": "\tDo all things without grumbling or arguments. ",
+		"15": "Do this so that you may become blameless and innocent, 'children of God without fault in the midst of a crooked and perverse generation.' Then, in the world, you will shine as lights, holding firmly to the word of life. ",
+		"16": "I will then be able to boast on the day of Christ that I did not run nor labor in vain. ",
+		"17": "But, even if I am being poured out as a drink offering, as a sacrifice, then it is in the service of your faith. Then I will rejoice and share my joy with all of you. ",
+		"18": "You should rejoice like me and rejoice with me."
 	},
 	"InlineTitles": {
+		"1": "Imitate the Christ",
+		"12": "Shine in the World"
 	},
 	"Extra": {
 		"Writing":{
@@ -37,6 +46,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-07 - Paul Prins: First translation of verses 12-18.",
 		"2025-02-05 - Paul Prins: First translation of verses 1-11."
 	],
 	"License": "© 2025 Urban Monastics, Paris"
