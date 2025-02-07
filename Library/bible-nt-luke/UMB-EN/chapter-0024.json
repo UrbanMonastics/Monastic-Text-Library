@@ -1,0 +1,52 @@
+{
+	"TextAbbreviation": "chapter-0024",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "24",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tAt early dawn on the first day of the week, the women came to the tomb. They brought with them the spices they had prepared. ",
+		"2": "They found the stone had been rolled away from the tomb. ",
+		"3": "When they entered, they did not find the body of the Lord Jesus. ",
+		"4": "They were there, perplexed about this. Then suddenly, two men stood near them. It looked like they were clothed in lightning itself.\r\n",
+		"5": "\tTerrified, the women bowed down with their faces to the ground. The men said to them, \"Why do you look for the living among the dead? ",
+		"6": "He is not here. He has risen! Remember how He spoke to you while He was still with you in Galilee. ",
+		"7": "He said, 'the Son of Man must be handed over to sinners, be crucified, and on the third day rise from the dead.'\"",
+		"8": "Then they remembered His words. ",
+		"25": "\tHe said to them, \"You foolish men and how slow of heart you are believe all that the prophets have spoken! ",
+		"26": "Was it not necessary for the Christ to suffer these things and then enter into His glory?\" ",
+		"27": "Then, beginning with Moses and all the Prophets, He explained to them the things written about Himself across the scriptures.\r\n",
+		"28": "\tAs they approached the village they were going to, He appeared to be going farther. ",
+		"29": "But they strongly urged him, saying, \"Stay with us. It is nearly evening and the day is almost over.\" So He went in to stay with them.\r\n",
+		"50": "\tWhen Jesus had led them out as far as Bethany, He lifted up his hands and blessed them. ",
+		"51": "And while He was blessing them, He left them and was carried up into heaven. ",
+		"52": "Then they worshiped Him. After, they returned to Jerusalem with great joy. ",
+		"53": "They were continually in the temple blessing God."
+	},
+	"InlineTitles": {
+		"1": "The Resurrection",
+		"13": "The Road to Emmaus",
+		"50": "The Ascension"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-07": ["Peer-Review"],
+				"2025-02-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-06 - Paul Prins: First translation of verses 1-8, 25-29, 50-53"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

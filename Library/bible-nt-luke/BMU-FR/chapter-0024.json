@@ -1,0 +1,52 @@
+{
+	"TextAbbreviation": "chapter-0024",
+	"SourceAbbreviation": "bible-nt-luke",
+	"Chapter": "24",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tÀ l'aube du premier jour de la semaine, elles se rendirent au tombeau. Elles apportèrent les aromates qu'elles avaient préparés. ",
+		"2": "Elles trouvèrent que la pierre avait roulé de devant la tombeau. ",
+		"3": "En entrant, elles ne trouvèrent pas le corps du Seigneur Jésus. ",
+		"4": "Elles étaient là, perplexes de cela. Soudain, deux hommes se tenaient près d'elles. Ils semblaient être habillés de foudre elle-même.\r\n",
+		"5": "\tTerrifiées, les femmes se prosternèrent, le visage contre terre. Les hommes leur dirent :  « Pourquoi cherchez-vous le vivant parmi les morts ? ",
+		"6": "Il n'est pas ici. Il est ressuscité ! Souvenez-vous de ce qu'il vous a dit lorsqu'il était encore avec vous en Galilée. ",
+		"7": "Il a dit : 'Il faut que le Fils de l'homme soit livré entre les mains des pécheurs, qu'il soit crucifié et qu'il ressuscite d'entre les morts le troisième jour.' » ",
+		"8": "Elles se souvinrent alors des paroles de Jésus.\r\n",
+		"25": "\tAlors, il leur dit : « Hommes insensés et de cœur lent à croire tout ce qu'ont dit les prophètes ! ",
+		"26": "Ne fallait-il pas que le Christ souffre ces choses et qu'il entre ensuite dans sa gloire ? » ",
+		"27": "Puis, en commençant par Moïse et tous les prophètes, il leur expliqua les choses écrites à son sujet dans les Écritures.\r\n",
+		"28": "\tLorsqu'ils approchèrent du village où ils allaient, il apparut aller plus loin. ",
+		"29": "Mais ils le pressèrent fortement en disant : « Reste avec nous. Le soir approche, et le jour est sur son déclin. » Il est donc entré, pour rester avec eux.\r\n",
+		"50": "\tLorsque Jésus les conduisit jusque vers Béthanie, il leva les mains et les bénit. ",
+		"51": "Et pendant qu'il les bénissait, il les quitta et fut enlevé au ciel. ",
+		"52": "Alors ils l'adorèrent. Puis ils retournèrent à Jérusalem avec une grande joie. ",
+		"53": "Ils étaient continuellement dans le temple, bénissant Dieu." 
+	},
+	"InlineTitles": {
+		"1": "La Résurrection",
+		"13": "Le Chemin d'Emmaüs",
+		"50": "L'Ascension de Jésus"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-07": ["Peer-Review"],
+				"2025-02-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-03-06 - Paul Prins: Première traduction des versets 1-8, 25-29, 50-53"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
