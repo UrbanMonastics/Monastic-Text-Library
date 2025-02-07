@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Lord exalted [*] Him to the highest place, and gave Him the name above every other.",
+	"Extra": {
+		"Reference": ["Philippians 2:9"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-03-05": ["Peer-Review"],
+				"2025-03-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-03-06 - Paul Prins: First Translation of this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

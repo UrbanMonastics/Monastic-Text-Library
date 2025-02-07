@@ -1,17 +1,17 @@
 {
 	"TextAbbreviation": "christus-jesus",
 	"SourceAbbreviation": "breviary-canticles",
-	"Title": "Christus Iesus",
+	"Title": "De Christo, Servo Dei",
 	"Description": "From Philippians 2:6-11",
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses": {
-		"6": "",
-		"7": "",
-		"8": "",
-		"9": "",
-		"10": "",
-		"11": ""
+		"6": "Christus Iesus, cum in forma Dei esset, [*]\r\n\tnon rapínam arbitrátus est esse se æquálem Deo,\r\n",
+		"7": "sed semetípsum exinanívit formam servi accípiens, [t]\r\n\tin similitúdinem hóminum factus; [*]\r\n\tet hábitu invéntus ut homo,\r\n",
+		"8": "humiliávit semetípsum [t]\r\n\tfactus oboediens usque ad mortem, [*]\r\n\tmortem autem crucis.\r\n\r\n",
+		"9": "Propter quod et Deus illum exaltávit [t]\r\n\tet donávit illi nomen, [*]\r\n\tquod est super omne nomen.\r\n",
+		"10": "ut in nómine Iesu omne genu flectátur, [*]\r\n\tcæléstium et terréstrium et infernórum,\r\n",
+		"11": "et omnis lingua confiteátur: [*]\r\n\t\"Dóminus Iesus Christus!\" in glóriam Dei Patris."
 	},
 	"Extra": {
 		"Reference" : ["Philippians 2:6-11"],

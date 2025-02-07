@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1-anti-3-lent",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Christus [*] passus est pro vobis, vobis relínquens exémplum, ut sequámini vestígia.",
+	"Extra": {
+		"Reference": ["1 Peter 2:21"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-07": ["Peer-Review"],
+				"2025-02-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

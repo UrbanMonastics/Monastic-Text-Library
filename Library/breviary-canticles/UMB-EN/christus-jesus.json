@@ -1,7 +1,7 @@
 {
 	"TextAbbreviation": "christus-jesus",
 	"SourceAbbreviation": "breviary-canticles",
-	"Title": "Song of Christ's Glory",
+	"Title": "The Song of Christ's Glory",
 	"Description": "From Philippians 2:6-11",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -10,7 +10,12 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"6": ""
+		"6": "Christ Jesus, who was in the form of God, [*]\r\n\tdid not consider equality with God something to be grasped.\r\n",
+		"7": "He instead emptied Himself by taking the form of a servant [t]\r\n\tand being born in human likeness. [*]\r\n",
+		"8": "\tBeing found in human form,\r\nHe humbled Himself [t]\r\n\tby becoming obedient to death, [*]\r\n\teven death on a cross.\r\n\r\n",
+		"9": "For this reason, God exalted Him [t]\r\n\tto the highest place [*]\r\n\tand gave Him the name above every name.\r\n",
+		"10": "So that at the name of Jesus every knee will bow, [*]\r\n\tin heaven, on the earth, and under the earth.\r\n",
+		"11": "And every tongue will confess [*]\r\n\t\"Jesus Christ is Lord!\" to the glory of God the Father."
 	},
 	"Extra": {
 		"Reference" : ["Philippians 2:6-11"],
@@ -19,8 +24,8 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"YYYY-MM-DD": ["Peer-Review"],
-				"YYYY-MM-DD": [
+				"2025-02-06": ["Peer-Review"],
+				"2025-02-05": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -29,6 +34,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-05 - Paul Prins: First translation based on Greek, and Latin"
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }

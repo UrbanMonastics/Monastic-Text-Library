@@ -1,0 +1,40 @@
+{
+	"TextAbbreviation": "christus-jesus",
+	"SourceAbbreviation": "breviary-canticles",
+	"Title": "Le Chant de la Gloire du Christ",
+	"Description": "De Philippiens 2:6-11",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH", "SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"6": "Le Christ Jésus, qui existant en forme de Dieu, [*]\r\n\tn'a pas considéré l'égalité avec Dieu comme une chose à saisir.\r\n",
+		"7": "Il s'est au contraire dépouillé lui-même en prenant la forme d'un serviteur [t]\r\n\tet en naissant comme tout être humain. [*]\r\n",
+		"8": "\tÉtant trouvé en forme humaine,\r\nil s'est humilié [t]\r\n\ten devenant obéissant jusqu'à la mort, [*]\r\n\tmême la mort sur la croix.\r\n\r\n",
+		"9": "C'est pourquoi Dieu l'a exalté [t]\r\n\tau plus haut place [*]\r\n\tet lui a donné le nom au-dessus de tout nom.\r\n",
+		"10": "Afin qu'au nom de Jésus chaque genou fléchisse, [*]\r\n\tdans le ciel, sur la terre et sous la terre.\r\n",
+		"11": "Et toute langue confessera [*]\r\n\t« Jésus-Christ est Seigneur ! » à la gloire de Dieu le Père."
+	},
+	"Extra": {
+		"Reference": ["Philippiens 2:6-11"],
+		"LiturgiaeHorarum-Index": 11,
+		"LiturgiaeHorarum-Cantica": "NT",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-06": ["Peer-Review"],
+				"2025-02-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-05 - Paul Prins : Première traduction basée sur le grec, et le latin."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
