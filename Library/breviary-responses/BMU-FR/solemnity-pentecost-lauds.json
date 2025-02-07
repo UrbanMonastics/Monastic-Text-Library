@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Tous furent remplis de l'Esprit Saint, alléluia, alléluia.\r\n[R] Tous furent remplis de l'Esprit Saint, [*] alléluia, alléluia.\r\n[V] Et ils se mirent à parler.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
