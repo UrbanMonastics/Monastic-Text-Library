@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-philippians",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tS'il y a donc de l'encouragement en Christ, s'il y a de la consolation dans son amour, s'il y a de la communion avec l'Esprit, s'il y a de la tendresse et de la compassion, ",
+		"2": "rendez ma joie parfaite. Ayez le même avis, partagez le même amour, unis dans l'esprit et soyez d'un seul objectif. ",
+		"3": "Ne faites rien par égoïsme ou par vanité. Au contraire, dans l'humilité, considérez les autres comme plus importants que vous-mêmes. ",
+		"4": "Que chacun de vous ne regarde pas seulement son propre intérêt, mais aussi l'intérêt des autres.\r\n",
+		"5": "\tTenez entre vous cette attitude, qui est aussi en Jésus-Christ :\r\n",
+		"6": "\tQui, existant en forme de Dieu, n'a pas considéré l'égalité avec Dieu comme une chose à saisir. ",
+		"7": "Il s'est au contraire dépouillé lui-même en prenant la forme d'un serviteur et en naissant comme tout être humain. ",
+		"8": "Étant trouvé en forme humaine, il s'est humilié en devenant obéissant jusqu'à la mort, même la mort sur la croix. ",
+		"9": "C'est pourquoi Dieu l'a exalté au plus haut place et lui a donné le nom au-dessus de tout nom. ",
+		"10": "Afin qu'au nom de Jésus chaque genou fléchisse, dans le ciel, sur la terre et sous la terre. ",
+		"11": "Et toute langue proclamera que « Jésus-Christ est Seigneur », à la gloire de Dieu le Père.\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-06": ["Peer-Review"],
+				"2021-12-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-05 - Paul Prins: Première traduction des versets 1-11."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

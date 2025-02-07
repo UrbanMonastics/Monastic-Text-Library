@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0002",
+	"SourceAbbreviation": "bible-nt-philippians",
+	"Chapter": "2",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "/tTherefore, if you have any encouragement in Christ, if any comfort from His love, if any communion with the Spirit, if any tenderness and compassion, ",
+		"2": "then make my joy complete. Be of the same mind, sharing the same love, united in spirit, and being of one purpose. ",
+		"3": "Do nothing out of selfishness or conceit. Instead, in humility, consider others as more important than yourselves. ",
+		"4": "Let each of you look not only to your own interests, but also the interests of others.\r\n",
+		"5": "\tHold this attitude among one another, which is also in Christ Jesus:\r\n",
+		"6": "\tWho, though He was in the form of God, did not consider equality with God something to be grasped. ",
+		"7": "He instead emptied Himself by taking the form of a servant and being born in human likeness. ",
+		"8": "Being found in human form, He humbled Himself by becoming obedient to death, even death on a cross. ",
+		"9": "For this reason, God exalted Him to the highest place and gave Him the name above every name. ",
+		"10": "So that at the name of Jesus every knee will bow, in heaven, on the earth, and under the earth. ",
+		"11": "And every tongue will confess that \"Jesus Christ is Lord,\" to the glory of God the Father.\r\n"
+	},
+	"InlineTitles": {
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-06": ["Peer-Review"],
+				"2025-02-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-05 - Paul Prins: First translation of verses 1-11."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
