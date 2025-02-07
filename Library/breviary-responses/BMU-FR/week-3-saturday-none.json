@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-3-saturday-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] En suivant tes témoignages, Seigneur, je me réjouis.\r\n[R] Je n'oublierai pas ta parole.",
+	"Extra": {
+		"Reference": ["Psalm 119:14,16"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

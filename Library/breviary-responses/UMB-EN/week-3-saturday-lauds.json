@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] My lips will shout for joy when I sing praises to you.\r\n[R] My lips will shout for joy [*] when I sing praises to you.\r\n[V] My tongue will proclaim your righteousness",
+	"Extra": {
+		"Reference": ["Psalm 71:23, 35:28"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

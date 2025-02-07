@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-3-saturday-terce",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Sacrifícium laudis honorificábit me.\r\n[R] Et qui immaculátus est in via osténdam illi salutáre Dei.",
+	"Extra": {
+		"Reference": ["Psalm 50:23"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

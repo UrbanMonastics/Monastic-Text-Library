@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-3-saturday-lauds",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] Exsultábunt lábia mea, cum cantávero tibi.\r\n[R] Exsultábunt lábia mea, [*] cum cantávero tibi.\r\n[V] Lingua mea meditábitur justítiam tuam.",
+	"Extra": {
+		"Reference": ["Psalm 71:23, 35:28"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

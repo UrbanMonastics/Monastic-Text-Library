@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-3-saturday-terce",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Celui qui offre un sacrifice d'action de grâces m'honore.\r\n[R] Et à celui dont le chemin est irréprochable, je montrerai le salut de Dieu.",
+	"Extra": {
+		"Reference": ["Psalm 50:23"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

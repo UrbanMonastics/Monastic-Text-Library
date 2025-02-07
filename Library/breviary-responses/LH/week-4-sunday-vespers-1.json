@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[V] A solis ortu usque ad occásum, laudábile nomen Dómini.\r\n[R] A solis ortu usque ad occásum, [*] laudábile nomen Dómini.\r\n[V] Super cælos glória eius.",
+	"Extra": {
+		"Reference": ["Psalm 113:3-4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Added this Response."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

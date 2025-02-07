@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-4-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Du levant au couchant du soleil, louez le nom du SEIGNEUR.\r\n[R] Du levant au couchant du soleil, [*] louez le nom du SEIGNEUR.\r\n[V] Sa gloire est au-dessus des cieux,",
+	"Extra": {
+		"Reference": ["Psalm 113:3-4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-3-saturday-none",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] In following Your Testimonies, Lord, I rejoice.\r\n[R] I will not forget your word.",
+	"Extra": {
+		"Reference": ["Psalm 119:14,16"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

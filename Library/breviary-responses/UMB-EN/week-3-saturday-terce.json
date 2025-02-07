@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "week-3-saturday-terce",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Whoever offers a sacrifice of thanksgiving honors Me.\r\n[R] And to the one whose way is blameless, I will show the salvation of God.",
+	"Extra": {
+		"Reference": ["Psalm 50:23"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-08": ["Peer-Review"],
+				"2025-02-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-07 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
