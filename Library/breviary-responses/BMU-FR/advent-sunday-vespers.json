@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Fais-nous voir toi, Seigneur, et ta miséricorde.\r\n[R] Fais-nous voir toi, Seigneur, [*] et ta miséricorde.\r\n[V] Et donne-nous ton salut.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

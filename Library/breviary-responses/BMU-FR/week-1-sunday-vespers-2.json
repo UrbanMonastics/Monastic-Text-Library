@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Béni sois-tu, Seigneur, dans l'étendue du Ciel.\r\n[R] Béni sois-tu, Seigneur, [*] dans l'étendue du Ciel.\r\n[V] Tu es majestueux et glorieux pour toujours.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

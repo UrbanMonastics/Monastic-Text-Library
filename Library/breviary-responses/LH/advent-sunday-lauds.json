@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Christe, Fili Dei vivi, miserére nobis.\r\n[R] Christe, Fili Dei vivi, [*] miserére nobis.\r\n[V] Qui ventúrus es in mundum.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

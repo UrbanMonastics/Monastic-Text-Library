@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Blessed are You Lord, in the kingdom of Heaven.\r\n[R] Blessed are You Lord, [*] in the kingdom of Heaven.\r\n[V]All of creation gives You glory and praise forever.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

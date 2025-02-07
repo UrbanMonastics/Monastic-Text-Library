@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Entendez mes cris, Seigneur, toute mon espérance est en ta parole !\r\n[R] Entendez mes cris, Seigneur, [*] toute mon espérance est en ta parole !\r\n[V] Avant l'aube, je me suis réveillé et j'ai crié vers toi :",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

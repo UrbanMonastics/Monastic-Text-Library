@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Surréxit Dóminus vere, Allelúia, allelúia.\r\n[R] Surréxit Dóminus vere, [*] Allelúia, allelúia.\r\n[V] Et appáruit Simóni.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

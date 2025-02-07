@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Your word, Lord, is a lamp to my feet.\r\n[R] And a light on my path.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

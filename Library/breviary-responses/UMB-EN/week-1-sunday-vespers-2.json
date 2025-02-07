@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Blessed are You, Lord, in the expanse of Heaven.\r\n[R] Blessed are You, Lord, [*] in the expanse of Heaven.\r\n[V] You are majestic and glorious forever.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

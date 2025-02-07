@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] The Lord has truly risen, alleluia, alleluia.\r\n[R] The Lord has truly risen, [*] alleluia, alleluia.\r\n[V] He has appeared to Simon.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

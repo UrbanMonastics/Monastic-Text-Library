@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Hear my cries, Lord; all my hope is in Your word!\r\n[R] Hear my cries, Lord; [*] all my hope is in Your word!\r\n[V] Before dawn, I woke and cried out to You,",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

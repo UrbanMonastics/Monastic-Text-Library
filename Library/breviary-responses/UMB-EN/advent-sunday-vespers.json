@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Let us see You Lord, and Your mercy.\r\n[R] Let us see You Lord, [*] and Your mercy.\r\n[V] And give us Your salvation.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

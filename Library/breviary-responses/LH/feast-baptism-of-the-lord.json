@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Hic est qui venit Per aquam et sánguinem.\r\n[R] Hic est qui venit [*] Per aquam et sánguinem\r\n[V] Iesus Christus, Dóminus nostrer.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

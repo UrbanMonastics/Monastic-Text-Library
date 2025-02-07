@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Ta parole, Seigneur, est une lampe à mes pieds.\r\n[R] Et une lumière sur mon sentier.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

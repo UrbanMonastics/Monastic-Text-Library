@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Le Seigneur envoie sa parole sur la terre.\r\n[R] Rapidement, sa parole remplit son objectif.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

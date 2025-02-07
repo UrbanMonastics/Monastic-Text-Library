@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Viens nous libérer, Seigneur, Dieu de l'univers !\r\n[R] Viens nous libérer, [*] Seigneur, Dieu de l'univers !\r\n[V] Expose-nous ton visage, et nous serons sauvés !",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

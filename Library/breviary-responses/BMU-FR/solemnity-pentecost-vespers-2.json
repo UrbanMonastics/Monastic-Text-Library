@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] L'Esprit du Seigneur remplit l'univers, alléluia, alléluia.\r\n[R] L'Esprit du Seigneur remplit l'univers, [*] alléluia, alléluia.\r\n[V] Il soutient tout, et connaît chaque mot prononcé.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

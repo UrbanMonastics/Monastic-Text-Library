@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Dirigátur, Dómine, Ad te orátio mea.\r\n[R] Dirigátur, Dómine, [*] Ad te orátio mea.\r\n[V] Sicut incénsum in conspéctu tuo.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

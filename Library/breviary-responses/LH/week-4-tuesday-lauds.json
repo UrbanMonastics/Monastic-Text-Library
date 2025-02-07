@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Vocem meam audi Dómine; In verba tua supersperávi.\r\n[R] Vocem meam audi Dómine; [*] In verba tua supersperávi.\r\n[V] Prævéni dilúculo et clamávi.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

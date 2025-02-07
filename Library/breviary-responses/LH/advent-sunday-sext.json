@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Meménto nostri, Dómine, in beneplácito pópuli tui.\r\n[R] Meménto nostri, Dómine, [*] in beneplácito pópuli tui.\r\n[V] Vísita nos in salutári tuo.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

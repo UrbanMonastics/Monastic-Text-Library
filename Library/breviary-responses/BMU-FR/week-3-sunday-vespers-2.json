@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Béni sois-tu Seigneur, au royaume du cieux.\r\n[R] Béni sois-tu Seigneur, [*] au royaume du cieux.\r\n[V] Toute la création donne toi gloire et louange pour toujours.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

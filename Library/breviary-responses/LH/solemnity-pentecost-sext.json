@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Spíritus Sanctus docébit vos, allelúia.\r\n[R] Quæcúmque díxero vobis, allelúia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

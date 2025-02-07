@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Adimplébis me lætítia cum vultu tuo, Dómine.\r\n[R] Adimplébis me lætítia [*] cum vultu tuo, Dómine.\r\n[V] Delectatiónes in déxtera tua usque in finem.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

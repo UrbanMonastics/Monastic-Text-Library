@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] L'Esprit Saint, le Défenseur, alléluia.\r\n[R] Il vous enseignera toutes choses, alléluia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] L'Esprit Saint vous enseignera, alléluia.\r\n[R] Il vous rappellera tout ce que je vous ai dit, alléluia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

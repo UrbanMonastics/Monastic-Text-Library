@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] The Apostles proclaimed in various languages, alleluia.\r\n[R] The wonderful works of God, alleluia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

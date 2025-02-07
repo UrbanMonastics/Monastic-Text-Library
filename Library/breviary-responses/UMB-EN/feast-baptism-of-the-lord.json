@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] It is He who came by water and blood.\r\n[R] It is He who came [*] by water and blood.\r\n[V] Jesus Christ, our Lord.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

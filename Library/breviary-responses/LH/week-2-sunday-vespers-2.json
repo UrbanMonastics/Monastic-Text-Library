@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Magnus Dóminus noster, et magna virtus eius.\r\n[R] Magnus Dóminus noster, [*] et magna virtus eius.\r\n[V] Et sapiéntiæ eius non est númerus.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

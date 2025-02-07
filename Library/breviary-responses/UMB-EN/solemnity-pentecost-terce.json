@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] The Holy Spirit, the Defender, alleluia.\r\n[R] He will teach you all things, alleluia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

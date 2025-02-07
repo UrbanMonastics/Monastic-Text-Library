@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Le Seigneur a fait connaître son salut.\r\n[R] Le Seigneur a fait connaître [*] son salut.\r\n[V] Il l'a préparé devant les yeux de tous les peuples.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Benedíctus es, Dómine, In firmaménto caeli.\r\n[R] Benedíctus es, Dómine, [*] In firmaménto caeli.\r\n[V] Et laudábilis et gloriósus in sáecula.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

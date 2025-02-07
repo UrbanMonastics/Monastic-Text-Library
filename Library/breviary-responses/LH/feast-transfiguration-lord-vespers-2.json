@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Magnificéntia et pulchritúdo in conspéctu eius.\r\n[R] Allelúia, allelúia!\r\n[V] Decor et poténtia in sanctuário eius.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

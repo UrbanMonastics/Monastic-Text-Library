@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Viens, Seigneur, ne tarde pas.\r\n[R] Viens, Seigneur, [*] ne tarde pas.\r\n[V] Remets à ton peuple ses péchés.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

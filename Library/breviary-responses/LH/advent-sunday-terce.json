@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Timébunt gentes nomen tuum, Dómine.\r\n[R] Timébunt gentes [*] nomen tuum, Dómine.\r\n[V] Et omnes reges terræ glóriam tuam.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

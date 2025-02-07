@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Iucúndus homo qui miserétur et cómmodat.\r\n[R] In memória ætérna erit iustus.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

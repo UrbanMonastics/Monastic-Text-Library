@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Notre Seigneur est grand; et grande est sa puissance.\r\n[R] Notre Seigneur est grand; [*] et grande est sa puissance.\r\n[V] Et sa sagesse est infini.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

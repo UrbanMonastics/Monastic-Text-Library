@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] The Lord has made known His salvation.\r\n[R] The Lord has made known [*] His salvation.\r\n[V] He has prepared it before the eyes of all people.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Majesté et beauté émanent de Lui.\r\n[R] Alléluia, alléluia!\r\n[V] Beauté et puissance de Son sanctuaire.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

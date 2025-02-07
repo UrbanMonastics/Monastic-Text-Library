@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Les Apôtres ont proclamé en diverses langues, alléluia.\r\n[R] Les œuvres merveilleuses de Dieu, alléluia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

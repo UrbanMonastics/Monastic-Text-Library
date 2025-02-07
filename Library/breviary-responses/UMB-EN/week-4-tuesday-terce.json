@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] A good person has pity and gives comfort.\r\n[R] They love with actions and in truth.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

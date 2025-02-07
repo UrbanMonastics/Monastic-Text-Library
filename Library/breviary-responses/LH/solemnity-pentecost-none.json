@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Loquebántur váriis linguis Apóstoli, allelúia.\r\n[R] Magnália Dei, allelúia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

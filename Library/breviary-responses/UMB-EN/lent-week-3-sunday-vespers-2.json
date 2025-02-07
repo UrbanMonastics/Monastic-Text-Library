@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Listen, Lord, and have mercy, for we have sinned against You.\r\n[R] Listen, Lord, and have mercy, [*] for we have sinned against You.\r\n[V] Hear us, Christ, have mercy, and answer our prayers.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

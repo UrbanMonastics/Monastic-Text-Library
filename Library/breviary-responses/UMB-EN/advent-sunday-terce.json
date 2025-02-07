@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] The nations will fear the name of the Lord.\r\n[R] The nations will fear [*] the name of the Lord.\r\n[V] And all earthly rulers and kings will glorify You.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

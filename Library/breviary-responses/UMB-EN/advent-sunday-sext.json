@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Remember us, Lord, Your people in Your pleasure.\r\n[R] Remember us, Lord, [*] Your people in Your pleasure.\r\n[V] Visit us with Your salvation.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

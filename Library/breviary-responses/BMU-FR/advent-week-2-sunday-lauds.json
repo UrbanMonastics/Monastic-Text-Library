@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Christ, Fils du Dieu vivant, prends pitié de nous.\r\n[R] Christ, Fils du Dieu vivant, [*] prends pitié de nous.\r\n[V] Toi qui es venu dans la création.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

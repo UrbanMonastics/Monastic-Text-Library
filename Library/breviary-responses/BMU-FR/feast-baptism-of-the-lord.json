@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] C'est lui qui est venu par l'eau et par le sang.\r\n[R] C'est lui qui est venu [*] par l'eau et par le sang.\r\n[V] Jésus-Christ, notre Seigneur.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

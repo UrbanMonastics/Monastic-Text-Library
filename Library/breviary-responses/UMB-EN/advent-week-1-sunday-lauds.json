@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Christ, Son of the living God, have compassion on us.\r\n[R] Christ, Son of the living God, [*] have compassion on us.\r\n[V] You who comes into the world.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

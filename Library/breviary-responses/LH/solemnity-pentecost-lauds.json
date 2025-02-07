@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Repléti sunt omnes Spíritu Sancto, Allelúia, allelúia.\r\n[R] Repléti sunt omnes Spíritu Sancto, [*] Allelúia, allelúia.\r\n[V] Et cœpérunt loqui.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Lucérna pédibus meis verbum tuum, Dómine.\r\n[R] Et lumen sémitis meis.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

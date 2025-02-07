@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] The Holy Spirit will teach you, alleluia.\r\n[R] He will remind you of all I told you, alleluia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Souviens-toi de nous, Seigneur, ton peuple dans ton plaisir.\r\n[R] Souviens-toi de nous, Seigneur, [*] ton peuple dans ton plaisir.\r\n[V] Visite-nous avec ton salut.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

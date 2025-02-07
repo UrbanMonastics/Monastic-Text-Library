@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Spiritus Dómini replévit orbem terrárum, Allelúia, allelúia.\r\n[R] Spiritus Dómini replévit orbem terrárum, [*] Allelúia, allelúia.\r\n[V] Et hoc quod cóntinet ómnia, sciéntiam habet vocis.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

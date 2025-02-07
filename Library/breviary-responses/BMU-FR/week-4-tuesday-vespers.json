@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Quand je serai devant ta face, Seigneur, Tu me combleras de joie !\r\n[R] Quand je serai devant ta face, Seigneur, [*] Tu me combleras de joie !\r\n[V] Avec la paix et les plaisirs sans fin à ta droite,",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

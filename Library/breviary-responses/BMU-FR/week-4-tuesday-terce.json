@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Une bonne personne a pitié et donne du réconfort.\r\n[R] On aime en actions et en vérité.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

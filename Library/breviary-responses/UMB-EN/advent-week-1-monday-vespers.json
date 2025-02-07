@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Come liberate us, Lord, God of the Universe!\r\n[R] Come liberate us, [*] Lord, God of the Universe!\r\n[V] Show us Your face, and we will be saved!",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

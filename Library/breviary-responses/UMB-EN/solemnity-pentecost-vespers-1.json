@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Holy Spirit, our Helper, alleluia, alleluia.\r\n[R] Holy Spirit, our Helper, [*] alleluia, alleluia.\r\n[V] He will teach you everything.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

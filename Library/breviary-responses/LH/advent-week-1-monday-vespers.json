@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Veni ad liberándum nos, Dómine Deus virtútum.\r\n[R] Veni ad liberándum nos, [*] Dómine Deus virtútum.\r\n[V] Osténde fáciem tuam, et salvi érimus.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

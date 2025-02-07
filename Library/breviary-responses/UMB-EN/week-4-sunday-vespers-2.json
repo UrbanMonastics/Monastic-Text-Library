@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Great is our Lord, and great is His power.\r\n[R] Great is our Lord, [*] and great is His power.\r\n[V] And his wisdom is beyond all comprehension.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

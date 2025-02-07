@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V]Atténde, Dómine, et miserére, Quia peccávimus tibi.\r\n[R]Atténde, Dómine, et miserére, [*] Quia peccávimus tibi.\r\n[V]Exáudi, Christe, supplicántum presces.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

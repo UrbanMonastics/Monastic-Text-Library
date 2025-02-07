@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] Spíritus Paráclitus, Allelúia, allelúia.\r\n[R] Spíritus Paráclitus, [*] Allelúia, allelúia.\r\n[V] Docébit vos ómnia.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

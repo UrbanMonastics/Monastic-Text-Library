@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Before You, Lord, may our prayers rise.\r\n[R] Before You, Lord, [*] may our prayers rise.\r\n[V] Like incense into Your presence.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

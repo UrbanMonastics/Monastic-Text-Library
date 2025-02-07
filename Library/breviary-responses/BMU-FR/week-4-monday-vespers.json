@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Devant toi, Seigneur, que nos prières s'élèvent.\r\n[R] Devant toi, Seigneur, [*] que nos prières s'élèvent.\r\n[V] Comme des encens en ta présence.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

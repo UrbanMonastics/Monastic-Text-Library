@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Le Seigneur est vraiment ressuscité, Alléluia, alléluia.\r\n[R] Le Seigneur est vraiment ressuscité, [*] Alléluia, alléluia.\r\n[V] Il est apparu à Simon.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

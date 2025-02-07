@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Christ, Son of the living God, have mercy on us.\r\n[R] Christ, Son of the living God, [*] have mercy on us.\r\n[V] You who came into creation.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

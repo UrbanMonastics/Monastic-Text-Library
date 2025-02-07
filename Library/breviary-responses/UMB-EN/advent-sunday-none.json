@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Come, Lord, do not delay.\r\n[R] Come, Lord, [*] do not delay.\r\n[V] Forgive Your people their sins.",
 	"Extra": {
+		"Reference": [""],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
