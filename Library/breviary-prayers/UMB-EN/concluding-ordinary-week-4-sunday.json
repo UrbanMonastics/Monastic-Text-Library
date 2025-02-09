@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-4-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Grant us, Lord our God, [t] minds wholly devoted to worshiping You. [*] Let our hearts grow in love for every person, as You teach us to love through Jesus Christ.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "322",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-6-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, tu as déclaré que tu veux habiter les cœurs honnêtes et sincères. [t] Accorde, par ta grâce, que nos cœurs soient agréables à tes yeux. [*] Puisses-tu te trouver accueilli pour faire ta demeure en nous par Jésus-Christ. ",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "322",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
