@@ -3,8 +3,9 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Vísita nos, quǽsumus, Dómine, hac nocte præsénti, [t] ut, dilúculo tua virtúte surgéntes, [*] de resurrectióne Christi tui gaudére valeámus. Qui vivit et regnat in sǽcula sæulórum.",
+	"Text": "Vísita nos, quǽsumus, Dómine, hac nocte præsénti, [t] ut, dilúculo tua virtúte surgéntes, [*] de resurrectióne Christi tui gaudére valeámus.",
 	"Extra": {
+		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
