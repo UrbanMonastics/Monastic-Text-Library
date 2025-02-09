@@ -10,6 +10,7 @@
 	"Text": "[V] Mes lèvres crieront de joie quand je te louerai.\r\n[R] Mes lèvres crieront de joie [*] quand je te louerai.\r\n[V] Ma langue célébrera ta justice",
 	"Extra": {
 		"Reference": ["Psalm 71:23, 35:28"],
+		"LiturgiaeHorarum-Page": "66",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

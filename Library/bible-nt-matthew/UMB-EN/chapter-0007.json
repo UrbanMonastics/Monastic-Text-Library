@@ -9,14 +9,27 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"24": "\"Therefore, everyone who hears these words of Mine and puts them into practice will be like a wise person. They are like the wise person who built their house upon the rock. ",
+		"13": "\t\"Enter through the narrow gate! For the gate is wide and the way broad that leads to destruction, and many enter through it. ",
+		"14": "The gate is narrow, and the way constricted that leads to life, and there are few who find it.\"\r\n",
+		"15": "\"Beware of false prophets. They come to you in sheep's clothing, but inwardly they are ravenous wolves. ",
+		"16": "You will recognize them my their fruits. Are grapes gathered from among thorns or figs from thistles? ",
+		"17": "Every good tree bears good fruit, but a bad tree bears bad fruit. ",
+		"18": "A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. ",
+		"19": "Every tree that does not bear good fruit is cut down and thrown into the fire. ",
+		"20": "Thus, you will recognize them by their fruits.\"\r\n",
+		"21": "\t\"Not everyone who says to Me, 'Lord, Lord,' will enter the Kingdom of Heaven, but only the one who does the will of My Father who is in heaven. ",
+		"22": "Many will say to Me on that day, 'Lord, Lord, did we not prophesy in Your name? In Your name cast out demons? In Your name perform many miracles? ",
+		"23": "Then I will declare to them, 'I never knew you. Leave me, you evildoers!'\"\r\n",
+		"24": "\t\"Therefore, everyone who hears these words of Mine and puts them into practice will be like a wise person. They are like the wise person who built their house upon the rock. ",
 		"25": "The rain came down, the floods came, and the winds howled and slammed against that house. Yet, it did not collapse because its foundation was on the rock. ",
 		"26": "But everyone who hears these words of Mine and does not put them into practice is like a fool. They are like a fool who built their house on sand. ",
 		"27": "The rain came down, the floods came, and the winds howled and slammed against that house, and it fell. It collapsed with a great crash.\"\r\n",
-		"28": "When Jesus had finished saying these things, the crowds were amazed at his teaching. ",
+		"28": "\tWhen Jesus had finished saying these things, the crowds were amazed at his teaching. ",
 		"29": "He taught as one who had authority, and not as their scribes."
 	},
 	"InlineTitles": {
+		"13": "Narrow and Wide Gates",
+		"15": "A Trees Fruit",
 		"24": "Wise and Foolish Builders"
 	},
 	"Extra": {
@@ -39,6 +52,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-08 - Paul Prins: First translation of verses 13-23.",
 		"2024-06-02 - Paul Prins: First translation of verses 24-29."
 	],
 	"License": "© 2024 Urban Monastics, Paris"

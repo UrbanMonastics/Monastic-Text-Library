@@ -6,6 +6,7 @@
 	"Text": "[V] Exsultábunt lábia mea, cum cantávero tibi.\r\n[R] Exsultábunt lábia mea, [*] cum cantávero tibi.\r\n[V] Lingua mea meditábitur justítiam tuam.",
 	"Extra": {
 		"Reference": ["Psalm 71:23, 35:28"],
+		"LiturgiaeHorarum-Page": "66",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

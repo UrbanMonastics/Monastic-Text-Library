@@ -10,6 +10,7 @@
 	"Text": "[V] My lips will shout for joy when I sing praises to you.\r\n[R] My lips will shout for joy [*] when I sing praises to you.\r\n[V] My tongue will proclaim your righteousness",
 	"Extra": {
 		"Reference": ["Psalm 71:23, 35:28"],
+		"LiturgiaeHorarum-Page": "66",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

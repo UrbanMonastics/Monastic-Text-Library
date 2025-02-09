@@ -6,6 +6,7 @@
 	"Text": "[V] A solis ortu usque ad occásum, laudábile nomen Dómini.\r\n[R] A solis ortu usque ad occásum, [*] laudábile nomen Dómini.\r\n[V] Super cælos glória eius.",
 	"Extra": {
 		"Reference": ["Psalm 113:3-4"],
+		"LiturgiaeHorarum-Page": "84",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
