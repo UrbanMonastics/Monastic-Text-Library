@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "invocations-week-3-saturday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Célébrant notre Sauveur, né de la Vierge Marie, nous prions en disant :\r\n[IR] Seigneur, regarde-nous comme une mère ses enfants, et écoute notre prière.\r\n[I1] Tu es le Soleil de Justice, qui s'est levé comme l'aurore au sein de Marie,\r\n[I2] illumine nos chemins et nos jours pour toujours à la lumière de ta présence.\r\n[I1] Verbe éternel, tu as choisi le sein de Marie pour te nourrir et te préserver du péché,\r\n[I2] préserve-nous et libère-nous des voies que le péché corrompt et détruit.\r\n[I1] Notre Sauveur, au pied de la croix se tenait ta mère,\r\n[I2] accorde-nous, avec tous les saints, la joie que nous partageons dans les souffrances de ta passion.\r\n[I1] Jésus le plus généreux, du haut de ta croix, tu as donné à Marie d'être la mère de Jean :\r\n[I2] que nos vies témoignent que nous sommes aussi ses enfants et tes fratries.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

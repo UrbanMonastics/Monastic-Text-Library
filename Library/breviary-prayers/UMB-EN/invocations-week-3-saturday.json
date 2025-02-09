@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "invocations-week-3-saturday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Celebrating our Savior, who was born of the Virgin Mary, let us pray, saying:\r\n[IR] Lord, look upon us like a mother to their children, and hear our prayer.\r\n[I1] You are the Sun of Justice, who rose like the dawn from Mary's womb,\r\n[I2] bask our ways and days forever in the light of Your presence.\r\n[I1] Eternal Word, You chose Mary's womb to nurture you and keep you from sin,\r\n[I2] keep and free us from the ways sin corrupts and destroys.\r\n[I1] Our Savior, Your mother stood at the foot of Your cross,\r\n[I2] grant us, with all the saints, joy as we share in the sufferings of Your passion.\r\n[I1] Most generous Jesus, from the height of your cross you gave Mary to be the mother of John:\r\n[I2] may our lives bear witness to also being her children, and your siblings.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Initial translation of these intentions"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
