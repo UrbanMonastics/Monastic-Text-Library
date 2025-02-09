@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "6",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"25": "\t« C'est pourquoi je vous dis, ne vous inquiétez pas pour votre vie et de ce que vous mangerez ou boirez. Ne vous inquiétez pas de votre corps et de ce que vous porterez. La vie n'est-elle pas plus que la nourriture, et le corps plus que les vêtements ? ",
+		"26": "Regardez les oiseaux du ciel. Ils ne sèment pas, ne moissonnent pas, n'amassent pas de grain dans les greniers, et votre Père céleste les nourrit. N'êtes-vous pas beaucoup plus important qu'eux ? ",
+		"27": "Alors, qui de vous, par ses inquiétudes, peut ajouter un seul jour à sa vie ? »\r\n",
+		"28": "\t« Et pourquoi vous inquiétez au sujet des vêtements ? Considérez comment poussent les lis des champs. Ils ne travaillent pas et ne filent pas sur un métier à tisser. ",
+		"29": "Pourtant, je vous dis que même le roi Salomon, dans toute sa gloire, n'était pas vêtu comme l'un d'eux. ",
+		"30": "Si Dieu habille bien l'herbe des champs, qui est vivante aujourd'hui et qui demain sera jetée dans la fournaise, ne vous habillera-t-il pas à plus forte raison ? Gens de peu de foi ! ",
+		"31": "Ne vous inquiétez donc pas en disant : 'Que mangerons-nous ? Que boirons-nous ? Que porterons-nous ?' ",
+		"32": "Car les païens recherchent toutes ces choses. Votre Père céleste sait que vous avez besoin de toutes ces choses. ",
+		"33": "Cherchez d'abord son Royaume et sa justice, et toutes ces choses vous seront données. ",
+		"34": "Ne vous inquiétez donc pas du lendemain, car le lendemain prendra soin de lui-même. À chaque jour suffit sa peine. »"
+	},
+	"InlineTitles": {
+		"25": "Ne vous Inquiétez pas"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Premier traduction des versets 25-34."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

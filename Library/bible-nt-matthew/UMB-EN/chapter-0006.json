@@ -1,0 +1,43 @@
+{
+	"TextAbbreviation": "chapter-0006",
+	"SourceAbbreviation": "bible-nt-matthew",
+	"Chapter": "6",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"25": "\t\"Therefore, I tell you, do not worry about your life and what you will eat or drink. Do not worry about your body and what you will wear. Is not life more than food, and the body more than clothes? ",
+		"26": "Look at the birds of the sky. They do not sow, nor reap, nor gather grain into barns, and yet your heavenly Father feeds them. Are you not much more important than they are? ",
+		"27": "So, which of you by worrying can add a single day to their life?\"\r\n",
+		"28": "\t\"And why are you worried about clothes? Consider how the lilies of the field grow. They do not labor nor spin on a loom. ",
+		"29": "Yet, I tell you that not even King Solomon, in all his glory, was clothed like one of these. ",
+		"30": "If God clothes the grass of the field so well, which is alive today and tomorrow thrown into the furnace, will he not much more clothe you? You of little faith! ",
+		"31": "So do not worry, saying, 'What shall we eat? What shall we drink? What shall we wear?' ",
+		"32": "For the Gentiles pursue all these things. Your heavenly Father knows that you need all these things. ",
+		"33": "Seek first His Kingdom and His righteousness, and all these things will be provided to you. ",
+		"34": "So do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.\""
+	},
+	"InlineTitles": {
+		"25": "Do not Worry"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: First translation of verses 25-34."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

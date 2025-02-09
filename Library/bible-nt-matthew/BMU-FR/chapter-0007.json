@@ -9,14 +9,27 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"24": "« C'est pourquoi quiconque entend mes paroles et les met en pratique sera comme un sage. Il est comme le sage qui a bâti sa maison sur le roc. ",
+		"13": "\t« Entrez par la porte étroite ! Car la porte est large et le chemin spacieux qui mènent à la perdition, et il y en a beaucoup qui entrent par là. ",
+		"14": "La porte est étroite et le chemin resserré qui mènent à la vie, et il y en a peu qui les trouvent. »\r\n",
+		"15": "\t« Méfiez-vous des faux prophètes. Ils viennent à vous en vêtements de brebis, mais au-dedans, ce sont des loups ravisseurs. ",
+		"16": "Vous les reconnaîtrez à leurs fruits. Cueille-t-on des raisins au milieu des épines ou des figues sur les chardons ? ",
+		"17": "Tout bon arbre produit de bons fruits, mais un mauvais arbre produit de mauvais fruits. ",
+		"18": "Un bon arbre ne peut pas porter de mauvais fruits, et un mauvais arbre ne peut pas porter de bons fruits. ",
+		"19": "Tout arbre qui ne produit pas de bons fruits est coupé et jeté au feu. ",
+		"20": "Ainsi, vous les reconnaîtrez à leurs fruits. »\r\n",
+		"21": "\t« Ceux qui me disent : 'Seigneur, Seigneur' n'entreront pas tous dans le Royaume des Cieux, mais seulement ceux qui fait la volonté de mon Père qui est dans les cieux. ",
+		"22": "Beaucoup me diront en ce jour-là : 'Seigneur, Seigneur, n'avons-nous pas prophétisé par ton nom ? N'avons-nous pas chassé des démons par ton nom ? N'avons-nous pas fait beaucoup de miracles par ton nom ?' ",
+		"23": "Alors je leur dirai ouvertement : 'Je ne vous ai jamais connus. Eloignez-vous de moi, malfaiteurs !' »\r\n",
+		"24": "\t« C'est pourquoi quiconque entend mes paroles et les met en pratique sera comme un sage. Il est comme le sage qui a bâti sa maison sur le roc. ",
 		"25": "La pluie est tombée, les inondations sont arrivées, les vents ont hurlé et se sont déchaînés contre cette maison. Pourtant, elle ne s'est pas effondrée parce qu'elle était fondée sur le roc. ",
 		"26": "Mais toute personne qui entend mes paroles et qui ne les met pas en pratique est comme un fou. Il est comme un fou qui a bâti sa maison sur le sable. ",
-		"27": "La pluie est tombée, les inondations sont arrivées, les vents ont hurlé et se sont déchaînés contre cette maison, et elle est tombée. Elle s'est effondrée avec un grand fracas. »",
-		"28": "Quand Jésus eut fini de dire ces choses, les foules furent frappées par son enseignement. ",
+		"27": "La pluie est tombée, les inondations sont arrivées, les vents ont hurlé et se sont déchaînés contre cette maison, et elle est tombée. Elle s'est effondrée avec un grand fracas. »\r\n",
+		"28": "\tQuand Jésus eut fini de dire ces choses, les foules furent frappées par son enseignement. ",
 		"29": "Il enseignait comme ayant autorité, et non comme leurs scribes."
 	},
 	"InlineTitles": {
+		"13": "Portes Étroites et Larges",
+		"15": "Les Fruits d'un Arbre",
 		"24": "Les Bâtisseurs Sages et Fous"
 	},
 	"Extra": {
@@ -33,7 +46,8 @@
 		}
 	},
 	"Changes": [
-		"2024-06-02 - Paul Prins: Premier traduction du versets 24-29."
+		"2025-02-08 - Paul Prins: Premier traduction des versets 13-23.",
+		"2024-06-02 - Paul Prins: Premier traduction des versets 24-29."
 	],
 	"License": "© 2024 Urban Monastics, Paris"
 }
