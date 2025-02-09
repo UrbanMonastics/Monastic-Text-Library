@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "petitions-week-4-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Christum, in quo lætántur omnes, qui sperant in eum, deprecémur:\r\n[IR] Réspice et exáudi nos, Dómine.\r\n[I1] Testis fidélis et primogénite mortuórum, qui lavásti nos peccátis nostris in sánguine tuo,\r\n[I2] mirabílium tuórum redde nos mémores.\r\n[I1] Quos Evangélii vocásti præcónes,\r\n[I2] strénui et fidéles dispensatóres mystérii regni tui inveniántur.\r\n[I1] Rex pacífice, véniat Spíritus tuus in illos, qui pópulos regunt,\r\n[I2] ut óculos in páuperes miserósque convértant.\r\n[I1] Cónsule iis, qui discrímen ob genus, colórem, condiciónem, sermónem aut religiónem patiúntur,\r\n[I2] ut iúrium suórum ac dignitátis agnitiónem consequántur.\r\n[I1] Omnes, qui in tuo amóre decessérunt, beatitúdinis redde partícipes,\r\n[I2] cum beáta María Vírgine et ómnibus sanctis tuis.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

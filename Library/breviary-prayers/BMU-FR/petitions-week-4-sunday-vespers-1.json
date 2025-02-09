@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "petitions-week-4-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Le Christ est la joie de tous ceux qui espèrent en lui, nous t'en prions :\r\n[IR] Regarde-nous avec faveur, Seigneur, et exauce-nous.\r\n[I1] Témoin fidèle et premier-né de ceux qui sont morts, ton sang nous a lavés de nos péchés,\r\n[I2] inonde nos esprits de tes merveilles.\r\n[I1] Tu as appelé certains pour annoncer et proclamer ton Évangile,\r\n[I2] qu'ils soient trouvés fidèles et diligents pour incarner et dire les mystères de ton Royaume pour ton peuple.\r\n[I1] Roi de la Paix, envoie ton Esprit sur les dirigeants de notre monde,\r\n[I2] en tournant leurs yeux vers les besoins des pauvres, des marginaux et des opprimés.\r\n[I1] Conseiller et protecteur de ceux qui souffrent de discrimination en raison de leur race, de leur couleur, de leur classe, de leur capacité, de leur genre, de leur sexe, de leur langue ou de leur religion,\r\n[I2] que ta volonté soit faite pour qu'ils reçoivent la reconnaissance de leurs droits et de leur dignité.\r\n[I1] Que tous ceux qui sont morts dans ton amour partagent tes bénédictions\r\n[I2] avec Marie, notre mère, et tous les saints que tu chéris. ",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

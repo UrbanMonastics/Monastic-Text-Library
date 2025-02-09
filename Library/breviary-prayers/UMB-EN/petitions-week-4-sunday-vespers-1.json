@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "petitions-week-4-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] The Christ is the joy for all who hope in Him, we pray to You:\r\n[IR] Look upon us with favor, Lord, and answer us.\r\n[I1] Faithful witness and firstborn of those who have died, Your blood has washed us of our sins,\r\n[I2] flood our minds with your wondrous deeds.\r\n[I1] You have called some to herald and proclaim your Gospel,\r\n[I2] let them be found faithful and diligent to embody and speak the mysteries of Your Kingdom for Your people.\r\n[I1] King of Peace, send Your Spirit onto the leaders of our world,\r\n[I2] turning their eyes towards the needs of the poor, marginalized, and oppressed.\r\n[I1] Counselor and Protector of those suffering discrimination because of their race, color, class, ability, gender, sex, language, or religion,\r\n[I2] may Your will be done that they receive recognition of their rights and dignity.\r\n[I1] May all who have died in Your love share in Your blessings\r\n[I2] together with Mary, our mother, and all the holy ones you treasure.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Initial translation of these intentions"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
