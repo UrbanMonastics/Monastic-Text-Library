@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Cherchez d'abord [*] le Royaume de Dieu et sa justice, et toutes ces choses vous seront données.",
+	"Extra": {
+		"Reference": ["Matthew 6:33"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Quærite primum [*] regnum Dei et iustítiam eius, et hæc ómnia adiciéntur vobis, allelúia.",
+	"Extra": {
+		"Reference": ["Matthew 6:33"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

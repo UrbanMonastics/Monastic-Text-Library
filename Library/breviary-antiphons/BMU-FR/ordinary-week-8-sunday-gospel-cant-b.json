@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Personne ne verse du vin [*] nouveau dans de vieilles outres. On verse du vin nouveau dans des outres neuves.",
+	"Extra": {
+		"Reference": ["Mark 2:22"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

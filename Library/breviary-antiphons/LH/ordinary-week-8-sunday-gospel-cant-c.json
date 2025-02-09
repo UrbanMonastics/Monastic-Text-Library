@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Non potest arbor bona [*] fructus malos fácere, neque arbor mala fructus bonos fácere.",
+	"Extra": {
+		"Reference": ["Matthew 7:18"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

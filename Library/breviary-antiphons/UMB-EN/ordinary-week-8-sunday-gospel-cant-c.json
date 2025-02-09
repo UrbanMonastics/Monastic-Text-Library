@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "A good tree cannot bear [*] bad fruit, nor can a bad tree bear good fruit.",
+	"Extra": {
+		"Reference": ["Matthew 7:18"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

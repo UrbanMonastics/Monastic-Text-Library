@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-a",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Seek first [*] the Kingdom of God and His righteousness, and all these things will be provided to you.",
+	"Extra": {
+		"Reference": ["Matthew 6:33"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

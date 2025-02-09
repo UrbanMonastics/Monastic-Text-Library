@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "No one pours new wine [*] into old wineskins. One pours new wine into fresh wineskins.",
+	"Extra": {
+		"Reference": ["Mark 2:22"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-09": ["Peer-Review"],
+				"2025-02-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

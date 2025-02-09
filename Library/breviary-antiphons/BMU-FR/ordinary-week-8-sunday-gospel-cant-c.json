@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-8-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Un bon arbre ne peut pas [*] porter de mauvais fruits, et un mauvais arbre ne peut pas porter de bons fruits.",
+	"Extra": {
+		"Reference": ["Matthew 7:18"],
+		"LiturgiaeHorarum-Page": "329",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
