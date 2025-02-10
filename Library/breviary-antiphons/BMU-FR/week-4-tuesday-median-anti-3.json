@@ -7,9 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Tu as [*] éloigné de moi tous ceux que je connaissais. Je suis trahi et je n'ai pas d'issue.",
+	"Text": "Tu as [*] éloigné de moi tous ceux que je connaissais. Je suis enfermé et je ne peux pas sortir.",
 	"Extra": {
-		"Reference": ["Psalm 88:9"],
+		"Reference": ["Psalm 88:8"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-10 - Paul Prins: Alignement de l'antienne sur la traduction du psaume et correction de la référence",
 		"2024-06-06 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

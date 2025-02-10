@@ -5,7 +5,7 @@
 	"Version": "LH",
 	"Text": "Intret [*] orátio mea in conspéctu tuo, Dómine.",
 	"Extra": {
-		"Reference": ["Psalm 88:3"],
+		"Reference": ["Psalm 88:2"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -19,6 +19,7 @@
 		}
 	},
 	"Changes": [
+		"2025-02-10 - Paul Prins: fix reference",
 		"2024-06-06 - Paul Prins: Added this Antiphon."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
