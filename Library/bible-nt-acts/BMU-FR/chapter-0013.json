@@ -1,0 +1,35 @@
+{
+	"TextAbbreviation": "chapter-0013",
+	"SourceAbbreviation": "bible-nt-acts",
+	"Chapter": "13",
+	"FormatAs": "Letter",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"26": "\tChers fratries, les enfants d'Abraham et ceux d'entre vous qui craignent Dieu, ce message de salut nous a été envoyé. ",
+		"27": "Car les habitants de Jérusalem et leurs chefs ont méconnu Jésus. Aucune, ils n'ont compris les paroles des prophètes qu'on lisait tous les sabbats. En le condamnant, leurs paroles s'accomplissaient. ",
+		"28": "Quoiqu'ils n'aient trouvé aucune raison de le mettre à mort, ils ont réclamé à Pilate son exécution. ",
+		"29": "Ils avaient accompli tout ce qui était écrit de lui. Ils avaient accompli tout ce qui était écrit de lui. Et, après, ils l'ont descendu de la croix et mis au tombeau. ",
+		"30": "Mais Dieu l'a ressuscité d'entre les morts ! ",
+		"31": "Pendant plusieurs jours, il est apparu à ceux qui marchaient avec lui de la Galilée à Jérusalem. Ce sont eux qui sont maintenant ses témoins auprès du peuple.\r\n"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-01-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-06 - Paul Prins: Première traduction des versets 26-31 basée sur le grec."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
