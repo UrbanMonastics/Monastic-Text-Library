@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "lent-week-5-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Inclinávit se Iesus, [*] scribébat in terra: Si quis sine peccáto est, mittat in eam lápidem.",
+	"Extra": {
+		"Reference": ["John 8:6-7"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-07": ["Peer-Review"],
+				"2025-04-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

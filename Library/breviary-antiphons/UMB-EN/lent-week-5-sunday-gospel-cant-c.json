@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "lent-week-5-sunday-gospel-cant-c",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jesus stooped down, [*] and with His finger wrote on the ground. \"Let any one of you who is without sin be the first to throw a stone at her.\"",
+	"Extra": {
+		"Reference": ["John 8:6-7"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-07": ["Peer-Review"],
+				"2025-04-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-06 - Paul Prins: Translated this antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

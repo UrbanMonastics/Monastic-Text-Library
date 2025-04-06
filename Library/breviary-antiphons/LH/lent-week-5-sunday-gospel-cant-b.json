@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "lent-week-5-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ego, [*] si exaltátus fúero a terra, ómnia traham ad me ípsum. Hoc autem dicébat, signíficans qua morte esset moritúrus.",
+	"Extra": {
+		"Reference": ["John 12:32"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-07": ["Peer-Review"],
+				"2025-04-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-06 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

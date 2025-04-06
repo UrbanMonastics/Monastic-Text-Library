@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "lent-week-5-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "",
+	"Extra": {
+		"Reference": ["Psalm 86:6"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"YYYY-MM-DD": ["Peer-Review"],
+				"YYYY-MM-DD": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-06 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
