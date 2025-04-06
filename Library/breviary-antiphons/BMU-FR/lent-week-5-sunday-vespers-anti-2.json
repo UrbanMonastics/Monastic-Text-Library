@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "lent-week-5-sunday-vespers-anti-1",
+	"TextAbbreviation": "lent-week-5-sunday-vespers-anti-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,9 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Garde-moi [*] des mâchoires du piège qu'ils m'ont tendu, et des embûches de ceux qui font le mal !",
+	"Text": "Moi, [*] je proclame la justice, et je combats pour sauver.",
 	"Extra": {
-		"Reference": ["Psalm 141:9"],
+		"Reference": [],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

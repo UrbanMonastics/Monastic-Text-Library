@@ -1,15 +1,15 @@
 {
-	"TextAbbreviation": "lent-week-5-sunday-vespers-anti-1",
+	"TextAbbreviation": "lent-week-5-sunday-vespers-2-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
-	"Version": "BMU-FR",
+	"Version": "UMB-EN",
 	"Translation":{
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Garde-moi [*] des mâchoires du piège qu'ils m'ont tendu, et des embûches de ceux qui font le mal !",
+	"Text": "He poured out His life unto death, and was counted with wrongdoers. For He bore the sins of many, and interceded for sinners.",
 	"Extra": {
-		"Reference": ["Psalm 141:9"],
+		"Reference": ["Isaiah 53:12"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -23,7 +23,7 @@
 		}
 	},
 	"Changes": [
-		"2025-04-06 - Paul Prins: Traduit cette Antiphone."
+		"2025-04-06 - Paul Prins: Translated this antiphon."
 	],
-	"License": "© 2025 Monastiques Urbain, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }

@@ -3,7 +3,7 @@
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Custódime me [*] a láqueo quem statueérunt mihi, et a scándalis operántium iniquitátem.",
+	"Text": "Custódi me [*] a láqueo quem statuérunt mihi, et a scándalis operántium iniquitátem.",
 	"Extra": {
 		"Reference": ["Psalm 141:9"],
 		"Writing":{
@@ -19,6 +19,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-06 - Paul Prins: Fix Antiphon and add reference.",
 		"2022-03-26 - Paul Prins: Added this Antiphon."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
