@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "concluding-easter-week-3-sunday",
+	"TextAbbreviation": "concluding-easter-week-3",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -7,8 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Protège le bonheur de tes peuples, Seigneur, toi qui nous redonnes force et jeunesse ; [t] tu nous as rendu notre dignité d'enfants de Dieu, [*] affermis en nous l'espérance de la résurrection. Par Jésus-Christ.",
+	"Text": "Que ton peuple se réjouisse toujours en toi, Seigneur, qui rafraîchis nos âmes. [t] Car tu as rétabli notre dignité, en nous réclamant comme les tiens, des enfants de Dieu. [*] Fixe nos yeux sur le jour de la résurrection et sur l'espérance d'être avec toi pour toujours",
 	"Extra": {
+		"LiturgiaeHorarum-Page": 290,
+		"CollectEnding": "father", 
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

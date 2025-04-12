@@ -1,10 +1,12 @@
 {
-	"TextAbbreviation": "concluding-easter-week-3-sunday",
+	"TextAbbreviation": "concluding-easter-week-3",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
 	"Text": "Semper exsúltet pópulus tuus, Deus, renováta ánimæ iuventúte, [t] ut qui nunc lætátur in adoptiónis se glóriam restitútum, [*] resurrectiónis diem spe certæ gratulatiónis exspéctet. Per Dóminum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": 290,
+		"CollectEnding": "father", 
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
