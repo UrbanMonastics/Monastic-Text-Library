@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "easter-psalm-week-3-anti-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Le SEIGNEUR [*] domine toutes les nations, Sa gloire est au-dessus des cieux, Alléluia.",
+	"Extra": {
+		"Reference": ["Psalm 113:4"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-12 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
