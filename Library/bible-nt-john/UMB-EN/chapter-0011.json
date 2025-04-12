@@ -1,0 +1,49 @@
+{
+	"TextAbbreviation": "chapter-0011",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "11",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tNow a certain man was sick, Lazarus of Bethany, the village of Mary and her sister Martha. ",
+		"2": "This Mary was the one who anointed the Lord with perfume and wiped His feet with her hair. Her brother Lazarus was sick. ",
+		"3": "So the sisters send word to Him, saying, \"Lord, behold, the one whom You love is sick.\"\r\n",
+		"4": "\tAfter Jesus heard this, He said, \"This sickness will not end in death. It is for God's glory, so that God's Son may be glorified by it.\" ",
+		"5": "Now, Jesus loved Martha, her sister, and Lazarus. ",
+		"6": "When He head that Lazarus was sick, He then stayed where he was for two more days. ",
+		"7": "After this, He said to the disciples, \"Let's go back to Judea.\"\r\n",
+		"8": "\tThe disciples said to Him, \"Rabbi, just now there were Jews seeking to stone You! And yet, You are going back?\"\r\n",
+		"9": "\tJesus answered, \"Are there not twelve hours of daylight? If someone walks during the day, they don't stumble, because they see by the light of this world. ",
+		"10": "But, if anyone walks at night they stumble because they are without light.\" ",
+		"11": "After this, He said to them, \"Our friend Lazarus has fallen asleep, but I am going there to awaken him.\"\r\n",
+		"12": "\tThe disciples replied, \"Lord, if he sleeps, he will recover.\" ",
+		"13": "Jesus had spoken of his death, but they thought that He meant actual sleep.\r\n",
+		"14": "\tSo then Jesus said to them plainly, \"Lazarus died. ",
+		"15": "And, for your sakes, I'm glad that I was not there so that you may believe. Now, let us go to him.\"\r\n",
+		"16": "Then Thomas, who is called Didymus, said to the other disciples, \"Let us also go, that we may die with him!\"\r\n"
+	},
+	"InlineTitles": {
+		"1": "The Death of Lazarus"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-12": ["Peer-Review"],
+				"2025-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-11 - Paul Prins: First translation of verses 1-16."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

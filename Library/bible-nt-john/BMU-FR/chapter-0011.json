@@ -1,0 +1,50 @@
+{
+	"TextAbbreviation": "chapter-0011",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "11",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tIl y avait un homme malade, Lazare de Béthanie, le village de Marie et de sa soeur Marthe. ",
+		"2": "Cette Marie était celle qui avait oint le Seigneur de parfum et lui avait essuyé les pieds avec ses cheveux. Son frère Lazare était malade. ",
+		"3": "Les sœurs lui envoient un message : « Seigneur, voici celui que tu aimes est malade. »\r\n",
+		"4": "\tAprès Jesus avoir entendu cela, il dit : « Cette maladie n'aboutira pas à la mort. Elle est pour la gloire de Dieu, afin que le Fils de Dieu soit glorifié par elle. » ",
+		"5": "Or, Jésus aimait Marthe, sa sœur et Lazare. ",
+		"6": "Quand il a appris que Lazare était malade, il resta encore deux jours à l'endroit où il était. ",
+		"7": "Après cela, il dit aux disciples : « Retournons en Judée. »\r\n",
+		"8": "\tLes disciples lui dirent : « Les disciples lui dirent : « Rabbi, tout récemment que des Juifs cherchaient à te lapider !  Et tu t'en retournes ? »\r\n",
+		"9": "\tJésus répondit : « N'y a-t-il pas douze heures de lumière du jour ? Si quelqu'un marche pendant le jour, il ne trébuche pas, parce qu'il voit à la lumière de ce monde. ",
+		"10": "Mais si quelqu'un marche pendant la nuit, il trébuche parce qu'il est sans lumière. » ",
+		"11": "Après cela, il leur dit : « Notre ami Lazare s'est endormi, mais je vais aller le réveiller. »\r\n",
+		"12": "\tLes disciples répondirent : « Seigneur, s'il dort, il sera guéri. » ",
+		"13": "Jésus avait parlé de sa mort, mais ils pensaient qu'il parlait du sommeil réel.\r\n",
+		"14": "\tAlors Jésus leur dit clairement : « Lazare est mort. ",
+		"15": "Et, à cause de vous, je me réjouis de n'avoir pas été là, afin que vous croyiez. Maintenant, allons à lui. »\r\n",
+		"16": "\tAlors Thomas, appelé Didyme, dit aux autres disciples : « Allons-y, nous aussi, afin de mourir avec lui. »"
+
+	},
+	"InlineTitles": {
+		"1": "Le mort de Lazare"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-12": ["Peer-Review"],
+				"2025-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-11 - Paul Prins: Premier traduction des versets 1-16"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
