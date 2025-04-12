@@ -10,14 +10,15 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "Alleluia\r\nSalvation and glory and power belong to our God,[*]\r\n\twhose judgments are true and just.\r\nAlleluia\r\n\r\n",
-		"2": "Alleluia\r\nPraise our God, all servants of the Lord,[*]\r\n\tyou who fear him, both small and great.\r\nAlleluia\r\n\r\n",
-		"5": "Alleluia\r\nThe Lord our God, the Almighty, reigns:[*]\r\n\tlet us rejoice and exult and give glory and homage.\r\nAlleluia\r\n\r\n",
-		"6": "Alleluia\r\nThe marriage of the Lamb has come[*]\r\n\tand His bride has made herself ready.\r\nAlleluia\r\n\r\n",
-		"7": "Alleluia\r\nHappy are those who are invited[*]\r\n\tto the wedding banquet of the Lamb.\r\nAlleluia"
-	},
+		"1": "Alleluia\r\nSalvation and glory and power belong to our God,[*]\r\n",
+		"2": "\twhose judgments are true and just.\r\nAlleluia\r\n\r\n",
+		"5": "Alleluia\r\nPraise our God, all you servants of the Lord,[*]\r\n\tyou who fear him, both small and great.\r\nAlleluia\r\n\r\n",
+		"6": "Alleluia\r\nThe Lord our God, the Almighty, reigns.[*]\r\n",
+		"7": "\tLet us rejoice and exult and give glory to Him.\r\nAlleluia\r\n\r\nAlleluia\r\nFor the marriage of the Lamb has come[*]\r\n\tand His bride has made herself ready.\r\nAlleluia\r\n\r\n",
+		"9": "Alleluia\r\nBlessed are those who are invited[*]\r\n\tto the wedding banquet of the Lamb.\r\nAlleluia"
+	}, 
 	"Extra": {
-		"Reference": ["Revelation 19:1-2, 5-7"],
+		"Reference": ["Revelation 19:1-2, 5-7, 9"],
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT",
 		"Writing":{
@@ -39,6 +40,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-12 - Paul Prins: Update to match recent translation of Revelation.",
 		"2024-01-31 - Constance McIntosh Smith: Implement her editorial feedback.",
 		"2020-03-29 - Paul Prins : Added this Canticle."
 	],

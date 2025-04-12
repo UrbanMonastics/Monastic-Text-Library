@@ -1,0 +1,44 @@
+{
+	"TextAbbreviation": "chapter-0019",
+	"SourceAbbreviation": "bible-nt-revelation",
+	"Chapter": "19",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tAprès cela, j'entendis comme une voix forte d'une foule immense dans le ciel qui chante.\r\n« Alléluia! Le salut, la gloire et la puissance à notre Dieu,\r\n",
+		"2": "\tcar ses jugements sont vrais et justes.\r\nIl a jugé la grande prostituée,\r\n\tqui a corrompu la terre par son immoralité sexuelle.\r\nIl a vengé le sang de ses serviteurs versé par elle. »\r\n",
+		"3": "Et une seconde fois, ils chantèrent :\r\n« Alléluia ! Et sa fumée monte aux siècles des siècles. »\r\n\r\n",
+		"4": "Et les vingt-quatre anciens et les quatre êtres vivants se prosternèrent et adorèrent le Dieu qui est assis sur le trône. Ils criaient : « Amen, alléluia ! »\r\n",
+		"5": "Une voix sortit du trône, disant :\r\n« Louez notre Dieu,\r\n\ttous les serviteurs du Seigneur,\r\nvous qui le craignez,\r\n\tles petits et les grands. »\r\n",
+		"6": "Et j'entendis quelque chose. Cela sonnait comme la voix d'une foule immense, comme le bruit des eaux tumultueuses, et comme de grands coups de tonnerre, disant :\r\n« Alléluia ! Car le Seigneur notre Dieu, le Tout-Puissant, règne.\r\n",
+		"7": "\tRéjouissons-nous et exultons et rendons-lui gloire.\r\nCar les noces de l'Agneau sont arrivées\r\n\tet son épouse s'est préparée.\r\n",
+		"8": "Du fin lin, éclatant et pur,\r\n\tlui a été donné pour qu'elle s'en revête.\r\nCar son fin lin,\r\n\tce sont les œuvres justes des saints. »\r\n",
+		"9": "\tPuis il me dit : « Écris ceci : 'Heureux ceux qui sont invités au festin de noces de l'Agneau.'' » Et il ajouta : « Ces paroles sont les vraies paroles de Dieu. » ",
+		"10": "Je tombai alors à ses pieds pour l'adorer. Mais il m'a dit : « Garde-toi de le faire! Je suis ton compagnon de service et celui de tes fratries qui ont le témoignage de Jésus. Adore Dieu ! Car le témoignage de Jésus est l'esprit de la prophétie. »\r\n"
+	},
+	"InlineTitles": {
+		"1": "Alléluia!",
+		"11": ""
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-08-07": ["Peer-Review"],
+				"2021-08-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-05-12 - Paul Prins: Premier traduction des versets 1-10."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

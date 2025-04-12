@@ -6,14 +6,15 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Verses":{
-		"1": "Allelúia.\r\nSalus et glória et virtue Deus nostro, [*]\r\n\tQuia vera et iust iudícia eius,\r\nAllelúia,\r\n\r\n",
-		"2": "Allelúia.\r\nLaudem dícite Deus nostro, omnes servieius, [*]\r\n\tEt qui timétis eum, pusílli et magna,\r\nAllelúia.\r\n\r\n",
-		"5": "Allelúia.\r\nQuóniam regnávit Dóminus, Deus roster omnípotens, [*]\r\n\tGaudeámus et exsultémus et demis glóriam ei,\r\nAllelúia.\r\n\r\n",
-		"6": "Allelúia.\r\nQuia venérunt núptiæ Agni, [*]\r\n\tEt uxor emus præparávit se,\r\nAllelúia.\r\n\r\n",
-		"7": ""
+		"1": "Allelúia.\r\nSalus et glória et virtue Deus nostro, [*]\r\n",
+		"2": "\tQuia vera et iust iudícia eius.\r\nAllelúia.\r\n\r\n",
+		"5": "Allelúia.\r\nLaudem dícite Deus nostro, omnes servieius, [*]\r\n\tEt qui timétis eum, pusílli et magna!\r\nAllelúia.\r\n\r\n",
+		"6": "Allelúia.\r\nQuóniam regnávit Dóminus, Deus roster omnípotens, [*]\r\n\tGaudeámus et exsultémus et demis glóriam ei.\r\nAllelúia.\r\n\r\n",
+		"7": "Allelúia.\r\nQuia venérunt núptiæ Agni, [*]\r\n\tEt uxor emus præparávit se.\r\nAllelúia.\r\n\r\n",
+		"9": "Allelúia.\r\nBeáti, qui ad cenam nuptiárum [*]\r\n\tAgni vocáti sunt!\r\nAllelúia."
 	},
 	"Extra": {
-		"Reference": ["Apocalypsis 19:1-7"],
+		"Reference": ["Apocalypsis 19:1-2, 5-7, 9"],
 		"LiturgiaeHorarum-Index": 22,
 		"LiturgiaeHorarum-Cantica": "NT",
 		"Writing":{

@@ -1,0 +1,44 @@
+{
+	"TextAbbreviation": "chapter-0019",
+	"SourceAbbreviation": "bible-nt-revelation",
+	"Chapter": "19",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tAfter this, I hear something like a loud voice of a great multitude in heaven singing.\r\n\"Alleluia! Salvation and glory and power belong to our God,\r\n",
+		"2": "\tfor His judgments are trust and just.\r\nHe has judged the great harlot,\r\n\twho corrupted the earth with her sexual immorality.\r\nHe has avenged the blood of his servants shed by her.\"\r\n",
+		"3": "And a second time they sang,\r\n\"Alleluia! And her smoke rises forever and ever.\"\r\n\r\n",
+		"4": "And the twenty-four elders and the four living creatures fell down and worshiped God, who sits on the throne. They cried, \"Amen, Alleluia!\"\r\n",
+		"5": "Then a voice came from the throne, saying,\r\n\"Praise our God,\r\n\tall you servants of the Lord,\r\nyou who fear him,\r\n\tboth small and great.\"\r\n",
+		"6": "Then I heard something. It sounded like the voice of a great multitude, like the roar of rushing waters, and like loud claps of thunder, saying,\r\n\"Alleluia! For the Lord our God, the Almighty, reigns.\r\n",
+		"7": "\tLet us rejoice and exult and give glory to Him.\r\nFor the marriage of the Lamb has come,\r\n\tand His bride has made herself ready.\r\n",
+		"8": "Fine linen, bright and clean,\r\n\twas given to clothe herself in.\r\nFor her fine linen\r\n\tis the righteous acts of the saints.\"\r\n",
+		"9": "\tThen he said to me, \"Write this, 'Blessed are those who are invited to the wedding banquet of the Lamb.'\" And he added, \"These are the true words of God.\" ",
+		"10": "At this I fell at his feet to worship him. But he said to me, \"Don't do that. I am a fellow servant of yours and your siblings who hold the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.\""
+	},
+	"InlineTitles": {
+		"1": "Alleluia!",
+		"11": ""
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-12 - Paul Prins: First translation of verses 1-10."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
