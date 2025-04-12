@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "easter-psalm-week-3-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "The Lord has sent [*] redemption to His people, establishing His covenant forever.",
+	"Extra": {
+		"Reference": ["Psalm 111:9"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-12 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

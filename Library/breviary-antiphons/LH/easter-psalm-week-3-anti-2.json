@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "easter-psalm-week-3-anti-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Redemptiónem [*] misit Dóminus pópulo suo; mandávit in ætérnum testaméntum suum.",
+	"Extra": {
+		"Reference": ["Psalm 111:9"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-12 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
