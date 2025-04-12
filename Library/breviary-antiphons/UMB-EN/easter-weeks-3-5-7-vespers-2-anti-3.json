@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-5-sunday-vespers-2-anti-3",
+	"TextAbbreviation": "easter-weeks-3-5-7-vespers-2-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,13 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Alleluia, [*] I heard an endless crowd of voices, in heaven, saying: \"Alleluia!\"",
+	"Text": "Alleluia, [*] I heard something like a loud voice of a great multitude in heaven singing, Alleluia.",
 	"Extra": {
+		"Reference": ["Revelation 19:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2021-05-03": ["Peer-Review"],
-				"2021-05-02": [
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -22,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-12 - Paul Prins: Updated to match reference in Revelation and added reference.",
 		"2021-05-02 - Paul Prins: Translated this Antiphon."
 	],
 	"License": "© 2021 Urban Monastics, Paris"

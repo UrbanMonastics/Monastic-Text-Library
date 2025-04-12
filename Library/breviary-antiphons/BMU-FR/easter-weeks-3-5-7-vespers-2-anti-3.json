@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-5-sunday-vespers-2-anti-3",
+	"TextAbbreviation": "easter-weeks-3-5-7-vespers-2-anti-3",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Alléluia, [*] j'entendis une foule interminable des voix, dans le ciel, disant: « Alléluia ! »",
+	"Text": "Alléluia, [*] j'entendis comme une voix forte d'une foule immense dans le ciel qui chante : Alléluia.",
 	"Extra": {
+		"Reference": ["Revelation 19:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -22,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-12 - Paul Prins : Mise à jour pour correspondre à la référence dans l'Apocalypse et ajout d'une référence.",
 		"2021-05-02 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
