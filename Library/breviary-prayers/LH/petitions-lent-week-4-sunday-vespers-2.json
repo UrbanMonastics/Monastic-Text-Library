@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "petitions-lent-week-4-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Grátias Christo, cápiti et magístro nostro, semper agámus, qui venit ministráre et ómnibus benefácere. Ideo humíliter fidentérque ab eo petámus:\r\n[IR] Vísita, Dómine, famíliam tuam.\r\n[I1] Adésto, Dómine, epíscopis et presbyteris Ecclésiæ tuæ, qui munus tuum cápitis et pastóris partícipant,\r\n[I2] ut per te ad Patrem omnes addúcant.\r\n[I1] Angelus tuus iter agéntes comitétur,\r\n[I2] ut omnes ánimæ corporísque insídias devítent.\r\n[I1] Doce nos homínibus ministráre,\r\n[I2] ut te imitémur, qui venísti ministráre, non ministrári.\r\n[I1] Fac ut in omni humána communitáte frater adiuvétur a fratre,\r\n[I2] ut sint, te astánte, quasi cívitas firma.\r\n[I1] Miséricors esto univérsis defúnctis,\r\n[I2] eósque in lumen vultus tui admítte.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-12": ["Peer-Review"],
+				"2025-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-11 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
