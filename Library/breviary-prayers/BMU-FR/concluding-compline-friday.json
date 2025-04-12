@@ -9,6 +9,8 @@
 	},
 	"Text": "Pardonne-nous, Dieu tout-puissant. Ce n'est que par ton pardon que nous trouvons le courage de suivre ton Fils unique. [t] Pour cheminer pas à pas, de la vie jusqu'aux ténèbres de la tombe. [*] Donne-nous la foi nécessaire pour le suivre dans la mort, et pour ressusciter avec Jésus, dans la nouveauté de la vie avec Lui,",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

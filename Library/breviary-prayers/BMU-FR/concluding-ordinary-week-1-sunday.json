@@ -10,6 +10,7 @@
 	"Text": "Quand les prières de ton peuple se lèvent vers toi, Seigneur, exauce-les en ta bonté. [t] Avec la douceur de ton esprit, laisse chacun voir ce qu'il doit faire. [*] Donne-nous la foi et la force de le voir s'accomplir, par Jésus-Christ.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

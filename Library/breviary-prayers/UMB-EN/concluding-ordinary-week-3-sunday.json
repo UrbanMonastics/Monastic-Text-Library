@@ -9,7 +9,8 @@
 	},
 	"Text": "Almighty and Everlasting God, bring our lives into resonance with Your love. [t] Let our ways be the same as Your beloved Son. [*] So our eyes might see Your abundant fruits, through Jesus Christ.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

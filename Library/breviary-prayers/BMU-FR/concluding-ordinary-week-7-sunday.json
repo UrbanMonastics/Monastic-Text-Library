@@ -10,6 +10,7 @@
 	"Text": "Accorde-nous, Dieu tout-puissant, tout ce que nous te demandons. [t] Ramène toujours nos pensées vers les bonnes choses et ta Parole. [*] Fais-nous voir ce qui te plaît, et donne-nous le courage de faire tout ce que tu as dit et confessé",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

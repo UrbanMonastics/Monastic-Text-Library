@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Omnípotens sempitérne Deus, qui Paraclítum Sanctum tuum hora tértia in Apóstolos effudísti, [t] in nos quoque eúndem Spíritum caritátis emítte, [*] ut fidéle tibi coram ómnibus homínibus testimónium præbeámus, Per Christum Dóminum nostrum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

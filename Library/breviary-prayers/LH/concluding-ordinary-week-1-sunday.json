@@ -6,6 +6,7 @@
 	"Text": "Vota, quǽsumus, Dómine, supplicántis pópuli cælésti pietáte proséquere, [t] ut et quæ agénda sunt vídeant, [*] et ad implénda quæ víderint convaléscant. Per Dóminum.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

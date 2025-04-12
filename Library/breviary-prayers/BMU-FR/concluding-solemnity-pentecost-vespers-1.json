@@ -9,6 +9,8 @@
 	},
 	"Text": "Dieu tout-puissant et éternel, qui a voulu que le mystère de Pâques soit complété cinquante jours plus tard par un autre mystère célébré, la Pentecôte. [t] Par ton Esprit Saint, rassemble ton peuple, qui est enclin à la division et à la haine. [*] Que chacun dans sa langue te rende louange et gloire. Par Jésus-Christ.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

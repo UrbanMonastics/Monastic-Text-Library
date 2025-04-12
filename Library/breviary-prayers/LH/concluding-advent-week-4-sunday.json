@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Grátiam tuam, quæsumus, Dómine, méntibus nostris infúnde, [t] ut qui, Angelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, [*] per passiónem eius et crucem ad resurrectiónis glóriam perducámur. Per Dóminum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

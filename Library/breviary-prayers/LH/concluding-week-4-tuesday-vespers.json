@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Orántes in conspéctu tuo, Dómine, tuam cleméntiam implorámus, [*] ut ea semper meditémur in córdibus, quæ tibi labiórum vócibus profitémur. Per Dóminum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

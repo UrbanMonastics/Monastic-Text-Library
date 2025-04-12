@@ -9,6 +9,8 @@
 	},
 	"Text": "Aide-nous à te faire confiance, Seigneur. [*] Fais déborder nos cœurs avec ta grâce afin que nos bouches proclament ta louange à chaque souffle. Entends nos voix avec le chœur du ciel par Jésus-Christ.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

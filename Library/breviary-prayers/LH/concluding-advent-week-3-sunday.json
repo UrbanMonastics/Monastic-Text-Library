@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Deus, qui cónspicis pópulum tuum nativitátis domínicæ festivitátem fidéliter exspectáre, [t] præsta, quæsumus, ut valeámus ad tantæ salútis gáudia perveníre, [*] et ea votis sollémnibus álacri semper lætítia celebráre. Per Dóminum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

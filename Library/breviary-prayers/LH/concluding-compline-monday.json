@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Quiétem, Dómine, corpóribus nostris tríbue salutárem, [t] et quæ fúdimus hódie sémina per labórem, [*] fac ut messem gérminent sempitérnam.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

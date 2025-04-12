@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Mane nobíscum, Dómine Iesu, quóniam advesperáscit, et nos cómitans in via, réfove corda, spem éxcite miserátus, [*] ut te in Scriptúris et in fractióne panis cum nostris frátribus agnoscámus. Qui vivis.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -9,6 +9,8 @@
 	},
 	"Text": "Demeure avec nous dans ce lieu, Seigneur.  Fais de cette maison un refuge sûr, à l'abri de tous les pièges et de toutes les manœuvres de l'ennemi. [t] Remplis ce lieu de ta paix et de ton amour. Que la sainte puissance de ton royaume nous protège . [*]  Place ta bénédiction sur nous et en nous, maintenant et pour toujours,",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"BreviaryInstructions": "Pour le triduum pascal, et les solennités, en semaine.",
 		"Writing":{
 			"Authors": ["Paul Prins"],

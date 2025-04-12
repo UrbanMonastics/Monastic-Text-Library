@@ -10,6 +10,7 @@
 	"Text": "Grant us what we ask, Lord. [t] Mercifully bring all of creation under Your peaceful direction. [*] Extend that peace, with Your Presence, into Your Church so we may rejoice in quiet devotion",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

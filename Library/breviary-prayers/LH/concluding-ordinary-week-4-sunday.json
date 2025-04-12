@@ -6,6 +6,7 @@
 	"Text": "Concéde nabis, Dómine Deus noster, [t] ut te tota mente venerémur, [*] et omnes hómines rationábili diligámus afféctu. Per Dóminum.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

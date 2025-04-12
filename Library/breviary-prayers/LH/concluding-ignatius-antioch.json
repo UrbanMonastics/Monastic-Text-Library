@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Omnípotens sempitérne Deus, qui sanctórum mártyrum confessiónibus Ecclésiæ tuæ sacrum corpus exórnas, [t] concéde, quǽsumus, ut hodiérna glória passiónis, sicut beáto Ignátio magnificéntiam tríbuit sempitérnam, [*] ita nobis perpétuum munímen operétur. Per Dóminum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -6,6 +6,7 @@
 	"Text": "Da nobis, quæsumus, Dómine, [t] ut et mundi cursus pacífico nabis tué órdine dirigátur, [*] et Ecclésia tua tranquílla devotióne lætétur.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -10,6 +10,7 @@
 	"Text": "Accorde-nous, Seigneur notre Dieu, [t] des esprits entièrement consacrés à ton adoration. [*] Laisse nos cœurs grandir dans l'amour pour chaque personne, comme tu nous enseignes à aimer par Jésus-Christ.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

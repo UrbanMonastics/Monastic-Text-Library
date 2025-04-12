@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Præsta, quæsumus, omnípotens Deus, ut claritátis tuæ super nos splendor effúlgeat, [t] et lux tuæ lucis corda eórum, qui per tuam grátiam sunt renáti, [*] Sancti Spíritus illustratióne confírmet. Per Christum Dóminum nostrum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

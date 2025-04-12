@@ -9,6 +9,8 @@
 	},
 	"Text": "En priant en ta présence, Seigneur, nous implorons tes miséricordes. [*] Afin que nous méditions toujours en eux dans nos cœurs et que nous confessions sur nos lèvres ce que tu as fait pour nous par Jésus-Christ.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

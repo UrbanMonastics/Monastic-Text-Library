@@ -9,6 +9,8 @@
 	},
 	"Text": "Seigneur notre Dieu, donne-nous un sommeil reposant et réparateur cette nuit. [t] Donne à tes enfants la paix après l'effort de notre travail quotidien. [*] Par ton abondante fidélité, tu nous fais toujours revivre. Avec joie, nous te servirons en esprit, en âme et en corps,",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

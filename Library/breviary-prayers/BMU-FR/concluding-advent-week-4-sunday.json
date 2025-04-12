@@ -9,6 +9,8 @@
 	},
 	"Text": "Nous prions pour que ta grâce, Seigneur, soit répandue en nos cœurs. [t] Par le message de l'Ange, tu nous as fait connaître l'incarnation de ton Fils bien-aimé. [*] Guide-nous à travers sa passion, et sa croix, pour partager la gloire de la résurrection. Par Jésus-Christ.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

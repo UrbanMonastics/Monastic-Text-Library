@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Deus, qui Cornélio centurióni ángelum tuum misísti, ut viam ei salútis osténderet, [t] da nobis, quæumus, in salvatiónem ómnium libéntius operári, [*] ut una cum eis, in Ecclésia tua, ad te perveníre possímus. Per Christum Dóminum nostrum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

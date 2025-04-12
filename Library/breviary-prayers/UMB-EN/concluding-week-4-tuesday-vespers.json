@@ -9,6 +9,8 @@
 	},
 	"Text": "Praying in Your presence, Lord, we implore Your mercies. [*] So that we might continuously meditate on them in our hearts and confess with our lips what You have done for us through Jesus Christ.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

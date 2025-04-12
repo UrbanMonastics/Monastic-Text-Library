@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Omnípotens et miséricors Deus, [t] in tui occúrsum Fílii festinántes nulla ópera terréni actus impédiant, [*] sed sapiéntiæ cæléstis erudítio nos fáciat eius esse consórtes. Qui tecum.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

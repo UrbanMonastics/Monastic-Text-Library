@@ -9,6 +9,8 @@
 	},
 	"Text": "En ta présence, Seigneur, nous soupirons après ta paix et ta justice dans notre monde. [t] Aide-nous à aspirer à ta paix, à croire en la justice, [*] et à ce que ta volonté soit faite sur la terre comme au ciel. Par Jésus-Christ.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

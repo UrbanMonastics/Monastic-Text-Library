@@ -5,6 +5,8 @@
 	"Version": "LH",
 	"Text": "Dómine Deus noster, diúrno labóre fatigátos quiéto sopóre nos réfove, [t] ut, tuo semper auxílio recreáti, [*] tibi córpore simus et mente devóti.",
 	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
