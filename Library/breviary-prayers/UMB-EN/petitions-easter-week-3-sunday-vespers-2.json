@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[II] Pray in faith with joy to Christ our Lord, who was dead, has risen, and ceaselessly intercedes for us all.\r\n[IR] Victorious King, hear us.\r\n[I1] Christ, light and salvation of all peoples,\r\n[I2] pour out upon us the fire of your Spirit as we proclaim your resurrection.\r\n[I1] May Israel recognize you as the Messiah, our ultimate hope,\r\n[I2] and may the vastness of creation be filled with the knowledge of your glory.\r\n[I1] Welcome and keep us in the communion of your saints,\r\n[I2] and grant to us all rest from our labors.\r\n[I1] You who triumphed over the enemy of death, break the power of the enemy within us,\r\n[I2] that we may live for you, immortal conqueror.\r\n[I1] Christ the Savior, who, becoming obedient even unto death, was exalted to the right hand of the Father,\r\n[I2] graciously admit your siblings into the Kingdom of your glory.",
+	"Text": "[II] Christ the Lord, who died and rose again, is ceaseless in His intercessions for us. Therefore, with confidence, we pray:\r\n[IR] Victorious King, hear us.\r\n[I1] Christ, the light and salvation of all peoples,\r\n[I2] pour the fire of Your Spirit upon us as our lives proclaim Your resurrection.\r\n[I1] May Israel recognize You as the Messiah, the fullness of their hope,\r\n[I2] and may the knowledge of Your glory fill the vastness of creation.\r\n[I1] Welcome and keep us in the communion of Your saints,\r\n[I2] and let us find rest, with them, from our work.\r\n[I1] You, who triumphed over the enemy of death, break the enemies power within us,\r\n[I2] that we may live for You, immortal victor.\r\n[I1] Christ the Savior, Your obedience led You to death, and are exalted to the right hand of the Father,\r\n[I2] graciously welcome Your siblings into the Kingdom of Your glory.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Refreshed the translation with my new skillz.",
 		"2022-04-30 - Paul Prins: Initial translation of these intentions"
 	],
 	"License": "© 2022 Urban Monastics, Paris"
