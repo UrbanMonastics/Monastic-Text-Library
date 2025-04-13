@@ -21,7 +21,7 @@
 		"26": "Ne fallait-il pas que le Christ souffre ces choses et qu'il entre ensuite dans sa gloire ? » ",
 		"27": "Puis, en commençant par Moïse et tous les prophètes, il leur expliqua les choses écrites à son sujet dans les Écritures.\r\n",
 		"28": "\tLorsqu'ils approchèrent du village où ils allaient, il apparut aller plus loin. ",
-		"29": "Mais ils le pressèrent fortement en disant : « Reste avec nous. Le soir approche, et le jour est sur son déclin. » Il est donc entré, pour rester avec eux.\r\n",
+		"29": "Mais ils le pressèrent fortement en disant : « Reste avec nous. Le soir approche, et la journée est presque finie. » Il est donc entré, pour rester avec eux.\r\n",
 		"50": "\tLorsque Jésus les conduisit jusque vers Béthanie, il leva les mains et les bénit. ",
 		"51": "Et pendant qu'il les bénissait, il les quitta et fut enlevé au ciel. ",
 		"52": "Alors ils l'adorèrent. Puis ils retournèrent à Jérusalem avec une grande joie. ",
@@ -36,8 +36,8 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2025-02-07": ["Peer-Review"],
-				"2025-02-06": [
+				"2025-03-07": ["Peer-Review"],
+				"2025-03-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -46,6 +46,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Modifier la traduction du verset 29",
 		"2025-03-06 - Paul Prins: Première traduction des versets 1-8, 25-29, 50-53"
 	],
 	"License": "© 2025 Urban Monastics, Paris"
