@@ -22,6 +22,11 @@
 		"27": "Puis, en commençant par Moïse et tous les prophètes, il leur expliqua les choses écrites à son sujet dans les Écritures.\r\n",
 		"28": "\tLorsqu'ils approchèrent du village où ils allaient, il apparut aller plus loin. ",
 		"29": "Mais ils le pressèrent fortement en disant : « Reste avec nous. Le soir approche, et la journée est presque finie. » Il est donc entré, pour rester avec eux.\r\n",
+		"40": "/tEn disant cela, il leur montra ses mains et ses pieds. ",
+		"41": "Cependant, dans leur joie et leur étonnement, ils ne le croyaient pas encore. Il leur dit : « Avez-vous quelque chose à manger ici ? » ",
+		"42": "Ils lui présentèrent un morceau de poisson grillé, ",
+		"43": "qu'il prit et mangea en leur présence.\r\n",
+		"44": "\tPuis il leur dit : « C'est là ce que je vous disais lorsque j'étais encore avec vous. Il fallait que s'accomplisse tout ce qui est écrit de moi dans la Loi de Moïse, dans les Prophètes et dans les Psaumes. »\r\n",
 		"50": "\tLorsque Jésus les conduisit jusque vers Béthanie, il leva les mains et les bénit. ",
 		"51": "Et pendant qu'il les bénissait, il les quitta et fut enlevé au ciel. ",
 		"52": "Alors ils l'adorèrent. Puis ils retournèrent à Jérusalem avec une grande joie. ",
@@ -30,6 +35,7 @@
 	"InlineTitles": {
 		"1": "La Résurrection",
 		"13": "Le Chemin d'Emmaüs",
+		"36": "Jésus Apparaît aux Disciples",
 		"50": "L'Ascension de Jésus"
 	},
 	"Extra": {
@@ -46,6 +52,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins : Ajouter les versets 40-44",
 		"2025-04-13 - Paul Prins: Modifier la traduction du verset 29",
 		"2025-03-06 - Paul Prins: Première traduction des versets 1-8, 25-29, 50-53"
 	],

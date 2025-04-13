@@ -22,6 +22,11 @@
 		"27": "Then, beginning with Moses and all the Prophets, He explained to them the things written about Himself across the scriptures.\r\n",
 		"28": "\tAs they approached the village they were going to, He appeared to be going farther. ",
 		"29": "But they strongly urged him, saying, \"Stay with us. It is nearly evening and the day is almost over.\" So He went in to stay with them.\r\n",
+		"40": "\tWhen He had said this, He showed them His hands and feet. ",
+		"41": "While, in their joy and amazement, they still did not believe it. He said tot hem, \"Have you anything here to eat?\" ",
+		"42": "They gave Him a piece of broiled fish, ",
+		"43": "which He took it and ate in their presence.\r\n",
+		"44": "\tThen He said to them, \"This is what I told you while I was still with you. That all the things that are written about Me in the Law of Moses and the Prophets and the Psalms must be fulfilled.\"\r\n",
 		"50": "\tWhen Jesus had led them out as far as Bethany, He lifted up his hands and blessed them. ",
 		"51": "And while He was blessing them, He left them and was carried up into heaven. ",
 		"52": "Then they worshiped Him. After, they returned to Jerusalem with great joy. ",
@@ -30,6 +35,7 @@
 	"InlineTitles": {
 		"1": "The Resurrection",
 		"13": "The Road to Emmaus",
+		"36": "Jesus Appears to the Disciples",
 		"50": "The Ascension"
 	},
 	"Extra": {
@@ -46,6 +52,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Add verses 40-44",
 		"2025-02-06 - Paul Prins: First translation of verses 1-8, 25-29, 50-53"
 	],
 	"License": "© 2025 Urban Monastics, Paris"
