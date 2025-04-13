@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] The Lord has truly risen, alleluia, alleluia.\r\n[R] The Lord has truly risen, [*] alleluia, alleluia.\r\n[V] He has appeared to Simon.",
+	"Text": "[V] The Lord is risen indeed. Alleluia, alleluia!\r\n[R] Alleluia, alleluia!\r\n[V] And He appeared to Simon.",
 	"Extra": {
 		"Reference": [""],
 		"Writing":{
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Refreshed the translation.",
 		"2022-04-30 - Paul Prins: Reformated this response.",
 		"2021-05-01 - Paul Prins: Translated this Response."
 	],
