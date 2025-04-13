@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Mane nobíscum, [*] quóniam advesperáscit et inclináta est iam dies, allelúia allelúia.",
 	"Extra": {
+		"Reference": ["Luke 24:29"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -18,6 +19,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Added reference",
 		"2022-04-30 - Paul Prins: Added this Antiphon."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"

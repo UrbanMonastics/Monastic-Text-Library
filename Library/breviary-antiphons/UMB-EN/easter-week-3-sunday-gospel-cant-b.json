@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "The disciples [*] offered the Lord a piece of grilled fish, and honeycomb, Alleluia alleluia.",
+	"Text": "The disciples [*] gave the Lord a piece of broiled fish. Alleluia, alleluia.",
 	"Extra": {
+		"Reference": ["Luke 24:42"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

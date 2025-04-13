@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Les disciples [*] offrirent au Seigneur un morceau de poisson grillé, et un rayon de miel, Alléluia alléluia.",
+	"Text": "Les disciples [*] présentent au Seigneur un morceau de poisson grillé. Alléluia, alléluia.",
 	"Extra": {
+		"Reference": ["Luke 24:42"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -22,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Mise à jour du texte pour correspondre à la traduction de Luc, et ajout d'une référence.",
 		"2022-04-30 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

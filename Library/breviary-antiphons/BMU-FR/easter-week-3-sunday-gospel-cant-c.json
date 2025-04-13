@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Jesus dit [*] à ses disciples : « Apportez quelques-uns des poissons que vous venez de pêcher. » Simon-Pierre monta donc dans la barque et tira un filet rempli de gros poissons jusqu'à terre, alléluia.",
+	"Text": "Jésus leur dit [*] : « Apportez des poissons que vous venez de prendre. » Simon Pierre alla donc tirer à terre le filet rempli de gros poissons. Alléluia.",
 	"Extra": {
+		"Reference": ["John 21:10-11"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -22,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Mise à jour du texte pour correspondre à la traduction de Jean, et ajout d'une référence.",
 		"2022-04-30 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

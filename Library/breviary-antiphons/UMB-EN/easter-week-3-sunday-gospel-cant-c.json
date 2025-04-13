@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Jesus told [*] his disciples: \"Bring some of the fish that you have just caught.\" So Simon Peter went onto the boat and hauled a net full of large fish to land, alleluia.",
+	"Text": "Jesus said [*] to them, \"Bring some of the fish you have just caught.\" So Simon Peter went and hauled to land the net full of large fish. Alleluia.",
 	"Extra": {
 		"Reference": ["John 21:10-11"],
 		"Writing":{
@@ -23,7 +23,8 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Updated text to match translation of John, and added reference.",
 		"2022-04-30 - Paul Prins: Translated this Antiphon."
 	],
-	"License": "© 2021 Urban Monastics, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }

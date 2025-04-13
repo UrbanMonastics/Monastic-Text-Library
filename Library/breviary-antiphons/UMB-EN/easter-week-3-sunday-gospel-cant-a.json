@@ -7,8 +7,9 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Stay with us, [*] for evening comes, and the day fades, Alleluia alleluia.",
+	"Text": "Stay with us. [*] It is nearly evening and the day is almost over. Alleluia, alleluia.",
 	"Extra": {
+		"Reference": ["Luke 24:29"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -22,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2025-04-13 - Paul Prins: Updated to match translation of Luke and include reference.",
 		"2022-04-30 - Paul Prins: Translated this Antiphon."
 	],
 	"License": "© 2021 Urban Monastics, Paris"
