@@ -1,0 +1,60 @@
+{
+	"TextAbbreviation": "chapter-0021",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "21",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tAfter this, Jesus revealed Himself again to the disciples by the Sea of Tiberias. He revealed Himself this way. ",
+		"2": "Simon Peter, Thomas (who was called Didymus), Nathanael of Cana in Galilee, the sons of Zebedee, and two other disciples of His were together. ",
+		"3": "Simon Peter said to them, \"I am going fishing.\" They replied to him, \"We'll also come with you.\" Then they went out, got into the boat, but that night they caught nothing.\r\n",
+		"4": "\tAs the day began to break, Jesus stood on the beach. The disciples did not yet know that it was Jesus. ",
+		"5": "He said to them, \"Children, haven't you any fish to eat?\"\r\n\tThey answered Him, \"No.\"\r\n",
+		"6": "\tHe said to them, \"Cast your net on the right side of the boat, and you will find some.\" So they cast their net, and then they were unable to haul it in because of the great quantity of fish.\r\n",
+		"7": "\tThen the disciple whom Jesus Loved said to Peter, \"It is the Lord!\" As soon as Simon Peter heard that it was the Lord, he put on his outer garment (that he had taken off to fish), and threw himself into the sea. ",
+		"8": "The other disciples followed in the boat, dragging the net full of fish. They were not far from land, only about ninety meters away. ",
+		"9": "Once they had landed, they saw a charcoal fire with fish placed over it, and some bread.\r\n",
+		"10": "\tJesus said to them, \"Bring some of the fish you have just caught.\"\r\n",
+		"11": "\tSo Simon Peter went and hauled to land the net full of 153 large fish. Even with so many, the net was not torn. ",
+		"12": "Jesus said to them, \"Come and have breakfast.\" None of the disciples dared ask him, \"Who are you?\" For they knew it was the Lord. ",
+		"13": "Jesus came, took the bread and gave it to them, and the fish too. ",
+		"14": "This was now the third time Jesus had revealed Himself to the disciples after he was raised from the dead.\r\n",
+		"15": "\tAfter they had finished eating, Jesus said to Simon Peter, \"Simon, son of John, do you love Me more than these?\"\r\n\tHe responded to Him, \"Yes, Lord. You know that I love you.\"\r\n\tJesus said to him, \"Feed my lambs.\"\r\n",
+		"16": "\tHe said a second time, \"Simon, son of John, do you love Me?\"\r\n\tHe answered, \"Yes, Lord. You know that I love you.\"\r\n\tJesus said to him, \"Shepherd My sheep.\"\r\n",
+		"17": "\tHe said to him a third time, \"Simon, son of John, do you love Me?\"\r\n\tPeter was hurt because He said for a third time, 'Do you love Me?' And he responded to Him, \"Lord, You know all things. You know that I love you.\"\r\n\tJesus said to him, \"Feed my sheep. ",
+		"18": "Truly, truly I tell you, when you were younger, you used to put on your belt and walk where you wanted. But when you grow old, you will stretch out your hands, and someone else will put your belt on, and bring you where you do not want to go.\" ",
+		"19": "He said this to indicate by what death Peter would glorify God. Then Jesus said to him, \"Follow Me!\"\r\n",
+		"20": "\tPeter turned around and saw that the disciple whom Jesus loved was following them. He was the one who had leaned back against Jesus at the super and said, \"Lord, who is going to betray you?\" ",
+		"21": "In seeing him, Peter asked Jesus, \"Lord, what about him?\"\r\n",
+		"22": "\tJesus said to him, \"If I want him to remain until I return, what is that to you? You follow me!\" ",
+		"23": "So the word spread among the believers that this disciple would not die. Yet Jesus did not say to Peter that he would not, but only, \"If I want him to remain until I return, what is that to you?\" ",
+		"24": "This disciple is the one who testifies to these things and who wrote them down. We know that his testimony is true.\r\n",
+		"25": "\tJesus did many more things as well. If they were written down in detail, I doubt the whole world could contain the books that would be written. "
+	},
+	"InlineTitles": {
+		"1": "Jesus and the Great Catch of Fish",
+		"15": "Jesus Restores Peter"
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-15": ["Peer-Review"],
+				"2025-04-14": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-14 - Paul Prins: First translation of verses 15-25.",
+		"2025-04-13 - Paul Prins: First translation of verses 1-14."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
