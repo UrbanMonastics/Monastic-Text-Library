@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "petitions-easter-week-7-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Nous ne savons pas quoi demander dans nos prières, mais le Saint-Esprit intercède pour nous par des gémissements inexprimables. Nous demandons avec foi et nécessité :\r\n[IR] Que le Saint-Esprit intercède pour nous.\r\n[I1] Christ, divin Pasteur, donne sagesse et guidance à nos pasteurs,\r\n[I2] qu'ils puissent mener ton troupeau vers le salut.\r\n[I1] Toi qui habites dans les lieux très hauts et qui es riche en miséricorde,\r\n[I2] prends soin des nécessiteux et des pauvres de ta création.\r\n[I1] Toi qui, par l'œuvre du Saint-Esprit, as été conçu par la Vierge Marie,\r\n[I2] honore et préserve tous ceux qui se sont engagés à rester célibataires.\r\n[I1] Toi, notre Prêtre, qui loues le Père dans le Saint-Esprit :\r\n[I2] unis tous les peoples dans ta louange.\r\n[I1] Que les morts entrent dans leur liberté glorieuse en tant qu'enfants de Dieu\r\n[I2] et trouvent leurs corps pleinement rachetés.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-01": ["Peer-Review"],
+				"2025-05-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-05-31 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

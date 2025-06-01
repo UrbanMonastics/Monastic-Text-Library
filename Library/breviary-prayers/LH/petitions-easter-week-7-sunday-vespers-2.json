@@ -1,0 +1,24 @@
+{
+	"TextAbbreviation": "petitions-easter-week-7-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "[II] Quid orémus sicut opórtet nescímus, sed ipse Spíritus Sanctus póstulat pro nobis gemítibus inenarrabílibus. Quaprópter dicámus:\r\n[IR] Spíritus Sanctus póstulet pro nobis.\r\n[I1] Christe, pastor caeléstis, sapiéntiam et consílium nostris largíre pastóribus,\r\n[I2] ut gregem tuum efficácius ducant ad salútem.\r\n[I1] Qui in altis hábitas et dives es in misericórdia,\r\n[I2] réspice ínopes et páuperes in terra.\r\n[I1] Qui, Spíritu Sancto obumbránte, concéptus es de María Vírgine,\r\n[I2] serva vírgines sacras in spíritu consecratiónis suae.\r\n[I1] Sacérdos noster, qui Patrem in Spíritu Sancto laudas,\r\n[I2] tibi laudándi hómines univérsos consócia.\r\n[I1] Pervéniant defúncti ad libertátem glóriæ filiórum Dei,\r\n[I2] et ad plenam redemptiónem córporis sui.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-01": ["Peer-Review"],
+				"2025-05-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-05-31 - Paul Prins: Added these intentions."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

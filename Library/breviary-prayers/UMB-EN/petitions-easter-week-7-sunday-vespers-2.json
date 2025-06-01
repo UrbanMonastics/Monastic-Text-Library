@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "petitions-easter-week-7-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] We do not know what to pray for, but the Holy Spirit intercedes for us with unutterable groanings. In faith and need, we ask:\r\n[IR] May the Holy Spirit intercede for us.\r\n[I1] Christ, divine Shepherd, give wisdom and guidance to our shepherds,\r\n[I2] that they may surely lead your flock to salvation.\r\n[I1] You who dwell in the most high place and abound in mercy,\r\n[I2] look after the needy and poor of your creation.\r\n[I1] Who, through the work of the Holy Spirit, was conceived by the Virgin Mary,\r\n[I2] honor and preserve all who have committed to remain celibate.\r\n[I1] You, our Priest, who praises the Father in the Holy Spirit:\r\n[I2] unite all people in Your praise.\r\n[I1] May the dead enter into their glorious freedom as children of God\r\n[I2] and find their bodies fully redeemed.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-01": ["Peer-Review"],
+				"2025-05-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-05-31 - Paul Prins: Initial translation of these intentions"
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}
