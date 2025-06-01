@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "easter-week-7-sunday-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Quand viendra [*] le Défenseur, il rendra témoignage de moi. Car je vous l'enverrai de la part du Père, l'Esprit de vérité qui vient du Père.",
+	"Extra": {
+		"Reference": ["John 15:26"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-02": ["Peer-Review"],
+				"2025-06-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-01 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

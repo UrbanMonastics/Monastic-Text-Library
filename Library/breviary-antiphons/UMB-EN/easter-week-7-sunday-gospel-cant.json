@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "easter-week-7-sunday-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "When the Counselor [*] comes, They will testify about Me. For I will send them to you from the Father, the Spirit of truth who comes from the Father.",
+	"Extra": {
+		"Reference": ["John 15:26"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-02": ["Peer-Review"],
+				"2025-06-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-01 - Paul Prins: Translated this Antiphon."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

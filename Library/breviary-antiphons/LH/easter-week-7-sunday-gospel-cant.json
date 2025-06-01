@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "easter-week-7-sunday-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Cum vénerit [*] Paráclitus quem ego mittam vobis, Spíritum veritátis qui a Patre procédit, ille testimónium perhibébit de me, allelúia.",
+	"Extra": {
+		"Reference": ["John 15:26"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-02": ["Peer-Review"],
+				"2025-06-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-01 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
