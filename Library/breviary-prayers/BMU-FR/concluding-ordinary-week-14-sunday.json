@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, par l'humilité de ton Fils, tu as élevé toute la création. [t] Prodigue une sainte joie à tes fidèles. [*] Car tu as libéré nos vies de l'esclavage du péché. Laissez-nous nous réjouir d'une joie qui n'a pas de fin, par Jésus-Christ.",
+	"Text": "Dieu, par l'humilité de ton Fils, tu as élevé toute la création. [t] Répands ta joie sacrée sur tes fidèles. [*] Tu nous as tous libérés de l'esclavage du péché et Tu nous accueilles dans la joie impérissable",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,8 +24,9 @@
 		}
 	},
 	"Changes": [
-		"2024-07-07 - Paul Prins : Révisé pour s'adapter au style actuel de la prière de clôture",
+		"2025-06-23 - Paul Prins: Traduction rafraîchie et utilisation de la terminaison collect.",
+		"2024-07-07 - Paul Prins: Révisé pour s'adapter au style actuel de la prière de clôture",
 		"2021-07-04 - Paul Prins: Traduit cette prière."
 	],
-	"License": "© 2024 Monastiques Urbain, Paris"
+	"License": "© 2025 Monastiques Urbain, Paris"
 }
