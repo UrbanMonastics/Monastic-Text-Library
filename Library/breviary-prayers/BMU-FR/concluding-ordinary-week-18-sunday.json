@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Sois tendre avec tes enfants, Seigneur, et montre à ceux qui t'implorent ta bonté infinie. [t] Qu'on se vantent que tu es le Créateur, et l'auteur de la providence. [*] En pensant à eux, restaure ta création, conserve-la et protège-la. Par Jésus-Christ.",
+	"Text": "Sois tendre envers tes enfants, Seigneur, et montre ta bonté infinie à tous ceux qui t'implorent. [t] Qu'ils se glorifient en toi, notre Créateur et auteur de la providence. [*] En pensant à eux, restaure ce qui a été créé et préserve ce qui a été renouvelé",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-07-13 - Paul Prins: Traduction rafraîchie et utilisation de la terminaison collect.",
 		"2021-08-01 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
