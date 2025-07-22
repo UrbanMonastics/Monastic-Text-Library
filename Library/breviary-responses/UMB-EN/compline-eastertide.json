@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Into Your hands, LORD; I entrust You with my spirit.\r\n[R] Alleluia, alleluia.\r\n[V] For You have redeemed us, LORD, God of truth.",
+	"Text": "[V] Into Your hands, LORD; I entrust my spirit to You.\r\n[R] Alleluia, alleluia.\r\n[V] For You have redeemed us, LORD, God of truth.",
 	"Extra": {
 		"BreviaryInstructions": "During Eastertide after the Octave.",
 		"Reference": ["Psalm 31:5"],
@@ -31,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2025-07-22 - Paul Prins: Aligned with the standard compline response that was reworked to be more direct.",
 		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2024-01-11 - Paul Prins: Again working on the first line, this feels better.",
 		"2023-08-14 - Paul Prins: Updated the versicles to match our Psalm 31:5.",

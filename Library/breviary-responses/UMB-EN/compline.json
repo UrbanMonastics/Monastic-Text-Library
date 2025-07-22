@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Into Your hands, LORD; I entrust You with my spirit.\r\n[R] Into Your hands, LORD; [*] I entrust You with my spirit.\r\n[V] For You have redeemed us, LORD, God of truth.",
+	"Text": "[V] Into Your hands, LORD; I entrust my spirit to You.\r\n[R] Into Your hands, LORD; [*] I entrust my spirit to You.\r\n[V] For You have redeemed us, LORD, God of truth.",
 	"Notes" : "We added the phrase 'with you' in the first line. This improves the smoothness when repeated.",
 	"Extra": {
 		"Reference": ["Psalm 31:5"],
@@ -35,6 +35,7 @@
 		}
 	},
 	"Changes": [
+		"2025-07-22 - Paul Prins: Reworked the versical to flow more directly (less passively when refrained)",
 		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2024-01-11 - Paul Prins: Again working on the first line, this feels better.",
 		"2023-10-29 - Paul Prins: Rephrasing it again to be less weird.",
