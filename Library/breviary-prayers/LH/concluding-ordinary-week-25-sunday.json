@@ -1,17 +1,17 @@
 {
-	"TextAbbreviation": "concluding-ordinary-week-31-sunday",
+	"TextAbbreviation": "concluding-ordinary-week-25-sunday",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Omnípotens et miséricors Deus, de cuius múnere venit, ut tibi a fidélibus tuis digne et laudabíliter serviátur, [t] tríbue, quǽsumus nobis, [*] ut ad promissiónes tuas sine offensióne currámus.",
+	"Text": "Deus, qui sacræ legis ómnia constitúta in tua et próximi dilectióne posuísti, [t] da nobis, ut, tua præcépta servántes, [*] ad vitam mereámur perveníre perpétuam.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "324",
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2023-10-31": ["Peer-Review"],
-				"2023-10-30": [
+				"2025-08-04": [
+					"Peer-Review",
 					"Second-Pass",
 					"Initial"
 				]
@@ -20,7 +20,7 @@
 		}
 	},
 	"Changes": [
-		"2023-10-30 - Paul Prins: Added this prayer."
+		"2025-08-04 - Paul Prins: Added this prayer."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

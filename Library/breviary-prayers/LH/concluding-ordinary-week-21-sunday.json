@@ -3,15 +3,15 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Deus, qui diligéntibus te bone invisibília præparásti, infúnde córdibus nostris tui amóris afféctum, [t] te in ómnibus et super ómnia diligéntes, [*] promissiónes tuas quæ omne desidérium súperant, consequámur.",
+	"Text": "Deus, qui fidélium mentes uníus éfficis voluntátis, [t] de pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis, [*] ut, inter mundánas varietátes, ibi nostra fixa sint corda, ubi vera sunt gáudia.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-08-11": ["Peer-Review"],
-				"2022-08-10": [
+				"2025-08-04": [
+					"Peer-Review",
 					"Second-Pass",
 					"Initial"
 				]
@@ -20,7 +20,7 @@
 		}
 	},
 	"Changes": [
-		"2022-08-10 - Paul Prins: Added this prayer."
+		"2025-08-04 - Paul Prins: Added this prayer."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

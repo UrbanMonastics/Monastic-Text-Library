@@ -3,10 +3,10 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Deus, qui te in rectis et sincéris manére pectóribus ásseris, [t] da nabis tua grátia tales exsístere, [*] in quibus habitáre dignéris. Per Dóminum.",
+	"Text": "Deus, qui te in rectis et sincéris manére pectóribus ásseris, [t] da nabis tua grátia tales exsístere, [*] in quibus habitáre dignéris.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -6,7 +6,7 @@
 	"Text": "Deus, a quo dona cuncta procédunt, tuis largíre supplícibus, [t] ut cogitémus, te inspiránte, quæ recta sunt, [*] et, te gubernánte, éadem faciámus.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

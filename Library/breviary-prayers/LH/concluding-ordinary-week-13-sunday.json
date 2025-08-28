@@ -3,10 +3,10 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Deus, qui, per adoptiónem grátiæ, lucis nos esse fílios voluísti, [t] prædts, quæsumus, ut errórum non involvámur ténebris, [*] sed in splendóre veritátis semper maneámus conspícui. Per Dóminum.",
+	"Text": "Deus, qui, per adoptiónem grátiæ, lucis nos esse fílios voluísti, [t] prædts, quæsumus, ut errórum non involvámur ténebris, [*] sed in splendóre veritátis semper maneámus conspícui.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

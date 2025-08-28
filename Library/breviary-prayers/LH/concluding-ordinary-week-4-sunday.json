@@ -3,10 +3,10 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Concéde nabis, Dómine Deus noster, [t] ut te tota mente venerémur, [*] et omnes hómines rationábili diligámus afféctu. Per Dóminum.",
+	"Text": "Concéde nabis, Dómine Deus noster, [t] ut te tota mente venerémur, [*] et omnes hómines rationábili diligámus afféctu.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

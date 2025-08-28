@@ -3,10 +3,10 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Omnípotens sempitérne Des, qui abundántia pietátis tuæ et mérite súpplicum excédis et vota, [t] effúnde super nos misericórdiam tuam, [*] ut dimíttas quae consciéntia métuit, et adícias quod orátio non præsúmit. Per Dóminum.",
+	"Text": "Omnípotens sempitérne Des, qui abundántia pietátis tuæ et mérite súpplicum excédis et vota, [t] effúnde super nos misericórdiam tuam, [*] ut dimíttas quae consciéntia métuit, et adícias quod orátio non præsúmit.",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "324",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
