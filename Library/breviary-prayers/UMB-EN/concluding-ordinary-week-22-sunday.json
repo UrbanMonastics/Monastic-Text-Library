@@ -7,23 +7,31 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God of virtues, You are the best of all things. [t] Place the love of Your name in our hearts above all else. [*] Grow within us a longing for what nurtures our souls. Watch over us with Your care and love. Protect and nurture all that You are growing throughout creation and within us, through Jesus Christ.",
+	"Text": "Almighty God, all of the best things belong to You. [t] As a sign that we belong to You, root within our hearts a love for Your name. [*] Grow within us a devotion for what nurtures our souls and weave Your love deeper through our lives. Watch over us so that we may flourish and thrive",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-28": ["Peer-Review"],
+				"2025-08-24": [
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-09-02": ["Peer-Review"],
 				"2024-09-01": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-08-28": ["Jordan Prins"]
+			}
 		}
 	},
 	"Changes": [
+		"2025-08-24 - Paul Prins: Refreshed translation",
 		"2024-09-01 - Paul Prins: Refined the translation.",
 		"2023-09-01 - Paul Prins: Translated this prayer."
 	],
