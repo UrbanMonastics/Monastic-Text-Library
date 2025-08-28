@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Lord our God, give us restful and restoring sleep tonight. [t] Give Your children peace after the exertion of our daily work. [*] Out of Your abundant faithfulness, You always revive us. With joy, we will serve You in spirit, soul, and body,",
+	"Text": "Lord our God, comfort us with quiet and restful sleep this night. [t] Let us be refreshed after the day's prayer and work. [*] Revive us in spirit, mind, and body so that we can joyfully devote ourselves to You",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-30": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-01-18": [
 					"Verified",
 					"Guidelines"
@@ -33,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-30 - Paul Prins: Refreshed translation",
 		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-08-31 - Paul Prins: Fix the order of the words",

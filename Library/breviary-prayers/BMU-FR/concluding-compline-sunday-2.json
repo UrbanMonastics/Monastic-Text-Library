@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous te cherchons, Seigneur, ici dans le silence, avec des voix humbles. [t] Aujourd'hui, nous t'avons trouvé quand nous avons célébré le mystère de ta résurrection.  [*] Laisse-nous maintenant nous reposer. Accorde-nous ta paix, et ta sécurité contre tous les maux. Aide-nous à nous réveiller demain avec des esprits joyeux, te louant,",
+	"Text": "Nous te cherchons, Seigneur, avec des voix humbles dans le calme de cette fin de journée. [t]  Nous t'avons rencontré alors que nous célébrions aujourd'hui le mystère de ta résurrection. [*] Laisse-nous maintenant nous reposer. Donne-nous ta paix et protège-nous de tout mal. Aide-nous à nous réveiller demain en te louant avec des cœurs joyeux",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-26": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2020-08-06": ["Peer-Review"],
 				"2022-08-05": [
 					"Second-Pass",
@@ -24,6 +29,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2022-08-09 - Paul Prins: Réécrivez la majeure partie de la prière pour la rendre plus fluide, plus claire et créer un sentiment d'unité.",

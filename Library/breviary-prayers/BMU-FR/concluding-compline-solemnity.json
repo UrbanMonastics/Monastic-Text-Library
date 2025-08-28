@@ -7,14 +7,19 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Demeure avec nous dans ce lieu, Seigneur.  Fais de cette maison un refuge sûr, à l'abri de tous les pièges et de toutes les manœuvres de l'ennemi. [t] Remplis ce lieu de ta paix et de ton amour. Que la sainte puissance de ton royaume nous protège . [*]  Place ta bénédiction sur nous et en nous, maintenant et pour toujours,",
+	"Text": "Nous te prions, Seigneur. Demeure-en ce lieu avec nous.  Fais-en un refuge sûr en repoussant toutes les embûches et les complots de l'ennemi. [t] Que ton saint Royaume repose ici et nous garde en paix. [*] Place ta bénédiction pour toujours sur nous et en nous",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
-		"BreviaryInstructions": "Pour le triduum pascal, et les solennités, en semaine.",
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
+		"BreviaryInstructions": "Pour le triduum pascal, et les solennités en semaine.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-27": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2020-10-28": ["Peer-Review"],
 				"2020-10-27": [
 					"Second-Pass",
@@ -25,6 +30,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-27 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Retraduisez cette prière pour accompagner les autres prières des Complies.",

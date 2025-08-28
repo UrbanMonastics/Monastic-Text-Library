@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "We seek You, Lord, here in the quiet with humbled voices. [t] Today we have found You as we celebrated the mystery of Your resurrection. [*] Let us now rest. Grant us Your peace, and safety from all evils. Help us wake tomorrow with joyful spirits, praising You",
+	"Text": "We seek You, Lord, with humbled voices in the quiet of today's end. [t] We have encountered You as we celebrated the mystery of Your resurrection this day. [*] Let us now rest. Give us Your peace and protect us from all evils. Help us to awaken tomorrow praising You with joyful spirits",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-26":[
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-01-11": [
 					"Verified",
 					"Guidelines"
@@ -33,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-26 - Paul Prins: Translated this prayer.",
 		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-08-30 - Paul Prins: Update the casing of pronouns used for God.",

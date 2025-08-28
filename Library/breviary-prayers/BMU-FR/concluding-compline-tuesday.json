@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dans ta bonté, Seigneur, fait briller ta lumière sur notre nuit. [t] Illumine le sommeil de tes serviteurs par la présence de ta paix. [*] Que l'éclat du jour nouveau nous tire de notre repos. Réveille-nous avec joie pour ton Nom,",
+	"Text": "Fais briller ta lumière, Seigneur, sur nous avec tendresse cette nuit. [t] Que la présence de ta paix illumine le sommeil de tes serviteurs. [*] Incite-nous à nous lever avec joie pour ton nom dans la clarté d'un nouveau jour",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-28": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2023-08-31": ["Peer-Review"],
 				"2023-08-30": [
 					"Second-Pass",
@@ -24,6 +29,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-28 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-30 - Paul Prins: Traduit cette prière."

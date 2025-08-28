@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Pardonne-nous, Dieu tout-puissant. Ce n'est que par ton pardon que nous trouvons le courage de suivre ton Fils unique. [t] Pour cheminer pas à pas, de la vie jusqu'aux ténèbres de la tombe. [*] Donne-nous la foi nécessaire pour le suivre dans la mort, et pour ressusciter avec Jésus, dans la nouveauté de la vie avec Lui,",
+	"Text": "Accorde-nous, Dieu tout-puissant, tout ce dont nous avons besoin pour embrasser ton Fils unique. [t] Que nous vivions fidèlement en rythme avec celui qui est mort et a été enseveli pour nous. [*] Afin qu'au-delà des ténèbres, nous ressuscitions avec Jésus dans la nouveauté de la vie que l'on ne trouve qu'en Lui",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-27": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2023-08-31": ["Peer-Review"],
 				"2023-08-30": [
 					"Second-Pass",
@@ -24,6 +29,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-27 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-12-09 - Paul Prins: Mise à jour pour correspondre à l'anglais",

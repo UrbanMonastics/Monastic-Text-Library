@@ -7,14 +7,19 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Lord Jesus Christ, You are meek with a humble heart. Your yoke is pleasant, and Your burden is light for those who follow You. [t] Only You are worthy of our prayers and devotion. [*] Grant us Your peace as we rest, so we might arise ready to serve You,",
+	"Text": "Lord Jesus Christ, You place a pleasant yoke and light burden upon the meek and humble who follow You. May our lives reflect Your heart. [t] Receive our day's devotion and work, [*] and give Your peace to our spirits and night. Hold us near in rest, that we may rise more ready to serve You",
 	"Extra": {
 		"Reference" : ["Matthew 11:28-30"],
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": "son",
+		"CollectEnding": 87,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-27": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-01-11": [
 					"Verified",
 					"Guidelines"
@@ -34,6 +39,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-27 - Paul Prins: Refreshed translation",
 		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",

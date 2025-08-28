@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Seigneur notre Dieu, donne-nous un sommeil reposant et réparateur cette nuit. [t] Donne à tes enfants la paix après l'effort de notre travail quotidien. [*] Par ton abondante fidélité, tu nous fais toujours revivre. Avec joie, nous te servirons en esprit, en âme et en corps,",
+	"Text": "Seigneur notre Dieu, réconforte-nous par un sommeil paisible et réparateur cette nuit. [t] Laisse-nous être rafraîchis après la prière et le travail de la journée. [*] Revivifie-nous dans notre âme, notre esprit et notre corps, afin que nous puissions nous consacrer joyeusement à toi",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-26": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2023-08-31": ["Peer-Review"],
 				"2023-08-30": [
 					"Second-Pass",
@@ -24,6 +29,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
 		"2023-08-31 - Paul Prins: Fixe l'order des mots.",

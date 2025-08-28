@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Forgive us, God Almighty. Only through Your forgiveness do we find the courage to follow Your only begotten Son. [t] To journey step after step, from life down into the darkness of the grave. [*] Give us the faith needed to follow Him through death, and to rise again with Jesus, into the newness of life with Him,",
+	"Text": "Grant us, Almighty God, all we need to embrace Your only begotten Son. [t] May we faithfully live in step with the One who died and was buried for us. [*] So that beyond the darkness, we will arise with Jesus into the newness of life only found in Him",
 	"Extra":{
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-27": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-01-18": [
 					"Verified",
 					"Guidelines"
@@ -34,6 +39,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-27 - Paul Prins: Refreshed translation",
 		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2024-01-18 - Constance McIntosh Smith: Changes to fix grammar issues.",

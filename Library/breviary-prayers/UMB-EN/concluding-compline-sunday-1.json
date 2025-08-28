@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Stay close to us, Lord, through the darkness of this night. [t] Let each hour pass in peace. Give us restful sleep and an early morning. [*] Help us rise tomorrow, ready and able to rejoice in the resurrection of your Christ,",
+	"Text": "Stay close to us, Lord, through the darkness of this night. [t] Let each hour pass in peace. Give us restful sleep and an early morning. [*] Help us arise tomorrow, ready and able to rejoice in the resurrection of your Christ",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-26": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-01-11": [
 					"Verified",
 					"Guidelines"
@@ -32,6 +37,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-26 - Paul Prins: Refreshed translation",
 		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
 		"2023-12-09 - Paul Prins: Updated after the midpoint to fix a grammar issue.",
