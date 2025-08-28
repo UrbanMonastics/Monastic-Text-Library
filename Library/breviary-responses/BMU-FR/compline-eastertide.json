@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Entre tes mains, SEIGNEUR; je te confie mon esprit.\r\n[R] Alléluia, alléluia.\r\n[V] Car tu nous as rachetés, Seigneur, Dieu de vérité.",
+	"Text": "[V] Entre tes mains, SEIGNEUR; je remets mon esprit.\r\n[R] Alléluia, alléluia.\r\n[V] Car tu nous as rachetés, je me confie au SEIGNEUR, Dieu de vérité.",
 	"Extra": {
 		"BreviaryInstructions": "Pendant Pâques après l'Octave.",
-		"Reference": ["Psalm 31:5"],
+		"Reference": ["Psalm 31:5-6"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-28 - Paul Prins: Reformulation encore...",
 		"2024-01-11 - Paul Prins: Reformulation",
 		"2023-08-14 - Paul Prins : Mise à jour pour correspondre à notre Psaume 31:5",
 		"2022-08-05 - Paul Prins: Preimère traduction."

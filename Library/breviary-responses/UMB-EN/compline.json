@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Into Your hands, LORD; I entrust my spirit to You.\r\n[R] Into Your hands, LORD; [*] I entrust my spirit to You.\r\n[V] For You have redeemed us, LORD, God of truth.",
-	"Notes" : "We added the phrase 'with you' in the first line. This improves the smoothness when repeated.",
+	"Text": "[V] Into Your hands, LORD; I entrust my spirit.\r\n[R] Into Your hands, LORD; [*] I entrust my spirit.\r\n[V] For You have redeemed us, I trust in the LORD, God of truth.",
+	"Notes" : "We added the phrase 'I trust in the' in the third line from v6 of psalm 31. This improves the smoothness when repeated.",
 	"Extra": {
-		"Reference": ["Psalm 31:5"],
+		"Reference": ["Psalm 31:5-6"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-08-28": [
+					"Verified",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-01-11": [
 					"Verified"
 				],
@@ -35,6 +40,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-28 - Paul Prins: Reworked again...",
 		"2025-07-22 - Paul Prins: Reworked the versical to flow more directly (less passively when refrained)",
 		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",
 		"2024-01-11 - Paul Prins: Again working on the first line, this feels better.",
