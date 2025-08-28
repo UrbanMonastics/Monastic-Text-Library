@@ -5,7 +5,7 @@
 	"Version": "LH",
 	"Text": "Vísita nos, quǽsumus, Dómine, hac nocte præsénti, [t] ut, dilúculo tua virtúte surgéntes, [*] de resurrectióne Christi tui gaudére valeámus.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
+		"LiturgiaeHorarum-Page": 88,
 		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],

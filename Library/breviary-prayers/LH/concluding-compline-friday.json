@@ -5,8 +5,8 @@
 	"Version": "LH",
 	"Text": "Concéde nos, omnípotens Deus, [t] ita sepúlto Unigénito tuo fidéliter inhærére, [*] ut cum ipso in novitáte vitæ resúrgere mereámur.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

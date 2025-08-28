@@ -5,8 +5,8 @@
 	"Version": "LH",
 	"Text": "Noctem istam, quǽsumus, Dómine, benígnus illúmina, [t] et ita fac in pace nos tuos fámulos obdormíre, [*] ut læti ad novi diéi claritátem in tuo nómine suscitémur.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -3,10 +3,10 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes  insídias inimíci ab ea longe repélle ; [t] ángeli tui ancti hábitent in ea, qui nos in pace custódiant ; [*] et benedíctio tua sit super nos semper.",
+	"Text": "Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle ; [t] ángeli tui sancti hábitent in ea, qui nos in pace custódiant ; [*] et benedíctio tua sit super nos semper.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
 		"BreviaryInstructions": "Vel, Tridou paschali, et in sollemnitatibus extra dominicam occurrentibus",
 		"Writing":{
 			"Authors": ["Paul Prins"],

@@ -3,11 +3,11 @@
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Dómine Iesu Christe, qui iugum suave te sequéntibus onúsque leve pérhibes mitis et húmilis, [t] dignáre huius diéi vota et ópera nostra suscípere, [*] quiétem tribúere, qua tuo nos fácias servítio promptióres.",
+	"Text": "Dómine Iesu Christe, qui iugum suave te sequéntibus onúsque leve pérhibes mitis et húmilis, [t] dignáre huius diéi vota et ópera nostra suscípere, [*] et quiétem tribúere, qua tuo nos fácias servítio promptióres.",
 	"Extra": {
 		"Reference" : ["Matthew 11:28-30"],
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
