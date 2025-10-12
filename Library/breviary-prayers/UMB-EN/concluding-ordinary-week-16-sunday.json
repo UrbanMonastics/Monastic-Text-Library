@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Be gracious, Lord, with those who serve you. Mercifully continue to multiply your gifts of grace within us. [t] That, fervent in faith, hope and love, [*] may we always watch for your gentle call and follow after your leading. Through Jesus Christ.",
+	"Text": "Be merciful, Lord, to Your faithful, and continue to multiply the gifts of Your grace within us. [t] Sustain in us a fervent hope, faith, and love. [*] May we be forever attentive to Your gentle calling to keep Your commandments",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-07-17": ["Peer-Review"],
-				"2022-07-16": [
+				"2025-07-14": ["Peer-Review"],
+				"2025-07-13": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-07-13 - Paul Prins: Updated the translation.",
 		"2022-07-16 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

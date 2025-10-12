@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God, who, through your gracious adoption, invited us to be children of light, [t] we cry out to you that we not be trapped in the darkness of our ways, [*] but let us always see the brightness of truth. Through Jesus Christ.",
+	"Text": "God, through Your gracious adoption, You invited us to become children of light. [t] We cry out to You, so our failings will not envelop us in darkness. [*] Instead, let the brilliant light of Your truth shine upon and within us",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-06-20": ["Peer-Review"],
-				"2022-06-19": [
+				"2025-06-24": ["Peer-Review"],
+				"2025-06-23": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-23 - Paul Prins: Updated the translation.",
 		"2022-06-19 - Paul Prins: First translation of this prayer."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

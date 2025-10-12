@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Lord of unfailing love, Your beloved children ask that You keep us in Your heart and pour out Your mercy. [t] For all our hope rests in Your heavenly grace. [*] That You will keep us under Your constant protection, now and forever,",
+	"Text": "Lord of unfailing love, Your beloved children ask that You keep us in Your heart as You pour out Your mercy. [t] For all our hope rests in Your heavenly grace. [*] That You will keep us, now and forever, under Your constant protection",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -26,6 +26,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: retranslated this Collect",
 		"2024-02-03 - Paul Prins: Updated this prayer to stylistically align.",
 		"2022-01-29 - Paul Prins: First translation of this prayer."
 	],

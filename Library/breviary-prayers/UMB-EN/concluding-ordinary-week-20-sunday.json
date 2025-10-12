@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God, for those who seek You with diligence, You have prepared good things just beyond sight. Pour into our hearts fervor for Your love. [t] May we love You in all, and over all. [*] That finally, we will reach the inheritance You promised for us, that surpasses every known desire. Through Jesus Christ.",
+	"Text": "God, you have prepared good things just beyond sight for those who love You. Pour into our hearts a fervor to live within Your love. [t] May we love You in all, and above all things. [*] Surpassing every known desire, may we obtain Your promises",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-04 - Paul Prins: Updated the translation.",
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2022-08-10 - Paul Prins: Translated this prayer."
 	],

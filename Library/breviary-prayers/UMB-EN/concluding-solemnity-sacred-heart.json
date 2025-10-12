@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "concluding-solemnity-sacred-heart",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "We ask that You, our Father and Lord, [t] help us as we venerate the Sacred Heart of Your beloved Son. Here, within His heart, we gaze upon the wonders of Your love for us. [*] Allow us to receive the grace that overflows from this source of heavenly gifts",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 320,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

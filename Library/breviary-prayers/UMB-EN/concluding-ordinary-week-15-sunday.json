@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God, invite all who wander back to yourself by shining your light of truth. [t] To those calling themselves Christian, give wisdom to reject what is unworthy of your name, [*] and courage to pursue what honors you. Through Jesus Christ.",
+	"Text": "God, invite all who wander back to Yourself with Your shining light of truth. [t] Give to all professing Christians the wisdom to reject what is unworthy of that name or is against the way of Jesus. [*] Grant us the courage to pursue what brings You honor and praise",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-07-15": ["Peer-Review"],
-				"2022-07-14": [
+				"2025-06-24": ["Peer-Review"],
+				"2025-06-23": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-23 - Paul Prins: Updated the translation.",
 		"2022-07-14 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

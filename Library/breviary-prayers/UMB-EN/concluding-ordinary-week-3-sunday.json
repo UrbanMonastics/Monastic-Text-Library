@@ -7,13 +7,18 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty and Everlasting God, bring our lives into resonance with Your love. [t] Let our ways be the same as Your beloved Son. [*] So our eyes might see Your abundant fruits, through Jesus Christ.",
+	"Text": "Almighty and Everlasting God, bring our lives into harmony with Your love. [t] Only You can bring our steps and hearts into the way of your beloved Son. [*] Give us eyes see Your abundant love and fruitfulness",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 322,
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-06-06": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
 				"2024-02-01": ["Peer-Review"],
 				"2024-01-31": [
 					"Second-Pass",
@@ -26,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: retranslated this Collect",
 		"2024-01-31 - Paul Prins: First translation of this prayer."
 	],
 	"License": "© 2024 Urban Monastics, Paris"

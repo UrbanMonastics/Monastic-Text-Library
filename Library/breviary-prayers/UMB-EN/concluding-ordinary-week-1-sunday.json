@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "As the prayers of Your people rise to You, Lord, answer them out of Your goodness. [t] With the gentleness of Your spirit, let each of us see what is to be done. [*] Give us the faith and strength to see it accomplished, through Jesus Christ.",
+	"Text": "As the prayers of Your people rise to You, Lord, answer them out of Your goodness. [t] Through the gentleness of Your Spirit, reveal to each of us what we can do. [*] Give us the faith and strength to see it accomplished,",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 322,
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: retranslated this Collect",
 		"2025-01-19 - Paul Prins: Update this translation.",
 		"2024-01-29 - Paul Prins: First translation of this prayer."
 	],

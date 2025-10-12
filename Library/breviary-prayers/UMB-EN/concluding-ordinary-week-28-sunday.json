@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "concluding-ordinary-week-26-sunday",
+	"TextAbbreviation": "concluding-ordinary-week-28-sunday",
 	"SourceAbbreviation": "breviary-prayers",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "God, every moment is infused with Your patience and mercy as the manifestation of Your power. [t] Lavish Your grace upon us without ceasing. [*] Hasten us to run towards the good things You have promised. For You invite us to share in the happiness of heaven",
+	"Text": "We pray to You, Lord, that Your grace will forever go before us and be with us. [*] May we be ever attentive to doing good because of the grace given to us",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "324",
 		"CollectEnding": "father",
@@ -25,7 +25,7 @@
 	},
 	"Changes": [
 		"2025-08-25 - Paul Prins: Updated the translation.",
-		"2023-09-30 - Paul Prins: First translation of this prayer."
+		"2021-06-05 - Paul Prins: Translated this prayer."
 	],
-	"License": "© 2023 Urban Monastics, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }

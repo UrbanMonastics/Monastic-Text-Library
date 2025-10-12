@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty God, it is You who reign forever over the heavens and the earth. [t] In Your kindness, hear and answer the prayers of Your people. [*] Grace the moments of our days with Your perfect peace, through Jesus Christ.",
+	"Text": "Almighty God, You are the one who reigns forever over the heavens and the earth. [t] In Your kindness, hear the prayers of Your people and answer them. [*] Grace the moments of our days with Your perfect peace,",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 322,
 		"CollectEnding": null,
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: retranslated this Collect",
 		"2025-01-19 - Paul Prins: Update this prayer and fix divine pronouns.",
 		"2024-01-29 - Paul Prins: First translation of this prayer."
 	],

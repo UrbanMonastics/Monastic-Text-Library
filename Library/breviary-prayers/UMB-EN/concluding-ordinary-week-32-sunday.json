@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty and merciful God, have mercy on us, and remove all that hinders us. [t] So that, free in mind, body, and spirit, [*] we may be free to do Your will. Through Jesus Christ.",
+	"Text": "Almighty and merciful God, in Your mercy, remove all that hinders us. [t] So that, in freedom of mind, body, and spirit, [*] we may pursue Your will. This is the fullness of life given to us",
 	"Extra": {
 		"LiturgiaeHorarum-Page": "324",
-		"CollectEnding": null,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-11-06": ["Peer-Review"],
-				"2022-11-05": [
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-25 - Paul Prins: Retranslated this collect.",	
 		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
 		"2022-11-05 - Paul Prins: First translation of this prayer."
 	],
