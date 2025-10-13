@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-28-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous t'en prions, Seigneur, que ta grâce nous précède et nous accompagne à jamais. [*] Que nous soyons toujours attentifs à faire le bien à cause de la grâce qui nous a été donnée [par Jésus-Christ.]",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 324,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-25 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

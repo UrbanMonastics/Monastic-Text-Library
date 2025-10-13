@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, nous voyons ta puissance chaque jour dans ta patience et ta miséricorde. [t] Multiplie ta grâce sur nous. [*] Attire-nous vers le bien que tu promets. Avec toi, nous atteindrons les joies du ciel. Par Jésus-Christ.",
+	"Text": "Dieu, chaque moment est infusé de ta patience et de ta miséricorde comme la manifestation de ta puissance. [t] Répands ta grâce sur nous richement et sans cesse. [*] Hâte-nous à courir vers les bonnes choses que tu as promises. Car tu nous invites à participer au bonheur du ciel",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "324",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 324,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2023-10-01": ["Peer-Review"],
-				"2023-09-30": [
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-25 - Paul Prins: Mise à jour cette oraison.",
 		"2023-09-30 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"

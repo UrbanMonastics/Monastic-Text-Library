@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant et éternel, mène nos vies en résonance avec ton amour. [t] Que nos chemins soient les mêmes que ceux de ton Fils bien-aimé. [*] Afin que nos yeux puissent voir tes fruits abondants, par Jésus-Christ.",
+	"Text": "Dieu tout-puissant et éternel, mets nos vies en harmonie avec ton amour. [t] Toi seul peut guider nos pas et nos cœurs sur le chemin de ton Fils bien-aimé. [*] Donne-nous des yeux pour voir ton amour et tes fruits abondants",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-02-01": ["Peer-Review"],
-				"2024-01-31": [
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2024-01-31 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

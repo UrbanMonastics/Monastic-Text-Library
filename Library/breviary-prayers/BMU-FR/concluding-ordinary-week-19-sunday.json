@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant et éternel, toi que nous connaissons comme notre Père, et par l'enseignement du Saint-Esprit. [t] Rends parfaite en nos cœurs notre adoption spirituelle comme tes enfants. [*] Afin que tous tes enfants puissent entrer dans l'héritage que tu as promis. Par Jésus-Christ.",
+	"Text": "Dieu tout-puissant et éternel, ton Esprit nous aide à appeler à toi comme notre Père. [t] Car tu nous as adoptés. Continue à faire grandir dans nos cœurs la réalité de notre vie en tant que tes enfants. [*] Afin qu'un jour, nous puissions entrer dans l'héritage que tu nous as promis",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-04 - Paul Prins: Mise à jour cette oraison.",
 		"2022-08-05 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

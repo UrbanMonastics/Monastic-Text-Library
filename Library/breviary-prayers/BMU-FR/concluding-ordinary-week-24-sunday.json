@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "concluding-ordinary-week-24-sunday",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Regarde-nous et vois-nous, Dieu, créateur et maître de toutes choses visibles et invisibles. [t] Permets-nous de ressentir chaque jour l'effet de ton amour. [*] Accorde-nous de te servir de tout cœur, avec et",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 324,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-25": ["Peer-Review"],
+				"2025-08-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-24 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

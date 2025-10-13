@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant, c'est toi qui règnes éternellement sur les cieux et la terre. [t] Par ta bonté, écoute et exauce les prières de ton peuple. [*] Grâce les moments de nos jours avec ta paix parfaite, par Jésus Christ.",
+	"Text": "Dieu tout-puissant, c'est toi qui règnes éternellement sur les cieux et la terre. [t] Dans ta bonté, écoute les prières de ton peuple et exauce-les. [*] Grâce les moments de nos jours avec ta paix parfaite,",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-01-29": ["Peer-Review"],
-				"2024-01-28": [
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2024-01-29 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

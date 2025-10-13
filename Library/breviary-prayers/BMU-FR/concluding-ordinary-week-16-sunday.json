@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Sois gracieux, Seigneur, avec ceux qui te servent. Dans ta miséricorde, continue à multiplier en nous tes dons de grâce. [t] Que, fervents dans la foi, l'espérance et l'amour, [*] nous soyons toujours attentifs à ton doux appel et suivions ta direction. Par Jésus-Christ.",
+	"Text": "Sois miséricordieux, Seigneur, envers tes fidèles, et continue à multiplier les dons de ta grâce en nous. [t] Soutiens en nous une ferveur de l'espérance, de la foi et de l'amour. [*] Que nous soyons toujours attentifs à ton appel doux à garder tes commandements",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-07-17": ["Peer-Review"],
-				"2022-07-16": [
+				"2025-07-14": ["Peer-Review"],
+				"2025-07-13": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-07-13 - Paul Prins: Mise à jour cette oraison.",
 		"2022-07-16 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

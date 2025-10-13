@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, invite tous ceux qui errent à revenir à toi en faisant briller ta lumière de vérité. [t] A ceux qui se déclarent chrétiens, donne la sagesse de rejeter ce qui est indigne de ton nom, [*] et le courage de suivre ce qui t'honore. Par Jésus-Christ.",
+	"Text": "Dieu, invite tous ceux qui s'égarent à revenir vers toi avec ta lumière éclatante de la vérité. [t] Donne à tous ceux qui se déclarent chrétiens la sagesse de rejeter ce qui est indigne de ce nom ou contraire au chemin de Jésus. [*] Accorde-nous le courage de rechercher ce qui t'honore et te loue",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-07-15": ["Peer-Review"],
-				"2022-07-14": [
+				"2025-06-24": ["Peer-Review"],
+				"2025-06-23": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-23 - Paul Prins: Mise à jour cette oraison.",
 		"2022-07-14 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

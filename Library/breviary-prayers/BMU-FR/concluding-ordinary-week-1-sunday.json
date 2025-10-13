@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Quand les prières de ton peuple se lèvent vers toi, Seigneur, exauce-les en ta bonté. [t] Avec la douceur de ton esprit, laisse chacun voir ce qu'il doit faire. [*] Donne-nous la foi et la force de le voir s'accomplir, par Jésus-Christ.",
+	"Text": "Quand les prières de ton peuple se lèvent vers toi, Seigneur, exauce-les en ta bonté. [t] Par la douceur de ton Esprit, révèle à chacun de nous ce que nous pouvons accomplir. [*] Donne-nous la foi et la force de le voir s'accomplir,",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-01-29": ["Peer-Review"],
-				"2024-01-28": [
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2024-01-29 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

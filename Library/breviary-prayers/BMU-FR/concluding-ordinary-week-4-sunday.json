@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Accorde-nous, Seigneur notre Dieu, [t] des esprits entièrement consacrés à ton adoration. [*] Laisse nos cœurs grandir dans l'amour pour chaque personne, comme tu nous enseignes à aimer par Jésus-Christ.",
+	"Text": "Accorde-nous, Seigneur notre Dieu, [t] que nos esprits soient entièrement consacrés à t'adorer. [*] Fais grandir dans nos cœurs l'amour pour chaque personne, y compris nous-mêmes, comme tu nous enseignes à aimer",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2025-01-20": ["Peer-Review"],
-				"2025-01-19": [
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2025-01-19 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2025 Monastiques Urbain, Paris"

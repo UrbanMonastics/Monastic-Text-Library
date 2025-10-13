@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Accorde-nous ce que nous demandons, Seigneur. [t] Avec miséricorde, ramène toute la création sous ta direction paisible. [*] Étends cette paix, avec ta présence, dans ton Église afin que nous puissions nous réjouir dans une dévotion calme",
+	"Text": "Accorde-nous ce que nous demandons, Seigneur. [t] Guide avec miséricorde toute la création de ta main paisible. [*] Étends cette paix, avec ta présence, dans ton Église, afin que nous puissions nous réjouir dans une dévotion calme",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2025-02-09": ["Peer-Review"],
-				"2025-02-08": [
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2025-02-08 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2025 Monastiques Urbain, Paris"

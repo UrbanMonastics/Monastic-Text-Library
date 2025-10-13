@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Fais-nous vivre, Seigneur, pour toujours dans l'affection et la révérence de ton saint nom, [t] car tu n'égares jamais [*] ceux que tu as fermement établis dans ton amour. Par Jésus-Christ.",
+	"Text": "FSeigneur, laisse-nous vivre à tout moment dans l'amour et la révérence pour ton Saint Nom. [t] Tu ne cesses jamais de guider ceux [*] que Tu as fermement établis dans Ton amour",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-06-20": ["Peer-Review"],
-				"2022-06-19": [
+				"2025-06-24": ["Peer-Review"],
+				"2025-06-23": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-23 - Paul Prins: Mise à jour cette oraison.",
 		"2022-06-19 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

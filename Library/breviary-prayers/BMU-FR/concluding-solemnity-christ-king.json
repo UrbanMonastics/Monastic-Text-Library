@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "concluding-solemnity-christ-king",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et éternel, tu as établi toutes choses en ton Fils bien-aimé, le Roi de l'Univers, et tu désires que tout soit restauré. [t] Accorde dans ta miséricorde que toute la création, désormais libérée de la servitude, [*] serve ta majesté. Que nos voix se joignent au chœur qui te loue sans fin",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 348,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

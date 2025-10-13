@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant et éternel, tu donnes à ceux qui te cherchent dans la prière, par ton amour inépuisable. [t] Donne à chacun de nous au-delà de nos mérites et de nos désirs. Répands ta miséricorde sur nous. [*] Libère nos consciences de ce qui les préoccupe. Donne-nous plus que ce que nous osons demander, par Jésus-Christ.",
+	"Text": "Dieu tout-puissant et éternel, comble de tes bénédictions ceux qui te cherchent dans la prière. Dans ton amour inépuisable, tu leur donnes au-delà de leurs mérites et de leurs désirs. [t] Répands ta miséricorde sur nous [*] afin que nos consciences soient libérées de souci. Plus que nous ne demandons ou n'imaginons, tu nous donnes",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "324",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 324,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-10-07": ["Peer-Review"],
-				"2024-10-06": [
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-25 - Paul Prins: Mise à jour cette oraison.",
 		"2024-10-06 - Paul Prins: Mise à jour de cette traduction.",
 		"2021-09-30 - Paul Prins: Traduit cette prière."
 	],

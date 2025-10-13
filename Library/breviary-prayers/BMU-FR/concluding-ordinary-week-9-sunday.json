@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Seigneur, nous en appelons à toi et à ta providence infaillible, [t] qui accomplit son dessein. [*] Chasse tout ce qui est nuisible, et fais que tout nous bénisse par Jésus-Christ.",
+	"Text": "Seigneur, nous faisons appel à Toi et à Ta providence infaillible, [t] qui accomplit toujours son dessein. [*] Délivre-nous de tous les chemins du mal et du malheur. De ton abondance, donne-nous tout ce qui peut nous bénir et nous apporter la vie",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "322",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-06-03": ["Peer-Review"],
-				"2024-06-02": [
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2024-06-02 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

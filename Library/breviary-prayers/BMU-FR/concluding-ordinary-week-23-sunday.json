@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, la rédemption nous vient par toi, et ton adoption [t] de nous est garantie. Nous sommes tes enfants. Regarde avec tendresse tous les enfants de ton amour. [*] Donne la vraie liberté et la vie éternelle à tous ceux que nous croyons en ton Fils.  Par Jésus-Christ.",
+	"Text": "Dieu, tu as envoyé ton Fils pour nous sauver et nous adopter comme tes enfants. [t] Regarde avec tendresse chaque enfant que tu aimes.[*] Donne-nous de bons cadeaux. Accorde-nous à chacun la vraie liberté et la vie éternelle",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-08-31": ["Peer-Review"],
-				"2022-06-16": [
+				"2025-08-25": ["Peer-Review"],
+				"2025-08-24": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-24 - Paul Prins: Mise à jour cette oraison.",
 		"2022-08-31 - Paul Prins: Mise à jour cette prière.",
 		"2022-06-16 - Paul Prins: Traduit cette prière."
 	],

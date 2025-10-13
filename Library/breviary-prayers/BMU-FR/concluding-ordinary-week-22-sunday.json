@@ -7,15 +7,15 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu des vertus, tu es la meilleure des choses. [t] Place l'amour de ton nom dans nos cœurs par-dessus tout. [*] Fais grandir en nous le désir de ce qui nourrit nos âmes. Veille sur nous avec ton soin et ton amour. Protège et nourris tout ce que tu fais grandir à travers la création et en nous, par Jésus-Christ.",
+	"Text": "Dieu tout-puissant, toutes les meilleures choses t'appartiennent. [t] Comme un signe que nous t'appartenons, enracine en nos cœurs l'amour pour ton nom. [*] Fais grandir en nous la dévotion pour ce qui nourrit nos âmes et tisse ton amour plus profondément dans nos vies. Veille sur nous afin que nous puissions fleurir et prospérer",
 	"Extra": {
-		"LiturgiaeHorarum-Page": "323",
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2024-09-02": ["Peer-Review"],
-				"2024-09-01": [
+				"2025-08-25": ["Peer-Review"],
+				"2025-08-24": [
 					"Second-Pass",
 					"Initial"
 				]
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-08-24 - Paul Prins: Mise à jour cette oraison.",
 		"2024-09-01 - Paul Prins: Affiné la traduction.",
 		"2023-09-01 - Paul Prins: Traduit cette prière."
 	],
