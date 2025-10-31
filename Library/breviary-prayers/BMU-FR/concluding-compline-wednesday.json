@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Seigneur Jésus-Christ, tu charges un joug agréable et un fardeau léger aux humbles et aux doux qui te suivent. Que nos vies reflètent ton cœur. [t] Accueille notre dévotion et notre œuvre de cette journée [*] et donne ta paix à nos esprits et à notre nuit. Tiens-nous près dans le repos, afin que nous nous réveillions plus prêts à te servir",
+	"Text": "Seigneur Jésus-Christ, Tu confies un joug agréable et un fardeau léger aux humbles et aux doux qui Te suivent. Que nos vies reflètent Ton cœur. [t] Accueille notre dévotion et notre œuvre de cette journée [*] et donne Ta paix à nos esprits et à notre nuit. Tiens-nous près de Toi dans le repos, afin que nous nous réveillions plus préparés à Te servir",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 87,
 		"CollectEnding": "son",
@@ -15,6 +15,10 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-27": [
 					"Peer-Review",
 					"Second-Pass",
@@ -26,10 +30,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-27 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",

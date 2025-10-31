@@ -7,13 +7,17 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Remplis-nous avec ta paix, Seigneur. Que ta paix couvre nos corps pendant notre sommeil. [t] Entre tes mains, nous confions maintenant les graines que nous avons aidé à semer pour ton Royaume. [*] Soigne-les et nourris-les. Prends soin de chacune d'elles jusqu'à ce qu'elles soient prêtes. Fais-les passer de la semence de ta Parole à leur récolte éternelle",
+	"Text": "Remplis-nous avec Ta paix, Seigneur. Que Ta paix couvre nos corps pendant notre sommeil. [t] Entre Tes mains, nous confions maintenant les graines que nous avons aidé à semer pour Ton Royaume. [*] Protège-les et nourris-les. Prends soin de chacune d'elles jusqu'à ce qu'elles soient prêtes. Fais-les passer du germe de Ta Parole à leur récolte éternelle",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 87,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-26": [
 					"Peer-Review",
 					"Second-Pass",
@@ -25,10 +29,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",

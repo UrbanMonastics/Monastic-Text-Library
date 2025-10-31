@@ -7,13 +7,17 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Accorde-nous, Dieu tout-puissant, tout ce dont nous avons besoin pour embrasser ton Fils unique. [t] Que nous vivions fidèlement en rythme avec celui qui est mort et a été enseveli pour nous. [*] Afin qu'au-delà des ténèbres, nous ressuscitions avec Jésus dans la nouveauté de la vie que l'on ne trouve qu'en Lui",
+	"Text": "Accorde-nous, Dieu tout-puissant, tout ce dont nous avons besoin pour embrasser Ton Fils unique. [t] Que nous vivions fidèlement en rythme avec celui qui est mort et a été enseveli pour nous. [*] Afin qu'au-delà des ténèbres, nous ressuscitions avec Jésus dans la nouveauté de la vie que l'on ne trouve qu'en Lui",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 88,
 		"CollectEnding": "son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-27": [
 					"Peer-Review",
 					"Second-Pass",
@@ -25,10 +29,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-27 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",

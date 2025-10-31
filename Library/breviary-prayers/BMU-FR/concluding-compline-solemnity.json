@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous te prions, Seigneur. Demeure-en ce lieu avec nous.  Fais-en un refuge sûr en repoussant toutes les embûches et les complots de l'ennemi. [t] Que ton saint Royaume repose ici et nous garde en paix. [*] Place ta bénédiction pour toujours sur nous et en nous",
+	"Text": "Nous Te prions, Seigneur. Demeure-en ce lieu avec nous. Fais-en un refuge sûr en repoussant tous les pièges et les complots de l'ennemi. [t] Que Ton saint Royaume repose ici et nous garde en paix. [*] Place Ta bénédiction pour toujours sur nous et en nous",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 87,
 		"CollectEnding": "father",
@@ -15,6 +15,10 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-27": [
 					"Peer-Review",
 					"Second-Pass",
@@ -26,10 +30,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-27 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",

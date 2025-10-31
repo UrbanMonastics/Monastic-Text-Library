@@ -7,13 +7,17 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Nous te cherchons, Seigneur, avec des voix humbles dans le calme de cette fin de journée. [t]  Nous t'avons rencontré alors que nous célébrions aujourd'hui le mystère de ta résurrection. [*] Laisse-nous maintenant nous reposer. Donne-nous ta paix et protège-nous de tout mal. Aide-nous à nous réveiller demain en te louant avec des cœurs joyeux",
+	"Text": "Nous Te cherchons, Seigneur, avec des voix humbles dans le calme de cette fin de journée. [t] Nous T'avons rencontré alors que nous célébrions aujourd'hui le mystère de Ta résurrection. [*] Laisse-nous maintenant nous reposer. Donne-nous Ta paix et protège-nous de tout mal. Aide-nous à nous réveiller demain en Te louant avec des cœurs joyeux",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 87,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-26": [
 					"Peer-Review",
 					"Second-Pass",
@@ -25,10 +29,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",

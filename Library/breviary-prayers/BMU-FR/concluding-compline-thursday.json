@@ -7,13 +7,17 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Seigneur notre Dieu, réconforte-nous par un sommeil paisible et réparateur cette nuit. [t] Laisse-nous être rafraîchis après la prière et le travail de la journée. [*] Revivifie-nous dans notre âme, notre esprit et notre corps, afin que nous puissions nous consacrer joyeusement à toi",
+	"Text": "Seigneur notre Dieu, réconforte-nous par un sommeil paisible et réparateur cette nuit. [t] Laisse-nous être rafraîchis après la prière et le travail de la journée. [*] Revivifie-nous dans notre âme, notre esprit et notre corps, afin que nous puissions nous consacrer joyeusement à Toi",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 88,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-26": [
 					"Peer-Review",
 					"Second-Pass",
@@ -25,10 +29,13 @@
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
 		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
 		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
