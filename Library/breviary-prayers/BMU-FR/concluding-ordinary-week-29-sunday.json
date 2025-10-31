@@ -7,23 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu tout-puissant et éternel, [t] que nous désirions et recherchions toujours ce que tu veux pour nous. [*] Permets-nous de servir ta gloire avec des cœurs rendus entiers par ton amour",
+	"Text": "Dieu tout-puissant et éternel, [t] que nous désirions et recherchions toujours ce que Tu veux pour nous. [*] Permets-nous de servir Ta gloire avec des cœurs rendus entiers par Ton amour",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 324,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-26": ["Peer-Review"],
 				"2025-08-25": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-25 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2025 Monastiques Urbain, Paris"

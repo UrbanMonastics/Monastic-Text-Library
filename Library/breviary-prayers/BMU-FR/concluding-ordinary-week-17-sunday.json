@@ -7,23 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Tu protèges, Dieu, tous ceux qui comptent sur toi. Sans toi, il n'y a pas de force, et rien n'est saint. Multiplie tes miséricordes sur nous. [t] Sous ta conduite, aide-nous à utiliser les bonnes choses qui disparaîtront [*] pour nous accrocher à ce qui demeurera pour toujours",
+	"Text": "Tu protèges, Dieu, tous ceux qui comptent sur Toi. Sans Toi, il n'y a pas de force, et rien n'est saint. Multiplie Tes miséricordes sur nous. [t] Sous Ta conduite, aide-nous à utiliser les bonnes choses qui disparaîtront [*] pour nous accrocher à ce qui demeurera pour toujours",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 323,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-07-14": ["Peer-Review"],
 				"2025-07-13": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-07-13 - Paul Prins: Mise à jour cette oraison.",
 		"2022-07-20 - Paul Prins: Traduit cette prière."
 	],

@@ -7,23 +7,29 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Seigneur, nous faisons appel à Toi et à Ta providence infaillible, [t] qui accomplit toujours son dessein. [*] Délivre-nous de tous les chemins du mal et du malheur. De ton abondance, donne-nous tout ce qui peut nous bénir et nous apporter la vie",
+	"Text": "Seigneur, nous faisons appel à Toi et à Ta providence infaillible, [t] qui accomplit toujours son dessein. [*] Délivre-nous de tous les chemins du mal et du malheur. Par Ton abondance, donne-nous tout ce qui peut nous bénir et nous apporter la vie",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 322,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-06-07": ["Peer-Review"],
 				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"}
 		}
 	},
 	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2024-06-02 - Paul Prins: Traduit cette prière."
 	],

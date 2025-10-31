@@ -7,23 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Accorde-nous, Dieu tout-puissant, tout ce que nous te demandons. [t] Que nos pensées reviennent toujours vers les bonnes choses et ta Parole. [*] Fais-nous voir ce qui te plaît, et donne-nous le courage de faire tout ce que tu as dit et confessé",
+	"Text": "Accorde-nous, Dieu tout-puissant, tout ce que nous Te demandons. [t] Que nos pensées reviennent toujours vers les bonnes choses et Ta Parole. [*] Fais-nous voir ce qui Te plaît, et donne-nous le courage de faire tout ce que Tu as dit et confessé",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 322,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-06-07": ["Peer-Review"],
 				"2025-06-06": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
 		"2025-02-08 - Paul Prins: Traduit cette prière."
 	],

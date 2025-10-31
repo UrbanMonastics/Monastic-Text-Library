@@ -7,23 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Réveille, Seigneur, le courage que tu as placé dans le cœur de tes fidèles ! [t] Aide-nous à agir selon notre désir divin de nous réjouir de ta grâce abondante. [*] Transforme nos vies et notre monde par ta grâce aimante, dont la puissance est infinie et qui nous invite à devenir davantage comme toi",
+	"Text": "Réveille, Seigneur, le courage que Tu as placé dans le cœur de Tes fidèles ! [t] Aide-nous à agir selon notre désir divin de nous réjouir de Ta grâce abondante. [*] Transforme nos vies et notre monde par Ta grâce aimante, dont la puissance est infinie et qui nous invite à devenir davantage comme Toi",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 324,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-06-08": ["Peer-Review"],
 				"2025-06-07": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-06-07 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2025 Monastiques Urbain, Paris"

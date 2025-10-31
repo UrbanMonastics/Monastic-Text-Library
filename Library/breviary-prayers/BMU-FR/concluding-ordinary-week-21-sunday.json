@@ -7,23 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, toi seul peux unifier les cœurs de tes fidèles sur un unique désir. [t] Accorde à ton peuple d'aimer ce que tu commandes et d'aspirer à ta promesse. [*] Afin que, tandis que le monde autour de nous tourne, nos cœurs soient toujours plus profondément enracinés dans les vraies joies qui ne se trouvent",
+	"Text": "Dieu, Toi seul peux unifier les cœurs de Tes fidèles sur un unique désir. [t] Accorde à Ton peuple d'aimer ce que Tu commandes et d'aspirer à Ta promesse. [*] Afin que, tandis que le monde autour de nous tourne, nos cœurs soient toujours plus profondément enracinés dans les vraies joies qui se trouvent en Toi",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 323,
 		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-24": ["Peer-Review"],
 				"2025-08-23": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
 		"2025-08-23 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2025 Monastiques Urbain, Paris"
