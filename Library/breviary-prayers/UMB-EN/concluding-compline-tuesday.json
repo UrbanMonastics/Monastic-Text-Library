@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Shine Your light, Lord, upon us with tenderness this night. [t] Let the presence of Your peace illuminate the slumber of Your servants. [*] Stir us to arise with joy for Your name into the brightness of a new day",
+	"Text": "Shine Your light upon us, Lord, with tenderness this night. [t] Let the presence of Your peace illuminate the slumber of Your servants. [*] Stir us to arise with joy for Your name into the brightness of a new day",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 87,
 		"CollectEnding": "father",
@@ -38,6 +38,7 @@
 		}
 	},
 	"Changes": [
+		"2025-10-31 - Paul Prins: Reordered to match French translation.",
 		"2025-08-28 - Paul Prins: Refreshed translation",
 		"2025-01-12 - Paul Prins: Move some text to the ordinary",
 		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
