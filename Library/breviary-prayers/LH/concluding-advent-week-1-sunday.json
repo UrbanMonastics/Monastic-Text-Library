@@ -5,8 +5,8 @@
 	"Version": "LH",
 	"Text": "Da, quæsumus, omnípotens Deus, hane tuis fidélibus voluntátem, [t] ut, Christo tuo veniénti iustis opéribus occurréntes, [*] eius déxteræ sociáti, regnum mereántur possidére cæléste. Per Dóminum.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 146,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

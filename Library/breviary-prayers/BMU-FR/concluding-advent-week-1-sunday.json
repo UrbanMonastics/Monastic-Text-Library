@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Donne ta volonté durable, Dieu tout-puissant, à tous les fidèles. [t] Que nous puissions rencontrer le Christ qui vient avec des œuvres de justice. [*] Pour que, lors de son jugement, chacun de nous soit accueilli dans le Royaume des Cieux par Jésus-Christ.",
+	"Text": "Donne Ta volonté durable, Dieu tout-puissant, à tous Tes fidèles. [t] Car nous rencontrerons le Christ à travers et dans nos œuvres de justice. [*] Dans ces œuvres, et à Son jugement, nous sommes ses compagnons qui incarnons Sa volonté. Le Royaume des Cieux est notre espoir et notre foyer qui nous a été donné",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 146,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-11-28 - Paul Prins: Mise à jour cette oraison.",
 		"2024-11-29 - Paul Prins: Révision de cette traduction pour qu'elle soit plus fluide.",
 		"2022-11-26 - Paul Prins: Traduit cette prière."
 	],
