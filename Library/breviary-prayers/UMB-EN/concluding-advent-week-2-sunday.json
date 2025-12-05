@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Almighty and merciful God, [t] do not let our preoccupation with present tasks delay us on our journey to meet your Son. [*] Instead, let your grace lead us into your divine wisdom from beyond ourselves. Wisdom that prepares our hearts to see Jesus, to welcome Him, and that allows us to accept His invitation to share in His life. To Him who reigns.",
+	"Text": "Almighty and merciful God, [t] do not let our earthly efforts hinder us on our journey to meet Your Son. [*] Instead, draw us onward with heavenly wisdom and instruction. Prepare our hearts to see Jesus, to welcome Him, and allow us to accept His invitation to share life with",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 150,
+		"CollectEnding": "father-son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,8 +24,9 @@
 		}
 	},
 	"Changes": [
+		"2025-12-05 - Paul Prins: Refreshed this translation.",
 		"2022-12-05 - Paul Prins: Updated this prayer.",
 		"2021-12-04 - Paul Prins: Translated this prayer."
 	],
-	"License": "© 2022 Urban Monastics, Paris"
+	"License": "© 2025 Urban Monastics, Paris"
 }
