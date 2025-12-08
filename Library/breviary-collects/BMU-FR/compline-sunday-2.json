@@ -1,0 +1,46 @@
+{
+	"TextAbbreviation": "compline-sunday-2",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Nous Te cherchons, Seigneur, avec des voix humbles dans le calme de cette fin de journée. [t] Nous T'avons rencontré alors que nous célébrions aujourd'hui le mystère de Ta résurrection. [*] Laisse-nous maintenant nous reposer. Donne-nous Ta paix et protège-nous de tout mal. Aide-nous à nous réveiller demain en Te louant avec des cœurs joyeux",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
+				"2025-08-26": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
+				"2020-08-06": ["Peer-Review"],
+				"2022-08-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
+		}
+	},
+	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
+		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
+		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
+		"2022-08-09 - Paul Prins: Réécrivez la majeure partie de la prière pour la rendre plus fluide, plus claire et créer un sentiment d'unité.",
+		"2022-08-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

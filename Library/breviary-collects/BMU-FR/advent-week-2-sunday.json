@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "advent-week-2-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et miséricordieux, [t] ne laisse pas nos efforts terrestres nous empêcher de rencontrer Ton Fils. [*] Au contraire, entraîne-nous plus loin avec la sagesse et les enseignements du ciel. Prépare nos cœurs à voir Jésus, à l'accueillir, et permets-nous d'accepter Son invitation à partager la vie avec Lui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 150,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-12-05": ["Peer-Review"],
+				"2021-12-04": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-05 - Paul Prins: mise à jour de cette traduction.",
+		"2022-12-05 - Paul Prins: Mise à jour cette prière.",
+		"2021-12-04 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

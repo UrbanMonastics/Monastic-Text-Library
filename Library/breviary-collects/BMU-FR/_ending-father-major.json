@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "_ending-father-major",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "par notre Seigneur Jésus-Christ. Ton Fils, qui vit et règne en unité avec Toi et le Saint-Esprit. Dieu, maintenant et pour les siècles des siècles. Amen.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-10": ["Peer-Review"],
+				"2025-02-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-09 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "week-4-tuesday-lauds",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Aide-nous à te faire confiance, Seigneur. [*] Fais déborder nos cœurs avec ta grâce afin que nos bouches proclament ta louange à chaque souffle. Entends nos voix avec le chœur du ciel par Jésus-Christ.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": ["Peer-Review"],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2024 Monastiques Urbain, Paris"
+}

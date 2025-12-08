@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "lent-week-3",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, chaque miséricorde et toute bonté commencent en toi. Tu nous as dit comment guérir les dommages du péché par le jeûne, la prière et le partage de ce que nous avons avec les autres. [t] Regarde avec bonté notre confession de faiblesse. [*] Nous sommes conscients de tant de nos fautes. Rencontre-nous à nouveau avec ta douce miséricorde. Embrasse-nous dans ton amour ",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 239,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-03-08": ["Peer-Review"],
+				"2021-03-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Retraduit cette prière",
+		"2021-03-07 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "solemnity-trinity",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Seigneur Jésus-Christ, dans cet admirable sacrement, Tu as placé le souvenir de Ta passion. [t] Alors que nous Te vénérons et participons, approfondis en nous les mystères sacrés de Ton corps et de Ton sang. [*] Aide-nous à incarner sans cesse le fruit de Ta rédemption, que Tu nous offres en partage",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 316,
+		"CollectEnding": "son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
+		}
+	},
+	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
+		"2025-06-07 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

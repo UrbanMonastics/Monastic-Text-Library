@@ -1,0 +1,47 @@
+{
+	"TextAbbreviation": "compline-sunday-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Reste près de nous, Seigneur, durant les ténèbres de cette nuit. [t] Que chaque heure passe dans la paix. Donne-nous un sommeil réparateur et un réveil matinal. [*] Aide-nous à nous réveiller demain, prêts et aptes à nous réjouir de la résurrection de Ton Christ",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-10-28": [
+					"Verified",
+					"Guidelines"
+				],
+				"2025-08-26": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2025-10-28": "Marie Bellando Mitjans"
+			}
+		}
+	},
+	"Changes": [
+		"2025-10-28 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
+		"2025-08-26 - Paul Prins: Traduction rafraîchie.",
+		"2025-01-12 - Paul Prins: Déplacer du texte vers l'ordinaire",
+		"2024-01-19 - Paul Prins: Reformulation dans le même esprit de cette prière en anglais.",
+		"2023-08-30 - Paul Prins: Retraduisez cette prière pour accompagner les autres prières des Complies.",
+		"2022-08-09 - Paul Prins: Alignez l'ouverture avec les autres jours de la semaine.",
+		"2020-10-27 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

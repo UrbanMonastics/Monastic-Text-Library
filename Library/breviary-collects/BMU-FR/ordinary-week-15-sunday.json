@@ -1,0 +1,38 @@
+{
+	"TextAbbreviation": "ordinary-week-15-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, invite tous ceux qui s'égarent à revenir vers Toi avec la lumière éclatante de Ta vérité. [t] Donne à tous ceux qui se déclarent chrétiens la sagesse de rejeter ce qui est indigne de ce nom ou contraire au chemin de Jésus. [*] Accorde-nous le courage de rechercher ce qui T'honore et Te loue",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 323,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
+				"2025-06-24": ["Peer-Review"],
+				"2025-06-23": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
+		}
+	},
+	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
+		"2025-06-23 - Paul Prins: Mise à jour cette oraison.",
+		"2022-07-14 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

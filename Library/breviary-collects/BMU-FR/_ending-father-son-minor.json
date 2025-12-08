@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "_ending-father-son-minor",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "qui vit et règne avec toi, maintenant et pour les siècles des siècles. Amen.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-10": ["Peer-Review"],
+				"2025-02-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-09 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

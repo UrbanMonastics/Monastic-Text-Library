@@ -1,0 +1,39 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant et éternel, comble de Tes bénédictions ceux qui Te cherchent dans la prière. Dans Ton amour inépuisable, Tu leur donnes au-delà de leurs mérites et de leurs désirs. [t] Répands Ta miséricorde sur nous [*] afin que nos consciences soient libérées de souci. Plus que nous ne demandons ou n'imaginons, Tu nous donnes",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 324,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-10-25": [
+					"Verified",
+					"Guidelines"
+				],
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2025-10-25": "Marie Bellando Mitjans"
+			}
+		}
+	},
+	"Changes": [
+		"2025-10-25 - Marie Bellando Mitjans: révisé, mis en forme les pronoms divins et lissé le langage.",
+		"2025-08-25 - Paul Prins: Mise à jour cette oraison.",
+		"2024-10-06 - Paul Prins: Mise à jour de cette traduction.",
+		"2021-09-30 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
