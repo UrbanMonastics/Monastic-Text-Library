@@ -1,0 +1,37 @@
+{
+	"TextAbbreviation": "easter-week-2-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God of endless mercy. You revive the faith of your people through every celebration of Easter. [t] God, lavish Your grace abundantly upon us. [*] Let understanding take root in the hearts of all, that You have washed us clean from the stain of sin. By Your Spirit, we are reborn. By Your blood, we are redeemed, through Jesus Christ.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-04-07": [
+					"Verified",
+					"Guidelines"
+				],
+				"2021-04-12": ["Peer-Review"],
+				"2021-04-11": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-04-07": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-04-05 - Paul Prins: Fresh Translation of this prayer",
+		"2021-04-11 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

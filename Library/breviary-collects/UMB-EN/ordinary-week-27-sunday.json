@@ -1,0 +1,33 @@
+{
+	"TextAbbreviation": "ordinary-week-27-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, shower blessings on those seeking You in prayer. Out of Your inexhaustible love, You give to them beyond their merits and desires. [t] Pour Your mercy upon us [*] that our consciences may be freed from worry. More than we ask for or imagine, You give to us",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "324",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-25 - Paul Prins: retranslated this Collect",
+		"2024-10-06 - Paul Prins: Updated the translation.",
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
+		"2021-09-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

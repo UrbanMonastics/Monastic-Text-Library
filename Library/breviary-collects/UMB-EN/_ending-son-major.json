@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "_ending-son-major",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "who lives and reigns in unity with the Father and the Holy Spirit. God, now and forever. Amen.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-10": ["Peer-Review"],
+				"2025-02-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-09- Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

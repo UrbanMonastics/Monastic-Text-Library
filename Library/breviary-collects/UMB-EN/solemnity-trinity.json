@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-trinity",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, our Father, You sent the Word of Truth and the Spirit of Holiness into our world to reveal Your wonderful mysteries to us. [t] Grant that we will profess the true faith by recognizing the glory of the eternal Trinity. [*] We can only adore Your almighty unity",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 313,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

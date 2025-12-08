@@ -1,0 +1,50 @@
+{
+	"TextAbbreviation": "compline-friday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Grant us, Almighty God, all we need to embrace Your only begotten Son. [t] May we faithfully live in step with the One who died and was buried for us. [*] So that beyond the darkness, we will arise with Jesus into the newness of life only found in Him",
+	"Extra":{
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-27": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				],
+				"2024-01-18": [
+					"Verified",
+					"Guidelines"
+				],
+				"2023-08-31": ["Peer-Review"],
+				"2023-08-30": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-01-19": ["Constance McIntosh Smith", "Jordan Prins"],
+				"2024-01-18": "Constance McIntosh Smith",
+				"2023-12-09": "Sheila Whittenberg",
+				"2023-12-08": "Jordan Prins",
+				"2023-10-19": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2025-08-27 - Paul Prins: Refreshed translation",
+		"2025-01-12 - Paul Prins: Move some text to the ordinary",
+		"2024-01-19 - Paul Prins: Reworked to be more stylistically in line with my writing.",
+		"2024-01-18 - Constance McIntosh Smith: Changes to fix grammar issues.",
+		"2023-12-09 - Paul Prins: Fix grammar after the mid-point",
+		"2023-08-30 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "week-4-tuesday-sext",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, who revealed to the Apostle Peter Your desire to save everyone. [t] Blessed are we to help advance Your work of salvation. [*] May our prayers and deeds help reveal the salvation and love You have designed for all through Jesus Christ, our Lord.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-06": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

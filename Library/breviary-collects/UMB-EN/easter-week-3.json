@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "easter-week-3",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "May Your people always rejoice in You, Lord, who refreshes our souls. [t] For You have restored our dignity, by claiming us as Your own, as children of God. [*] Affix our eyes on the day of resurrection and the hope of being with You forever",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 290,
+		"CollectEnding": "father", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-12 - Paul Prins: Retranslated this prayer.",
+		"2022-04-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

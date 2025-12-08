@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "week-4-tuesday-none",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, who sent Your angel to the centurion Cornelius to show him Your way. [t] Give us the wisdom and power to work for the salvation of creation. [*] With all of humanity, in communion with Your Church, may we reach You. Together may we realize Your hope for us all through Jesus Christ, our Lord.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-06": [
+					"Verified",
+					"Guidelines",
+					"Peer-Review"
+				],
+				"2024-06-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2024-06-06": "Jordan Prins"
+			}
+		}
+	},
+	"Changes": [
+		"2024-06-05 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}
