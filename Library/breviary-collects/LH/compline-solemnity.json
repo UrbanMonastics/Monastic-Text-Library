@@ -1,0 +1,29 @@
+{
+	"TextAbbreviation": "compline-solemnity",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea longe repélle ; [t] ángeli tui sancti hábitent in ea, qui nos in pace custódiant ; [*] et benedíctio tua sit super nos semper.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 87,
+		"CollectEnding": "father",
+		"BreviaryInstructions": "Vel, Tridou paschali, et in sollemnitatibus extra dominicam occurrentibus",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-01-12 - Paul Prins: Move some text to the ordinary",
+		"2022-08-01 - Paul Prins: Change abbreviation and add instructions.",
+		"2020-10-27 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

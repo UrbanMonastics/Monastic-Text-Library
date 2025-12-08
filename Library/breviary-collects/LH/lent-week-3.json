@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "lent-week-3",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, ómnium misericordiárum et totíus bonitátis auctor, qui peccatórum remédia in ieiúniis, oratiónibus et eleemósynis demonstrásti, [t] hanc humilitátis nostræ confessiónem propítius intuére, [*] ut, qui inclinámur consciéntia nostra, tua semper misericórdia sublevémur.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 239,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-03-08": ["Peer-Review"],
+				"2021-03-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Updated Extra data and prepared for collect endings.",
+		"2021-03-07 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "easter-week-2-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus misericórdiæ sempitérnæ, qui in ipso paschális festi recúrsu fidem sacrátæ tibi plebis accéndis, [t] auge grátiam quam dedísti, [*] ut digna omnes intellegéntia comprehéndant, quo lavácro ablúti, quo spíritu regeneráti, quo sánguine sunt redémpti. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null, 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-10-22": ["Peer-Review"],
+				"2023-10-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2024-04-05 - Paul Prins: fixed the accents and transcription",
+		"2023-10-21 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

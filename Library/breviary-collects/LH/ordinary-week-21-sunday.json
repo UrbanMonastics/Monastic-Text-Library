@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-20-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, qui fidélium mentes uníus éfficis voluntátis, [t] de pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis, [*] ut, inter mundánas varietátes, ibi nostra fixa sint corda, ubi vera sunt gáudia.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "323",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-04": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-04 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "easter-week-7",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Supplicatiónibus nostris, Dómine, adésto propítius, [t] ut, sicut humáni géneris Salvatórem tecum in tua crédimus maiestáte, [*] ita eum usque ad consummatiónem sǽculi manére nobíscum, sicut ipse promísit, sentiámus. Qui tecum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 305,
+		"CollectEnding": "father-son", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-01": ["Peer-Review"],
+				"2025-05-31": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-05-31 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

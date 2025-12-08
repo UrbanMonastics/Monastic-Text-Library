@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "solemnity-christ-king",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Omnípotens sempitérne Deus, qui in dilécto Fílio tuo, universórum Rege, ómnia instauráre voluísti, [t] concéde propítius, ut tota creatúra a servitúte liberáta, [*] tuæ maiestáti desérviat ac te sine fine colláudet.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 348,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

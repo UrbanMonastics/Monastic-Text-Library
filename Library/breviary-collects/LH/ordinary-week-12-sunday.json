@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-12-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum, [t] quia numquam tua gubernatióne destítuis, [*] quos in soliditáte tuæ dilectiónis instítuis.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "323",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-06-20": ["Peer-Review"],
+				"2022-06-19": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2022-06-19 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

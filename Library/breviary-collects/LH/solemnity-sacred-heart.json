@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "solemnity-sacred-heart",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Concéde, quǽsumus, omnípotens Deus, [t] ut qui, dilécti Fílii tui corde gloriántes, eius præcípua in nos benefícia recólimus caritátis, [*] de illo donórum fonte cælésti supereffluéntem grátiam mereámur accípere.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 320,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

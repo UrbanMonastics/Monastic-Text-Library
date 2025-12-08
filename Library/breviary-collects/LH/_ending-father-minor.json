@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "_ending-father-minor",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Per Christum Dóminum nostrum. Amen.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-02-10": ["Peer-Review"],
+				"2025-02-09": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-09 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

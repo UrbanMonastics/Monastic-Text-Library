@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "compline-sunday-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Vísita nos, quǽsumus, Dómine, hac nocte præsénti, [t] ut, dilúculo tua virtúte surgéntes, [*] de resurrectióne Christi tui gaudére valeámus.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 88,
+		"CollectEnding": "son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2020-10-28": ["Peer-Review"],
+				"2020-10-27": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-01-12 - Paul Prins: Move some text to the ordinary",
+		"2022-08-30 - Paul Prins: Fix a typo.",
+		"2020-10-27 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

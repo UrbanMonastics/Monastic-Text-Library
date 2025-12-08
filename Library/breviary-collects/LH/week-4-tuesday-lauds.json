@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "week-4-monday-lauds",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Auge in nobis, quǽsumus, Dómine, fidem tuam, [*] ut in ore nostro perfécta laus tua cæléstes iúgiter áfferat fructus. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"CollectEnding": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-06-07": ["Peer-Review"],
+				"2023-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-06-06 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

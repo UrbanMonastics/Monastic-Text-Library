@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "advent-week-1-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Da, quæsumus, omnípotens Deus, hane tuis fidélibus voluntátem, [t] ut, Christo tuo veniénti iustis opéribus occurréntes, [*] eius déxteræ sociáti, regnum mereántur possidére cæléste. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 146,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-11-27": ["Peer-Review"],
+				"2022-11-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2022-11-26 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

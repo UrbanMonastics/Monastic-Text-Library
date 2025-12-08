@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-corpus-christi",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord Jesus Christ, within this wonderful sacrament, You have placed the memory of Your passion. [t] As we venerate and partake, deepen within us the sacred mysteries of Your body and blood. [*] Help us continually embody the fruit of Your redemption, sharing with You",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 316,
+		"CollectEnding": "son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

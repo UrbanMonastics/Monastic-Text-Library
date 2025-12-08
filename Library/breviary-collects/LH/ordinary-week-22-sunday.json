@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-22-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus virtútum, cuius est totum quod est óptimum, [t] ínsere pectóribus nostris tui nóminis amórem, et præsta, [*] ut in nobis, religiónis augménto, quæ sunt bona nútrias, ac, vigilánti stúdio, quæ sunt nutríta custódias.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "323",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2023-09-02": ["Peer-Review"],
+				"2023-09-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2023-09-01 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
