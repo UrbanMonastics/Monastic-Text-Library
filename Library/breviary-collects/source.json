@@ -1,0 +1,17 @@
+{
+	"Abbreviation": "breviary-collects",
+	"Title": {
+		"default": "Breviary Collects",
+		"UMB-EN": "Collects for the Divine Office",
+		"BMU-FR": "Oraisons pour l'Office divin",
+		"eng": "Collects",
+		"fra": "Oraisons"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "lat",
+	"Version": "Original",
+	"Date": "",
+	"Segments": "Abbreviations",
+	"Notes": "This is a collection of all the collects used during the divine office."
+}
