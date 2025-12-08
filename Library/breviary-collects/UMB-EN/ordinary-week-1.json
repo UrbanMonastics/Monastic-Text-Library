@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "ordinary-week-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "As the prayers of Your people rise to You, Lord, answer them out of Your goodness. [t] Through the gentleness of Your Spirit, reveal to each of us what we can do. [*] Give us the faith and strength to see it accomplished,",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-01-29": ["Peer-Review"],
+				"2024-01-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-06 - Paul Prins: retranslated this Collect",
+		"2025-01-19 - Paul Prins: Update this translation.",
+		"2024-01-29 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2024 Urban Monastics, Paris"
+}

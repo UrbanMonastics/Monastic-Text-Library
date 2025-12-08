@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "ordinary-week-26",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, every moment is infused with Your patience and mercy as the manifestation of Your power. [t] Lavish Your grace upon us without ceasing. [*] Hasten us to run towards the good things You have promised. For You invite us to share in the happiness of heaven",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "324",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-26": ["Peer-Review"],
+				"2025-08-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-25 - Paul Prins: Updated the translation.",
+		"2023-09-30 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

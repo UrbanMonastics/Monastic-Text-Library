@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "ordinary-week-17",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "You protect all those, God, who rely on You. Without You, there is no strength, and nothing is holy. Multiply Your mercies upon us. [t] Under Your guidance, may we make use of good things that will fade away [*] to help us cling to what will remain forever",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "323",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-07-14": ["Peer-Review"],
+				"2025-07-13": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-07-13 - Paul Prins: Updated the translation.",
+		"2022-07-20 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

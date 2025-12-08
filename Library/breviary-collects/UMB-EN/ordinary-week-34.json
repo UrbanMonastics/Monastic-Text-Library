@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-34",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Awaken, Lord, the courage You have placed within Your faithful! [t] Help us to act on our divine longing to bask in Your abundant grace. [*] Transform our lives and our world with Your loving grace, whose power is beyond measure, and invites us to be more like You",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "324",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-08": ["Peer-Review"],
+				"2025-06-07": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-07 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

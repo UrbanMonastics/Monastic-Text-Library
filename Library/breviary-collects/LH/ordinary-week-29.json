@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-29",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Omnípotens sempitérne Deus, [t] fac nos tibi semper et devótam gérere voluntátem, [*] et maiestáti tuæ sincéro corde servíre.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "324",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-04": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-04 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

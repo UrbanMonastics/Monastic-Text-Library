@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "ordinary-week-28",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Tua nos, quǽsumus, Dómine, grátia semper et prævéniat et sequátur, [*] ac bonis opéribus iúgiter præstet esse inténtos.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "324",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-04": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-04 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

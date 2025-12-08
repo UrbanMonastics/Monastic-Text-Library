@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "ordinary-week-8",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Accorde-nous ce que nous demandons, Seigneur. [t] Guide avec miséricorde toute la création de Ta main paisible. [*] Étends cette paix, par Ta présence, dans Ton Église, afin que nous puissions nous réjouir dans une dévotion calme",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 322,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-06 - Paul Prins: Mise à jour cette oraison.",
+		"2025-02-08 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

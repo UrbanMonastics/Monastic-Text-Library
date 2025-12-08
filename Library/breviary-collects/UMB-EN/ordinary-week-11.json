@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "ordinary-week-11",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty God, You are the strength of all whose hope is in You. Hear our prayers, [t] for we are fragile and can do nothing without You. Let Your grace find us and be our help in all things. [*] Only then might our love fulfill Your two greatest commandments, as genuine responses to Your love for us",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-07": ["Peer-Review"],
+				"2025-06-06": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-06 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "ordinary-week-9",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, cuius providéntia in sui dispositióne non fállitur, [t] te súpplices exorámus, [*] ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "322",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2024-06-03": ["Peer-Review"],
+				"2024-06-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-02-08 - Paul Prins: Fixed a typo.",
+		"2024-06-02 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "ordinary-week-20",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, you have prepared good things just beyond sight for those who love You. Pour into our hearts a fervor to live within Your love. [t] May we love You in all, and above all things. [*] Surpassing every known desire, may we obtain Your promises",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "323",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2022-08-11": ["Peer-Review"],
+				"2022-08-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-08-04 - Paul Prins: Updated the translation.",
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
+		"2022-08-10 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

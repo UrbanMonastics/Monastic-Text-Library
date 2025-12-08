@@ -1,0 +1,41 @@
+{
+	"TextAbbreviation": "ordinary-week-23",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, You sent Your Son to redeem us and adopt us as Your children. [t] Look tenderly upon every child held within Your love. [*] Give good gifts to us. Grant each of us true freedom and eternal life",
+	"Extra": {
+		"LiturgiaeHorarum-Page": "323",
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-08-28": ["Peer-Review"],
+				"2025-08-24": [
+					"Second-Pass",
+					"Initial"
+				],
+				"2022-06-17": ["Peer-Review"],
+				"2022-06-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2025-08-28": ["Jordan Prins"]
+			}
+		}
+	},
+	"Changes": [
+		"2025-08-24 - Paul Prins: Refreshed translation",
+		"2023-09-02 - Paul Prins: Fixed casing on divine pronouns.",
+		"2022-09-04 - Paul Prins: Fixed a typo.",
+		"2022-08-31 - Paul Prins: Updated this prayer.",
+		"2022-06-16 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}
