@@ -7,14 +7,14 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, tu vois que ton peuple se prépare fidèlement à célébrer la naissance de ton Fils. [t] En attendant, concentre notre joie sur le salut éternel à venir. [*] Que nous puissions célébrer notre salut avec des nouveaux cœurs, remplis de joie. Par Jésus-Christ.",
+	"Text": "Dieu, Tu vois Ton peuple se préparer fidèlement à célébrer la naissance de Ton Fils. [t] Dans notre attente, magnifie notre joie pour le merveilleux mystère du salut éternel. [*] Puissions-nous toujours célébrer Sa naissance avec des cœurs rafraîchis par la joie et l'amour",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 154,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2022-12-06": ["Peer-Review"],
+				"2022-12-07": ["Peer-Review"],
 				"2022-12-06": [
 					"Second-Pass",
 					"Initial"
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-12-12 - Paul Prins: Mis à jour la traduction française.",
 		"2022-12-06 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

@@ -3,10 +3,10 @@
 	"SourceAbbreviation": "breviary-collects",
 	"FormatAs": "book",
 	"Version": "LH",
-	"Text": "Deus, qui cónspicis pópulum tuum nativitátis domínicæ festivitátem fidéliter exspectáre, [t] præsta, quæsumus, ut valeámus ad tantæ salútis gáudia perveníre, [*] et ea votis sollémnibus álacri semper lætítia celebráre. Per Dóminum.",
+	"Text": "Deus, qui cónspicis pópulum tuum nativitátis domínicæ festivitátem fidéliter exspectáre, [t] præsta, quǽsumus, ut valeámus ad tantæ salútis gáudia perveníre, [*] et ea votis sollémnibus álacri semper lætítia celebráre. Per Dóminum.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 154,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -20,6 +20,7 @@
 		}
 	},
 	"Changes": [
+		"2025-12-12 - Paul Prins: Added in a missing accent on a ligature and metadata.",
 		"2022-12-06 - Paul Prins: Added this prayer."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
