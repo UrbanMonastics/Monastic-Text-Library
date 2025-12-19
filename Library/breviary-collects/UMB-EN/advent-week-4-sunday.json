@@ -7,10 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "We pray that Your grace, Lord, be poured into our hearts. [t] Through the Angel's message, you made known to us the incarnation of your beloved Son. [*] Guide us through his passion, and his cross, to share in the glory of the resurrection. Through Jesus Christ.",
+	"Text": "Pour Your grace into our hearts. Lord, we pray to You. [t] For you made the incarnation of Your beloved Son known to us through the message of Your Angel. [*] Guide us through His passion and His cross that we will share in the glory of His resurrection with Him",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 158,
+		"CollectEnding": "father-son",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2025-12-19 - Paul Prins: Refreshed the translation.",
 		"2022-12-17 - Paul Prins: Translated this prayer."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
