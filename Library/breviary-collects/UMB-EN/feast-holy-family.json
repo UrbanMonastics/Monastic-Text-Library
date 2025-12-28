@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "feast-holy-family",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, You want the Holy Family to be a glorious example for us. [t] Give Your children the grace to live as one divine family. A family that shares in each day's domestic care, work, and nurturing. [*] Weave us together with bonds of Your love before we meet again to dwell in the joy of Your house for eternity",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 177,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-27": ["Peer-Review"],
+				"2025-12-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-26 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

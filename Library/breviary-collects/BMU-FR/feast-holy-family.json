@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "feast-holy-family",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, Tu veux que la Sainte Famille soit un exemple glorieux pour nous. [t] Donne à Tes enfants la grâce de vivre comme une seule famille divine. Une famille qui partage chaque jour les soins domestiques, le travail et l'éducation. [*] Tisse entre nous les liens de Ton amour avant que nous nous retrouvions pour demeurer dans la joie de Ta maison pour l'éternité",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 177,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-27": ["Peer-Review"],
+				"2025-12-26": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-26 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}
