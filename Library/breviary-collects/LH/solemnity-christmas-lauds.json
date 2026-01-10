@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "solemnity-christmas-lauds",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "De, quǽsumus, omnípotens Deus, [t] ut, dum nova incarnáti Verbi tui luce perfúndimur, [*] hoc in nostro respléndeat ópere, quod per fidem fulget in mente.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 173,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-24": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-24 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

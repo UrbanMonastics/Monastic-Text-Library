@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-christmas-vespers-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, every year we find ourselves entering the night of Your incarnation. Here, You joyfully renew our hope in salvation. [t] We welcome with joy the presence of Your only Son. He took on flesh and comes to redeem us. [*] On the day that He returns to judge creation, allow us to look upon Him without fear. Fill us instead with love from Him",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 171,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-26": ["Peer-Review"],
+				"2025-12-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-25 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

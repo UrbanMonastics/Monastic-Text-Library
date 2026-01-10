@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-christmas-lauds",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty God, Your Word has been made flesh. [t] The incarnation of Your Word is a new light whose presence enlightens our hearts by faith. [*] He is the light of revelation for the nations, and the glory of all people. Let His light radiate from all we do with our lives",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 173,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-26": ["Peer-Review"],
+				"2025-12-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-25 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

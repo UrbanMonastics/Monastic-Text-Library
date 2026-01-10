@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-christmas-vespers-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, chaque année nous entrons dans la nuit de Ton incarnation. Ici, Tu renouvelles joyeusement notre espérance dans le salut. [t] Nous accueillons avec joie la présence de Ton Fils unique. Il s'est fait chair et vient nous racheter. [*] Le jour où Il reviendra pour juger la création, permets-nous de Le regarder sans crainte. Remplis-nous plutôt de l'amour de Celui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 171,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-26": ["Peer-Review"],
+				"2025-12-25": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-25 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

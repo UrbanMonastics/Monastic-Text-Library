@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-christmas-the-rest",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Father, it was You who gave us our flesh when You wonderfully created humanity. [t] May we live in the presence and divinity of Your Son. He who, surpassing wonder, restores us. [*] For in His incarnation He shares in our humanity; help us to share in the divine with Him",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 172,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-25": ["Peer-Review"],
+				"2025-12-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-24 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

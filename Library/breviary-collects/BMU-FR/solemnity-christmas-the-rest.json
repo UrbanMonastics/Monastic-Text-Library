@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "solemnity-christmas-the-rest",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Père, c'est Toi qui nous as donné notre chair lorsque Tu as merveilleusement créé l'humanité. [t] Puissions-nous vivre dans la présence et la divinité de Ton Fils. Lui qui, surpassant toute merveille, nous restaure. [*] Car dans Son incarnation, Il partage notre humanité ; aide-nous à partager le divin avec Lui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 172,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-25": ["Peer-Review"],
+				"2025-12-24": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-24 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

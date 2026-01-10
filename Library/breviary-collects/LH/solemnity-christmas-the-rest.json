@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "solemnity-christmas-the-rest",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, qui humánæ substántiæ dignitátem et mirabíliter condidísti, et mirabílius reformásti, [t] da, quǽsumus, nobis eius divinitátis esse consórtes, [*] qui humanitátis nostræ fíeri dignátus est partecipa.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 172,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-12-24": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-12-24 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
