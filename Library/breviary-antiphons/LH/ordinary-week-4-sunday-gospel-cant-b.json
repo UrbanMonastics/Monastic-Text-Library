@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "ordinary-week-4-sunday-gospel-cant-b",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Mirabántur omnes [*] audiébant, dicéntes : Quidnam est hoc? Spirítibus immúndis ímperat, et obœ́diunt ei.",
+	"Extra": {
+		"Reference": ["Mark 1:27"],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-02-02": ["Peer-Review"],
+				"2026-02-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-02-01 - Paul Prins: Added this Antiphone."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
