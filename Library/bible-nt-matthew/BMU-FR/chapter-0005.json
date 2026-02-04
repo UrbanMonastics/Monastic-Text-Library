@@ -9,9 +9,31 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"13": "\tVous être le sel de la terre ; mais si le sel est devenu insipide, comment le rendre salé à nouveau ? Il n'est plus bon à rien, sinon à être jeté et foulé aux pieds."
+		"1": "Jésus monta sur la montagne quand Il vit les foules. Quand Il s'assit, ses disciples s'approchèrent de Lui.",
+		"2": "Puis il ouvrit la bouche et se mit à les enseigner, en disant :\r\n",
+		"3": "« Heureux les pauvres en esprit, car le royaume des cieux est à eux.\r\n",
+		"4": "Heureux ceux qui pleurent, car ils seront consolés.\r\n",
+		"5": "Heureux les doux, car ils hériteront la terre.\r\n",
+		"6": "Heureux ceux qui ont faim et soif de justice, car ils seront rassasiés.\r\n",
+		"7": "Heureux les miséricordieux, car ils obtiendront miséricorde.\r\n",
+		"8": "Heureux ceux qui ont le cœur pur, car ils verront Dieu.\r\n",
+		"9": "Heureux les artisans de paix, car ils seront appelés enfants de Dieu.\r\n",
+		"10": "Heureux ceux qui ont été persécutés pour suivre la justice, car le royaume des cieux est à eux.\r\n",
+		"11": "Heureux êtes-vous lorsqu'on vous insulte, qu'on vous persécute et qu'on dit faussement toutes sortes de mal contre vous, à cause de moi.\r\n",
+		"12":  "Réjouissez-vous et soyez dans l'allégresse, car votre récompense sera grande dans les cieux. C'est ainsi qu'on a persécuté les prophètes qui vous ont précédés.\r\n",		
+		"13": "« Vous êtes le sel de la terre. Si le sel perd sa saveur, comment lui rendre son goût ? Il ne sert plus à rien, sinon à être jeté et piétiné par les personnes.\r\n",
+		"14": "Vous êtes la lumière du monde. Une ville située sur une montagne ne peut être cachée. ",
+		"15": "On n'allume pas une lampe pour la mettre sous le boisseau. Une fois allumée, on la met sur un lampadaire où elle brille pour tous ceux qui sont dans la maison. ",
+		"16": "De même, que votre lumière brille devant tous, afin qu'ils voient vos bonnes œuvres et rendent gloire à votre Père qui est aux cieux.\r\n",
+		"17": "« Ne pensez pas que je sois venu pour abolir la Loi ou les Prophètes. Je ne suis pas venu pour abolir, mais pour accomplir. ",
+		"18": "Car, je vous le dis en vérité, tant que le ciel et la terre disparaîtront, pas une seule lettre ne disparaîtra de la loi. Pas un seul trait de lettre ne disparaîtra avant que tout soit accompli. ",
+		"19": "Donc, celui qui ignore l'un de ces plus petits commandements, et enseigne aux autres à faire de même, sera appelé le plus petit dans le royaume des cieux. Celui qui les observera et les enseignera sera appelé grand dans le royaume des cieux. ",
+		"20": "Car je vous le dis, si votre justice ne dépasse pas celle des scribes et des pharisiens, vous n'entrerez jamais dans le Royaume des Cieux !"
 	},
 	"InlineTitles": {
+		"1": "Le Sermon sur la Montagne • Les Béatitudes",
+		"13": "Sel et Lumière",
+		"17": "La Loi et les Prophètes"
 	},
 	"Extra": {
 		"Writing":{
@@ -27,6 +49,7 @@
 		}
 	},
 	"Changes": [
+		"2026-02-03 - Paul Prins: Premier traduction des versets 1-20.",
 		"2022-01-29 - Paul Prins: Premier traduction du chapitre 5:13."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

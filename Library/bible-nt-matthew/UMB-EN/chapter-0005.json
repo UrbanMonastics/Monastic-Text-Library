@@ -9,9 +9,31 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"13": "\tYou are the salt of the earth; but if the salt has become tasteless, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot. "	
+		"1": "Jesus went up the mountain when He saw the crowds. Once He sat down, His disciples came to Him. ",
+		"2": "Then he opened his mouth and began teaching them, saying:\r\n",
+		"3": "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven.\r\n",
+		"4": "Blessed are those who mourn, for they will be comforted.\r\n",
+		"5": "Blessed are the gentle, for they will inherit the earth.\r\n",
+		"6": "Blessed are those who hunger and thirst for righteousness, for they will be satisfied.\r\n",
+		"7": "Blessed are the merciful, for they will receive mercy.\r\n",
+		"8": "Blessed are the pure of heart, for they will see God.\r\n",
+		"9": "Blessed are the artisans of peace, for they will be called children of God.\r\n",
+		"10": "Blessed are those who have been persecuted pursuing justice, for theirs is the kingdom of heaven.\r\n",
+		"11": "Blessed are you when they insult you, persecute you, and speak all kinds of false evil against you because of Me. ",
+		"12": "Rejoice and be glad, for your reward in heaven is great. They persecuted the prophets who came before you in the same way.\"\r\n",
+		"13": "\"You are the salt of the earth. If salt then loses its taste, how can its saltiness be restored? It is no longer good for anything, but to be thrown out and trampled underfoot by people.\r\n",
+		"14": "You are the light of the world. A city set on a hill cannot be hidden. ",
+		"15": "No one lights a lamp and then puts it under a basket. Once lit, you put it on a stand where it shines for all who are in the house. ",
+		"16": "In the same way, let your light shine before all so that they may see your good works, and give glory to your Father who is in heaven.\"\r\n",
+		"17": "\"Do not think that I came to abolish the Law or the Prophets. I did not come to abolish, but to fulfill. ",
+		"18": "For truly I tell you, until heaven and earth pass away, not a single letter will pass from the law. Not even one stroke of one letter will pass until all is accomplished. ",
+		"19": "Therefore, whoever ignores one of the least of these commandments, and teaches others to do the same, will be called least in the kingdom of heaven. Whoever does them, and teaches them, will be called great in the kingdom of heaven. ",
+		"20": "For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the Kingdom of Heaven!\""
 	},
 	"InlineTitles": {
+		"1": "Sermon on the Mount • The Beatitude",
+		"13": "Salt and Light",
+		"17": "The Law and the Prophets"
 	},
 	"Extra": {
 		"Writing":{
@@ -27,6 +49,7 @@
 		}
 	},
 	"Changes": [
+		"2026-02-03 - Paul Prins: Translation of verses 1-20.",
 		"2022-01-29 - Paul Prins: First translation of chapter 5:13."
 	],
 	"License": "© 2022 Urban Monastics, Paris"
