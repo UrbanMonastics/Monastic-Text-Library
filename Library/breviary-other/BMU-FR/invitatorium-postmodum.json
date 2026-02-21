@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dieu, [+] viens à mon aide.[*]\r\nSeigneur, hâtez-vous de me secourir.",
+	"Text": "Dieu, [+] viens à mon aide.[*]\r\nSeigneur, à notre secours.",
 	"Extra":{
 		"Reference": ["Psalm 70:1"],
 		"Writing":{
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2026-02-21 - Paul Prins: S'aligner avec l'AELF.",
 		"2020-10-01 - Paul Prins: Ajout de ce texte."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
