@@ -16,7 +16,12 @@
 		"5": "\tComme Pierre parlait encore, une nuée lumineuse les enveloppa. Et voici, une voix fit entendre de la nuée ces paroles : « Celui-ci est mon Fils bien-aimé, en qui j'ai mis toute mon affection. Écoutez-le ! »\r\n",
 		"6": "\tLorsque les disciples l'entendirent, ils tombèrent sur leur visage et furent saisis de terreur. ",
 		"7": "Jésus s'approcha d'eux, les toucha et leur dit : « Levez-vous et n'ayez pas peur. » ",
-		"8": "Ils levèrent les yeux et ne virent plus que Jésus, tout seul.\r\n"
+		"8": "Ils levèrent les yeux et ne virent plus que Jésus, tout seul.\r\n",
+		"9": "\tTandis qu'ils descendaient de la montagne, Jésus leur donna cet ordre :  « Ne parlez à personne de la vision que vous avez eue, jusqu'à ce que le Fils de l'Homme soit ressuscité d'entre les morts. »\r\n",
+		"10": "\tEt ses disciples lui posèrent la question : « Pourquoi alors les scribes disent-ils qu'Élie doit venir d'abord ? »\r\n",
+		"11": "\tIl répondit : « Élie viendra, et il rétablira toutes choses. ",
+		"12": "Mais je vous le dis, Élie est déjà venu ! Ils ne l'ont pas reconnu, et ils lui ont fait tout ce qu'ils ont voulu. Ainsi, le Fils de l'homme souffrira aussi de leur main. » ",
+		"13": "Les disciples comprirent alors qu'il leur parlait de Jean-Baptiste."
 	},
 	"InlineTitles": {
 		"1": "La Transfiguration de Jésus"
@@ -35,7 +40,8 @@
 		}
 	},
 	"Changes": [
-		"2023-08-06 - Paul Prins: Premier traduction du chapitre 17:1-8."
+		"2026-02-28 - Paul Prins: Premier traduction des versets 9-13.",
+		"2023-08-06 - Paul Prins: Premier traduction des versets 1-8."
 	],
 	"License": "© 2023 Urban Monastics, Paris"
 }
