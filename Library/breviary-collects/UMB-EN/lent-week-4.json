@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "lent-week-4",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, who wonderfully works reconciliation of all people through Your Son. [t] We plead to You, increase the faith of Christian people everywhere. [*] May we prepare for the approaching Easter celebrations with ardent faith, sincere devotion, and love together with Him",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 243,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

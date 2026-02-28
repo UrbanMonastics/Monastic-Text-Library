@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "lent-week-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Grant us, Almighty God, [t] that in our Lenten journey we may grow in our understanding of Christ. [*] Open ourselves to His mysteries, hope, and love. Fill us with His light as we evermore faithfully follow Him",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 226,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

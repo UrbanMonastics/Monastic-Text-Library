@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "lent-week-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Concéde nobis, omnípotens Deus, [t] ut, per ánnua quadragesimális exercítia sacraménti, [*] ad intellegéndum Christi proficiámus arcánum, et efféctus eius digna conversatióne sectémur. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 226,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

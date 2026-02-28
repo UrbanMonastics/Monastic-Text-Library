@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "lent-week-6",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere et crucem subíre fecísti, [t] concéde propítius, [*] ut et patiéntiæ ipsíus habére documénta et resurrectiónis consórtia mereámur. Qui tecum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 256,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

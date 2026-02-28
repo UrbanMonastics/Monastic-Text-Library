@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "lent-week-6",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, through our Savior, You revealed to us all the humility we must imitate. With a body like mine, Jesus endured death on the cross for us all. [t] Grant us the tenderness [*] of His presence as we wait to share in His resurrection with Him",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 256,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-03-01": ["Peer-Review"],
+				"2026-02-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-02-28 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2026 Urban Monastics, Paris"
+}

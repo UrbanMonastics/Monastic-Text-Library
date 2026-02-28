@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "lent-week-4",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu qui opère merveilleusement la réconciliation de tous les peuples par Ton Fils. [t] Nous T'en supplions, augmente la foi du peuple chrétien partout. [*] Que nous puissions nous préparer aux fêtes pascales qui approchent avec une foi ardente, une dévotion sincère et un amour ensemble avec Lui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 243,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

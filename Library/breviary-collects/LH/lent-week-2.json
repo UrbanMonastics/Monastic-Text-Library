@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "lent-week-2",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, qui nobis diléctum Fílium tuum audíre præcepísti, [t] verbo tuo intérius nos páscere dignéris, [*] ut, spiritáli purificáto intúitu, glóriæ tuæ lætémur aspéctu. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 235,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

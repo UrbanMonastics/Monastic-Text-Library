@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "lent-week-1",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Accorde-nous, Dieu tout-puissant, [t] tout au long de notre parcours de Carême, de grandir dans notre compréhension du Christ. [*] Ouvre-nous à Ses mystères, à Son espérance et à Son amour. Remplissez-nous avec Sa lumière alors que nous suivons toujours plus fidèlement Lui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 226,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2025 Monastiques Urbain, Paris"
+}

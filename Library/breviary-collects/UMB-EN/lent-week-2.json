@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "lent-week-2",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord, You told us to listen to Your beloved Son. [t] Let our faith find life giving nourishment with Your word. [*] Then our spiritually purifying sight will better see and celebrate Your glory through Jesus Christ",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 235,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

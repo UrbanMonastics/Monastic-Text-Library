@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "lent-week-4",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, qui per Verbum tuum humáni géneris reconciliatiónem mirabíliter operáris, [t] præsta, quǽsumus, ut pópulus christiánus prompta devotióne et álacri fide [*] ad ventúra sollémnia váleat festináre. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 243,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-06": ["Peer-Review"],
+				"2025-04-05": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-04-05 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
