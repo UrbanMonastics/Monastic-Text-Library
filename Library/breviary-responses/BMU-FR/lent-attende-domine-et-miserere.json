@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "lent-week-5-sunday-vespers",
+	"TextAbbreviation": "lent-attende-domine-et-miserere",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Écoute, Seigneur, et prends pitié, car nous avons péché contre toi.\r\n[R] Écoute, Seigneur, et prends pitié [*] car nous avons péché contre toi.\r\n[V] Entends, Christ, les prières de tous ceux qui crient vers toi.",
+	"Text": "[V] Écoute, Seigneur, et prends pitié, car nous avons péché contre Toi.\r\n[R] Écoute, Seigneur, et prends pitié [*] car nous avons péché contre Toi.\r\n[V] Entends, Christ, les prières de tous ceux qui crient vers Toi,",
 	"Extra": {
 		"Reference": [""],
 		"Writing":{

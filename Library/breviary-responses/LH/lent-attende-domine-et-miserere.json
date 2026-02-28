@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "lent-week-5-sunday-vespers",
+	"TextAbbreviation": "lent-attende-domine-et-miserere",
 	"SourceAbbreviation": "breviary-responses",
 	"FormatAs": "book",
 	"Version": "LH",
@@ -20,6 +20,7 @@
 		}
 	},
 	"Changes": [
+		"2026-02-28 - Paul Prins: Rename this Response.",
 		"2025-04-06 - Paul Prins: Added this Response."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
