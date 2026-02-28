@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "petitions-lent-week-2-sunday-vespers-2",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Let us always give thanks to Christ, our leader and teacher. He came to do good and serve us all. Therefore, with humility and confidence, let us ask Him:\r\n[IR] Lord, visit Your family.\r\n[I1] Be present, Lord, with the leaders of Your Church as they share in Your mission. Help them shepherd and lead,\r\n[I2] together with You, all people to the Father.\r\n[I1] Send Your angels to accompany us on our journeys,\r\n[I2] to help us avoid what might ensnare our bodies and souls.\r\n[I1] Teach us, by Your example, to serve one another,\r\n[I2] for You came to serve, not to be served.\r\n[I1] Within every community, may we find help from our siblings in Christ\r\n[I2] so that, together with Your presence, our faith will be strengthened.\r\n[I1] Have mercy on all the deceased,\r\n[I2] welcoming them into the light of Your presence.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-03-01": ["Peer-Review"],
+				"2026-02-28": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-02-28 - Paul Prins: Initial translation of these intentions."
+	],
+	"License": "© 2026 Urban Monastics, Paris"
+}
