@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "lent-week-2-sunday-gospel-cant-lauds",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Assúmpsit [*] Iésus discípulos suos, et ascéndit in montem, et transfigurátus est ante eos.",
+	"Extra": {
+		"Reference": ["Matthew 17:1-2"],
+		"AM": 353,
+		"ThesaurusLiturgiaeHorarumMonasticae": 235,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-03-02": ["Peer-Review"],
+				"2026-03-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-03-01 - Paul Prins: Added this antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

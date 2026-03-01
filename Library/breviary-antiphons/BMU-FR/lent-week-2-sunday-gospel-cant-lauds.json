@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "lent-week-2-sunday-gospel-cant-lauds",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus prit [*] ses disciples avec Lui et les conduisit sur une montagne. Là, Jésus fut transfiguré devant eux.",
+	"Extra": {
+		"Reference": ["Matthew 17:1-2"],
+		"AM": 353,
+		"ThesaurusLiturgiaeHorarumMonasticae": 235,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-03-02": ["Peer-Review"],
+				"2026-03-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-03-01 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2026 Monastiques Urbain, Paris"
+}
