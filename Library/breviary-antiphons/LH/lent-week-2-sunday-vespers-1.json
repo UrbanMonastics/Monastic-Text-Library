@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "lent-week-2-sunday-vespers-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Assúmpsit Iésus [*] Petrum et Iacóbum et Ioánnem fratrem ejus et duxit eos in montem excélsum seórsum, et transfigurátus est ante eos.",
+	"Extra": {
+		"Reference": ["Matthew 17:1-2"],
+		"AM": [998,999],
+		"ThesaurusLiturgiaeHorarumMonasticae": 234,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-03-02": ["Peer-Review"],
+				"2026-03-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-03-01 - Paul Prins: Added this antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

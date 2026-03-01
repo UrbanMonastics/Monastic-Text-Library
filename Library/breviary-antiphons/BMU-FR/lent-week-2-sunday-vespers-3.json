@@ -1,0 +1,32 @@
+
+{
+	"TextAbbreviation": "lent-week-2-sunday-vespers-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Car Dieu [*] n'a pas épargné Son propre Fils, mais L'a livré pour nous tous.",
+	"Extra": {
+		"Reference": ["Romans 8:32"],
+		"AM": null,
+		"ThesaurusLiturgiaeHorarumMonasticae": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-03-02": ["Peer-Review"],
+				"2026-03-01": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-03-01 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2026 Monastiques Urbain, Paris"
+}
