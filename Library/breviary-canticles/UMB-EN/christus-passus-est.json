@@ -10,10 +10,10 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"21": "To this you were called,[*]\r\n\tbecause Christ suffered for you,\r\nleaving us an example to follow,[*]\r\n\tthat we should walk in his steps.\r\n\r\n",
-		"22": "He who never sinned,[*]\r\n\tnor tasted deceit in his mouth.\r\n",
-		"23": "When they slandered him,[*]\r\n\the spoke not a vile word.\r\nWhen he suffered,[*]\r\n\the made no threats.\r\n\r\nHe gave himself into the hands[*]\r\n\tof the one who judges.\r\n",
-		"24": "He took our sins upon himself,[*]\r\n\tin his body upon the cross.\r\n\r\nSo that we might die to sin,[*]\r\n\tand live in righteousness.\r\nIt is by his wounds,[*]\r\n\tthat we have been healed."
+		"21": "To this you were called,[*]\r\n\tbecause Christ suffered for you,\r\nleaving us an example to follow,[*]\r\n\tthat we should walk in His steps.\r\n\r\n",
+		"22": "He who never sinned,[*]\r\n\tnor tasted deceit in His mouth.\r\n",
+		"23": "When they slandered Him,[*]\r\n\tHe spoke not a vile word.\r\nWhen He suffered,[*]\r\n\tHe made no threats.\r\n\r\nHe gave Himself into the hands[*]\r\n\tof the one who judges.\r\n",
+		"24": "He took our sins upon Himself,[*]\r\n\tin His body upon the cross.\r\n\r\nSo that we might die to sin,[*]\r\n\tand live in righteousness.\r\nIt is by His wounds,[*]\r\n\tthat we have been healed."
 	},
 	"Extra": {
 		"Reference": ["1 Peter 2:21-24"],
@@ -32,6 +32,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-01 - Paul Prins: Fix divine pronoun casing.",
 		"2020-03-29 - Paul Prins: First translation based on Greek, and Latin"
 	],
 	"License": "© 2021 Urban Monastics, Paris"
