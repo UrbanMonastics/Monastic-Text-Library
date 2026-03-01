@@ -4,7 +4,16 @@
 	"FormatAs": "poetry",
 	"Version": "LH",
 	"Text": "",
-	"Description": "",
+	"Extra": {
+		"Reference": [],
+		"AM": null,
+		"ThesaurusLiturgiaeHorarumMonasticae": null,
+		"Writing":{
+			"Authors": [],
+			"Step": {},
+			"Reviewers": {}
+		}
+	},
 	"Changes": [
 		"YYYY-MM-DD - Your Name: Description of the Change."
 	],
