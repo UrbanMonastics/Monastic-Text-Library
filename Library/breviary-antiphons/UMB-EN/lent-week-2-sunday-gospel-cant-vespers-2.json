@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "lent-week-2-sunday-gospel-lauds",
+	"TextAbbreviation": "lent-week-2-sunday-gospel-cant-vespers-2",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
@@ -7,11 +7,11 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Jesus took [*] His disciples with Him, leading them up a mountain. There, Jesus was transfigured before them.",
+	"Text": "\"Tell no one [*] the vision you saw until the Son of Man has risen from the dead.\"",
 	"Extra": {
-		"Reference": ["Matthew 17:1-2"],
-		"AM": 353,
-		"ThesaurusLiturgiaeHorarumMonasticae": 235,
+		"Reference": ["Matthew 17:9"],
+		"AM": 351,
+		"ThesaurusLiturgiaeHorarumMonasticae": 236,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
