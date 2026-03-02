@@ -26,8 +26,9 @@
 		"15": "\tCar le cœur de ce peuple est devenu insensible,\r\n\t\tavec leurs oreilles, ils entendent à peine\r\n\t\tet ils ont fermé les yeux.\r\n\tSinon, ils pourraient voir de leurs yeux,\r\n\t\tentendre de leurs oreilles,\r\n\t\tcomprendre avec leur cœur et se convertissent\r\n\tet je les guérirais.\r\n\r\n",
 		"16": "Mais heureux vos yeux, parce qu'ils voient et vos oreilles, parce qu'elles entendent! ",
 		"17": "Car je vous le dis en vérité, beaucoup de prophètes et de justes ont désiré voir ce que vous voyez, et ne l'ont pas vu. Ils ont désiré entendre ce que vous entendez, et ne l'ont pas entendu.\r\n",
-		"45": "\tEncore, le Royaume des Cieux est semblable à un marchand qui cherche des belles perles. ",
-		"46": "Après avoir trouvé une perle de prix exceptionnel, il est parti vendre tout ce qu'il possédait, et l'a achetée.\r\n" 
+		"44": "\t « Le Royaume des Cieux est comme un trésor caché dans un champ. Lorsque quelqu'un l'a trouvé, il l'a caché à nouveau. Ravi de sa découverte, il va vend tout ce qu'il a et achète ce champ. »\r\n",
+		"45": "\t« Le Royaume des Cieux est aussi comme un marchand qui cherche de belles perles. ",
+		"46": "Elle tomba un jour sur une perle d'une valeur exceptionnelle. En la trouvant, elle vendit tout ce qu'elle avait et l'acheta. »\r\n" 
 	},
 	"InlineTitles": {
 		"1": "La Parabole du Semeur"
@@ -49,6 +50,7 @@
 		}
 	},
 	"Changes": [
+		"2024-11-27 - Paul Prins: Nouvelle traduction des versets 44-46.",
 		"2024-05-23 - Paul Prins: Premier traduction du versets 1-17.",
 		"2022-12-12 - Paul Prins: Premier traduction du versets 45-46."
 	],
