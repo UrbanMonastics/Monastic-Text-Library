@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Gloire au Père, et au Fils,\r\n\tet au Saint-Esprit,\r\nau Dieu qui est, qui était et qui vient,\r\n\tpour les siècles des siècles.\r\n*Amen*\r\nAlléluia",
+	"Text": "Gloire au Père, et au Fils, [*]\r\n\tet au Saint-Esprit,\r\nau Dieu qui est, qui était et qui vient, [*]\r\n\tpour les siècles des siècles. *Amen* Alléluia",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -28,7 +28,8 @@
 		}
 	},
 	"Changes": [
-		"2023-10-17 - Paul Prins : Alignement sur l'AELF",
+		"2026-03-07 - Paul Prins: Adapté pour être chanté",
+		"2023-10-17 - Paul Prins: Alignement sur l'AELF",
 		"2022-05-01 - Paul Prins: Update language.",
 		"2020-03-29 - Paul Prins: First translation."
 	],
