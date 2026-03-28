@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[II] Dieu notre Père a ressuscité Jésus-Christ de la mort et Jésus a été exalté à ta droite. Écoute-nous alors que nous te prions :\r\n[IR] Seigneur, protège ton peuple dans la gloire du Christ.\r\n[I1] Père juste, tu as élevé Jésus des profondeurs de la terre par la victoire de la croix ;\r\n[I2] que tout soit attiré à lui.\r\n[I1] Par le Fils que tu as exalté, tu envoies l'Esprit-Saint dans ton Église,\r\n[I2] pour que ton Église soit le sacrement de l'unité pour tous les peuples.\r\n[I1] Par l'eau et l'Esprit-Saint, tu as donné naissance à un peuple nouveau :\r\n[I2] donne à chacun la foi pour marcher du baptême à la vie éternelle.\r\n[I1] Par la gloire de ton Fils, bénis les pauvres, libère les prisonniers et guéris les malades,\r\n[I2] afin que, dans tes bénédictions, la création connaisse la joie.\r\n[I1] Que nos fratries décédées, à qui tu as offert le Corps et le Sang du Christ glorieux,\r\n[I2] au dernier jour, participent à la résurrection.",
+	"Text": "[II] Dieu notre Père, Tu as ressuscité Jésus-Christ d'entre les morts et Tu L'as élevé à Ta droite. Écoute-nous quand nous Te prions :\r\n[IR] Seigneur, protège Ton peuple dans la gloire du Christ.\r\n[I1] Père juste, Tu as élevé Jésus des profondeurs de la terre par la victoire de la croix ;\r\n[I2] que tout soit attiré à Lui.\r\n[I1] Par le Fils que Tu as exalté, Tu envoies l'Esprit-Saint dans Ton Église,\r\n[I2] pour que Ton Église soit le sacrement de l'unité pour tous les peuples.\r\n[I1] Par l'eau et l'Esprit-Saint, Tu as donné naissance à un peuple nouveau :\r\n[I2] donne à chacun la foi pour marcher du baptême à la vie éternelle.\r\n[I1] Par la gloire de Ton Fils, bénis les pauvres, libère les prisonniers et guéris les malades,\r\n[I2] afin que, dans Tes bénédictions, la création connaisse la joie.\r\n[I1] Que nos fratries décédées, à qui Tu as offert le Corps et le Sang du Christ glorieux,\r\n[I2] au dernier jour, participent à la résurrection.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-28 - Paul Prins: Lissez certains passages et cassez les pronoms divins.",
 		"2024-04-05 - Paul Prins: Première traduction de ces intentions."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

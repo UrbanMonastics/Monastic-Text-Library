@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[II] God our Father has risen Jesus Christ from death, and Jesus is exalted to Your right hand. Hear us as we pray to you:\r\n[IR] Lord, keep your people safe within the glory of Christ.\r\n[I1] Righteous Father, You raised Jesus from the depths of earth through the victory of the cross;\r\n[I2] may all things be drawn to Him.\r\n[I1] Through the Son You exalted, You send the Holy Spirit into Your Church,\r\n[I2] that Your Church may be the sacrament of unity for all people.\r\n[I1] Through water and the Holy Spirit, You gave birth to a new people:\r\n[I2] give each person the faith to walk from baptism to eternal life.\r\n[I1] By the glory of Your Son, bless the poor, free the prisoner, and heal the sick,\r\n[I2] so that, in Your blessings, creation will know joy.\r\n[I1] May our deceased siblings, whom You offered the Body and Blood of the glorious Christ,\r\n[I2] on the final day, be a part of the resurrection.",
+	"Text": "[II] God our Father, You have risen Jesus Christ from death, and have exalted Him to Your right hand. Hear us as we pray to You:\r\n[IR] Lord, keep Your people safe within the glory of Christ.\r\n[I1] Righteous Father, You raised Jesus from the depths of earth through the victory of the cross;\r\n[I2] may all things be drawn to Him.\r\n[I1] Through the Son You exalted, You send the Holy Spirit into Your Church,\r\n[I2] that Your Church may be the sacrament of unity for all people.\r\n[I1] Through water and the Holy Spirit, You gave birth to a new people:\r\n[I2] give each person the faith to walk from baptism to eternal life.\r\n[I1] By the glory of Your Son, bless the poor, free the prisoner, and heal the sick,\r\n[I2] so that, in Your blessings, creation will know joy.\r\n[I1] May our deceased siblings, whom You offered the Body and Blood of the glorious Christ,\r\n[I2] on the final day, be a part of the resurrection.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -28,6 +28,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-28 - Paul Prins: Smooth some writing and case divine pronouns.",
 		"2024-04-05 - Paul Prins: Initial translation of these intentions"
 	],
 	"License": "© 2024 Urban Monastics, Paris"
