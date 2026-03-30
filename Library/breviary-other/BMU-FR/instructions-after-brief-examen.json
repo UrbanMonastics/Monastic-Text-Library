@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "instructions-after-breif-examen",
+	"TextAbbreviation": "instructions-after-brief-examen",
 	"SourceAbbreviation": "breviary-other",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-30 - Paul Prins: fix typo in abbreviation",
 		"2022-07-04 - Paul Prins: Traduit et adapté ces instructions."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
