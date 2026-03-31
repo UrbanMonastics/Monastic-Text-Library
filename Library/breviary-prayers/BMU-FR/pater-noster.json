@@ -1,14 +1,14 @@
 {
 	"TextAbbreviation": "pater-noster",
 	"SourceAbbreviation": "breviary-prayers",
+	"Title": "Le Notre Père",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
 	"Translation":{
 		"Versions": ["CODEX-SINAITICUS", "LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Notre Père, qui es aux cieux,\r\n\tque ton nom soit sanctifié,\r\nque ton règne vienne,\r\n\tque ta volonté soit faite\r\n\tsur la terre comme au ciel.\r\nDonne-nous aujourd'hui notre pain de ce jour.\r\nPardonne-nous nos offenses,\r\n\tcomme nous pardonnons aussi à ceux qui nous ont offensés.\r\nEt ne nous laisse pas entrer en tentation\r\n\tmais délivre-nous du Mal.\r\nPour le royaume, la puissance,\r\n\tet la gloire est à toi sans fin.\r\nAmen.",
-	"Description": "Le Notre Père.",
+	"Text": "Notre Père, qui es aux cieux,\r\n\tque Ton nom soit sanctifié,\r\nque Ton règne vienne,\r\n\tque Ta volonté soit faite\r\n\tsur la terre comme au ciel.\r\nDonne-nous aujourd'hui notre pain de ce jour.\r\nPardonne-nous nos offenses,\r\n\tcomme nous pardonnons aussi à ceux qui nous ont offensés.\r\nEt ne nous laisse pas entrer en tentation\r\n\tmais délivre-nous du Mal.\r\nPour le royaume, la puissance,\r\n\tet la gloire est à Toi sans fin.\r\nAmen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -23,6 +23,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-30 - Paul Prins: Added a title and fixed divine pronoun casing.",
 		"2020-10-01 - Paul Prins: Added this prayer"
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

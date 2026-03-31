@@ -1,6 +1,7 @@
 {
 	"TextAbbreviation": "pater-noster",
 	"SourceAbbreviation": "breviary-prayers",
+	"Title": "The Lords Prayer",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{
@@ -8,7 +9,6 @@
 		"People": ["Paul Prins"]
 	},
 	"Text": "Our Father, who is in heaven,\r\n\thallowed be Your Name.\r\nYour kingdom come,\r\n\tYour will be done,\r\n\ton earth as it is in heaven.\r\nGive us today our daily bread.\r\nForgive us our sins,\r\n\tas we forgive those who sin against us.\r\nLead us not into temptation,\r\n\tbut deliver us from evil;\r\nfor the kingdom, the power,\r\n\tand the glory are Yours without end.\r\nAmen",
-	"Description": "The Lords Prayer.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -29,6 +29,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-30 - Paul Prins: Added a title",
 		"2023-09-02 - Paul Prins: Update divine casing.",
 		"2020-10-01 - Paul Prins: Added this prayer"
 	],
