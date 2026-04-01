@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Save us, Lord, when we take watch.\r\n\tProtect us while we sleep.\r\nAwake, may we watch with Christ,\r\n\tand in rest, let us have peace. Alleluia.",
+	"Text": "Save us, Lord, when we take watch. [*]\r\n\tProtect us while we sleep.\r\nAwake, may we watch with Christ, [*]\r\n\tand in rest, let us have peace. Alleluia.",
 	"Extra": {
 		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Writing":{
@@ -31,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Paul Prins: Added pointing to help us sing.",
 		"2026-04-01 - Paul Prins: Added this text."
 	],
 	"License": "© 2026 Urban Monastics, Paris"

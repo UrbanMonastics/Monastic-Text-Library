@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Bénissons le Seigneur,\r\n\tet rendons grâce à Dieu.\r\n*Amen*",
+	"Text": "Bénissons le Seigneur, [*]\r\n\tet rendons grâce à Dieu. Amen.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],

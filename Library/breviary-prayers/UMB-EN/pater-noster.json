@@ -1,14 +1,14 @@
 {
 	"TextAbbreviation": "pater-noster",
 	"SourceAbbreviation": "breviary-prayers",
-	"Title": "The Lords Prayer",
+	"Title": "The Lord's Prayer",
 	"FormatAs": "poetry",
 	"Version": "UMB-EN",
 	"Translation":{
 		"Versions": ["CODEX-SINAITICUS", "LH", "SBLGNT"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Our Father, who is in heaven,\r\n\thallowed be Your Name.\r\nYour kingdom come,\r\n\tYour will be done,\r\n\ton earth as it is in heaven.\r\nGive us today our daily bread.\r\nForgive us our sins,\r\n\tas we forgive those who sin against us.\r\nLead us not into temptation,\r\n\tbut deliver us from evil;\r\nfor the kingdom, the power,\r\n\tand the glory are Yours without end.\r\nAmen",
+	"Text": "Our Father, who is in heaven, [*]\r\n\thallowed be Your Name.\r\nYour kingdom come, [t]\r\n\tYour will be done, [*]\r\n\ton earth as it is in heaven.\r\nGive us today our daily bread. [t]\r\n\tForgive us our sins, [*]\r\n\tas we forgive those who sin against us.\r\nLead us not into temptation, [*]\r\n\tbut deliver us from evil;\r\nfor the kingdom, the power, and the glory [*]\r\n\tare Yours without end. Amen.",
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
