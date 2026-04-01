@@ -7,23 +7,30 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Le Christ [*] s'est fait obéissant jusqu'à la mort, pour nous. La mort sur une croix. C'est pourquoi Dieu l'a exalté, et lui a donné le nom au-dessus de tout nom.",
+	"Text": "Le Christ [*] s'est fait obéissant jusqu'à la mort, pour nous. La mort sur une croix. C'est pourquoi Dieu l'a exalté, et Lui a donné le Nom au-dessus de tout nom.",
 	"Extra": {
 		"Reference": ["Philippines 2:8-9"],
 		"BreviaryInstructions": "Samedi saint de la passion pascale.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-08-06": ["Peer-Review"],
 				"2022-08-05": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2022-08-05 - Paul Prins: Preimère traduction."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

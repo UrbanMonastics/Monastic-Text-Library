@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Into Your hands, LORD; I entrust my spirit.\r\n[R] Alleluia, alleluia.\r\n[V] For You have redeemed us, I trust in the LORD, God of truth.",
+	"Text": "[V] Into Your hands, LORD; I entrust my spirit. Alleluia, alleluia.\r\n[R] Into Your hands, LORD; I entrust my spirit. [*] Alleluia, alleluia.\r\n[V] For You have redeemed us, I trust in the LORD, God of truth.",
 	"Extra": {
 		"BreviaryInstructions": "During Eastertide after the Octave.",
 		"ThesaurusLiturgiaeHorarumMonasticae": 87,
@@ -32,6 +32,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Paul Prins: Aligned with the normal compline, and corrected the Alleluia placement.",
 		"2025-08-28 - Paul Prins: Reworked again...",
 		"2025-07-22 - Paul Prins: Aligned with the standard compline response that was reworked to be more direct.",
 		"2024-01-11 - Constance McIntosh Smith: Implemented her editorial feedback.",

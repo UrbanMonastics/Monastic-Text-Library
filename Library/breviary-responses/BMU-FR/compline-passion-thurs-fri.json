@@ -14,16 +14,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-08-06": ["Peer-Review"],
 				"2022-08-05": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2022-08-05 - Paul Prins: Preimère traduction."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"
