@@ -7,21 +7,29 @@
 		"Versions": ["UMB-EN", "LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Après un court moment d'examen de votre âme, esprit et conscience - prier le Seigneur.",
+	"Text": "Après un court moment passé à examiner ton cœur, ton esprit, ta conscience et ton âme – prie le Seigneur.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-07-05": ["Peer-Review"],
 				"2022-07-04": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
+		"2026-03-31 - Paul Prins: Les instructions ont été mises à jour afin de respecter ce qui est indiqué dans le titre du chapitre 1 de notre chemine de vie.",
 		"2026-03-30 - Paul Prins: fix typo in abbreviation",
 		"2022-07-04 - Paul Prins: Traduit et adapté ces instructions."
 	],

@@ -7,20 +7,28 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "De l'abîme, [*] j'ai crié vers toi, SEIGNEUR.",
+	"Text": "Du fond [*] de l'abîme, j'ai crié vers Toi, SEIGNEUR",
 	"Extra": {
 		"Reference": ["Psalm 130:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-24": "Peer-Review",
 				"2023-08-23": "Second-Pass",
 				"2023-08-22": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
+		"2026-03-30 - Paul Prins: Mettre à jour l'antienne pour qu'elle suive la référence du psaume.",
 		"2023-08-23 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"

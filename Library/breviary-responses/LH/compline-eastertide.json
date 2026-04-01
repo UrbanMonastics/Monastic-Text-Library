@@ -5,7 +5,8 @@
 	"Version": "LH",
 	"Text": "[V] In manus tuas Dómine [*] Comméndo spíritum meum.\r\n[R] Allelúia, allelúia.\r\n[V] Redemístinos, Dómine, Deus veritátis.",
 	"Extra": {
-		"Reference": [""],
+		"ThesaurusLiturgiaeHorarumMonasticae": 87,
+		"Reference": ["Psalm 31:5"],
 		"BreviaryInstructions": "Tempore Paschali post Octavam.",
 		"Writing":{
 			"Authors": ["Paul Prins"],

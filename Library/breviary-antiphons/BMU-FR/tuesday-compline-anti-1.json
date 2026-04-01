@@ -7,20 +7,28 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "N'entre pas [*] en jugement avec ton serviteur, Seigneur.",
+	"Text": "Ne porte pas [*] de jugement contre Ton serviteur, Seigneur.",
 	"Extra": {
 		"Reference": ["Psalm 143:2"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-14": "Peer-Review",
 				"2023-08-13": "Second-Pass",
 				"2023-08-12": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
+		"2026-03-30 - Paul Prins: Mettre à jour l'antienne pour qu'elle suive la référence du psaume.",
 		"2023-08-13 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"

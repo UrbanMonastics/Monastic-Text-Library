@@ -7,21 +7,29 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Celui qui vit [*] à l'abri du Très-Haut trouvera le repos à l'ombre du Tout-Puissant.",
+	"Text": "Quiconque vit [*] à l'abri du Très-Haut trouvera le repos à l'ombre du Tout-Puissant.",
 	"Extra": {
 		"Reference": ["Psalms 91:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-08-06": "Peer-Review",
 				"2022-08-05": "Second-Pass",
 				"2022-08-04": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
-		"2022-09-19 - Paul Prins : S'aligner sur notre traduction du Psaume 91.",
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
+		"2026-03-30 - Paul Prins: Mettre à jour l'antienne pour qu'elle suive la référence du psaume.",
+		"2022-09-19 - Paul Prins: S'aligner sur notre traduction du Psaume 91.",
 		"2022-08-05 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

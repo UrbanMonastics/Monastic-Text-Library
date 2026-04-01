@@ -7,21 +7,28 @@
 		"Versions": ["UMB-EN"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Vous pouvez prier l'antienne Mariale ou l'antienne du Royaume pour conclure les complies.",
+	"Text": "Tu peux prier l'antienne Mariale ou l'antienne du Royaume pour conclure les Complies.",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-12-06": ["Peer-Review"],
 				"2022-12-05": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2023-04-06 - Paul Prins: Mise à jour de ce texte.",
 		"2022-12-05 - Paul Prins: Traduit et adapté ces instructions."
 	],

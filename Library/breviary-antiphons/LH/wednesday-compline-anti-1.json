@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Esto mihi, Dómine, [*] in Deum protectórem.",
 	"Extra": {
+		"Reference": ["Psalm 31:2"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

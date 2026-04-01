@@ -13,16 +13,23 @@
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-10-02": ["Peer-Review"],
 				"2020-10-01": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2026-02-21 - Paul Prins: S'aligner avec l'AELF.",
 		"2020-10-01 - Paul Prins: Ajout de ce texte."
 	],

@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Dómine, [*] Deus salútis meæ, in die clamávi et nocte coram te.",
 	"Extra": {
+		"Reference": ["Psalm 88:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

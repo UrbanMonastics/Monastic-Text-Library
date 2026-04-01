@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "[V] In manus tuas, Dómine, Comméndo spíritum meum.\r\n[R] In manus tuas, Dómine, [*] Comméndo spíritum meum.\r\n[V] Redemisti nos, Dómine, Deus vertitátis.",
 	"Extra": {
+		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Reference": ["Psalm 31:5"],
 		"Writing":{
 			"Authors": ["Paul Prins"],

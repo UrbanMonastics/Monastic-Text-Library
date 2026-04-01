@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Miserére mihi, Dómine, [*] et exáudi oratiónem meam.",
 	"Extra": {
+		"Reference": ["Psalm 4:2"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

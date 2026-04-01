@@ -9,6 +9,7 @@
 	},
 	"Text": "LORD, [*] the God of my salvation, I weep before You day and night.",
 	"Extra": {
+		"Reference": ["Psalm 88:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
@@ -30,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-30 - Paul Prins: Added reference",
 		"2022-10-30 - Paul Prins: First translation of this Antiphon."
 	],
 	"License": "© 2022 Urban Monastics, Paris"

@@ -9,6 +9,7 @@
 	},
 	"Text": "[V] Entre tes mains, SEIGNEUR, je confie mon esprit.\r\n[R] Entre tes mains, SEIGNEUR, [*] je confie mon esprit.\r\n[V] Puisque Tu nous as rachetés, je me confie au SEIGNEUR, Dieu de vérité.",
 	"Extra": {
+		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Reference": ["Psalm 31:5-6"],
 		"Writing":{
 			"Authors": ["Paul Prins"],

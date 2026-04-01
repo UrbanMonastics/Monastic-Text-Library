@@ -5,6 +5,7 @@
 	"Version": "LH",
 	"Text": "Noctem quiétam [+] et finem perféctum concédat nobis Dóminus omnípotens.\r\nAmen",
 	"Extra": {
+		"ThesaurusLiturgiaeHorarumMonasticae": 88,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

@@ -1,15 +1,15 @@
 {
-	"TextAbbreviation": "compline-gospel-cant",
+	"TextAbbreviation": "compline-gospel-cant-easter",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "LH",
-	"Text": "Salva nos, [*] Dómine, vigilántes, custódi nos dormiéntes, ut vigilémus cum Christo et requiescámus in pace.",
+	"Text": "Salva nos, [*] Dómine, vigilántes, custódi nos dormiéntes, ut vigilémus cum Christo et requiescámus in pace. Alleluia.",
 	"Extra": {
 		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
-				"2020-10-28": ["Peer-Review"],
+				"2026-04-01": ["Peer-Review"],
 				"2020-10-27": [
 					"Second-Pass",
 					"Initial"
@@ -19,7 +19,7 @@
 		}
 	},
 	"Changes": [
-		"2020-10-27 - Paul Prins: Added this Antiphone."
+		"2026-04-01 - Paul Prins: Added this Antiphone."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
 }

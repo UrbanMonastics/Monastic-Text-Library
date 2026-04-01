@@ -7,19 +7,28 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "SEIGNEUR, [*] le Dieu de mon salut, je pleure devant Toi jour et nuit.",
+	"Text": "SEIGNEUR, [*] Dieu de mon salut, je pleure devant Toi jour et nuit.",
 	"Extra": {
+		"Reference": ["Psalm 88:1"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2022-10-31": "Peer-Review",
 				"2022-10-30": "Second-Pass",
 				"2022-10-29": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
+		"2026-03-30 - Paul Prins: Mise à jour de l'antienne pour qu'elle suive la référence du psaume.",
 		"2022-10-30 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

@@ -7,19 +7,28 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Toute la nuit [*] bénissez le Seigneur.",
+	"Text": "Bénissez [*] le Seigneur au long des nuits.",
 	"Extra":{
+		"Reference": [],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-10-28": "Peer-Review",
 				"2020-10-27": "Second-Pass",
 				"2020-10-26": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
+		"2026-03-30 - Paul Prins: Mettre à jour l'antienne pour qu'elle suive la référence du psaume.",
 		"2020-10-27 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

@@ -7,19 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Aie pitié de moi Seigneur, [*] et écoute ma prière.",
+	"Text": "Aie pitié de moi [*] Seigneur, et écoute ma prière.",
 	"Extra": {
+		"Reference": ["Psalm 4:2"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-10-28": "Peer-Review",
 				"2020-10-27": "Second-Pass",
 				"2020-10-26": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2020-10-27 - Paul Prins: Traduit cette Antiphone."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"

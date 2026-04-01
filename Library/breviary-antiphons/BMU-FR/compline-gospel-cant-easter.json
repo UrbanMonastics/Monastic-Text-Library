@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "compline-gospel-cant",
+	"TextAbbreviation": "compline-gospel-cant-easter",
 	"SourceAbbreviation": "breviary-antiphons",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Sauve-nous, Seigneur, quand nous veillons.\r\n\tProtège-nous pendant que nous dormons.\r\nRéveillés, que nous veillions avec le Christ,\r\n\tet dans le repos, que nous ayons la paix.",
+	"Text": "Sauve-nous, Seigneur, quand nous veillons.\r\n\tProtège-nous pendant que nous dormons.\r\nRéveillés, que nous veillions avec le Christ,\r\n\tet dans le repos, que nous ayons la paix. Alléluia.",
 	"Extra": {
 		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Writing":{
@@ -27,9 +27,7 @@
 		}
 	},
 	"Changes": [
-		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
-		"2022-08-09 - Paul Prins: Rafraîchie avec un meilleur sens du latin, et un meilleur écoulement.",
-		"2020-10-27 - Paul Prins: Traduit cette Antiphone."
+		"2026-04-01 - Marie Bellando Mitjans: Ajoutez ce texte."
 	],
-	"License": "© 2021 Monastiques Urbain, Paris"
+	"License": "© 2026 Monastiques Urbain, Paris"
 }

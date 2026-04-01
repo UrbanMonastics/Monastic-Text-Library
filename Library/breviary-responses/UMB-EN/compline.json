@@ -10,6 +10,7 @@
 	"Text": "[V] Into Your hands, LORD; I entrust my spirit.\r\n[R] Into Your hands, LORD; [*] I entrust my spirit.\r\n[V] For You have redeemed us, I trust in the LORD, God of truth.",
 	"Notes" : "We added the phrase 'I trust in the' in the third line from v6 of psalm 31. This improves the smoothness when repeated.",
 	"Extra": {
+		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Reference": ["Psalm 31:5-6"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
