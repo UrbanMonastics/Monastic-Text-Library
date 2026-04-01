@@ -7,9 +7,10 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Entre tes mains, SEIGNEUR; je remets mon esprit.\r\n[R] Alléluia, alléluia.\r\n[V] Car tu nous as rachetés, je me confie au SEIGNEUR, Dieu de vérité.",
+	"Text": "[V] Entre tes mains, SEIGNEUR; je remets mon esprit.\r\n[R] Alléluia, alléluia.\r\n[V] Puisque Tu nous as rachetés, je me confie au SEIGNEUR, Dieu de vérité.",
 	"Extra": {
 		"BreviaryInstructions": "Pendant Pâques après l'Octave.",
+		"ThesaurusLiturgiaeHorarumMonasticae": 87,
 		"Reference": ["Psalm 31:5-6"],
 		"Writing":{
 			"Authors": ["Paul Prins"],
