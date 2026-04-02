@@ -1,7 +1,7 @@
 {
 	"TextAbbreviation": "chapter-0016",
 	"SourceAbbreviation": "bible-ot-psalms",
-	"Title": "The Lord is my Portion",
+	"Title": "The LORD is my Portion",
 	"Description": "Miktam of David.",
 	"Chapter": "16",
 	"FormatAs": "poetry",
@@ -46,6 +46,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-02 - Paul Prins: Recognize the Tetragrammaton in the title.",
 		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-10-19 - Jordan Prins: Fix punctuation in verse 4.",
 		"2023-08-26 - Paul Prins: First translation of psalm 16 based on Greek, Latin, and some Hebrew"
