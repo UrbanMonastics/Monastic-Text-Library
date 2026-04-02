@@ -2,7 +2,7 @@
 	"TextAbbreviation": "chapter-0134",
 	"SourceAbbreviation": "bible-ot-psalms",
 	"Title": "Une Prière de Nuit dans le Sanctuaire",
-	"Description": "Un Chant des Montées",
+	"Description": "Chant d'ascension",
 	"Chapter": "134",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -11,24 +11,31 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "Oh, bénissez le Seigneur, vous tous serviteurs du Seigneur,\r\n\tvous qui servez au long des nuits dans la maison du Seigneur.\r\n",
-		"2": "Levez tes mains dans ce sanctuaire,\r\n\tet bénissez le Seigneur.\r\n",
-		"3": "Que le Seigneur te bénisse de Sion,\r\n\tLui qui a fait le ciel et la terre!"
+		"1": "Oh, bénissez le Seigneur, vous tous et toutes au service du Seigneur,\r\n\tvous qui servez au long des nuits dans la maison du Seigneur.\r\n",
+		"2": "Levez vos mains dans ce sanctuaire,\r\n\tet bénissez le Seigneur.\r\n",
+		"3": "Que le Seigneur vous bénisse depuis Sion,\r\n\tLui qui a fait le ciel et la terre!"
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2021-08-06": ["Peer-Review"],
 				"2021-08-05": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Texte révisé et vérifié.",
 		"2021-08-05 - Paul Prins: Première traduction du psaume 134 basée sur le grec, le latin et un peu d'hébreu - sans mise en forme liturgique, et incluant la préface."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
