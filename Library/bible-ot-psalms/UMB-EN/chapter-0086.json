@@ -21,7 +21,7 @@
 		"8": "There are none like You among the gods,\r\n\tLord, no works compare with Yours.\r\n",
 		"9": "All the nations You have made will come,\r\n\tthey will worship before You, Lord,\r\n\tand they will glorify Your name.\r\n",
 		"10": "For You are great, and do wonderful things,\r\n\tYou alone are God.\r\n\r\n",
-		"11": "Teach me, LORD, Your way,\r\n\tand I will walk in Your truth.\r\nBe united with my heart,\r\n\tand it will fear Your Name.\r\n",
+		"11": "Teach me, LORD, Your way,\r\n\tand I will walk in Your truth.\r\nBe united with my heart,\r\n\tand it will fear Your name.\r\n",
 		"12": "I will give You thanks, Lord, with all my heart,\r\n\tand I will glorify Your name forever.\r\n",
 		"13": "For great is Your mercy over me,\r\n\tthat You saved me from the depths of Sheol.\r\n\r\n",
 		"14": "God, arrogant people are attacking me,\r\n\tthese violent people want my life,\r\n\tand they have no desire for You.\r\n",
@@ -51,6 +51,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-02 - Paul Prins: right-cased one letter",
 		"2023-12-09 - Sheila Whittenberg: Grammar correction & Verified the text.",
 		"2023-10-31 - Jordan Prins: Verified the text.",
 		"2023-08-30 - Paul Prins: Update the casing on pronouns referring to God.",

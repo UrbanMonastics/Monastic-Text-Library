@@ -1,8 +1,8 @@
 {
 	"TextAbbreviation": "chapter-0086",
 	"SourceAbbreviation": "breviary-psalms",
-	"Title": "Prière d'un Pauvre dans le Besoin",
-	"Description": "Une Prière de David",
+	"Title": "Prière d'un pauvre dans le besoin",
+	"Description": "Une prière de David",
 	"Chapter": "86",
 	"FormatAs": "poetry",
 	"Version": "BMU-FR",
@@ -11,38 +11,45 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"1": "Abaisse ton oreille, SEIGNEUR, et réponds-moi,[*]\r\n\tcar je suis pauvre et malheureux.\r\n",
-		"2": "Garde mon âme, car je suis fidèle, [*]\r\n\tmon Dieu, sauve ton serviteur qui se confie en toi.\r\n\r\n",
-		"3": "Fais-moi grâce, Seigneur, [*]\r\n\tcar je crie à toi tout le jour.\r\n",
-		"4": "Remplis l'âme de ton serviteur de réjouissance, [*]\r\n\tpuisque j'élève mon âme, Seigneur, vers toi.\r\n",
-		"5": "Car tu es bon, Seigneur, et prêt à pardonner, [*]\r\n\tavec une abondante miséricorde pour tous ceux qui t'appellent.\r\n\r\n",
-		"6": "Tourne ton oreille, SEIGNEUR, vers ma prière, [*]\r\n\tet entends ma voix suppliante.\r\n",
-		"7": "Au jour de détresse, je t'appellerai [*],\r\n\tcar tu me répondras.\r\n\r\n",
-		"8": "Il n'y a aucun comme toi parmi les dieux, [*]\r\n\tSeigneur, aucune œuvre égale à la tienne.\r\n",
-		"9": "Toutes les nations que tu as créées viendront, [t]\r\n\tet se prosterneront devant toi, Seigneur, [*]\r\n\tet rendront gloire à ton nom.\r\n",
-		"10": "Car tu es grand, et tu fais des merveilles, [*]\r\n\tToi seul es Dieu.\r\n\r\n",
-		"11": "Enseigne-moi, SEIGNEUR, ton chemin, [*]\r\n\tet je marcherai dans ta vérité.\r\nSois uni à mon cœur, [*]\r\n\tet il craindra ton Nom.\r\n",
-		"12": "Je te rendrai grâce, Seigneur, de tout mon cœur, [*]\r\n\tet je glorifierai ton nom pour toujours.\r\n",
-		"13": "Grande est ta miséricorde envers moi, [*]\r\n\tcar tu m'as sauvé des profondeurs du Shéol.\r\n\r\n",
-		"14": "Dieu, des personnes arrogantes m'attaquent, [t]\r\n\tces violents en veulent à ma vie, [*]\r\n\tet ils n'ont pas de désir pour toi.\r\n",
-		"15": "Mais toi, Seigneur, tu es un Dieu compatissant et bienveillant, [*]\r\n\tlent à la colère, et débordant de miséricorde et de fidélité.\r\n",
-		"16": "Tourne vers moi et aie compassion de moi, [t]\r\n\tdonne à ton serviteur ta force, [*]\r\n\tet sauve ma vie, l'enfant de ton serviteur.\r\n\r\n",
-		"17": "Rends de moi un signe de ta bonté, [t]\r\n\ten le voyant, ceux qui me haïssent auront honte, [*]\r\n\tcar toi, SEIGNEUR, tu m'as aidé et consolé."
+		"1": "Abaisse Ton oreille, SEIGNEUR, et réponds-moi, [*]\r\n\tcar je suis pauvre et malheureux.\r\n",
+		"2": "Garde mon âme, car je suis fidèle, [*]\r\n\tmon Dieu, sauve Ton serviteur qui a confiance en Toi.\r\n\r\n",
+		"3": "Fais-moi grâce, Seigneur, [*]\r\n\tcar je crie vers Toi tout le jour.\r\n",
+		"4": "Remplis l'âme de Ton serviteur de réjouissance, [*]\r\n\tpuisque j'élève mon âme, vers Toi, Seigneur.\r\n",
+		"5": "Car Tu es bon, Seigneur, et prêt à pardonner, [*]\r\n\tavec une abondante miséricorde envers tous ceux et celles qui T'appellent.\r\n\r\n",
+		"6": "Tourne Ton oreille, SEIGNEUR, vers ma prière, [*]\r\n\tet entends ma voix suppliante.\r\n",
+		"7": "Au jour de détresse, je T'appellerai, [*]\r\n\tcar Tu me répondras.\r\n\r\n",
+		"8": "Il n'y en a aucun comme Toi parmi les dieux, [*]\r\n\tSeigneur, aucune œuvre n'égale la Tienne.\r\n",
+		"9": "Toutes les nations que Tu as créées viendront, [t]\r\n\tet se prosterneront devant Toi, Seigneur, [*]\r\n\tet glorifieront Ton nom.\r\n",
+		"10": "Car Tu es grand, et Tu fais des merveilles, [*]\r\n\tToi seul es Dieu.\r\n\r\n",
+		"11": "Enseigne-moi, SEIGNEUR, Ton chemin, [*]\r\n\tet je marcherai dans Ta vérité.\r\nSois uni à mon cœur, [*]\r\n\tet il craindra Ton nom.\r\n",
+		"12": "Je te rendrai grâce, Seigneur, de tout mon cœur, [*]\r\n\tet je glorifierai Ton nom pour toujours.\r\n",
+		"13": "Grande est Ta miséricorde envers moi, [*]\r\n\tcar Tu m'as sauvé des profondeurs du Shéol.\r\n\r\n",
+		"14": "Dieu, des personnes arrogantes m'attaquent, [t]\r\n\tces violentes en veulent à ma vie, [*]\r\n\tet elles n'ont pas de désir pour Toi.\r\n",
+		"15": "Mais Toi, Seigneur, Tu es un Dieu compatissant et bienveillant, [*]\r\n\tlent à la colère, et débordant de miséricorde et de fidélité.\r\n",
+		"16": "Tourne-Toi vers moi et aie pitié de moi, [t]\r\n\tdonne ta force à Ton serviteur, [*]\r\n\tet sauve ma vie, à moi l'enfant de Ta servante.\r\n\r\n",
+		"17": "Fais de moi un signe de Ta bonté, [t]\r\n\ten me voyant, ceux et celles qui me haïssent auront honte, [*]\r\n\tcar Toi, SEIGNEUR, Tu m'as aidé et consolé."
 	},
 	"Extra": {
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-08-11": ["Peer-Review"],
 				"2023-08-10": [
 					"Second-Pass",
 					"Initial"
 				]
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Texte révisé et vérifié.",
 		"2023-08-10 - Paul Prins: Première traduction du psaume 86 basée sur le grec, le latin et un peu d'hébreu."
 	],
 	"License": "© 2023 Monastiques Urbain, Paris"
