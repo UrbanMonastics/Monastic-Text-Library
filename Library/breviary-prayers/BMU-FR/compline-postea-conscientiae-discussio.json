@@ -7,13 +7,17 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "\tJe confesse à Dieu tout-puissant et à tous ceux dont l'espérance est en Christ. J'ai péché en pensée, en parole et en acte. J'ai péché par ce que j'ai fait et ce que je n'ai pas fait. J'ai péché et je continue à pécher encore et encore. J'ai lutté pour me reposer dans la présence de Dieu. Aide-moi à embrasser profondément l'amour tendre de notre Père. Aide-moi à prendre ma croix et à suivre Jésus. Aide-moi à sentir et laisse l'Esprit Saint me guider. C'est pourquoi je vous demande de prier le Seigneur notre Dieu pour moi. Priez pour moi avec tous les saints. \r\n\r\n\tNotre Père qui est aux cieux, aie pitié de nous. Continue à pardonner nos péchés et conduis-nous sur le chemin étroit, alors que nous suivons Ton Fils, vers la vie éternelle. \r\n\r\nAmen",
+	"Text": "Je confesse à Dieu tout-puissant et à toutes les personnes dont l'espérance est en Christ. J'ai péché en pensée, en parole et en acte. J'ai péché par ce que j'ai fait et par omission. J'ai péché et je continue à pécher encore et encore. J'ai lutté pour me reposer dans la présence de Dieu. Aide-moi, Père, à embrasser profondément Ton amour tendre. Aide-moi, Jésus, à prendre ma croix et à Te suivre. Aide-moi, Saint-Esprit, à Te sentir et à me laisser guider par Toi. C'est pourquoi je vous demande de prier le Seigneur notre Dieu pour moi. Priez pour moi avec tous les saints.\r\nNotre Père qui est aux cieux, aie pitié de nous. Continue à pardonner nos péchés et conduis-nous sur le chemin étroit, alors que nous suivons Ton Fils, vers la vie éternelle.\r\nAmen.",
 	"Description": "Dit après l'examen de conscience pendant les Complies",
 	"Extra": {
 		"LiturgiaeHorarum-Page": null,
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2025-08-07": ["Peer-Review"],
 				"2024-05-16": ["Peer-Review"],
 				"2024-03-03": ["Peer-Review"],
@@ -24,11 +28,13 @@
 				]
 			},
 			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans",
 				"2023-10-19": "Jordan Prins"
 			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2025-08-07 - Paul Prins: Mettre à jour la ligne finale pour corriger que nous suivons Jésus sur le chemin étroit, pas le Père.",
 		"2024-05-16 - Paul Prins: Inspiré pour transformer le 'J'ai lutté' en un 'Aide-moi' priant",
 		"2024-05-15 - Paul Prins: Supprimer les longues phrases bizarres avec point-virgule",

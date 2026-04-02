@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "I confess to Almighty God, and to all whose hope is in Christ. I have sinned in thought, word, and deed. I have sinned in what I have done and left undone. I have sinned, and continue to sin again and again. I have struggled to rest in God's presence. Help me, Father, to deeply embrace your tender love. Help me, Jesus, to take up my cross and follow Jesus. Help me, Holy Spirit, to sense and let you guide me. This is why I plead that you pray to the Lord, our God, for me. Pray for me, along with all the saints.\r\n\r\nOur Father who is in heaven, have mercy on us. Continue to forgive us our sins, and lead us on the narrow path, as we follow Your Son, into eternal life.\r\n\r\nAmen",
+	"Text": "I confess to Almighty God, and to all whose hope is in Christ. I have sinned in thought, word, and deed. I have sinned in what I have done and left undone. I have sinned, and continue to sin again and again. I have struggled to rest in God's presence. Help me, Father, to deeply embrace your tender love. Help me, Jesus, to take up my cross and follow Jesus. Help me, Holy Spirit, to sense and let you guide me. This is why I plead that you pray to the Lord, our God, for me. Pray for me, along with all the saints.\r\n\r\nOur Father who is in heaven, have mercy on us. Continue to forgive us our sins, and lead us on the narrow path, as we follow Your Son, into eternal life.\r\n\r\nAmen.",
 	"Description": "Said after the examination of conscience during Compline",
 	"Extra": {
 		"ThesaurusLiturgiaeHorarumMonasticae": null,
@@ -46,6 +46,7 @@
 		}
 	},
 	"Changes": [
+		"2026-03-30 - Paul Prins: Adapted part of the prayer to follow the French version of this text.",
 		"2025-08-07 - Paul Prins: Update the final line to correct that we are following Jesus on the narrow path, not the Father.",
 		"2024-05-16 - Paul Prins: Inspired to shift the I have struggled into a prayerful 'Help me'",
 		"2024-05-15 - Paul Prins: Remove weird long semicolon sentences.",
