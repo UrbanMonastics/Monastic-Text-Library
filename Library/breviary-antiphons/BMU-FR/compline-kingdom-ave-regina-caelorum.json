@@ -7,20 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Salue, [*] Royaume des Cieux !\r\nSalut, Demeure des Anges !\r\nSalut, votre Volonté Divine !\r\nSur la terre comme au ciel.\r\n\r\nRéjouissez, Royaume glorieux,\r\nBeau par-dessus tous les autres !\r\nSalue, Splendide Éclat.\r\nCriez vers le Christ avec nous.",
+	"Text": "Salut, [*] Royaume des Cieux !\r\nSalut, Demeure des Anges !\r\nSalut, Toi Volonté Divine !\r\nSur la terre comme au ciel.\r\n\r\nRéjouis-Toi, Royaume glorieux,\r\nBeau par-dessus tous les autres !\r\nSalut, Splendide Clarté.\r\nCrie vers le Christ avec nous.",
 	"Extra": {
 		"BreviaryInstructions": "Du 2 février au Carême",
 		"Writing":{
 			"Authors": ["Paul Prins", "Jordan Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-09-01": "Peer-Review",
 				"2022-08-31": "Second-Pass",
 				"2022-08-30": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2022-09-01 - Paul Prins : Des fins moins triomphales pour le Carême, le Vendredi saint et le Samedi saint.",
 		"2022-08-31 - Paul Prins, Jordan Prins : Ont créé cette antienne."
 	],

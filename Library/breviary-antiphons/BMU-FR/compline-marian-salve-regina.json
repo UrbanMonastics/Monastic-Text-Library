@@ -7,20 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Salut, [*] sainte Reine, mère de miséricorde,\r\n\tune de vie, de douceur et d'espérance.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très gracieuse avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle fruit béni de ta chair.\r\n\tMiséricordieuse, aimante et douce Vierge Marie.",
+	"Text": "Salut, [*] sainte Reine, mère de miséricorde,\r\n\tsingulière de vie, de douceur et d'espérance.\r\nNous crions dans notre exil d'enfants d'Eve.\r\n\tVers toi nous soupirons, pleurons et nous lamentons\r\n\tdans cette vallée de larmes.\r\n\r\nTourne, très charitable avocate,\r\n\ttes yeux de miséricorde vers nous.\r\nAu terme de notre exil, montre-nous Jésus,\r\n\tle fruit béni de ta chair.\r\n\tMiséricordieuse, aimante et douce Vierge Marie.",
 	"Extra": {
 		"BreviaryInstructions": " Pendant le temps Ordinaire après la Pentecôte.",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2020-10-28": "Peer-Review",
 				"2020-10-27": "Second-Pass",
 				"2020-10-26": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2023-04-06 - Paul Prins: Mise à jour de cette antienne.",
 		"2022-08-31 - Paul Prins, Jordan Prins: Mise à jour de cette antienne.",
 		"2022-08-06 - Paul Prins: Ajout des instructions du bréviaire.",

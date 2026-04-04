@@ -7,20 +7,27 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Réjouis-toi, [*] Royaume des Cieux, Alléluia !\r\nCar le Seigneur porte sa couronne, Alléluia !\r\nIl s'est ressuscité comme Il l'avait dit, Alléluia !\r\nLouez notre Dieu avec nous, Alléluia !",
+	"Text": "Réjouis-toi, [*] Royaume des Cieux, Alléluia !\r\nCar le Seigneur porte sa couronne, Alléluia !\r\nIl est ressuscité comme Il l'avait dit, Alléluia !\r\nLoue notre Dieu avec nous, Alléluia !",
 	"Extra": {
 		"BreviaryInstructions": "Pendant le temps de Pâques.",
 		"Writing":{
 			"Authors": ["Paul Prins", "Jordan Prins"],
 			"Step": {
+				"2026-04-01": [
+					"Verified",
+					"Guidelines"
+				],
 				"2023-09-01": "Peer-Review",
 				"2022-08-31": "Second-Pass",
 				"2022-08-30": "Initial"
 			},
-			"Reviewers": {}
+			"Reviewers": {
+				"2026-04-01": "Marie Bellando Mitjans"
+			}
 		}
 	},
 	"Changes": [
+		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2022-08-31 - Paul Prins, Jordan Prins : Ont créé cette antienne."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"
