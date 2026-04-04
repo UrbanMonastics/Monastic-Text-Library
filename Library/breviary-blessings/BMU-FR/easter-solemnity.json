@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Le Seigneur soit avec vous,\r\net avec votre esprit.\r\nQue Dieu tout-puissant vous bénisse, le Père, le Fils, [+] et le Saint-Esprit.\r\n**Amen.**\r\nBénissons le Seigneur.\r\nAlléluia. Alléluia.\r\nNous rendons grâce à Dieu.\r\nAlléluia. Alléluia.",
+	"Text": "Le Seigneur soit avec vous,\r\n\t**et avec votre esprit.**\r\nQue Dieu tout-puissant vous bénisse, le Père, le Fils, [+] et le Saint-Esprit.\r\n\t**Amen.**\r\nBénissons le Seigneur. Alléluia. Alléluia.\r\n\t**Nous rendons grâce à Dieu. Alléluia. Alléluia.**",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-04 - Paul Prins: Updated formatting",
 		"2024-04-06 - Paul Prins: Première traduction de cette bénédiction."
 	],
 	"License": "© 2024 Monastiques Urbain, Paris"

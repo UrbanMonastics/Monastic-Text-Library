@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "The Lord be with you,\r\n**and with your spirit.**\r\nMay Almighty God bless you, Father, Son, [+] and Holy Spirit.\r\n**Amen.**\r\nLet us bless the Lord. Alleluia. Alleluia.\r\n**Thanks be to God. Alleluia. Alleluia.**",
+	"Text": "The Lord be with you,\r\n\t**and with your spirit.**\r\nMay Almighty God bless you, Father, Son, [+] and Holy Spirit.\r\n\t**Amen.**\r\nLet us bless the Lord. Alleluia. Alleluia.\r\n\t**Thanks be to God. Alleluia. Alleluia.**",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-04 - Paul Prins: Updated formatting",
 		"2024-04-06 - Paul Prins: First translation of this blessing."
 	],
 	"License": "© 2024 Urban Monastics, Paris"

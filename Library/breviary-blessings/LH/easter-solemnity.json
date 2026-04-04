@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Dóminus vobíscum.\r\nEt cum spíritu tuo.\r\nBenedícat vos omnípotens Deus, Pater, et Fílius, [+] et Spíritus Sanctus.\r\n**Amen.**\r\nBenedicámus Dómino, allelúia, alléluia.\r\nDeo grátias, allelúia, allelúia.",
+	"Text": "Dóminus vobíscum\r\n\t**et cum spíritu tuo.**\r\nBenedícat vos omnípotens Deus, Pater, et Fílius, [+] et Spíritus Sanctus.\r\n\t**Amen.**\r\nBenedicámus Dómino, allelúia, alléluia.\r\n\t**Deo grátias, allelúia, allelúia.**",
 	"Extra":{
 		"Writing":{
 			"Authors": ["Paul Prins"],
@@ -22,6 +22,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-04 - Paul Prins: Updated formatting",
 		"2024-04-06 - Paul Prins: Added this blessing."
 	],
 	"License": "© 2024 Urban Monastics, Paris"
