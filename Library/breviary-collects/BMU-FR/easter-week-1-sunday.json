@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "easter-week-1-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu notre Père, en ce jour, Tu nous as ouvert la voie de la vie éternelle par la victoire de Ton Fils sur la mort. [t] Écoute nos louanges ; Christ est ressuscité ! Alléluia ! [*] Que chaque cœur entende Ton appel à prendre part à Sa résurrection. Vaincs les forces de la mort entre nous et en nous. Fais de nous un peuple nouveau, partageant Sa vie ressuscitée et Sa présence. Renouvelés par ton Esprit, nous nous lèverons avec la lumière de la vie en marchant dans la foi",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 273,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-04-04": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-04-04 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}
