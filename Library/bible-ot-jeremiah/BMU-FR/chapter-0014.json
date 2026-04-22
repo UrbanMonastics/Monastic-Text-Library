@@ -10,7 +10,7 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"9": "Mais, tu es au milieu de nous, SEIGNEUR. Nous sommes appelés par Ton nom. Ne nous abandonne pas !"
+		"9": "Mais, Tu es au milieu de nous, SEIGNEUR. Nous sommes appelés par Ton Nom. Ne nous abandonne pas !"
 	},
 	"Extra": {
 		"Writing":{
@@ -26,6 +26,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2022-08-12 - Paul Prins: Première traduction de verset 9."
 	],
 	"FootNotes": {
