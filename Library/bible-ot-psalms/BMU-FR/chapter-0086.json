@@ -22,11 +22,11 @@
 		"9": "Toutes les nations que Tu as créées viendront,\r\n\tet se prosterneront devant Toi, Seigneur,\r\n\tet glorifieront Ton nom.\r\n",
 		"10": "Car Tu es grand, et Tu fais des merveilles,\r\n\tToi seul es Dieu.\r\n\r\n",
 		"11": "Enseigne-moi, SEIGNEUR, Ton chemin,\r\n\tet je marcherai dans Ta vérité.\r\nSois uni à mon cœur,\r\n\tet il craindra Ton nom.\r\n",
-		"12": "Je te rendrai grâce, Seigneur, de tout mon cœur,\r\n\tet je glorifierai Ton nom pour toujours.\r\n",
+		"12": "Je Te rendrai grâce, Seigneur, de tout mon cœur,\r\n\tet je glorifierai Ton nom pour toujours.\r\n",
 		"13": "Grande est Ta miséricorde envers moi,\r\n\tcar Tu m'as sauvé des profondeurs du Shéol.\r\n\r\n",
 		"14": "Dieu, des personnes arrogantes m'attaquent,\r\n\tces violentes en veulent à ma vie,\r\n\tet elles n'ont pas de désir pour Toi.\r\n",
 		"15": "Mais Toi, Seigneur, Tu es un Dieu compatissant et bienveillant,\r\n\tlent à la colère, et débordant de miséricorde et de fidélité.\r\n",
-		"16": "Tourne-Toi vers moi et aie pitié de moi,\r\n\tdonne ta force à Ton serviteur,\r\n\tet sauve ma vie, à moi l'enfant de Ta servante.\r\n\r\n",
+		"16": "Tourne-Toi vers moi et aie pitié de moi,\r\n\tdonne Ta force à Ton serviteur,\r\n\tet sauve ma vie, à moi l'enfant de Ta servante.\r\n\r\n",
 		"17": "Fais de moi un signe de Ta bonté,\r\n\ten me voyant, ceux et celles qui me haïssent auront honte,\r\n\tcar Toi, SEIGNEUR, Tu m'as aidé et consolé."
 	},
 	"Extra": {
@@ -49,6 +49,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2026-04-01 - Marie Bellando Mitjans: Texte révisé et vérifié.",
 		"2023-08-10 - Paul Prins: Première traduction du psaume 86 basée sur le grec, le latin et un peu d'hébreu."
 	],

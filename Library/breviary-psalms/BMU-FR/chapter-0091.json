@@ -24,7 +24,7 @@
 		"11": "Car Il donnera pour mission à Ses anges [*]\r\n\tde te protéger dans toutes tes voies.\r\n",
 		"12": "Sur leurs mains ils te porteront, [*]\r\n\tafin que ton pied ne heurte jamais contre une pierre.\r\n",
 		"13": "Tu marcheras sur le lion et le cobra, [*]\r\n\tet tu piétineras le lionceau et le dragon.\r\n\r\n",
-		"14": "« Puisque ces personnes m'ont aimé, je les sauverai. [*]\r\n\tJe les protégerai, car elles ont connu Mon nom.\r\n",
+		"14": "« Puisque ces personnes M'ont aimé, Je les sauverai. [*]\r\n\tJe les protégerai, car elles ont connu Mon nom.\r\n",
 		"15": "Elles M'appelleront, et Je leur répondrai, [t]\r\n\tJe serai avec elles dans la détresse, [*]\r\n\tJe les sauverai et les honorerai.\r\n",
 		"16": "Je leur assurerai des vies longues, [*]\r\n\tet Je leur montrerai Mon salut. »"
 	},
@@ -48,6 +48,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2026-04-01 - Marie Bellando Mitjans: Texte révisé et vérifié.",
 		"2021-09-02 - Paul Prins: Première traduction du psaume 91 basée sur le grec, le latin et un peu d'hébreu."
 	],

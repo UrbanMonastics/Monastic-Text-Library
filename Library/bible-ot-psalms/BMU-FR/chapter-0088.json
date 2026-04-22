@@ -19,7 +19,7 @@
 		"6": "Tu m'as mis au plus profond de la fosse,\r\n\tdans les ténèbres et les profondeurs.\r\n",
 		"7": "Le poids de Ta colère m'écrase,\r\n\tet, Tu m'accables de toutes Tes flots.\r\nselah\r\n",
 		"8": "Tu as éloigné de moi tous ceux et celles que je connaissais.\r\n\tTu m'as rendu repoussant pour elles et eux.\r\nJe suis enfermé et je ne peux pas sortir.\r\n",
-		"9": "\tMes yeux sont usés par le chagrin.\r\n\r\nSEIGNEUR, je T'appelle tout le jour,\r\n\tje tends les mains vers Toi.\r\n",
+		"9": "\tMes yeux sont usés par le chagrin.\r\n\r\nSEIGNEUR, je T'appelle tout le jour,\r\n\tje tends mes mains vers Toi.\r\n",
 		"10": "Feras-Tu des miracles pour les morts ?\r\n\tLeurs esprits se lèveront-ils et Te loueront-ils ?\r\nselah\r\n",
 		"11": "Parlera-t-on de Ton amour dans la tombe ?\r\n\tDe Ta fidélité dans le lieu des morts ?\r\n",
 		"12": "Connaîtront-ils Tes miracles dans les ténèbres ?\r\n\tTa justice dans le pays de l'oubli ?\r\n\r\n",
@@ -50,6 +50,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Rendez-le plus personnel.",
 		"2026-04-01 - Marie Bellando Mitjans: Texte révisé et vérifié.",
 		"2022-10-30 - Paul Prins : Supprimé le formatage liturgique de la version dans le bréviaire."
 	],

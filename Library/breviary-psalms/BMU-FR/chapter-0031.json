@@ -16,7 +16,7 @@
 		"3": "Puisque Tu es mon rocher et ma forteresse, [*]\r\n\tconduis-moi et guide-moi à cause de Ton nom.\r\n",
 		"4": "Épargne-moi le piège qu'on m'a tendu en secret, [*]\r\n\tcar Tu es mon protecteur.\r\n\r\n",
 		"5": "Entre Tes mains je confie mon esprit, [*]\r\n\tpuisque Tu m'as racheté, SEIGNEUR, Dieu de vérité.\r\n\r\n",
-		"6": "Je hais ceux qui s'attachent à des idoles sans valeur, [*]\r\n\tQuant à moi, je me confie au SEIGNEUR.\r\n",
+		"6": "Je hais ceux qui s'attachent à des idoles sans valeur, [*]\r\n\tquant à moi, je me confie au SEIGNEUR.\r\n",
 		"7": "Par Ta fidélité, Je serai dans la joie et l'allégresse, [t]\r\n\tpuisque Tu m'as vu affligé. [*]\r\n\tTu connais l'angoisse de mon âme.\r\n",
 		"8": "Tu ne m'as pas livré à mon ennemi, [*]\r\n\tmais Tu as mis mes pieds un large espace.\r\n\r\n",
 		"9": "Aie pitié de moi, SEIGNEUR, car je suis dans la détresse, [t]\r\n\tmon oeil est usé par le chagrin, [*]\r\n\tmon âme et mon corps aussi.\r\n",
@@ -25,7 +25,7 @@
 		"12": "Je suis oublié comme un mort et rejeté de la mémoire, [*]\r\n\tje suis comme une poterie brisée.\r\n",
 		"13": "Car j'ai entendu calomnier des peuples nombreux, et leur terreur m'environne, [t]\r\n\tils conspirent contre moi, [*]\r\n\tet ils complotent pour m'ôter la vie.\r\n\r\n",
 		"14": "Mais moi, j'ai confiance en Toi, SEIGNEUR! [t]\r\nJe dis : « Tu es mon Dieu. [*]\r\n",
-		"15": "\tMes jours sont entre tes mains. »\r\nDélivre-moi de la main de mes ennemis, [*]\r\n\tet de ceux qui me poursuivent.\r\n\r\n",
+		"15": "\tMes jours sont entre Tes mains. »\r\nDélivre-moi de la main de mes ennemis, [*]\r\n\tet de ceux qui me poursuivent.\r\n\r\n",
 		"16": "Fais briller Ton visage sur Ton serviteur, [*]\r\n\tsauve-moi par Ton amour indéfectible.\r\n",
 		"17": "Que je ne sois pas honteux, SEIGNEUR, parce que je T'invoque, [*]\r\n\tmais que le méchant ait honte et se taise dans le Shéol.\r\n",
 		"18": "Réduis au silence leurs lèvres menteuses, [t]\r\n\tà cause des choses viles et méprisantes qu'elles disent [*]\r\n\tavec arrogance contre le juste.\r\n\r\n",
@@ -33,7 +33,7 @@
 		"20": "Tu les abrites de Ta présence, [*]\r\n\tles cachant de toutes les conspirations humaines.\r\nTu les mets à l'abri en secret, [*]\r\n\tprotégés des langues accusatrices.\r\n\r\n",
 		"21": "Béni soit le SEIGNEUR, [*]\r\n\tcar Il m'a montré Sa merveilleuse fidélité dans une ville assiégée.\r\n",
 		"22": "J'ai dit dans mon alarme : [*]\r\n\t« Je suis retranché de Ton regard. »\r\nMais Toi, Tu as entendu mes supplications, [*]\r\n\tquand j'ai crié pour Ton aide.\r\n\r\n",
-		"23": "Aimez le SEIGNEUR, tout Son peuple saint ! [t]\r\n\tLe SEIGNEUR garde les fidèles, [*]\r\n\tmais il rend largement leur dû aux orgueilleux.\r\n",
+		"23": "Aimez le SEIGNEUR, tout Son peuple saint ! [t]\r\n\tLe SEIGNEUR garde les fidèles, [*]\r\n\tmais Il rend largement leur dû aux orgueilleux.\r\n",
 		"24": "Fortifiez-vous, et que votre cœur s'affermisse, [*]\r\n\tvous tous qui attendez SEIGNEUR."
 	},
 	"Extra": {
@@ -56,6 +56,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2026-03-25 - Marie Bellando Mitjans: Corrections apportées au texte français.",
 		"2023-08-14 - Paul Prins: Première traduction du psaume 31 basée sur le grec, le latin et un peu d'hébreu."
 	],

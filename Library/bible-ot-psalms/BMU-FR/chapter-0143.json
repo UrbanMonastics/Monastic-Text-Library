@@ -21,7 +21,7 @@
 		"8": "Au matin, fais-moi entendre Ta fidélité\r\n\tcar je me confie en Toi.\r\nMontre-moi le chemin que je dois suivre,\r\n\tcar j'élève mon âme vers Toi.\r\n\r\n",
 		"9": "Sauve-moi de mes ennemis, SEIGNEUR,\r\n\ten Toi, je me réfugie.\r\n",
 		"10": "Apprends-moi à faire Ta volonté,\r\n\tcar Tu es mon Dieu.\r\nQue Ton bon esprit me conduise sur un terrain plat,\r\n",
-		"11": "\tà cause de Ton nom, SEIGNEUR, rends-moi la vie.\r\nDans Ta justice,\r\n\tDélivre mon âme de la détresse.\r\n\r\n",
+		"11": "\tà cause de Ton nom, SEIGNEUR, rends-moi la vie.\r\nDans Ta justice,\r\n\tdélivre mon âme de la détresse.\r\n\r\n",
 		"12": "[Et dans Ta fidélité, anéantis mes ennemis,\r\n\tdétruis tous ceux et celles qui s'attaquent à mon âme,\r\n\tcar je suis Ton serviteur.]"
 	},
 	"Extra": {
@@ -44,6 +44,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corrigez la casse des mots.",
 		"2026-04-01 - Marie Bellando Mitjans: Corrections apportées au texte français.",
 		"2023-08-12 - Paul Prins: Première traduction du psaume 143 basée sur le grec, le latin et un peu d'hébreu."
 	],

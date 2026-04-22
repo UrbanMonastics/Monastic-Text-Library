@@ -24,7 +24,7 @@
 		"11": "For He will give orders to His angels concerning you,\r\n\tto protect you in all your ways.\r\n",
 		"12": "On their hands they will carry you,\r\n\tso your foot will never strike against a stone.\r\n",
 		"13": "You will tread on the lion and cobra,\r\n\tand You will trample the young lion and the serpent.\r\n\r\n",
-		"14": "\"Since they have loved Me, I will rescue them.\r\n\tI will protect them, because they know my name.\r\n",
+		"14": "\"Since they have loved Me, I will rescue them.\r\n\tI will protect them, because they know My name.\r\n",
 		"15": "They will call to Me, and I will answer them;\r\n\tI will be with them in trouble,\r\n\tI will rescue and honor them.\r\n",
 		"16": "I will satisfy them with long lives,\r\n\tand I will show them My salvation.\""
 	},
@@ -56,6 +56,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Fix a divine pronoun.",
 		"2026-03-25 - Paul Prins: Refined the translation as the french was edited.",
 		"2023-12-09 - Sheila Whittenberg: Grammar correction & Verified the text.",
 		"2023-10-31 - Jordan Prins: Verified the text.",
