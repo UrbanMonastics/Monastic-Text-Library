@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "[V] Entre tes mains, SEIGNEUR ; je confie mon esprit. Alléluia, alléluia.\r\n[R] Entre tes mains, SEIGNEUR ; je confie mon esprit. [*] Alléluia, alléluia.\r\n[V] Puisque Tu nous as rachetés, je me confie au SEIGNEUR, Dieu de vérité.",
+	"Text": "[V] Entre Tes mains, SEIGNEUR ; je confie mon esprit. Alléluia, alléluia.\r\n[R] Entre Tes mains, SEIGNEUR ; je confie mon esprit. [*] Alléluia, alléluia.\r\n[V] Puisque Tu nous as rachetés, je me confie au SEIGNEUR, Dieu de vérité.",
 	"Extra": {
 		"BreviaryInstructions": "Pendant Pâques après l'Octave.",
 		"ThesaurusLiturgiaeHorarumMonasticae": 87,
@@ -31,6 +31,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2026-04-01 - Marie Bellando Mitjans: Révision et vérification du texte.",
 		"2025-08-28 - Paul Prins: Reformulation encore...",
 		"2024-01-11 - Paul Prins: Reformulation",
