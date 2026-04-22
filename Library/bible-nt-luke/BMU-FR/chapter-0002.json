@@ -21,10 +21,10 @@
 		"26": "Le Saint-Esprit lui avait révélé qu'il ne voyait pas sa mort avant d'avoir vu le Christ du Seigneur. ",
 		"27": "Poussé par l'Esprit, il se rendit au temple. Les parents apportèrent l'enfant Jésus pour accomplir à son sujet ce que la Loi prescrivait. ",
 		"28": "Siméon prit l'enfant dans ses bras et bénit Dieu. Il dit ,\r\n",
-		"29": "« Seigneur, maintenant laisse partir ton serviteur en paix.\r\n\tTu as tenu ta promesse.\r\n",
-		"30": "Car mes yeux ont vu ton salut,\r\n",
-		"31": "\tque tu as préparé à la vue de tous les personnes.\r\n",
-		"32": "Une lumière de révélation pour les nations,\r\n\tet la gloire de ton peuple d'Israël. »\r\n",
+		"29": "« Seigneur, maintenant laisse partir Ton serviteur en paix.\r\n\tTu as tenu Ta promesse.\r\n",
+		"30": "Car mes yeux ont vu Ton salut,\r\n",
+		"31": "\tque Tu as préparé à la vue de tous les personnes.\r\n",
+		"32": "Une lumière de révélation pour les nations,\r\n\tet la gloire de Ton peuple d'Israël. »\r\n",
 		"33": "\tLe père et la mère de l'enfant étaient émerveillés de ce qu'on disait de lui. ",
 		"34": "Alors Siméon les bénit, et il dit à Marie, sa mère : « Voici, cet enfant est destiné à amener la chute et le relèvement de beaucoup en Israël. Il est un signe auquel on s'opposera, ",
 		"35": "car, en fin de compte, c'est par lui que seront révélées les pensées d'un grand nombre. Cela vous transpercera même l'âme avec une épée. »\r\n"
@@ -46,6 +46,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2025-02-02 - Paul Prins: Premier traduction du chapitre 2:22-35.",
 		"2022-12-22 - Paul Prins: Premier traduction du chapitre 2:10-14."
 	],

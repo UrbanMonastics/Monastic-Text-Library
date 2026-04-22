@@ -10,10 +10,10 @@
 		"People": ["Paul Prins"]
 	},
 	"Verses": {
-		"29": "Seigneur [+], maintenant laisse partir ton serviteur en paix.[*]\r\n\tTu as tenu ta promesse.\r\n",
-		"30": "Car mes yeux ont vu ton salut,[*]\r\n\t",
-		"31": "que tu as préparé à la vue de tous les personnes.\r\n",
-		"32": "Une lumière de révélation pour les nations,[*]\r\n\tet la gloire de ton peuple d'Israël."
+		"29": "Seigneur [+], maintenant laisse partir Ton serviteur en paix.[*]\r\n\tTu as tenu Ta promesse.\r\n",
+		"30": "Car mes yeux ont vu Ton salut,[*]\r\n\t",
+		"31": "que Tu as préparé à la vue de tous les personnes.\r\n",
+		"32": "Une lumière de révélation pour les nations,[*]\r\n\tet la gloire de Ton peuple d'Israël."
 	},
 	"Extra": {
 		"Reference": ["Luc 2:29-32"],
@@ -32,6 +32,7 @@
 		}
 	},
 	"Changes": [
+		"2026-04-22 - Paul Prins: Corriger la casse des pronoms divins.",
 		"2021-02-03 - Paul Prins : Première traduction basée sur le grec, et le latin."
 	],
 	"License": "© 2021 Monastiques Urbain, Paris"
