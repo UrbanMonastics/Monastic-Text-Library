@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-3",
+	"TextAbbreviation": "easter-week-3-sunday",
 	"SourceAbbreviation": "breviary-collects",
 	"FormatAs": "book",
 	"Version": "LH",
@@ -20,6 +20,7 @@
 		}
 	},
 	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
 		"2022-04-30 - Paul Prins: Added this prayer."
 	],
 	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"

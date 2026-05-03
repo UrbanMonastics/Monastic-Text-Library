@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-7",
+	"TextAbbreviation": "easter-week-7-sunday",
 	"SourceAbbreviation": "breviary-collects",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
 		"2025-05-31 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2025 Monastiques Urbain, Paris"

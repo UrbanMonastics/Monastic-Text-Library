@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "easter-week-4-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty and everlasting God, guide us to the joys of heaven. [t] May your flock, in our weakness and meekness, [*] follow their Shepherd. Help us make it to the place of His victory to dwell with Him",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 293,
+		"CollectEnding": "son", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-09": ["Peer-Review"],
+				"2025-06-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-08 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

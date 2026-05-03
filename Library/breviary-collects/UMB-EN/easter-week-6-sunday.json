@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "easter-week-6-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Almighty God, grant us to enthusiastically celebrate with joy the risen Christ during these days of celebration. [t] May we remember forever the mysteries of Easter. [*] Continue to use them to transform our lives and draw us deeper into Your presence",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 298,
+		"CollectEnding": "father", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-04-13": ["Peer-Review"],
+				"2025-04-12": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-10 - Paul Prins: First translation of this prayer."
+	],
+	"License": "© 2025 Urban Monastics, Paris"
+}

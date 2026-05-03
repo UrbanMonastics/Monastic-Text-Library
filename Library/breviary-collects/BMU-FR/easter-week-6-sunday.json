@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "easter-week-6-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu tout-puissant, accorde-nous de célébrer avec ferveur et joie le Christ ressuscité pendant ces jours de fête. [t] Que nous nous souvenions à jamais des mystères de Pâques. [*] Continue à les utiliser pour transformer nos vies et nous attirer plus profondément en ta présence",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 298,
+		"CollectEnding": "father", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-11": ["Peer-Review"],
+				"2025-06-10": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-10 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

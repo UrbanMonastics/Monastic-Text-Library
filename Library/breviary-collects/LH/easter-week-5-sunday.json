@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, per quem nobis et redémptio venit et præstátur adóptio, [t] fílios dilectiónis tuæ benígnus inténde, [*] ut in Christo credéntibus et vera tribuátur libértas et heréditas ætérna. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 296,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
+		"2025-06-10 - Paul Prins: Um, I dunno where that previous prayer was from.",
+		"2021-05-02 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

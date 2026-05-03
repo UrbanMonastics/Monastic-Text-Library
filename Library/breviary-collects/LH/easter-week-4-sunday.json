@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "easter-week-4-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Omnípotens sempitérne Deus, deduc nos ad societátem cæléstium gaudiórum, [t] ut eo pervéniat humílitas gregis, [*] quo procéssit fortitúdo pastóris. Per Dóminum.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 293,
+		"CollectEnding": "son", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-09": ["Peer-Review"],
+				"2025-06-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-08 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

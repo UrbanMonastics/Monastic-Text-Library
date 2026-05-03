@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "God, You sent Your Son to save us and have adopted us as Your children. [t] Look upon each of Your children with the loving kindness of a good parent. [*] Help us all to believe in Christ as we live into the true freedom and the everlasting life You promised",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 296,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
+		"2026-05-02 - Paul Prins: Revised the translation.",
+		"2021-05-02 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2021 Urban Monastics, Paris"
+}

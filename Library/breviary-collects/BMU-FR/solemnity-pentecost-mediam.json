@@ -9,8 +9,8 @@
 	},
 	"Text": "Nous t'en prions, Dieu tout-puissant : que la splendeur de ta gloire resplendisse sur nous, [t] que la lumière de ta lumière fortifie les cœurs de tous ceux qui sont renés par ta grâce, [*] et que l'Esprit Saint donne de l'assurance à nos cœurs. Par le Christ notre Seigneur.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 310,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {

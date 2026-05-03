@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-3",
+	"TextAbbreviation": "easter-week-3-sunday",
 	"SourceAbbreviation": "breviary-collects",
 	"FormatAs": "book",
 	"Version": "BMU-FR",
@@ -7,7 +7,7 @@
 		"Versions": ["LH"],
 		"People": ["Paul Prins"]
 	},
-	"Text": "Que ton peuple se réjouisse toujours en toi, Seigneur, qui rafraîchis nos âmes. [t] Car tu as rétabli notre dignité, en nous réclamant comme les tiens, des enfants de Dieu. [*] Fixe nos yeux sur le jour de la résurrection et sur l'espérance d'être avec toi pour toujours",
+	"Text": "Que Ton peuple se réjouisse toujours en Toi, Seigneur, qui rafraîchis nos âmes. [t] Car Tu as rétabli notre dignité, en nous réclamant comme Les tiens, des enfants de Dieu. [*] Fixe nos yeux sur le jour de la résurrection et sur l'espérance d'être avec Toi pour toujours",
 	"Extra": {
 		"LiturgiaeHorarum-Page": 290,
 		"CollectEnding": "father", 
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
 		"2022-04-30 - Paul Prins: Traduit cette prière."
 	],
 	"License": "© 2022 Monastiques Urbain, Paris"

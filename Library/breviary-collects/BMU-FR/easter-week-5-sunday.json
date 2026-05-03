@@ -1,0 +1,32 @@
+{
+	"TextAbbreviation": "easter-week-5-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu, Tu as envoyé Ton Fils pour nous sauver et Tu as fait de nous Tes enfants adoptifs. [t] Regarde chacune de Tes enfants avec l'amour bienveillant d'un bon parent. [*] Aide-nous tous à croire en Christ, alors que nous vivons dans la vraie liberté et la vie éternelle que Tu nous as promises",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 296,
+		"CollectEnding": "father",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2021-05-03": ["Peer-Review"],
+				"2021-05-02": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
+		"2025-06-10 - Paul Prins: Re-traduit cette prière.",
+		"2021-05-02 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2021 Monastiques Urbain, Paris"
+}

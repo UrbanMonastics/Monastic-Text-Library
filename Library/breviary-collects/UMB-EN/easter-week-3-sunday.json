@@ -1,5 +1,5 @@
 {
-	"TextAbbreviation": "easter-week-3",
+	"TextAbbreviation": "easter-week-3-sunday",
 	"SourceAbbreviation": "breviary-collects",
 	"FormatAs": "book",
 	"Version": "UMB-EN",
@@ -24,6 +24,7 @@
 		}
 	},
 	"Changes": [
+		"2026-05-03 - Paul Prins: Change Text Abbreviation.",
 		"2025-04-12 - Paul Prins: Retranslated this prayer.",
 		"2022-04-30 - Paul Prins: First translation of this prayer."
 	],

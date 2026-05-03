@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "easter-week-4-sunday",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Dieu éternel et tout-puissant, guide-nous vers les joies du ciel. [t] Que ton troupeau, dans notre faiblesse et notre douceur, [*] suive son Berger. Aide-nous à atteindre le lieu de sa victoire pour demeurer avec Lui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 293,
+		"CollectEnding": "son", 
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2025-06-09": ["Peer-Review"],
+				"2025-06-08": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2025-06-08 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

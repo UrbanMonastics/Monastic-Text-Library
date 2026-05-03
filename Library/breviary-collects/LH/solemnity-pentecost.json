@@ -5,8 +5,8 @@
 	"Version": "LH",
 	"Text": "Deus, qui sacraménto festivitátis hodiérnæ univérsam Ecclésiam tuam in omni gente et natióne sanctíficas, in totam mundi latitúdinem Spíritus Sancti dona defúnde, [t] et, quod inter ipsa evangélicæ prædicatiónis exórdia operáta est divína dignátio, [*] nunc quoque per credéntium corda perfúnde. Per Dóminum.",
 	"Extra": {
-		"LiturgiaeHorarum-Page": null,
-		"CollectEnding": null,
+		"LiturgiaeHorarum-Page": 309,
+		"CollectEnding": "father",
 		"Writing":{
 			"Authors": ["Paul Prins"],
 			"Step": {
