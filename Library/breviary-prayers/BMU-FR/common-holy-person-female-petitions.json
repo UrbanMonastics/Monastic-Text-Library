@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "common-holy-person-female-petitions",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] Seigneur, ensemble avec toutes les saintes femmes, nous prions pour l'Église en disant :\r\n[IR] Seigneur, souviens-toi de ton Église.\r\n[I1] Par chaque femme, qui sème la vie et le courage chez ses amis et ses voisins,\r\n[I2] accorde à ton Église de nous inspirer tous à vivre courageusement pour les autres.\r\n[I1] Par toutes celles qui maternent, dont le dévouement aimant nourrit la vie, la sagesse et l'espérance chez tous ceux qui sont sous leur garde,\r\n[I2] accorde à ton Église de materner tous les peuples vers une vie nouvelle, des esprits transformés et l'espérance éternelle.\r\n[I1] Par chaque veuve, dont les prières et l'hospitalité incarnent leur parcours marqué par l'amour et la perte,\r\n[I2] accorde à ton Église d'accueillir et de bénir chacun à chaque étape de la vie.\r\n[I1] Par chaque femme martyre, qui t'a suivi dans la mort en portant sa croix avec force d'esprit,\r\n[I2] accorde à ton Église leur courage au milieu de chaque épreuve.\r\n[I1] Par chaque sainte, qui t'a entendu l'appeler par son nom, a répondu avec foi et contemple désormais ton visage dans la gloire,\r\n[I2] accorde aux décès de contempler cette même vision et de se réjouir avec elles pour toujours.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-18": ["Peer-Review"],
+				"2026-07-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-17 - Paul Prins: Première traduction de ces intentions."
+	],
+	"License": "© 2022 Monastiques Urbain, Paris"
+}

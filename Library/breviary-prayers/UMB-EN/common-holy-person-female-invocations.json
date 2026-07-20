@@ -1,0 +1,28 @@
+{
+	"TextAbbreviation": "common-holy-person-female-invocations",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[II] All children of God, together with all the holy women, let us proclaim our faith in our Savior and call upon Him together:\r\n[IR] Come, Lord Jesus!\r\n[I1] Lord Jesus, holy women faithfully followed You and stood by Your side, even past the moment of Your death,\r\n[I2] help us to embody their devotion with faith and charity.\r\n[I1] Lord Jesus, Your are the teacher who Mary listened to and Martha served,\r\n[I2] invite us to learn from You, and to serve You.\r\n[I1] Lord Jesus, You appeared to Mary, called her by name, and chose her to be the first to proclaim Your resurrection,\r\n[I2] let us experience her joy as we proclaim that life overcomes death.\r\n[I1] Lord Jesus, You call everyone who does Your will are Your sister, Your mother, and Your brother,\r\n[I2] help us to walk in Your will, in Your love, and with Your grace.",
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-18": ["Peer-Review"],
+				"2026-07-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-17 - Paul Prins: Initial translation of these intentions."
+	],
+	"License": "© 2022 Urban Monastics, Paris"
+}

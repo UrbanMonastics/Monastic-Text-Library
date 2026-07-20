@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "common-holy-person-female-petitions",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "[II] Cum ómnibus muliéribus sanctis, fratres, Salvatórem nostrum confiteámur, simúlque invocémus:\r\n[IR] Veni, Dómine Iesu.\r\n[I1] Dómine Iesu, qui peccatríci multa dimisísti, quóniam diléxerat multum,\r\n[I2] dimítte nobis, quia multum peccávimus.\r\n[I1] Dómine Iesu, cui mulíeres sanctæ in itínere ministrábant,\r\n[I2] concéde nobis, ut in fide et caritáte serviámus tibi.\r\n[I1] Dómine Iesu, Magíster, quem María audiébat, cum Martha tibi serviébat,\r\n[I2] concéde nobis, ut in fide et caritáte serviámus tibi.\r\n[I1] Dómine Iesu, qui fratrem, sorórem et matrem appellásti omnes tuam voluntátem faciéntes,\r\n[I2] concéde nobis, ut tibi semper verbis complaceámus et actis.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-18": ["Peer-Review"],
+				"2026-07-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-17 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

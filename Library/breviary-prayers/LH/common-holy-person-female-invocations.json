@@ -1,0 +1,25 @@
+{
+	"TextAbbreviation": "common-holy-person-female-invocations",
+	"SourceAbbreviation": "breviary-prayers",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "[II] Dóminum, per mulíeres sanctas, pro Ecclésia deprecémur, dicéntes:\r\n[IR] Recordáre Ecclésiæ tuæ, Dómine.\r\n[I1] Par mártyres omnes, qua róbore mentis mortem carnis devicérunt,\r\n[I2] da Ecclésia tuæ in tentatiónibus fortitúdinem.\r\n[I1] Per nuptas, quæ matrimónio sancto in grátia processérunt,\r\n[I2] da Ecclésiæ tuæ apostólicam fecunditátem.\r\n[I1] Per víduas, quæ oratióne et hospitalitáte solitúdinem suam levavérunt ac sanctificavérunt,\r\n[I2] da Ecclésiæ tuæ sacraméntum caritátis tuæ mundo exhibére.\r\n[I1] Per matres, quæ prolem ad regnum Dei et ad consórtium humánum genuérunt,\r\n[I2] da Ecclésiæ tuæ, ut hómines univérsos ad vitam géneret atque salútem.\r\n[I1] Per omnes mulíeres sanctas, quæ lumen vultus tui contemplári meruérunt,\r\n[I2] concéde defúnctis Ecclésiæ tuæ éadem (eádem) visióne in ætérnum gaudére.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": null,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-18": ["Peer-Review"],
+				"2026-07-17": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-17 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
