@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "mary-magdalene",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Lord our God, Your beloved Son chose Mary Magdalene to be the first to know and proclaim the joy of Easter. [t] Through her prayers and example, [*] help us proclaim that Christ is risen. He also invites us to share in her joy on the day we first see Jesus in His glory as the One",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 421,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-17": ["Peer-Review"],
+				"2026-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-16 - Paul Prins: Translated this prayer."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

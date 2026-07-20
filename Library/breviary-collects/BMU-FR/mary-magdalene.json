@@ -1,0 +1,36 @@
+{
+	"TextAbbreviation": "mary-magdalene",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Seigneur notre Dieu, Ton Fils bien-aimé a choisi Marie-Madeleine pour être la première à connaître et à proclamer la joie de Pâques. [t] Par ses prières et son exemple, [*] aide-nous à proclamer que le Christ est ressuscité. Il nous invite aussi à prendre part à la joie de Marie du jour où nous verrons Jésus pour la première fois dans Sa gloire, comme Celui",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 421,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-17": [
+					"Verified",
+					"Guidelines"
+				],
+				"2026-07-16": [
+					"Peer-Review",
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {
+				"2026-07-16": "Marie Bellando Mitjans"
+			}
+		}
+	},
+	"Changes": [
+		"2026-07-16 - Paul Prins: Traduit cette prière."
+	],
+	"License": "© 2023 Monastiques Urbain, Paris"
+}

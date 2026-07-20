@@ -1,0 +1,30 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene",
+	"SourceAbbreviation": "breviary-responses",
+	"FormatAs": "book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "[V] Marie, ne pleure pas, le Seigneur est ressuscité d'entre les morts.\r\n[R] Marie, ne pleure pas, [*] le Seigneur est ressuscité d'entre les morts.\r\n[V] Va vers les autres et dis-leur :",
+	"Extra": {
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Reference": [],
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-21": ["Peer-Review"],
+				"2026-07-20": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-16 - Paul Prins: Preimère traduction."
+	],
+	"License": "© 2020 Monastiques Urbain, Paris"
+}

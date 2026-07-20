@@ -1,0 +1,26 @@
+{
+	"TextAbbreviation": "mary-magdalene",
+	"SourceAbbreviation": "breviary-collects",
+	"FormatAs": "book",
+	"Version": "LH",
+	"Text": "Deus, cuius Unigénitus Maríæ Magdalénæ ante omnes gáudium nuntiándum paschále commísit, [t] præsta, quǽsumus, ut eius intercessióne et exémplo, [*] Christum vivéntem prædicémus, et in glória tua regnántem videámus.",
+	"Extra": {
+		"LiturgiaeHorarum-Page": 421,
+		"CollectEnding": "father-son",
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-17": ["Peer-Review"],
+				"2026-07-16": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-16 - Paul Prins: Added this prayer."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
