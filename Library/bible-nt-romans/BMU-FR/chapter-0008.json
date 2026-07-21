@@ -11,9 +11,41 @@
 	"Verses": {
 		"11": "Mais si l'Esprit de Celui qui a ressuscité Jésus d'entre les morts habite en vous, celui qui a ressuscité le Christ d'entre les morts donnera aussi la vie à vos corps mortels par Son Esprit qui habite en vous. ",
 		"16": "L'Esprit lui-même rend témoignage à notre esprit que nous sommes enfants de Dieu. ",
-		"17": "Si nous sommes enfants, nous sommes aussi héritiers. Héritiers de Dieu et cohéritiers du Christ. Si nous souffrons avec lui, c'est pour être glorifiés avec lui.\r\n"
+		"17": "Si nous sommes enfants, nous sommes aussi héritiers. Héritiers de Dieu et cohéritiers du Christ. Si nous souffrons avec lui, c'est pour être glorifiés avec lui.\r\n",
+		"26": "\tDe la même manière, l'Esprit nous aide aussi dans notre faiblesse. En effet, nous ne savons pas ce qu'il convient de demander dans nos prières. Mais l'Esprit lui-même intercède pour nous par des soupirs que les mots ne peuvent exprimer. ",
+		"27": "Celui qui sonde les cœurs sait quelle est la pensée de l'Esprit. Car l'Esprit intercède en faveur des saints selon la volonté de Dieu.\r\n",
+		"28": "\tNous savons que, pour ceux qui aiment Dieu, Il fait concourir toutes choses à leur bien. Pour ceux qui sont appelés selon Son dessein. ",
+		"29": "Car ceux qu'Il a connus d'avance, Il les a aussi prédestinés à devenir conformes à l'image de Son Fils. De cette manière, Il serait le premier-né parmi de nombreux fratries. ",
+		"30": "Or, ceux qu'Il a prédestinés, Il les a aussi appelés. Ceux qu'Il a appelés, Il les a aussi justifiés. Ceux qu'Il a justifiés, Il les a aussi glorifiés.\r\n",
+		"31": "\tQue dirons-nous donc à propos de ces choses ? Si Dieu est pour nous, qui sera contre nous ? ",
+		"32": "Car Il n'a pas épargné Son propre Fils, mais L'a livré pour nous tous. Alors, comment Dieu, avec Lui, ne nous donnera-t-il pas tout librement ? ",
+		"33": "Qui accusera ceux que Dieu a choisis ? C'est Dieu qui justifie. ",
+		"34": "Qui peut encore condamner ? Jésus-Christ est Celui qui est mort. Bien plus, Il est ressuscité, Il est à la droite de Dieu, et Il intercède pour nous. ",
+		"35": "Qui nous séparera de l'amour du Christ ? Sera-ce la tribulation, ou l'angoisse, ou la persécution, ou la famine, ou la nudité, ou le danger, ou l'épée ? ",
+		"36": "Selon qu'il est écrit : « C'est à cause de Toi qu'on nous met à mort tout au long du jour, qu'on nous regarde comme des brebis destinées à la boucherie.\r\n",
+		"37": "\tEt pourtant, dans toutes ces choses, nous sommes plus que vainqueurs par Celui qui nous a aimés. ",
+		"38": "Car j'ai l'assurance que ni la mort, ni la vie, ni les anges, ni les dominations, ni les choses qui sont, ni les choses qui seront, ni les puissances, ",
+		"39": "ni la hauteur, ni la profondeur, ni aucune autre créature ne pourra nous séparer de l'amour de Dieu. L'amour révélé en Jésus-Christ notre Seigneur."
+	},
+	"InlineTitles": {
+		"1": ""
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
+		"2026-07-21 Paul Prins: Première traduction des versets 26-30 basée sur le grec.",
+		"2026-03-01 Paul Prins: Première traduction des versets 31-39 basée sur le grec.",
 		"2023-08-06 Paul Prins: Première traduction des versets 16, 17 basée sur le grec.",
 		"2022-06-04 Paul Prins: Première traduction de verset 11 basée sur le grec."
 	],

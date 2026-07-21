@@ -11,9 +11,41 @@
 	"Verses": {
 		"11": "But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ from the dead will also give life to your mortal bodies through His Spirit who dwells in you. ",
 		"16": "The Spirit Himself testifies with our spirit that we are children of God. ",
-		"17": "If we are children, then we are also heirs. Heirs of God and coheirs with Christ. If indeed we suffer with him, so that we may also be glorified with him.\r\n"
+		"17": "If we are children, then we are also heirs. Heirs of God and coheirs with Christ. If indeed we suffer with him, so that we may also be glorified with him.\r\n",
+		"26": "\tNow in the same way, the Spirit also helps us in our weakness. For we do not know what we ought to pray. Yet, the Spirit Himself intercedes for us with groanings too deep for words. ",
+		"27": "He who searches hearts knows what the mind of the Spirit is. For the Spirit intercedes for the saints according to the will of God.\r\n",
+		"28": "\tWe know that for those who love God, He causes all things to work together for their good. For those who are called according to His purpose. ",
+		"29": "For those whom He foreknew, He also predestined to become conformed to the image of His Son. This way He would be the firstborn among many siblings. ",
+		"30": "Now those that He predestined, He also called. Those that He called, he also justified. Those that He justified, He also glorified.\r\n",
+		"31": "\tWhat then shall we say to these things? If God is for us, who can be against us? ",
+		"32": "For He did not spare His own Son but gave Him over for us all. Therefore, how will God, together with Him, not freely give us everything? ",
+		"33": "Who shall bring any charge against God's chosen? It is God who justifies. ",
+		"34": "Who is left to condemn? Christ Jesus is the one who died. Even more, He was raised, is at the right hand of God, and He intercedes for us. ",
+		"35": "Who shall separate us from the love of Christ? Will tribulation, or trouble, or persecution, or famine, or nakedness, or danger, or the sword? ",
+		"36": "As it is written, \"For Your sake we are killed all day long; we are regarded as sheep to be slaughtered.\"\r\n",
+		"37": "\tYet, in all these things, we are more than conquerors through Him that loved us. ",
+		"38": "For I am convinced that neither death, nor life, nor angels, nor rulers, nor things that are, nor things yet to be, nor powers, ",
+		"39": "nor height, nor depth, nor any other created thing will be able to separate us from the love of God. The love revealed in Christ Jesus our Lord."
+	},
+	"InlineTitles": {
+		"1": ""
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
 	},
 	"Changes": [
+		"2026-07-21 Paul Prins: First translation of verses 26-30 based on Greek.",
+		"2026-03-01 Paul Prins: First translation of verses 31-39 based on Greek.",
 		"2023-08-06 Paul Prins: First translation of verses 16-17 based on Greek.",
 		"2022-06-04 Paul Prins: First translation of verse 11 based on Greek."
 	],

@@ -1,0 +1,52 @@
+{
+	"TextAbbreviation": "chapter-0020",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "20",
+	"FormatAs": "Book",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tNow on the first day of the week Mary Magdalene came to the tomb early, while it was still early. She saw that the stone had been removed from the tomb. ",
+		"2": "So she went running to Simon Peter and the other disciple, the one whom Jesus loved. She said to them, \"They have taken the Lord out from the tomb, and we do not know where they have put him.\" ",
+		"3": "So Peter and the other disciple left and headed towards the tomb. ",
+		"4": "They were both running, but the other disciple outran Peter and reached the tomb first. ",
+		"5": "He stooped over to look inside and saw the linen wrappings lying there, but he did not go in. ",
+		"6": "Then Simon Peter came, following him, and went into the tomb. He saw the linen wrappings lying there ",
+		"7": "and the cloth that had been wrapped around the head of Jesus. It was not lying with the linen wrappings but folded up in a place on its own. ",
+		"8": "So then the other disciple, who had reached the tomb first, also went inside. He saw and believed. ",
+		"9": "For they did not yet understand the Scripture, that Jesus must rise from the dead. ",
+		"10": "So then the two disciples went back to their homes.\r\n",
+		"11": "\tYet, Mary was still standing outside the tomb, weeping. While she wept, she stooped over to look into the tomb. ",
+		"12": "Inside she saw two angels in white sitting where the body of Jesus had been. One at the head and one at the feet. ",
+		"13": "They asked her, \"Woman, why are you weeping?\" She said to them, \"Because they have taken my Lord, and I do not know where they put Him.\" ",
+		"14": "After saying this, she turned around and saw Jesus standing there. She did not know yet that it was Jesus. ",
+		"15": "Jesus asked her, \"Woman, why are you weeping? Who are you looking for?\" Thinking that He was the gardener, she said to Him, \"Sir, if you have carried Him away, tell me where you put Him. I will go and get Him.\" ",
+		"16": "Jesus said to her, \"Mary!\" She turned to Him and responded in Hebrew, \"Rabboni!\" Which means teacher. ",
+		"17": "Jesus said to her, \"Do not cling to me, for I have not yet ascended to the Father. Instead, go to my brothers and say to them, 'I am ascending to My Father and your Father. To my God and your God.'\" ",
+		"18": "Mary Magdalene went and proclaimed to the disciples, \"I have seen the Lord.\" She told them the things He had said to her."
+	},
+	"InlineTitles": {
+		"1": "Resurrection of Jesus",
+		"19": ""
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: First translation of verses 1-18."
+	],
+	"License": "© 2026 Urban Monastics, Paris"
+}

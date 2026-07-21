@@ -1,0 +1,52 @@
+{
+	"TextAbbreviation": "chapter-0020",
+	"SourceAbbreviation": "bible-nt-john",
+	"Chapter": "20",
+	"FormatAs": "Book",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["SBLGNT"],
+		"People": ["Paul Prins"]
+	},
+	"Verses": {
+		"1": "\tMaintenant, le premier jour de la semaine, Marie de Madeleine se rendit au tombeau de bon matin, alors qu'il faisait encore sombre. Elle vit que la pierre avait été enlevée du tombeau. ",
+		"2": "Elle courut donc trouver Simon-Pierre et l'autre disciple, celui que Jésus aimait. Elle leur dit : « Ils ont enlevé le Seigneur du tombeau et nous ne savons pas où ils l'ont mis. » ",
+		"3": "Pierre et l'autre disciple sortirent donc et se dirigèrent vers le tombeau. ",
+		"4": "Ils couraient tous les deux, mais l'autre disciple courut plus vite que Pierre et arriva le premier au tombeau. ",
+		"5": "Il se pencha pour regarder à l'intérieur et vit les bandelettes de lin qui étaient là, cependant il n'entra pas.",
+		"6": "Puis Simon Pierre, qui le suivait, arriva et entra dans le tombeau. Il vit les bandelettes de lin qui étaient là,",
+		"7": "ainsi que le linge qu'on avait mis sur la tête de Jésus. Celui-ci n'était pas avec les bandelettes de lin, mais plié à part, dans un lieu à part. ",
+		"8": "Alors l'autre disciple, qui était arrivé le premier au tombeau, entra aussi. Il vit et il crut. ",
+		"9": "Car ils n'avaient pas encore compris l'Écriture, selon laquelle Jésus devait ressusciter des morts. ",
+		"10": "Ensuite, les deux disciples repartent chez eux.\r\n",
+		"11": "\tCependant, Marie se tenait encore dehors, près du tombeau, et pleurait. Tout en pleurant, elle se pencha pour regarder à l'intérieur du tombeau. ",
+		"12": "À l'intérieur, elle vit deux anges vêtus de blanc, assis à la place où reposait le corps de Jésus. L'un à la tête et l'autre aux pieds. ",
+		"13": "Ils lui demandèrent : « Femme, pourquoi pleures-tu ? » Elle leur répondit : « Parce qu'ils ont enlevé mon Seigneur, et je ne sais pas où ils l'ont mis. » ",
+		"14": "Après avoir dit cela, elle se retourna et vit Jésus debout là. Elle ne savait pas encore que c'était Jésus. ",
+		"15": "Jésus lui demanda : « Femme, pourquoi pleures-tu ? Qui cherches-tu ? » Pensant qu'il était le jardinier, elle Lui répondit : « Monsieur, si c'est toi qui l'as emporté, dis-moi où tu l'as mis. J'irai le prendre. » ",
+		"16": "Jésus lui dit : « Marie! » Elle se tourna vers Lui et répondit en hébreu : « Rabbouni ! » C'est-à-dire, enseignant.",
+		"17": "Jésus lui dit : « Ne me retiens pas, car je ne suis pas encore monté vers le Père. Va plutôt trouver mes frères et dis-leur : “Je monte vers mon Père et votre Père, vers mon Dieu et votre Dieu.” » ",
+		"18": "Marie de Madeleine alla annoncer aux disciples : « J'ai vu le Seigneur. » Elle leur rapporta ce qu'il lui avait dit."
+	},
+	"InlineTitles": {
+		"1": "Résurrection de Jésus",
+		"19": ""
+	},
+	"Extra": {
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Premier traduction des versets 1-18"
+	],
+	"License": "© 2026 Urban Monastics, Paris"
+}
