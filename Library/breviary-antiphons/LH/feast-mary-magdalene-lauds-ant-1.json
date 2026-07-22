@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-lauds-ant-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Prima autem sabbatorum Maria Magdalene venit mane, cum adhuc tenebrae essent, ad monumentum.",
+	"Extra": {
+		"Reference": ["John 20:1"],
+		"AntiphonaleMonasticum": null,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

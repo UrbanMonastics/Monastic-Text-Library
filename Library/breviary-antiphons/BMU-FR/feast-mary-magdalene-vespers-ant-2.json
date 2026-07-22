@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-vespers-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Ils ont enlevé [*] mon Seigneur, et je ne sais pas où ils l'ont mis. Si c'est toi qui l'as emporté, dis-moi où tu l'as mis. Alléluia. J'irai le prendre. Alléluia.",
+	"Extra": {
+		"Reference": ["John 20:13", "John 20:15b"],
+		"AntiphonaleMonasticum": 477,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2026 Monastiques Urbain, Paris"
+}

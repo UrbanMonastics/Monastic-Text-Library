@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-vespers-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Marie de Madeleine alla annoncer aux disciples : « J'ai vu le Seigneur. » Elle leur rapporta ce qu'il lui avait dit.",
+	"Extra": {
+		"Reference": ["John 20:18"],
+		"AntiphonaleMonasticum": 477,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2026 Monastiques Urbain, Paris"
+}

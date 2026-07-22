@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-vespers-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "They have taken [*] my Lord, and I do not know where they put Him. If you have carried Him away, tell me where you put Him. Alleluia. I will go and get Him. Alleluia.",
+	"Extra": {
+		"Reference": ["John 20:13", "John 20:15b"],
+		"AntiphonaleMonasticum": 477,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

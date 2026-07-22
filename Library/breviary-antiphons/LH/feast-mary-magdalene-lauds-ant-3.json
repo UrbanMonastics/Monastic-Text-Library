@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-lauds-ant-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "María stabat [*] ad monuméntum plorans: vidit duos Ángelos in albis, sedéntes, et sudárium quod fúerat super caput Iesu, allelúia.",
+	"Extra": {
+		"Reference": ["John 20:11b-12a"],
+		"AntiphonaleMonasticum": 463,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

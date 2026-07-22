@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-lauds-gospel-cant",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Surgens Iesu [*] mane prima sábbati, appáruit primo Maríæ Magdalénæ, de qua ejécerat septem dæmónia, allelúia.",
+	"Extra": {
+		"Reference": ["Mark 16:9"],
+		"AntiphonaleMonasticum": 477,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

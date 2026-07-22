@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-lauds-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Ardens est [*] cor meum, desídero vidére Dóminum meum: quæro, et non invénio ubi posuérunt eum, allelúia.",
+	"Extra": {
+		"Reference": [],
+		"AntiphonaleMonasticum": 479,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}

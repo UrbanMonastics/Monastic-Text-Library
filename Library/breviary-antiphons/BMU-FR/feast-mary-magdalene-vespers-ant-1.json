@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-vespers-ant-1",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "BMU-FR",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jésus a demandé à Marie : [*] « Femme, pourquoi pleures-tu ? Qui cherches-tu ? »",
+	"Extra": {
+		"Reference": ["John 20:15a"],
+		"AntiphonaleMonasticum": null,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Traduit cette Antiphone."
+	],
+	"License": "© 2026 Monastiques Urbain, Paris"
+}

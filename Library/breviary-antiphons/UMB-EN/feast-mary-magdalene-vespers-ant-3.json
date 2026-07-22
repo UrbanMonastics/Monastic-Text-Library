@@ -1,0 +1,31 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-vespers-ant-3",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "UMB-EN",
+	"Translation":{
+		"Versions": ["LH"],
+		"People": ["Paul Prins"]
+	},
+	"Text": "Jesus said [*] to her, \"Mary!\" She turned to Him and responded in Hebrew, \"Rabboni!\" which means teacher. ",
+	"Extra": {
+		"Reference": ["John 20:16"],
+		"AntiphonaleMonasticum": null,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: First translation of this Antiphon."
+	],
+	"License": "© 2023 Urban Monastics, Paris"
+}

@@ -1,0 +1,27 @@
+{
+	"TextAbbreviation": "feast-mary-magdalene-vespers-ant-2",
+	"SourceAbbreviation": "breviary-antiphons",
+	"FormatAs": "poetry",
+	"Version": "LH",
+	"Text": "Tulérunt [*] Dóminum meum, et néscio ubi posuérunt eum: si tu sustulísti eum, dícito mihi, allelúia, et ego eum tollam, allelúia.",
+	"Extra": {
+		"Reference": ["John 20:13", "John 20:15b"],
+		"AntiphonaleMonasticum": 477,
+		"ThesaurusLiturgiaeHorarumMonasticae": 421,
+		"Writing":{
+			"Authors": ["Paul Prins"],
+			"Step": {
+				"2026-07-22": ["Peer-Review"],
+				"2026-07-21": [
+					"Second-Pass",
+					"Initial"
+				]
+			},
+			"Reviewers": {}
+		}
+	},
+	"Changes": [
+		"2026-07-21 - Paul Prins: Added this Antiphon."
+	],
+	"License": "© 2000 Libreria Editrice Vaticana, Città del Vaticano"
+}
